@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Egeon_Err">
+            <data key="label">Egeon</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1097</data>
+        </node>
+        <node id="Duke_Err">
+            <data key="label">Duke</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">693</data>
+        </node>
+        <node id="OFFICERS.Jailer_Err">
+            <data key="label">Officer</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="Merchant1_Err">
+            <data key="label">First Merchant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">114</data>
+        </node>
+        <node id="AntipholusOfSyracuse_Err">
+            <data key="label">Antipholus of Syracuse</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2083</data>
+        </node>
+        <node id="DromioOfSyracuse_Err">
+            <data key="label">Dromio of Syracuse</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2075</data>
+        </node>
+        <node id="DromioOfEphesus_Err">
+            <data key="label">Dromio of Ephesus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1356</data>
+        </node>
+        <node id="Adriana_Err">
+            <data key="label">Adriana</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2093</data>
+        </node>
+        <node id="Luciana_Err">
+            <data key="label">Luciana</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">760</data>
+        </node>
+        <node id="AntipholusOfEphesus_Err">
+            <data key="label">Antipholus of Ephesus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1745</data>
+        </node>
+        <node id="Balthasar_Err">
+            <data key="label">Balthasar</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">202</data>
+        </node>
+        <node id="Luce_Err">
+            <data key="label">Luce</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">63</data>
+        </node>
+        <node id="Angelo_Err">
+            <data key="label">Angelo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">634</data>
+        </node>
+        <node id="Merchant2_Err">
+            <data key="label">Second Merchant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">268</data>
+        </node>
+        <node id="OFFICERS.X_Err">
+            <data key="label">Attendants, Servants to Pinch, Headsman, Officers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">95</data>
+        </node>
+        <node id="Courtesan_Err">
+            <data key="label">Courtesan</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">293</data>
+        </node>
+        <node id="Pinch_Err">
+            <data key="label">Dr. Pinch</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">103</data>
+        </node>
+        <node id="Abbess_Err">
+            <data key="label">Lady Abbess</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">552</data>
+        </node>
+        <node id="Messenger_Err">
+            <data key="label">Messenger</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">130</data>
+        </node>
+        <edge id="Egeon_Err|Duke_Err" source="Egeon_Err" target="Duke_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Egeon_Err|OFFICERS.Jailer_Err" source="Egeon_Err" target="OFFICERS.Jailer_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeon_Err|Angelo_Err" source="Egeon_Err" target="Angelo_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeon_Err|Merchant2_Err" source="Egeon_Err" target="Merchant2_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeon_Err|AntipholusOfSyracuse_Err" source="Egeon_Err" target="AntipholusOfSyracuse_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeon_Err|Adriana_Err" source="Egeon_Err" target="Adriana_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeon_Err|DromioOfSyracuse_Err" source="Egeon_Err" target="DromioOfSyracuse_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeon_Err|Abbess_Err" source="Egeon_Err" target="Abbess_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeon_Err|Luciana_Err" source="Egeon_Err" target="Luciana_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeon_Err|Messenger_Err" source="Egeon_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeon_Err|AntipholusOfEphesus_Err" source="Egeon_Err" target="AntipholusOfEphesus_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeon_Err|DromioOfEphesus_Err" source="Egeon_Err" target="DromioOfEphesus_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeon_Err|Courtesan_Err" source="Egeon_Err" target="Courtesan_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|OFFICERS.Jailer_Err" source="Duke_Err" target="OFFICERS.Jailer_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|Angelo_Err" source="Duke_Err" target="Angelo_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|Merchant2_Err" source="Duke_Err" target="Merchant2_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|AntipholusOfSyracuse_Err" source="Duke_Err" target="AntipholusOfSyracuse_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|Adriana_Err" source="Duke_Err" target="Adriana_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|DromioOfSyracuse_Err" source="Duke_Err" target="DromioOfSyracuse_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|Abbess_Err" source="Duke_Err" target="Abbess_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|Luciana_Err" source="Duke_Err" target="Luciana_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|Messenger_Err" source="Duke_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|AntipholusOfEphesus_Err" source="Duke_Err" target="AntipholusOfEphesus_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|DromioOfEphesus_Err" source="Duke_Err" target="DromioOfEphesus_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Err|Courtesan_Err" source="Duke_Err" target="Courtesan_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant1_Err|AntipholusOfSyracuse_Err" source="Merchant1_Err" target="AntipholusOfSyracuse_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant1_Err|DromioOfSyracuse_Err" source="Merchant1_Err" target="DromioOfSyracuse_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant1_Err|DromioOfEphesus_Err" source="Merchant1_Err" target="DromioOfEphesus_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|DromioOfSyracuse_Err" source="AntipholusOfSyracuse_Err" target="DromioOfSyracuse_Err">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|DromioOfEphesus_Err" source="AntipholusOfSyracuse_Err" target="DromioOfEphesus_Err">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|Adriana_Err" source="AntipholusOfSyracuse_Err" target="Adriana_Err">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|Luciana_Err" source="AntipholusOfSyracuse_Err" target="Luciana_Err">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|Angelo_Err" source="AntipholusOfSyracuse_Err" target="Angelo_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|Courtesan_Err" source="AntipholusOfSyracuse_Err" target="Courtesan_Err">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|AntipholusOfEphesus_Err" source="AntipholusOfSyracuse_Err" target="AntipholusOfEphesus_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|OFFICERS.X_Err" source="AntipholusOfSyracuse_Err" target="OFFICERS.X_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|Pinch_Err" source="AntipholusOfSyracuse_Err" target="Pinch_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|Merchant2_Err" source="AntipholusOfSyracuse_Err" target="Merchant2_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|Abbess_Err" source="AntipholusOfSyracuse_Err" target="Abbess_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AntipholusOfSyracuse_Err|Messenger_Err" source="AntipholusOfSyracuse_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|DromioOfEphesus_Err" source="DromioOfSyracuse_Err" target="DromioOfEphesus_Err">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|Adriana_Err" source="DromioOfSyracuse_Err" target="Adriana_Err">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|Luciana_Err" source="DromioOfSyracuse_Err" target="Luciana_Err">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|AntipholusOfEphesus_Err" source="DromioOfSyracuse_Err" target="AntipholusOfEphesus_Err">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|Balthasar_Err" source="DromioOfSyracuse_Err" target="Balthasar_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|Luce_Err" source="DromioOfSyracuse_Err" target="Luce_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|Angelo_Err" source="DromioOfSyracuse_Err" target="Angelo_Err">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|Merchant2_Err" source="DromioOfSyracuse_Err" target="Merchant2_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|OFFICERS.X_Err" source="DromioOfSyracuse_Err" target="OFFICERS.X_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|Courtesan_Err" source="DromioOfSyracuse_Err" target="Courtesan_Err">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|Pinch_Err" source="DromioOfSyracuse_Err" target="Pinch_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|Abbess_Err" source="DromioOfSyracuse_Err" target="Abbess_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DromioOfSyracuse_Err|Messenger_Err" source="DromioOfSyracuse_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|Adriana_Err" source="DromioOfEphesus_Err" target="Adriana_Err">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|Luciana_Err" source="DromioOfEphesus_Err" target="Luciana_Err">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|AntipholusOfEphesus_Err" source="DromioOfEphesus_Err" target="AntipholusOfEphesus_Err">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|Balthasar_Err" source="DromioOfEphesus_Err" target="Balthasar_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|Luce_Err" source="DromioOfEphesus_Err" target="Luce_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|Angelo_Err" source="DromioOfEphesus_Err" target="Angelo_Err">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|Merchant2_Err" source="DromioOfEphesus_Err" target="Merchant2_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|OFFICERS.X_Err" source="DromioOfEphesus_Err" target="OFFICERS.X_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|Courtesan_Err" source="DromioOfEphesus_Err" target="Courtesan_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|Pinch_Err" source="DromioOfEphesus_Err" target="Pinch_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|Abbess_Err" source="DromioOfEphesus_Err" target="Abbess_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DromioOfEphesus_Err|Messenger_Err" source="DromioOfEphesus_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adriana_Err|Luciana_Err" source="Adriana_Err" target="Luciana_Err">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Adriana_Err|AntipholusOfEphesus_Err" source="Adriana_Err" target="AntipholusOfEphesus_Err">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Adriana_Err|Balthasar_Err" source="Adriana_Err" target="Balthasar_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adriana_Err|Luce_Err" source="Adriana_Err" target="Luce_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adriana_Err|Angelo_Err" source="Adriana_Err" target="Angelo_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Adriana_Err|OFFICERS.X_Err" source="Adriana_Err" target="OFFICERS.X_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adriana_Err|Courtesan_Err" source="Adriana_Err" target="Courtesan_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Adriana_Err|Pinch_Err" source="Adriana_Err" target="Pinch_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adriana_Err|Merchant2_Err" source="Adriana_Err" target="Merchant2_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adriana_Err|Abbess_Err" source="Adriana_Err" target="Abbess_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adriana_Err|Messenger_Err" source="Adriana_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Luciana_Err|Angelo_Err" source="Luciana_Err" target="Angelo_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Luciana_Err|AntipholusOfEphesus_Err" source="Luciana_Err" target="AntipholusOfEphesus_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Luciana_Err|OFFICERS.X_Err" source="Luciana_Err" target="OFFICERS.X_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Luciana_Err|Courtesan_Err" source="Luciana_Err" target="Courtesan_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Luciana_Err|Pinch_Err" source="Luciana_Err" target="Pinch_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Luciana_Err|Merchant2_Err" source="Luciana_Err" target="Merchant2_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Luciana_Err|Abbess_Err" source="Luciana_Err" target="Abbess_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Luciana_Err|Messenger_Err" source="Luciana_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AntipholusOfEphesus_Err|Balthasar_Err" source="AntipholusOfEphesus_Err" target="Balthasar_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AntipholusOfEphesus_Err|Luce_Err" source="AntipholusOfEphesus_Err" target="Luce_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AntipholusOfEphesus_Err|Angelo_Err" source="AntipholusOfEphesus_Err" target="Angelo_Err">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="AntipholusOfEphesus_Err|Merchant2_Err" source="AntipholusOfEphesus_Err" target="Merchant2_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AntipholusOfEphesus_Err|OFFICERS.X_Err" source="AntipholusOfEphesus_Err" target="OFFICERS.X_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AntipholusOfEphesus_Err|Courtesan_Err" source="AntipholusOfEphesus_Err" target="Courtesan_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AntipholusOfEphesus_Err|Pinch_Err" source="AntipholusOfEphesus_Err" target="Pinch_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AntipholusOfEphesus_Err|Abbess_Err" source="AntipholusOfEphesus_Err" target="Abbess_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AntipholusOfEphesus_Err|Messenger_Err" source="AntipholusOfEphesus_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Balthasar_Err|Luce_Err" source="Balthasar_Err" target="Luce_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Balthasar_Err|Angelo_Err" source="Balthasar_Err" target="Angelo_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Luce_Err|Angelo_Err" source="Luce_Err" target="Angelo_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angelo_Err|Merchant2_Err" source="Angelo_Err" target="Merchant2_Err">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Angelo_Err|OFFICERS.X_Err" source="Angelo_Err" target="OFFICERS.X_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angelo_Err|Abbess_Err" source="Angelo_Err" target="Abbess_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angelo_Err|Messenger_Err" source="Angelo_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angelo_Err|Courtesan_Err" source="Angelo_Err" target="Courtesan_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant2_Err|OFFICERS.X_Err" source="Merchant2_Err" target="OFFICERS.X_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant2_Err|Abbess_Err" source="Merchant2_Err" target="Abbess_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant2_Err|Messenger_Err" source="Merchant2_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant2_Err|Courtesan_Err" source="Merchant2_Err" target="Courtesan_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.X_Err|Courtesan_Err" source="OFFICERS.X_Err" target="Courtesan_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.X_Err|Pinch_Err" source="OFFICERS.X_Err" target="Pinch_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Courtesan_Err|Pinch_Err" source="Courtesan_Err" target="Pinch_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Courtesan_Err|Abbess_Err" source="Courtesan_Err" target="Abbess_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Courtesan_Err|Messenger_Err" source="Courtesan_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Abbess_Err|Messenger_Err" source="Abbess_Err" target="Messenger_Err">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Valentine_TGV">
+            <data key="label">Valentine</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2821</data>
+        </node>
+        <node id="Proteus_TGV">
+            <data key="label">Proteus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3350</data>
+        </node>
+        <node id="Speed_TGV">
+            <data key="label">Speed</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1332</data>
+        </node>
+        <node id="Julia_TGV">
+            <data key="label">Julia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2430</data>
+        </node>
+        <node id="Lucetta_TGV">
+            <data key="label">Lucetta</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">556</data>
+        </node>
+        <node id="Antonio_TGV">
+            <data key="label">Antonio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">262</data>
+        </node>
+        <node id="Pantino_TGV">
+            <data key="label">Pantino</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">311</data>
+        </node>
+        <node id="Sylvia_TGV">
+            <data key="label">Sylvia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1138</data>
+        </node>
+        <node id="Lance_TGV">
+            <data key="label">Lance</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1852</data>
+        </node>
+        <node id="Thurio_TGV">
+            <data key="label">Thurio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">372</data>
+        </node>
+        <node id="Duke_TGV">
+            <data key="label">Duke</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1529</data>
+        </node>
+        <node id="SERVANTS.1_TGV">
+            <data key="label">Servants</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="OUTLAWS.1_TGV">
+            <data key="label">Outlaws 1</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">159</data>
+        </node>
+        <node id="OUTLAWS.2_TGV">
+            <data key="label">Outlaws 2</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">105</data>
+        </node>
+        <node id="OUTLAWS.3_TGV">
+            <data key="label">Outlaws 3</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">210</data>
+        </node>
+        <node id="Host_TGV">
+            <data key="label">Host</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">158</data>
+        </node>
+        <node id="Eglamour_TGV">
+            <data key="label">Eglamour</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">192</data>
+        </node>
+        <edge id="Valentine_TGV|Proteus_TGV" source="Valentine_TGV" target="Proteus_TGV">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Valentine_TGV|Speed_TGV" source="Valentine_TGV" target="Speed_TGV">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Valentine_TGV|Sylvia_TGV" source="Valentine_TGV" target="Sylvia_TGV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Valentine_TGV|Thurio_TGV" source="Valentine_TGV" target="Thurio_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Valentine_TGV|Duke_TGV" source="Valentine_TGV" target="Duke_TGV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Valentine_TGV|SERVANTS.1_TGV" source="Valentine_TGV" target="SERVANTS.1_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Valentine_TGV|Lance_TGV" source="Valentine_TGV" target="Lance_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Valentine_TGV|OUTLAWS.1_TGV" source="Valentine_TGV" target="OUTLAWS.1_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Valentine_TGV|OUTLAWS.2_TGV" source="Valentine_TGV" target="OUTLAWS.2_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Valentine_TGV|OUTLAWS.3_TGV" source="Valentine_TGV" target="OUTLAWS.3_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Valentine_TGV|Julia_TGV" source="Valentine_TGV" target="Julia_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proteus_TGV|Speed_TGV" source="Proteus_TGV" target="Speed_TGV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Proteus_TGV|Antonio_TGV" source="Proteus_TGV" target="Antonio_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proteus_TGV|Pantino_TGV" source="Proteus_TGV" target="Pantino_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Proteus_TGV|Julia_TGV" source="Proteus_TGV" target="Julia_TGV">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Proteus_TGV|Sylvia_TGV" source="Proteus_TGV" target="Sylvia_TGV">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Proteus_TGV|Thurio_TGV" source="Proteus_TGV" target="Thurio_TGV">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Proteus_TGV|Duke_TGV" source="Proteus_TGV" target="Duke_TGV">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Proteus_TGV|SERVANTS.1_TGV" source="Proteus_TGV" target="SERVANTS.1_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proteus_TGV|Lance_TGV" source="Proteus_TGV" target="Lance_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Proteus_TGV|Host_TGV" source="Proteus_TGV" target="Host_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proteus_TGV|OUTLAWS.1_TGV" source="Proteus_TGV" target="OUTLAWS.1_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proteus_TGV|OUTLAWS.2_TGV" source="Proteus_TGV" target="OUTLAWS.2_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proteus_TGV|OUTLAWS.3_TGV" source="Proteus_TGV" target="OUTLAWS.3_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Speed_TGV|Sylvia_TGV" source="Speed_TGV" target="Sylvia_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Speed_TGV|Thurio_TGV" source="Speed_TGV" target="Thurio_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Speed_TGV|Duke_TGV" source="Speed_TGV" target="Duke_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Speed_TGV|SERVANTS.1_TGV" source="Speed_TGV" target="SERVANTS.1_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Speed_TGV|Lance_TGV" source="Speed_TGV" target="Lance_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Speed_TGV|OUTLAWS.1_TGV" source="Speed_TGV" target="OUTLAWS.1_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Speed_TGV|OUTLAWS.2_TGV" source="Speed_TGV" target="OUTLAWS.2_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Speed_TGV|OUTLAWS.3_TGV" source="Speed_TGV" target="OUTLAWS.3_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Julia_TGV|Lucetta_TGV" source="Julia_TGV" target="Lucetta_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Julia_TGV|Pantino_TGV" source="Julia_TGV" target="Pantino_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Julia_TGV|Thurio_TGV" source="Julia_TGV" target="Thurio_TGV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Julia_TGV|Host_TGV" source="Julia_TGV" target="Host_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Julia_TGV|Sylvia_TGV" source="Julia_TGV" target="Sylvia_TGV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Julia_TGV|Lance_TGV" source="Julia_TGV" target="Lance_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Julia_TGV|Duke_TGV" source="Julia_TGV" target="Duke_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Julia_TGV|OUTLAWS.1_TGV" source="Julia_TGV" target="OUTLAWS.1_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Julia_TGV|OUTLAWS.2_TGV" source="Julia_TGV" target="OUTLAWS.2_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Julia_TGV|OUTLAWS.3_TGV" source="Julia_TGV" target="OUTLAWS.3_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_TGV|Pantino_TGV" source="Antonio_TGV" target="Pantino_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pantino_TGV|Lance_TGV" source="Pantino_TGV" target="Lance_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sylvia_TGV|Thurio_TGV" source="Sylvia_TGV" target="Thurio_TGV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Sylvia_TGV|Duke_TGV" source="Sylvia_TGV" target="Duke_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Sylvia_TGV|SERVANTS.1_TGV" source="Sylvia_TGV" target="SERVANTS.1_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sylvia_TGV|Host_TGV" source="Sylvia_TGV" target="Host_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sylvia_TGV|Eglamour_TGV" source="Sylvia_TGV" target="Eglamour_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Sylvia_TGV|Lance_TGV" source="Sylvia_TGV" target="Lance_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sylvia_TGV|OUTLAWS.1_TGV" source="Sylvia_TGV" target="OUTLAWS.1_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Sylvia_TGV|OUTLAWS.2_TGV" source="Sylvia_TGV" target="OUTLAWS.2_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Sylvia_TGV|OUTLAWS.3_TGV" source="Sylvia_TGV" target="OUTLAWS.3_TGV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lance_TGV|Duke_TGV" source="Lance_TGV" target="Duke_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thurio_TGV|Duke_TGV" source="Thurio_TGV" target="Duke_TGV">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Thurio_TGV|SERVANTS.1_TGV" source="Thurio_TGV" target="SERVANTS.1_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thurio_TGV|Host_TGV" source="Thurio_TGV" target="Host_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thurio_TGV|OUTLAWS.1_TGV" source="Thurio_TGV" target="OUTLAWS.1_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thurio_TGV|OUTLAWS.2_TGV" source="Thurio_TGV" target="OUTLAWS.2_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thurio_TGV|OUTLAWS.3_TGV" source="Thurio_TGV" target="OUTLAWS.3_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_TGV|SERVANTS.1_TGV" source="Duke_TGV" target="SERVANTS.1_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_TGV|OUTLAWS.1_TGV" source="Duke_TGV" target="OUTLAWS.1_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_TGV|OUTLAWS.2_TGV" source="Duke_TGV" target="OUTLAWS.2_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_TGV|OUTLAWS.3_TGV" source="Duke_TGV" target="OUTLAWS.3_TGV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OUTLAWS.1_TGV|OUTLAWS.2_TGV" source="OUTLAWS.1_TGV" target="OUTLAWS.2_TGV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="OUTLAWS.1_TGV|OUTLAWS.3_TGV" source="OUTLAWS.1_TGV" target="OUTLAWS.3_TGV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="OUTLAWS.2_TGV|OUTLAWS.3_TGV" source="OUTLAWS.2_TGV" target="OUTLAWS.3_TGV">
+            <data key="weight">3</data>
+        </edge>
+    </graph>
+</graphml>

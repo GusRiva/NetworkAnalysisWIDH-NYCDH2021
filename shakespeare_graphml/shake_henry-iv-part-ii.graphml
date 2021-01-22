@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Chorus_2H4">
+            <data key="label">Rumor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">297</data>
+        </node>
+        <node id="LordBardolph_2H4">
+            <data key="label">Lord Bardolph</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">643</data>
+        </node>
+        <node id="Porter_2H4">
+            <data key="label">Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">28</data>
+        </node>
+        <node id="Northumberland_R2">
+            <data key="label">Earl of Northumberland</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">819</data>
+        </node>
+        <node id="Travers_2H4">
+            <data key="label">Travers</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">112</data>
+        </node>
+        <node id="Morton_2H4">
+            <data key="label">Morton</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">633</data>
+        </node>
+        <node id="Falstaff_1H4">
+            <data key="label">Sir John Falstaff</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5477</data>
+        </node>
+        <node id="SERVANTS.FALSTAFF.1_2H4">
+            <data key="label">Falstaff’s Page</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">214</data>
+        </node>
+        <node id="ChiefJustice_2H4">
+            <data key="label">Lord Chief Justice</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1137</data>
+        </node>
+        <node id="SERVANTS.CHIEFJUSTICE.1_2H4">
+            <data key="label">Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">85</data>
+        </node>
+        <node id="Archbishop_1H4">
+            <data key="label">Archbishop</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1094</data>
+        </node>
+        <node id="Mowbray_2H4">
+            <data key="label">Lord Mowbray</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">434</data>
+        </node>
+        <node id="Hastings_2H4">
+            <data key="label">Lord Hastings</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">415</data>
+        </node>
+        <node id="MistressQuickly_1H4">
+            <data key="label">Hostess</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1425</data>
+        </node>
+        <node id="OFFICERS.Fang_2H4">
+            <data key="label">Fang</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">53</data>
+        </node>
+        <node id="OFFICERS.Snare_2H4">
+            <data key="label">Snare</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">19</data>
+        </node>
+        <node id="MESSENGERS.Gower_2H4">
+            <data key="label">Gower</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">56</data>
+        </node>
+        <node id="HenryV_H5">
+            <data key="label">Prince Hal King Henry V</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2445</data>
+        </node>
+        <node id="Poins_1H4">
+            <data key="label">Poins</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">474</data>
+        </node>
+        <node id="Bardolph_1H4">
+            <data key="label">Bardolph</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">310</data>
+        </node>
+        <node id="LadyNorthumberland_2H4">
+            <data key="label">Northumberland’s wife</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">38</data>
+        </node>
+        <node id="LadyPercy_1H4">
+            <data key="label">Lady Percy</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">372</data>
+        </node>
+        <node id="DRAWERS.Francis_1H4">
+            <data key="label">Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">60</data>
+        </node>
+        <node id="DRAWERS.1_2H4">
+            <data key="label">Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">68</data>
+        </node>
+        <node id="DRAWERS.Will_2H4">
+            <data key="label">Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">33</data>
+        </node>
+        <node id="DollTearsheet_2H4">
+            <data key="label">Doll Tearsheet</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">638</data>
+        </node>
+        <node id="DRAWERS.X_2H4">
+            <data key="label">Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="Pistol_2H4">
+            <data key="label">Pistol</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">553</data>
+        </node>
+        <node id="Peto_1H4">
+            <data key="label">Peto</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">44</data>
+        </node>
+        <node id="HenryIV_1H4">
+            <data key="label">King Henry IV</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2281</data>
+        </node>
+        <node id="Warwick_2H4">
+            <data key="label">Earl of Warwick</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">573</data>
+        </node>
+        <node id="Shallow_2H4">
+            <data key="label">Justice Robert Shallow</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1570</data>
+        </node>
+        <node id="Silence_2H4">
+            <data key="label">Justice Silence</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">257</data>
+        </node>
+        <node id="Mouldy_2H4">
+            <data key="label">Mouldy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">95</data>
+        </node>
+        <node id="Shadow_2H4">
+            <data key="label">Shadow</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <node id="Wart_2H4">
+            <data key="label">Wart</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="Feeble_2H4">
+            <data key="label">Feeble</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">95</data>
+        </node>
+        <node id="Bullcalf_2H4">
+            <data key="label">Bullcalf</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">109</data>
+        </node>
+        <node id="MESSENGERS.1_2H4">
+            <data key="label">Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">33</data>
+        </node>
+        <node id="Westmoreland_1H4">
+            <data key="label">Earl of Westmoreland</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">851</data>
+        </node>
+        <node id="Bedford_H5">
+            <data key="label">John of Lancaster</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">812</data>
+        </node>
+        <node id="Colevile_2H4">
+            <data key="label">Sir John Colevile</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">64</data>
+        </node>
+        <node id="Gloucester_2H4">
+            <data key="label">Humphrey of Gloucester</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">122</data>
+        </node>
+        <node id="Clarence_2H4">
+            <data key="label">Thomas of Clarence</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">170</data>
+        </node>
+        <node id="Harcourt_2H4">
+            <data key="label">Harcourt</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">64</data>
+        </node>
+        <node id="Davy_2H4">
+            <data key="label">Davy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">276</data>
+        </node>
+        <node id="BEADLES.0.1_2H4">
+            <data key="label">Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">72</data>
+        </node>
+        <node id="GROOMS.1_2H4">
+            <data key="label">Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="GROOMS.2_2H4">
+            <data key="label">Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="Epilogue_2H4">
+            <data key="label">Epilogue</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">0</data>
+        </node>
+        <edge id="LordBardolph_2H4|Porter_2H4" source="LordBardolph_2H4" target="Porter_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LordBardolph_2H4|Northumberland_R2" source="LordBardolph_2H4" target="Northumberland_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LordBardolph_2H4|Travers_2H4" source="LordBardolph_2H4" target="Travers_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LordBardolph_2H4|Morton_2H4" source="LordBardolph_2H4" target="Morton_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LordBardolph_2H4|Archbishop_1H4" source="LordBardolph_2H4" target="Archbishop_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LordBardolph_2H4|Mowbray_2H4" source="LordBardolph_2H4" target="Mowbray_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LordBardolph_2H4|Hastings_2H4" source="LordBardolph_2H4" target="Hastings_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Porter_2H4|Northumberland_R2" source="Porter_2H4" target="Northumberland_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Porter_2H4|Travers_2H4" source="Porter_2H4" target="Travers_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Porter_2H4|Morton_2H4" source="Porter_2H4" target="Morton_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_R2|Travers_2H4" source="Northumberland_R2" target="Travers_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_R2|Morton_2H4" source="Northumberland_R2" target="Morton_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_R2|LadyNorthumberland_2H4" source="Northumberland_R2" target="LadyNorthumberland_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_R2|LadyPercy_1H4" source="Northumberland_R2" target="LadyPercy_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Travers_2H4|Morton_2H4" source="Travers_2H4" target="Morton_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|SERVANTS.FALSTAFF.1_2H4" source="Falstaff_1H4" target="SERVANTS.FALSTAFF.1_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Falstaff_1H4|ChiefJustice_2H4" source="Falstaff_1H4" target="ChiefJustice_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Falstaff_1H4|SERVANTS.CHIEFJUSTICE.1_2H4" source="Falstaff_1H4" target="SERVANTS.CHIEFJUSTICE.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|MistressQuickly_1H4" source="Falstaff_1H4" target="MistressQuickly_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|OFFICERS.Fang_2H4" source="Falstaff_1H4" target="OFFICERS.Fang_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|OFFICERS.Snare_2H4" source="Falstaff_1H4" target="OFFICERS.Snare_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|MESSENGERS.Gower_2H4" source="Falstaff_1H4" target="MESSENGERS.Gower_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|DRAWERS.Francis_1H4" source="Falstaff_1H4" target="DRAWERS.Francis_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|DRAWERS.1_2H4" source="Falstaff_1H4" target="DRAWERS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|DRAWERS.Will_2H4" source="Falstaff_1H4" target="DRAWERS.Will_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|DollTearsheet_2H4" source="Falstaff_1H4" target="DollTearsheet_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|DRAWERS.X_2H4" source="Falstaff_1H4" target="DRAWERS.X_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Pistol_2H4" source="Falstaff_1H4" target="Pistol_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Falstaff_1H4|Bardolph_1H4" source="Falstaff_1H4" target="Bardolph_1H4">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Falstaff_1H4|HenryV_H5" source="Falstaff_1H4" target="HenryV_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|Poins_1H4" source="Falstaff_1H4" target="Poins_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Peto_1H4" source="Falstaff_1H4" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Shallow_2H4" source="Falstaff_1H4" target="Shallow_2H4">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Falstaff_1H4|Silence_2H4" source="Falstaff_1H4" target="Silence_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|Mouldy_2H4" source="Falstaff_1H4" target="Mouldy_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Shadow_2H4" source="Falstaff_1H4" target="Shadow_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Wart_2H4" source="Falstaff_1H4" target="Wart_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Feeble_2H4" source="Falstaff_1H4" target="Feeble_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Bullcalf_2H4" source="Falstaff_1H4" target="Bullcalf_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Colevile_2H4" source="Falstaff_1H4" target="Colevile_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Bedford_H5" source="Falstaff_1H4" target="Bedford_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|Westmoreland_1H4" source="Falstaff_1H4" target="Westmoreland_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Davy_2H4" source="Falstaff_1H4" target="Davy_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|GROOMS.1_2H4" source="Falstaff_1H4" target="GROOMS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|GROOMS.2_2H4" source="Falstaff_1H4" target="GROOMS.2_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|ChiefJustice_2H4" source="SERVANTS.FALSTAFF.1_2H4" target="ChiefJustice_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|SERVANTS.CHIEFJUSTICE.1_2H4" source="SERVANTS.FALSTAFF.1_2H4" target="SERVANTS.CHIEFJUSTICE.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|MistressQuickly_1H4" source="SERVANTS.FALSTAFF.1_2H4" target="MistressQuickly_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|OFFICERS.Fang_2H4" source="SERVANTS.FALSTAFF.1_2H4" target="OFFICERS.Fang_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|OFFICERS.Snare_2H4" source="SERVANTS.FALSTAFF.1_2H4" target="OFFICERS.Snare_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|MESSENGERS.Gower_2H4" source="SERVANTS.FALSTAFF.1_2H4" target="MESSENGERS.Gower_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|HenryV_H5" source="SERVANTS.FALSTAFF.1_2H4" target="HenryV_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|Poins_1H4" source="SERVANTS.FALSTAFF.1_2H4" target="Poins_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|Bardolph_1H4" source="SERVANTS.FALSTAFF.1_2H4" target="Bardolph_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|DRAWERS.Francis_1H4" source="SERVANTS.FALSTAFF.1_2H4" target="DRAWERS.Francis_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|DRAWERS.1_2H4" source="SERVANTS.FALSTAFF.1_2H4" target="DRAWERS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|DRAWERS.Will_2H4" source="SERVANTS.FALSTAFF.1_2H4" target="DRAWERS.Will_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|DollTearsheet_2H4" source="SERVANTS.FALSTAFF.1_2H4" target="DollTearsheet_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|DRAWERS.X_2H4" source="SERVANTS.FALSTAFF.1_2H4" target="DRAWERS.X_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|Pistol_2H4" source="SERVANTS.FALSTAFF.1_2H4" target="Pistol_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.FALSTAFF.1_2H4|Peto_1H4" source="SERVANTS.FALSTAFF.1_2H4" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|SERVANTS.CHIEFJUSTICE.1_2H4" source="ChiefJustice_2H4" target="SERVANTS.CHIEFJUSTICE.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|MistressQuickly_1H4" source="ChiefJustice_2H4" target="MistressQuickly_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|OFFICERS.Fang_2H4" source="ChiefJustice_2H4" target="OFFICERS.Fang_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|OFFICERS.Snare_2H4" source="ChiefJustice_2H4" target="OFFICERS.Snare_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|MESSENGERS.Gower_2H4" source="ChiefJustice_2H4" target="MESSENGERS.Gower_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|Warwick_2H4" source="ChiefJustice_2H4" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|Bedford_H5" source="ChiefJustice_2H4" target="Bedford_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|Gloucester_2H4" source="ChiefJustice_2H4" target="Gloucester_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|Clarence_2H4" source="ChiefJustice_2H4" target="Clarence_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|HenryV_H5" source="ChiefJustice_2H4" target="HenryV_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|GROOMS.1_2H4" source="ChiefJustice_2H4" target="GROOMS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|GROOMS.2_2H4" source="ChiefJustice_2H4" target="GROOMS.2_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|Pistol_2H4" source="ChiefJustice_2H4" target="Pistol_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ChiefJustice_2H4|Shallow_2H4" source="ChiefJustice_2H4" target="Shallow_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Archbishop_1H4|Mowbray_2H4" source="Archbishop_1H4" target="Mowbray_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Archbishop_1H4|Hastings_2H4" source="Archbishop_1H4" target="Hastings_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Archbishop_1H4|MESSENGERS.1_2H4" source="Archbishop_1H4" target="MESSENGERS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Archbishop_1H4|Westmoreland_1H4" source="Archbishop_1H4" target="Westmoreland_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Archbishop_1H4|Bedford_H5" source="Archbishop_1H4" target="Bedford_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mowbray_2H4|Hastings_2H4" source="Mowbray_2H4" target="Hastings_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Mowbray_2H4|MESSENGERS.1_2H4" source="Mowbray_2H4" target="MESSENGERS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mowbray_2H4|Westmoreland_1H4" source="Mowbray_2H4" target="Westmoreland_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mowbray_2H4|Bedford_H5" source="Mowbray_2H4" target="Bedford_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hastings_2H4|MESSENGERS.1_2H4" source="Hastings_2H4" target="MESSENGERS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hastings_2H4|Westmoreland_1H4" source="Hastings_2H4" target="Westmoreland_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hastings_2H4|Bedford_H5" source="Hastings_2H4" target="Bedford_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|OFFICERS.Fang_2H4" source="MistressQuickly_1H4" target="OFFICERS.Fang_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|OFFICERS.Snare_2H4" source="MistressQuickly_1H4" target="OFFICERS.Snare_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|MESSENGERS.Gower_2H4" source="MistressQuickly_1H4" target="MESSENGERS.Gower_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|DRAWERS.Francis_1H4" source="MistressQuickly_1H4" target="DRAWERS.Francis_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|DRAWERS.1_2H4" source="MistressQuickly_1H4" target="DRAWERS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|DRAWERS.Will_2H4" source="MistressQuickly_1H4" target="DRAWERS.Will_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|DollTearsheet_2H4" source="MistressQuickly_1H4" target="DollTearsheet_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|DRAWERS.X_2H4" source="MistressQuickly_1H4" target="DRAWERS.X_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|Pistol_2H4" source="MistressQuickly_1H4" target="Pistol_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|Bardolph_1H4" source="MistressQuickly_1H4" target="Bardolph_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|HenryV_H5" source="MistressQuickly_1H4" target="HenryV_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|Poins_1H4" source="MistressQuickly_1H4" target="Poins_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|Peto_1H4" source="MistressQuickly_1H4" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|BEADLES.0.1_2H4" source="MistressQuickly_1H4" target="BEADLES.0.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.Fang_2H4|OFFICERS.Snare_2H4" source="OFFICERS.Fang_2H4" target="OFFICERS.Snare_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.Fang_2H4|MESSENGERS.Gower_2H4" source="OFFICERS.Fang_2H4" target="MESSENGERS.Gower_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.Snare_2H4|MESSENGERS.Gower_2H4" source="OFFICERS.Snare_2H4" target="MESSENGERS.Gower_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Poins_1H4" source="HenryV_H5" target="Poins_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryV_H5|Bardolph_1H4" source="HenryV_H5" target="Bardolph_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryV_H5|DRAWERS.Francis_1H4" source="HenryV_H5" target="DRAWERS.Francis_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|DRAWERS.1_2H4" source="HenryV_H5" target="DRAWERS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|DRAWERS.Will_2H4" source="HenryV_H5" target="DRAWERS.Will_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|DollTearsheet_2H4" source="HenryV_H5" target="DollTearsheet_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|DRAWERS.X_2H4" source="HenryV_H5" target="DRAWERS.X_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Pistol_2H4" source="HenryV_H5" target="Pistol_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryV_H5|Peto_1H4" source="HenryV_H5" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|HenryIV_1H4" source="HenryV_H5" target="HenryIV_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Warwick_2H4" source="HenryV_H5" target="Warwick_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryV_H5|Gloucester_2H4" source="HenryV_H5" target="Gloucester_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryV_H5|Clarence_2H4" source="HenryV_H5" target="Clarence_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryV_H5|Westmoreland_1H4" source="HenryV_H5" target="Westmoreland_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Harcourt_2H4" source="HenryV_H5" target="Harcourt_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Bedford_H5" source="HenryV_H5" target="Bedford_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="HenryV_H5|GROOMS.1_2H4" source="HenryV_H5" target="GROOMS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|GROOMS.2_2H4" source="HenryV_H5" target="GROOMS.2_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Shallow_2H4" source="HenryV_H5" target="Shallow_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poins_1H4|Bardolph_1H4" source="Poins_1H4" target="Bardolph_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Poins_1H4|DRAWERS.Francis_1H4" source="Poins_1H4" target="DRAWERS.Francis_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poins_1H4|DRAWERS.1_2H4" source="Poins_1H4" target="DRAWERS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poins_1H4|DRAWERS.Will_2H4" source="Poins_1H4" target="DRAWERS.Will_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poins_1H4|DollTearsheet_2H4" source="Poins_1H4" target="DollTearsheet_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poins_1H4|DRAWERS.X_2H4" source="Poins_1H4" target="DRAWERS.X_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poins_1H4|Pistol_2H4" source="Poins_1H4" target="Pistol_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poins_1H4|Peto_1H4" source="Poins_1H4" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|DRAWERS.Francis_1H4" source="Bardolph_1H4" target="DRAWERS.Francis_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|DRAWERS.1_2H4" source="Bardolph_1H4" target="DRAWERS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|DRAWERS.Will_2H4" source="Bardolph_1H4" target="DRAWERS.Will_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|DollTearsheet_2H4" source="Bardolph_1H4" target="DollTearsheet_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|DRAWERS.X_2H4" source="Bardolph_1H4" target="DRAWERS.X_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Pistol_2H4" source="Bardolph_1H4" target="Pistol_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bardolph_1H4|Peto_1H4" source="Bardolph_1H4" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Shallow_2H4" source="Bardolph_1H4" target="Shallow_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bardolph_1H4|Silence_2H4" source="Bardolph_1H4" target="Silence_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bardolph_1H4|Mouldy_2H4" source="Bardolph_1H4" target="Mouldy_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Shadow_2H4" source="Bardolph_1H4" target="Shadow_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Wart_2H4" source="Bardolph_1H4" target="Wart_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Feeble_2H4" source="Bardolph_1H4" target="Feeble_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Bullcalf_2H4" source="Bardolph_1H4" target="Bullcalf_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Colevile_2H4" source="Bardolph_1H4" target="Colevile_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Bedford_H5" source="Bardolph_1H4" target="Bedford_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Westmoreland_1H4" source="Bardolph_1H4" target="Westmoreland_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Davy_2H4" source="Bardolph_1H4" target="Davy_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LadyNorthumberland_2H4|LadyPercy_1H4" source="LadyNorthumberland_2H4" target="LadyPercy_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.Francis_1H4|DRAWERS.1_2H4" source="DRAWERS.Francis_1H4" target="DRAWERS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.Francis_1H4|DRAWERS.Will_2H4" source="DRAWERS.Francis_1H4" target="DRAWERS.Will_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.Francis_1H4|DollTearsheet_2H4" source="DRAWERS.Francis_1H4" target="DollTearsheet_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.Francis_1H4|DRAWERS.X_2H4" source="DRAWERS.Francis_1H4" target="DRAWERS.X_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.Francis_1H4|Pistol_2H4" source="DRAWERS.Francis_1H4" target="Pistol_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.Francis_1H4|Peto_1H4" source="DRAWERS.Francis_1H4" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.1_2H4|DRAWERS.Will_2H4" source="DRAWERS.1_2H4" target="DRAWERS.Will_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.1_2H4|DollTearsheet_2H4" source="DRAWERS.1_2H4" target="DollTearsheet_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.1_2H4|DRAWERS.X_2H4" source="DRAWERS.1_2H4" target="DRAWERS.X_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.1_2H4|Pistol_2H4" source="DRAWERS.1_2H4" target="Pistol_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.1_2H4|Peto_1H4" source="DRAWERS.1_2H4" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.Will_2H4|DollTearsheet_2H4" source="DRAWERS.Will_2H4" target="DollTearsheet_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.Will_2H4|DRAWERS.X_2H4" source="DRAWERS.Will_2H4" target="DRAWERS.X_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.Will_2H4|Pistol_2H4" source="DRAWERS.Will_2H4" target="Pistol_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.Will_2H4|Peto_1H4" source="DRAWERS.Will_2H4" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DollTearsheet_2H4|DRAWERS.X_2H4" source="DollTearsheet_2H4" target="DRAWERS.X_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DollTearsheet_2H4|Pistol_2H4" source="DollTearsheet_2H4" target="Pistol_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DollTearsheet_2H4|Peto_1H4" source="DollTearsheet_2H4" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DollTearsheet_2H4|BEADLES.0.1_2H4" source="DollTearsheet_2H4" target="BEADLES.0.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.X_2H4|Pistol_2H4" source="DRAWERS.X_2H4" target="Pistol_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DRAWERS.X_2H4|Peto_1H4" source="DRAWERS.X_2H4" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|Peto_1H4" source="Pistol_2H4" target="Peto_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|Shallow_2H4" source="Pistol_2H4" target="Shallow_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pistol_2H4|Silence_2H4" source="Pistol_2H4" target="Silence_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|Davy_2H4" source="Pistol_2H4" target="Davy_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|GROOMS.1_2H4" source="Pistol_2H4" target="GROOMS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|GROOMS.2_2H4" source="Pistol_2H4" target="GROOMS.2_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|Bedford_H5" source="Pistol_2H4" target="Bedford_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Warwick_2H4" source="HenryIV_1H4" target="Warwick_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryIV_1H4|Gloucester_2H4" source="HenryIV_1H4" target="Gloucester_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Clarence_2H4" source="HenryIV_1H4" target="Clarence_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Westmoreland_1H4" source="HenryIV_1H4" target="Westmoreland_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Harcourt_2H4" source="HenryIV_1H4" target="Harcourt_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Bedford_H5" source="HenryIV_1H4" target="Bedford_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|Gloucester_2H4" source="Warwick_2H4" target="Gloucester_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Warwick_2H4|Clarence_2H4" source="Warwick_2H4" target="Clarence_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Warwick_2H4|Westmoreland_1H4" source="Warwick_2H4" target="Westmoreland_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|Harcourt_2H4" source="Warwick_2H4" target="Harcourt_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|Bedford_H5" source="Warwick_2H4" target="Bedford_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Shallow_2H4|Silence_2H4" source="Shallow_2H4" target="Silence_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Shallow_2H4|Mouldy_2H4" source="Shallow_2H4" target="Mouldy_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|Shadow_2H4" source="Shallow_2H4" target="Shadow_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|Wart_2H4" source="Shallow_2H4" target="Wart_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|Feeble_2H4" source="Shallow_2H4" target="Feeble_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|Bullcalf_2H4" source="Shallow_2H4" target="Bullcalf_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|Davy_2H4" source="Shallow_2H4" target="Davy_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Shallow_2H4|GROOMS.1_2H4" source="Shallow_2H4" target="GROOMS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|GROOMS.2_2H4" source="Shallow_2H4" target="GROOMS.2_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|Bedford_H5" source="Shallow_2H4" target="Bedford_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Silence_2H4|Mouldy_2H4" source="Silence_2H4" target="Mouldy_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Silence_2H4|Shadow_2H4" source="Silence_2H4" target="Shadow_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Silence_2H4|Wart_2H4" source="Silence_2H4" target="Wart_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Silence_2H4|Feeble_2H4" source="Silence_2H4" target="Feeble_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Silence_2H4|Bullcalf_2H4" source="Silence_2H4" target="Bullcalf_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Silence_2H4|Davy_2H4" source="Silence_2H4" target="Davy_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mouldy_2H4|Shadow_2H4" source="Mouldy_2H4" target="Shadow_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mouldy_2H4|Wart_2H4" source="Mouldy_2H4" target="Wart_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mouldy_2H4|Feeble_2H4" source="Mouldy_2H4" target="Feeble_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mouldy_2H4|Bullcalf_2H4" source="Mouldy_2H4" target="Bullcalf_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shadow_2H4|Wart_2H4" source="Shadow_2H4" target="Wart_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shadow_2H4|Feeble_2H4" source="Shadow_2H4" target="Feeble_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shadow_2H4|Bullcalf_2H4" source="Shadow_2H4" target="Bullcalf_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wart_2H4|Feeble_2H4" source="Wart_2H4" target="Feeble_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wart_2H4|Bullcalf_2H4" source="Wart_2H4" target="Bullcalf_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Feeble_2H4|Bullcalf_2H4" source="Feeble_2H4" target="Bullcalf_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.1_2H4|Westmoreland_1H4" source="MESSENGERS.1_2H4" target="Westmoreland_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.1_2H4|Bedford_H5" source="MESSENGERS.1_2H4" target="Bedford_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Bedford_H5" source="Westmoreland_1H4" target="Bedford_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Colevile_2H4" source="Westmoreland_1H4" target="Colevile_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Gloucester_2H4" source="Westmoreland_1H4" target="Gloucester_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Clarence_2H4" source="Westmoreland_1H4" target="Clarence_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Harcourt_2H4" source="Westmoreland_1H4" target="Harcourt_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Colevile_2H4" source="Bedford_H5" target="Colevile_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Gloucester_2H4" source="Bedford_H5" target="Gloucester_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bedford_H5|Clarence_2H4" source="Bedford_H5" target="Clarence_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bedford_H5|Harcourt_2H4" source="Bedford_H5" target="Harcourt_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|GROOMS.1_2H4" source="Bedford_H5" target="GROOMS.1_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|GROOMS.2_2H4" source="Bedford_H5" target="GROOMS.2_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|Clarence_2H4" source="Gloucester_2H4" target="Clarence_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gloucester_2H4|Harcourt_2H4" source="Gloucester_2H4" target="Harcourt_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clarence_2H4|Harcourt_2H4" source="Clarence_2H4" target="Harcourt_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GROOMS.1_2H4|GROOMS.2_2H4" source="GROOMS.1_2H4" target="GROOMS.2_2H4">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

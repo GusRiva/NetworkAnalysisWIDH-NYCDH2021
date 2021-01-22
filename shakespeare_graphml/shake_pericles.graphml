@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Gower_Per">
+            <data key="label">Gower</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2073</data>
+        </node>
+        <node id="Antiochus_Per">
+            <data key="label">Antiochus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">483</data>
+        </node>
+        <node id="Pericles_Per">
+            <data key="label">Pericles</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4580</data>
+        </node>
+        <node id="Daughter_Per">
+            <data key="label">Daughter</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="Thaliard_Per">
+            <data key="label">Thaliard</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">207</data>
+        </node>
+        <node id="MESSENGERS.ANTIOCH.1_Per">
+            <data key="label">Messenger</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <node id="LORDS.TYRE.0.1_Per">
+            <data key="label">LORDS.TYRE.0.1_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">137</data>
+        </node>
+        <node id="LORDS.TYRE.0.2_Per">
+            <data key="label">LORDS.TYRE.0.2_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">65</data>
+        </node>
+        <node id="Helicanus_Per">
+            <data key="label">Helicanus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">872</data>
+        </node>
+        <node id="Cleon_Per">
+            <data key="label">Cleon</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">841</data>
+        </node>
+        <node id="Dionyza_Per">
+            <data key="label">Dionyza</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">677</data>
+        </node>
+        <node id="LORDS.TARSUS.1_Per">
+            <data key="label">Lord</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">48</data>
+        </node>
+        <node id="CITIZENS.TARSUS_Per">
+            <data key="label">Followers of Antiochus, Attendants to Pericles, Attendants to Simonides, Squires to the five Knights, Tyrian gentlemen, Citizens of Tarsus, Ladies of Pentapolis, Servants to Cerimon, Companion to Marina, Priestesses in Diana’s temple, Messenger from Tyre</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">11</data>
+        </node>
+        <node id="FISHERMEN.1_Per">
+            <data key="label">FISHERMEN.1_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">314</data>
+        </node>
+        <node id="FISHERMEN.2_Per">
+            <data key="label">FISHERMEN.2_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">222</data>
+        </node>
+        <node id="FISHERMEN.3_Per">
+            <data key="label">FISHERMEN.3_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">151</data>
+        </node>
+        <node id="Simonides_Per">
+            <data key="label">Simonides</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1136</data>
+        </node>
+        <node id="LORDS.PENTAPOLIS.0.1_Per">
+            <data key="label">LORDS.PENTAPOLIS.0.1_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">44</data>
+        </node>
+        <node id="Thaisa_Per">
+            <data key="label">Thaisa</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">566</data>
+        </node>
+        <node id="LORDS.PENTAPOLIS.0.2_Per">
+            <data key="label">LORDS.PENTAPOLIS.0.2_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">15</data>
+        </node>
+        <node id="LORDS.PENTAPOLIS.0.3_Per">
+            <data key="label">LORDS.PENTAPOLIS.0.3_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">17</data>
+        </node>
+        <node id="KNIGHTS_Per">
+            <data key="label">Knights</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">19</data>
+        </node>
+        <node id="Marshal_Per">
+            <data key="label">Marshal</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="KNIGHTS.0.1_Per">
+            <data key="label">KNIGHTS.0.1_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">29</data>
+        </node>
+        <node id="LORDS.TYRE.Escanes_Per">
+            <data key="label">Escanes</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <node id="LORDS.TYRE.0.3_Per">
+            <data key="label">LORDS.TYRE.0.3_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="LORDS.TYRE_Per">
+            <data key="label">LORDS</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">3</data>
+        </node>
+        <node id="KNIGHTS.0.2_Per">
+            <data key="label">KNIGHTS.0.2_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="KNIGHTS.0.3_Per">
+            <data key="label">KNIGHTS.0.3_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="Lychorida_Per">
+            <data key="label">Lychorida</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">74</data>
+        </node>
+        <node id="SAILORS.1_Per">
+            <data key="label">SAILORS.1_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">71</data>
+        </node>
+        <node id="SAILORS.2_Per">
+            <data key="label">SAILORS.2_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">38</data>
+        </node>
+        <node id="Cerimon_Per">
+            <data key="label">Lord Cerimon</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">731</data>
+        </node>
+        <node id="Philemon_Per">
+            <data key="label">Philemon</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="SUPPLIANTS.1_Per">
+            <data key="label">SUPPLIANTS.1_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="GENTLEMEN.EPHESUS.1_Per">
+            <data key="label">GENTLEMEN.EPHESUS.1_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">90</data>
+        </node>
+        <node id="GENTLEMEN.EPHESUS.2_Per">
+            <data key="label">GENTLEMEN.EPHESUS.2_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">84</data>
+        </node>
+        <node id="SERVANTS.CERIMON.0.1_Per">
+            <data key="label">Servant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">33</data>
+        </node>
+        <node id="Leonine_Per">
+            <data key="label">Leonine</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">143</data>
+        </node>
+        <node id="Marina_Per">
+            <data key="label">Marina</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1265</data>
+        </node>
+        <node id="PIRATES.0.1_Per">
+            <data key="label">PIRATES.0.1_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="PIRATES.0.2_Per">
+            <data key="label">PIRATES.0.2_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="PIRATES.0.3_Per">
+            <data key="label">PIRATES.0.3_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="Pander_Per">
+            <data key="label">Pander</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">216</data>
+        </node>
+        <node id="Bolt_Per">
+            <data key="label">Bolt</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">656</data>
+        </node>
+        <node id="Bawd_Per">
+            <data key="label">Bawd</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">840</data>
+        </node>
+        <node id="GENTLEMEN.MYTILENE.1_Per">
+            <data key="label">GENTLEMEN.MYTILENE.1_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">37</data>
+        </node>
+        <node id="GENTLEMEN.MYTILENE.2_Per">
+            <data key="label">GENTLEMEN.MYTILENE.2_Per</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">32</data>
+        </node>
+        <node id="Lysimachus_Per">
+            <data key="label">Lysimachus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">721</data>
+        </node>
+        <node id="SAILORS.TYRE.1_Per">
+            <data key="label">Sailor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">42</data>
+        </node>
+        <node id="GENTLEMEN.TYRE.0.1_Per">
+            <data key="label">Gentleman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="SAILORS.MYTILENE.1_Per">
+            <data key="label">Sailor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">13</data>
+        </node>
+        <node id="LORDS.MYTILENE.0.1_Per">
+            <data key="label">Lord</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="Diana_Per">
+            <data key="label">Diana</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">72</data>
+        </node>
+        <edge id="Antiochus_Per|Pericles_Per" source="Antiochus_Per" target="Pericles_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antiochus_Per|Daughter_Per" source="Antiochus_Per" target="Daughter_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antiochus_Per|Thaliard_Per" source="Antiochus_Per" target="Thaliard_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antiochus_Per|MESSENGERS.ANTIOCH.1_Per" source="Antiochus_Per" target="MESSENGERS.ANTIOCH.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|Daughter_Per" source="Pericles_Per" target="Daughter_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|Thaliard_Per" source="Pericles_Per" target="Thaliard_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|MESSENGERS.ANTIOCH.1_Per" source="Pericles_Per" target="MESSENGERS.ANTIOCH.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|LORDS.TYRE.0.1_Per" source="Pericles_Per" target="LORDS.TYRE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|LORDS.TYRE.0.2_Per" source="Pericles_Per" target="LORDS.TYRE.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|Helicanus_Per" source="Pericles_Per" target="Helicanus_Per">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Pericles_Per|Cleon_Per" source="Pericles_Per" target="Cleon_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pericles_Per|Dionyza_Per" source="Pericles_Per" target="Dionyza_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pericles_Per|LORDS.TARSUS.1_Per" source="Pericles_Per" target="LORDS.TARSUS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|CITIZENS.TARSUS_Per" source="Pericles_Per" target="CITIZENS.TARSUS_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|FISHERMEN.1_Per" source="Pericles_Per" target="FISHERMEN.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|FISHERMEN.2_Per" source="Pericles_Per" target="FISHERMEN.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|FISHERMEN.3_Per" source="Pericles_Per" target="FISHERMEN.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|Simonides_Per" source="Pericles_Per" target="Simonides_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pericles_Per|Thaisa_Per" source="Pericles_Per" target="Thaisa_Per">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Pericles_Per|KNIGHTS_Per" source="Pericles_Per" target="KNIGHTS_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|Marshal_Per" source="Pericles_Per" target="Marshal_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|KNIGHTS.0.1_Per" source="Pericles_Per" target="KNIGHTS.0.1_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pericles_Per|KNIGHTS.0.2_Per" source="Pericles_Per" target="KNIGHTS.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|KNIGHTS.0.3_Per" source="Pericles_Per" target="KNIGHTS.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|Lychorida_Per" source="Pericles_Per" target="Lychorida_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|SAILORS.1_Per" source="Pericles_Per" target="SAILORS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|SAILORS.2_Per" source="Pericles_Per" target="SAILORS.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|SAILORS.TYRE.1_Per" source="Pericles_Per" target="SAILORS.TYRE.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|GENTLEMEN.TYRE.0.1_Per" source="Pericles_Per" target="GENTLEMEN.TYRE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|SAILORS.MYTILENE.1_Per" source="Pericles_Per" target="SAILORS.MYTILENE.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|Lysimachus_Per" source="Pericles_Per" target="Lysimachus_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|LORDS.MYTILENE.0.1_Per" source="Pericles_Per" target="LORDS.MYTILENE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|Marina_Per" source="Pericles_Per" target="Marina_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pericles_Per|Diana_Per" source="Pericles_Per" target="Diana_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pericles_Per|Cerimon_Per" source="Pericles_Per" target="Cerimon_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Daughter_Per|Thaliard_Per" source="Daughter_Per" target="Thaliard_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Daughter_Per|MESSENGERS.ANTIOCH.1_Per" source="Daughter_Per" target="MESSENGERS.ANTIOCH.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaliard_Per|MESSENGERS.ANTIOCH.1_Per" source="Thaliard_Per" target="MESSENGERS.ANTIOCH.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaliard_Per|Helicanus_Per" source="Thaliard_Per" target="Helicanus_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.TYRE.0.1_Per|LORDS.TYRE.0.2_Per" source="LORDS.TYRE.0.1_Per" target="LORDS.TYRE.0.2_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LORDS.TYRE.0.1_Per|Helicanus_Per" source="LORDS.TYRE.0.1_Per" target="Helicanus_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LORDS.TYRE.0.1_Per|LORDS.TYRE.Escanes_Per" source="LORDS.TYRE.0.1_Per" target="LORDS.TYRE.Escanes_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.TYRE.0.1_Per|LORDS.TYRE.0.3_Per" source="LORDS.TYRE.0.1_Per" target="LORDS.TYRE.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.TYRE.0.1_Per|LORDS.TYRE_Per" source="LORDS.TYRE.0.1_Per" target="LORDS.TYRE_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.TYRE.0.2_Per|Helicanus_Per" source="LORDS.TYRE.0.2_Per" target="Helicanus_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LORDS.TYRE.0.2_Per|LORDS.TYRE.Escanes_Per" source="LORDS.TYRE.0.2_Per" target="LORDS.TYRE.Escanes_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.TYRE.0.2_Per|LORDS.TYRE.0.3_Per" source="LORDS.TYRE.0.2_Per" target="LORDS.TYRE.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.TYRE.0.2_Per|LORDS.TYRE_Per" source="LORDS.TYRE.0.2_Per" target="LORDS.TYRE_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helicanus_Per|LORDS.TYRE.Escanes_Per" source="Helicanus_Per" target="LORDS.TYRE.Escanes_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helicanus_Per|LORDS.TYRE.0.3_Per" source="Helicanus_Per" target="LORDS.TYRE.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helicanus_Per|LORDS.TYRE_Per" source="Helicanus_Per" target="LORDS.TYRE_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helicanus_Per|SAILORS.TYRE.1_Per" source="Helicanus_Per" target="SAILORS.TYRE.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helicanus_Per|GENTLEMEN.TYRE.0.1_Per" source="Helicanus_Per" target="GENTLEMEN.TYRE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helicanus_Per|SAILORS.MYTILENE.1_Per" source="Helicanus_Per" target="SAILORS.MYTILENE.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helicanus_Per|Lysimachus_Per" source="Helicanus_Per" target="Lysimachus_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helicanus_Per|LORDS.MYTILENE.0.1_Per" source="Helicanus_Per" target="LORDS.MYTILENE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helicanus_Per|Marina_Per" source="Helicanus_Per" target="Marina_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Helicanus_Per|Diana_Per" source="Helicanus_Per" target="Diana_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helicanus_Per|Thaisa_Per" source="Helicanus_Per" target="Thaisa_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helicanus_Per|Cerimon_Per" source="Helicanus_Per" target="Cerimon_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleon_Per|Dionyza_Per" source="Cleon_Per" target="Dionyza_Per">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cleon_Per|LORDS.TARSUS.1_Per" source="Cleon_Per" target="LORDS.TARSUS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleon_Per|CITIZENS.TARSUS_Per" source="Cleon_Per" target="CITIZENS.TARSUS_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dionyza_Per|LORDS.TARSUS.1_Per" source="Dionyza_Per" target="LORDS.TARSUS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dionyza_Per|CITIZENS.TARSUS_Per" source="Dionyza_Per" target="CITIZENS.TARSUS_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dionyza_Per|Leonine_Per" source="Dionyza_Per" target="Leonine_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dionyza_Per|Marina_Per" source="Dionyza_Per" target="Marina_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dionyza_Per|PIRATES.0.1_Per" source="Dionyza_Per" target="PIRATES.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dionyza_Per|PIRATES.0.2_Per" source="Dionyza_Per" target="PIRATES.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dionyza_Per|PIRATES.0.3_Per" source="Dionyza_Per" target="PIRATES.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.TARSUS.1_Per|CITIZENS.TARSUS_Per" source="LORDS.TARSUS.1_Per" target="CITIZENS.TARSUS_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FISHERMEN.1_Per|FISHERMEN.2_Per" source="FISHERMEN.1_Per" target="FISHERMEN.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FISHERMEN.1_Per|FISHERMEN.3_Per" source="FISHERMEN.1_Per" target="FISHERMEN.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FISHERMEN.2_Per|FISHERMEN.3_Per" source="FISHERMEN.2_Per" target="FISHERMEN.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Simonides_Per|LORDS.PENTAPOLIS.0.1_Per" source="Simonides_Per" target="LORDS.PENTAPOLIS.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Simonides_Per|Thaisa_Per" source="Simonides_Per" target="Thaisa_Per">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Simonides_Per|LORDS.PENTAPOLIS.0.2_Per" source="Simonides_Per" target="LORDS.PENTAPOLIS.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Simonides_Per|LORDS.PENTAPOLIS.0.3_Per" source="Simonides_Per" target="LORDS.PENTAPOLIS.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Simonides_Per|KNIGHTS_Per" source="Simonides_Per" target="KNIGHTS_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Simonides_Per|Marshal_Per" source="Simonides_Per" target="Marshal_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Simonides_Per|KNIGHTS.0.1_Per" source="Simonides_Per" target="KNIGHTS.0.1_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Simonides_Per|KNIGHTS.0.2_Per" source="Simonides_Per" target="KNIGHTS.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Simonides_Per|KNIGHTS.0.3_Per" source="Simonides_Per" target="KNIGHTS.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.PENTAPOLIS.0.1_Per|Thaisa_Per" source="LORDS.PENTAPOLIS.0.1_Per" target="Thaisa_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.PENTAPOLIS.0.1_Per|LORDS.PENTAPOLIS.0.2_Per" source="LORDS.PENTAPOLIS.0.1_Per" target="LORDS.PENTAPOLIS.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.PENTAPOLIS.0.1_Per|LORDS.PENTAPOLIS.0.3_Per" source="LORDS.PENTAPOLIS.0.1_Per" target="LORDS.PENTAPOLIS.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|LORDS.PENTAPOLIS.0.2_Per" source="Thaisa_Per" target="LORDS.PENTAPOLIS.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|LORDS.PENTAPOLIS.0.3_Per" source="Thaisa_Per" target="LORDS.PENTAPOLIS.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|KNIGHTS_Per" source="Thaisa_Per" target="KNIGHTS_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|Marshal_Per" source="Thaisa_Per" target="Marshal_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|KNIGHTS.0.1_Per" source="Thaisa_Per" target="KNIGHTS.0.1_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Thaisa_Per|KNIGHTS.0.2_Per" source="Thaisa_Per" target="KNIGHTS.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|KNIGHTS.0.3_Per" source="Thaisa_Per" target="KNIGHTS.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|Cerimon_Per" source="Thaisa_Per" target="Cerimon_Per">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Thaisa_Per|Philemon_Per" source="Thaisa_Per" target="Philemon_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|SUPPLIANTS.1_Per" source="Thaisa_Per" target="SUPPLIANTS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|GENTLEMEN.EPHESUS.1_Per" source="Thaisa_Per" target="GENTLEMEN.EPHESUS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|GENTLEMEN.EPHESUS.2_Per" source="Thaisa_Per" target="GENTLEMEN.EPHESUS.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|SERVANTS.CERIMON.0.1_Per" source="Thaisa_Per" target="SERVANTS.CERIMON.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thaisa_Per|Marina_Per" source="Thaisa_Per" target="Marina_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.PENTAPOLIS.0.2_Per|LORDS.PENTAPOLIS.0.3_Per" source="LORDS.PENTAPOLIS.0.2_Per" target="LORDS.PENTAPOLIS.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KNIGHTS_Per|Marshal_Per" source="KNIGHTS_Per" target="Marshal_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KNIGHTS_Per|KNIGHTS.0.1_Per" source="KNIGHTS_Per" target="KNIGHTS.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marshal_Per|KNIGHTS.0.1_Per" source="Marshal_Per" target="KNIGHTS.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KNIGHTS.0.1_Per|KNIGHTS.0.2_Per" source="KNIGHTS.0.1_Per" target="KNIGHTS.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KNIGHTS.0.1_Per|KNIGHTS.0.3_Per" source="KNIGHTS.0.1_Per" target="KNIGHTS.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.TYRE.Escanes_Per|LORDS.TYRE.0.3_Per" source="LORDS.TYRE.Escanes_Per" target="LORDS.TYRE.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.TYRE.Escanes_Per|LORDS.TYRE_Per" source="LORDS.TYRE.Escanes_Per" target="LORDS.TYRE_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.TYRE.0.3_Per|LORDS.TYRE_Per" source="LORDS.TYRE.0.3_Per" target="LORDS.TYRE_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KNIGHTS.0.2_Per|KNIGHTS.0.3_Per" source="KNIGHTS.0.2_Per" target="KNIGHTS.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lychorida_Per|SAILORS.1_Per" source="Lychorida_Per" target="SAILORS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lychorida_Per|SAILORS.2_Per" source="Lychorida_Per" target="SAILORS.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SAILORS.1_Per|SAILORS.2_Per" source="SAILORS.1_Per" target="SAILORS.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cerimon_Per|Philemon_Per" source="Cerimon_Per" target="Philemon_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cerimon_Per|SUPPLIANTS.1_Per" source="Cerimon_Per" target="SUPPLIANTS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cerimon_Per|GENTLEMEN.EPHESUS.1_Per" source="Cerimon_Per" target="GENTLEMEN.EPHESUS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cerimon_Per|GENTLEMEN.EPHESUS.2_Per" source="Cerimon_Per" target="GENTLEMEN.EPHESUS.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cerimon_Per|SERVANTS.CERIMON.0.1_Per" source="Cerimon_Per" target="SERVANTS.CERIMON.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cerimon_Per|Marina_Per" source="Cerimon_Per" target="Marina_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Philemon_Per|SUPPLIANTS.1_Per" source="Philemon_Per" target="SUPPLIANTS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Philemon_Per|GENTLEMEN.EPHESUS.1_Per" source="Philemon_Per" target="GENTLEMEN.EPHESUS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Philemon_Per|GENTLEMEN.EPHESUS.2_Per" source="Philemon_Per" target="GENTLEMEN.EPHESUS.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Philemon_Per|SERVANTS.CERIMON.0.1_Per" source="Philemon_Per" target="SERVANTS.CERIMON.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SUPPLIANTS.1_Per|GENTLEMEN.EPHESUS.1_Per" source="SUPPLIANTS.1_Per" target="GENTLEMEN.EPHESUS.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SUPPLIANTS.1_Per|GENTLEMEN.EPHESUS.2_Per" source="SUPPLIANTS.1_Per" target="GENTLEMEN.EPHESUS.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SUPPLIANTS.1_Per|SERVANTS.CERIMON.0.1_Per" source="SUPPLIANTS.1_Per" target="SERVANTS.CERIMON.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.EPHESUS.1_Per|GENTLEMEN.EPHESUS.2_Per" source="GENTLEMEN.EPHESUS.1_Per" target="GENTLEMEN.EPHESUS.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.EPHESUS.1_Per|SERVANTS.CERIMON.0.1_Per" source="GENTLEMEN.EPHESUS.1_Per" target="SERVANTS.CERIMON.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.EPHESUS.2_Per|SERVANTS.CERIMON.0.1_Per" source="GENTLEMEN.EPHESUS.2_Per" target="SERVANTS.CERIMON.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leonine_Per|Marina_Per" source="Leonine_Per" target="Marina_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leonine_Per|PIRATES.0.1_Per" source="Leonine_Per" target="PIRATES.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leonine_Per|PIRATES.0.2_Per" source="Leonine_Per" target="PIRATES.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leonine_Per|PIRATES.0.3_Per" source="Leonine_Per" target="PIRATES.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marina_Per|PIRATES.0.1_Per" source="Marina_Per" target="PIRATES.0.1_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Marina_Per|PIRATES.0.2_Per" source="Marina_Per" target="PIRATES.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marina_Per|PIRATES.0.3_Per" source="Marina_Per" target="PIRATES.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marina_Per|Pander_Per" source="Marina_Per" target="Pander_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Marina_Per|Bolt_Per" source="Marina_Per" target="Bolt_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Marina_Per|Bawd_Per" source="Marina_Per" target="Bawd_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Marina_Per|Lysimachus_Per" source="Marina_Per" target="Lysimachus_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Marina_Per|SAILORS.TYRE.1_Per" source="Marina_Per" target="SAILORS.TYRE.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marina_Per|GENTLEMEN.TYRE.0.1_Per" source="Marina_Per" target="GENTLEMEN.TYRE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marina_Per|SAILORS.MYTILENE.1_Per" source="Marina_Per" target="SAILORS.MYTILENE.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marina_Per|LORDS.MYTILENE.0.1_Per" source="Marina_Per" target="LORDS.MYTILENE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marina_Per|Diana_Per" source="Marina_Per" target="Diana_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PIRATES.0.1_Per|PIRATES.0.2_Per" source="PIRATES.0.1_Per" target="PIRATES.0.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PIRATES.0.1_Per|PIRATES.0.3_Per" source="PIRATES.0.1_Per" target="PIRATES.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PIRATES.0.1_Per|Pander_Per" source="PIRATES.0.1_Per" target="Pander_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PIRATES.0.1_Per|Bolt_Per" source="PIRATES.0.1_Per" target="Bolt_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PIRATES.0.1_Per|Bawd_Per" source="PIRATES.0.1_Per" target="Bawd_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PIRATES.0.2_Per|PIRATES.0.3_Per" source="PIRATES.0.2_Per" target="PIRATES.0.3_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pander_Per|Bolt_Per" source="Pander_Per" target="Bolt_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pander_Per|Bawd_Per" source="Pander_Per" target="Bawd_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pander_Per|Lysimachus_Per" source="Pander_Per" target="Lysimachus_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bolt_Per|Bawd_Per" source="Bolt_Per" target="Bawd_Per">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bolt_Per|Lysimachus_Per" source="Bolt_Per" target="Lysimachus_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bawd_Per|Lysimachus_Per" source="Bawd_Per" target="Lysimachus_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.MYTILENE.1_Per|GENTLEMEN.MYTILENE.2_Per" source="GENTLEMEN.MYTILENE.1_Per" target="GENTLEMEN.MYTILENE.2_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysimachus_Per|SAILORS.TYRE.1_Per" source="Lysimachus_Per" target="SAILORS.TYRE.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysimachus_Per|GENTLEMEN.TYRE.0.1_Per" source="Lysimachus_Per" target="GENTLEMEN.TYRE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysimachus_Per|SAILORS.MYTILENE.1_Per" source="Lysimachus_Per" target="SAILORS.MYTILENE.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysimachus_Per|LORDS.MYTILENE.0.1_Per" source="Lysimachus_Per" target="LORDS.MYTILENE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysimachus_Per|Diana_Per" source="Lysimachus_Per" target="Diana_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SAILORS.TYRE.1_Per|GENTLEMEN.TYRE.0.1_Per" source="SAILORS.TYRE.1_Per" target="GENTLEMEN.TYRE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SAILORS.TYRE.1_Per|SAILORS.MYTILENE.1_Per" source="SAILORS.TYRE.1_Per" target="SAILORS.MYTILENE.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SAILORS.TYRE.1_Per|LORDS.MYTILENE.0.1_Per" source="SAILORS.TYRE.1_Per" target="LORDS.MYTILENE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SAILORS.TYRE.1_Per|Diana_Per" source="SAILORS.TYRE.1_Per" target="Diana_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.TYRE.0.1_Per|SAILORS.MYTILENE.1_Per" source="GENTLEMEN.TYRE.0.1_Per" target="SAILORS.MYTILENE.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.TYRE.0.1_Per|LORDS.MYTILENE.0.1_Per" source="GENTLEMEN.TYRE.0.1_Per" target="LORDS.MYTILENE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.TYRE.0.1_Per|Diana_Per" source="GENTLEMEN.TYRE.0.1_Per" target="Diana_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SAILORS.MYTILENE.1_Per|LORDS.MYTILENE.0.1_Per" source="SAILORS.MYTILENE.1_Per" target="LORDS.MYTILENE.0.1_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SAILORS.MYTILENE.1_Per|Diana_Per" source="SAILORS.MYTILENE.1_Per" target="Diana_Per">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.MYTILENE.0.1_Per|Diana_Per" source="LORDS.MYTILENE.0.1_Per" target="Diana_Per">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

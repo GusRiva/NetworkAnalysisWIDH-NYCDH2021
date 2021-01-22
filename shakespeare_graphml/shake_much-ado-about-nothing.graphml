@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Leonato_Ado">
+            <data key="label">Leonato</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2642</data>
+        </node>
+        <node id="MESSENGERS.LEONATO.1_Ado">
+            <data key="label">Messenger</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">211</data>
+        </node>
+        <node id="Beatrice_Ado">
+            <data key="label">Beatrice</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2359</data>
+        </node>
+        <node id="Hero_Ado">
+            <data key="label">Hero</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">980</data>
+        </node>
+        <node id="DonPedro_Ado">
+            <data key="label">Don Pedro</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2461</data>
+        </node>
+        <node id="Benedick_Ado">
+            <data key="label">Signior Benedick</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3761</data>
+        </node>
+        <node id="DonJohn_Ado">
+            <data key="label">Don John</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">900</data>
+        </node>
+        <node id="Claudio_Ado">
+            <data key="label">Count Claudio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2012</data>
+        </node>
+        <node id="LeonatosBrother_Ado">
+            <data key="label">Leonato’s Brother</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">396</data>
+        </node>
+        <node id="Conrade_Ado">
+            <data key="label">Conrade</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">248</data>
+        </node>
+        <node id="Borachio_Ado">
+            <data key="label">Borachio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">997</data>
+        </node>
+        <node id="Margaret_Ado">
+            <data key="label">Margaret</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">548</data>
+        </node>
+        <node id="Balthasar_Ado">
+            <data key="label">Balthasar</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">180</data>
+        </node>
+        <node id="Ursula_Ado">
+            <data key="label">Ursula</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">362</data>
+        </node>
+        <node id="Antonio_Ado">
+            <data key="label">Signior Antonio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">19</data>
+        </node>
+        <node id="Boy_Ado">
+            <data key="label">Boy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <node id="Dogberry_Ado">
+            <data key="label">Dogberry</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1541</data>
+        </node>
+        <node id="Verges_Ado">
+            <data key="label">Verges</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">185</data>
+        </node>
+        <node id="WATCHMEN.1_Ado">
+            <data key="label">First Watchman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">101</data>
+        </node>
+        <node id="WATCHMEN.Seacoal_Ado">
+            <data key="label">George Seacoal</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">106</data>
+        </node>
+        <node id="WATCHMEN.2_Ado">
+            <data key="label">Second Watchman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="FriarFrancis_Ado">
+            <data key="label">Friar Francis</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">592</data>
+        </node>
+        <node id="Sexton_Ado">
+            <data key="label">Sexton</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">106</data>
+        </node>
+        <node id="ATTENDANTS.0.1_Ado">
+            <data key="label">Musicians, Lords, Attendants, Son to Leonato’s brother</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="MUSICIANS_Ado">
+            <data key="label">Musicians, Lords, Attendants, Son to Leonato’s brother</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">48</data>
+        </node>
+        <node id="MESSENGERS.DONPEDRO.1_Ado">
+            <data key="label">Messenger</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">17</data>
+        </node>
+        <edge id="Leonato_Ado|MESSENGERS.LEONATO.1_Ado" source="Leonato_Ado" target="MESSENGERS.LEONATO.1_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leonato_Ado|Beatrice_Ado" source="Leonato_Ado" target="Beatrice_Ado">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Leonato_Ado|Hero_Ado" source="Leonato_Ado" target="Hero_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Leonato_Ado|DonPedro_Ado" source="Leonato_Ado" target="DonPedro_Ado">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Leonato_Ado|Benedick_Ado" source="Leonato_Ado" target="Benedick_Ado">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Leonato_Ado|DonJohn_Ado" source="Leonato_Ado" target="DonJohn_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Leonato_Ado|Claudio_Ado" source="Leonato_Ado" target="Claudio_Ado">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Leonato_Ado|LeonatosBrother_Ado" source="Leonato_Ado" target="LeonatosBrother_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Leonato_Ado|Margaret_Ado" source="Leonato_Ado" target="Margaret_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leonato_Ado|Balthasar_Ado" source="Leonato_Ado" target="Balthasar_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leonato_Ado|Ursula_Ado" source="Leonato_Ado" target="Ursula_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leonato_Ado|Antonio_Ado" source="Leonato_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leonato_Ado|Borachio_Ado" source="Leonato_Ado" target="Borachio_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leonato_Ado|Boy_Ado" source="Leonato_Ado" target="Boy_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leonato_Ado|Dogberry_Ado" source="Leonato_Ado" target="Dogberry_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leonato_Ado|Verges_Ado" source="Leonato_Ado" target="Verges_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leonato_Ado|FriarFrancis_Ado" source="Leonato_Ado" target="FriarFrancis_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leonato_Ado|MESSENGERS.DONPEDRO.1_Ado" source="Leonato_Ado" target="MESSENGERS.DONPEDRO.1_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.LEONATO.1_Ado|Beatrice_Ado" source="MESSENGERS.LEONATO.1_Ado" target="Beatrice_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.LEONATO.1_Ado|Hero_Ado" source="MESSENGERS.LEONATO.1_Ado" target="Hero_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.LEONATO.1_Ado|DonPedro_Ado" source="MESSENGERS.LEONATO.1_Ado" target="DonPedro_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.LEONATO.1_Ado|Benedick_Ado" source="MESSENGERS.LEONATO.1_Ado" target="Benedick_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.LEONATO.1_Ado|DonJohn_Ado" source="MESSENGERS.LEONATO.1_Ado" target="DonJohn_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.LEONATO.1_Ado|Claudio_Ado" source="MESSENGERS.LEONATO.1_Ado" target="Claudio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.LEONATO.1_Ado|Dogberry_Ado" source="MESSENGERS.LEONATO.1_Ado" target="Dogberry_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.LEONATO.1_Ado|Verges_Ado" source="MESSENGERS.LEONATO.1_Ado" target="Verges_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Beatrice_Ado|Hero_Ado" source="Beatrice_Ado" target="Hero_Ado">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Beatrice_Ado|DonPedro_Ado" source="Beatrice_Ado" target="DonPedro_Ado">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Beatrice_Ado|Benedick_Ado" source="Beatrice_Ado" target="Benedick_Ado">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Beatrice_Ado|DonJohn_Ado" source="Beatrice_Ado" target="DonJohn_Ado">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Beatrice_Ado|Claudio_Ado" source="Beatrice_Ado" target="Claudio_Ado">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Beatrice_Ado|LeonatosBrother_Ado" source="Beatrice_Ado" target="LeonatosBrother_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Beatrice_Ado|Margaret_Ado" source="Beatrice_Ado" target="Margaret_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Beatrice_Ado|Balthasar_Ado" source="Beatrice_Ado" target="Balthasar_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Beatrice_Ado|Ursula_Ado" source="Beatrice_Ado" target="Ursula_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Beatrice_Ado|Antonio_Ado" source="Beatrice_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Beatrice_Ado|Borachio_Ado" source="Beatrice_Ado" target="Borachio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Beatrice_Ado|Boy_Ado" source="Beatrice_Ado" target="Boy_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Beatrice_Ado|FriarFrancis_Ado" source="Beatrice_Ado" target="FriarFrancis_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Beatrice_Ado|MESSENGERS.DONPEDRO.1_Ado" source="Beatrice_Ado" target="MESSENGERS.DONPEDRO.1_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hero_Ado|DonPedro_Ado" source="Hero_Ado" target="DonPedro_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Hero_Ado|Benedick_Ado" source="Hero_Ado" target="Benedick_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Hero_Ado|DonJohn_Ado" source="Hero_Ado" target="DonJohn_Ado">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Hero_Ado|Claudio_Ado" source="Hero_Ado" target="Claudio_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Hero_Ado|LeonatosBrother_Ado" source="Hero_Ado" target="LeonatosBrother_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hero_Ado|Margaret_Ado" source="Hero_Ado" target="Margaret_Ado">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Hero_Ado|Balthasar_Ado" source="Hero_Ado" target="Balthasar_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hero_Ado|Ursula_Ado" source="Hero_Ado" target="Ursula_Ado">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Hero_Ado|Antonio_Ado" source="Hero_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hero_Ado|Borachio_Ado" source="Hero_Ado" target="Borachio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hero_Ado|FriarFrancis_Ado" source="Hero_Ado" target="FriarFrancis_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hero_Ado|MESSENGERS.DONPEDRO.1_Ado" source="Hero_Ado" target="MESSENGERS.DONPEDRO.1_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonPedro_Ado|Benedick_Ado" source="DonPedro_Ado" target="Benedick_Ado">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="DonPedro_Ado|DonJohn_Ado" source="DonPedro_Ado" target="DonJohn_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="DonPedro_Ado|Claudio_Ado" source="DonPedro_Ado" target="Claudio_Ado">
+            <data key="weight">8</data>
+        </edge>
+        <edge id="DonPedro_Ado|LeonatosBrother_Ado" source="DonPedro_Ado" target="LeonatosBrother_Ado">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="DonPedro_Ado|Margaret_Ado" source="DonPedro_Ado" target="Margaret_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonPedro_Ado|Balthasar_Ado" source="DonPedro_Ado" target="Balthasar_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DonPedro_Ado|Ursula_Ado" source="DonPedro_Ado" target="Ursula_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonPedro_Ado|Antonio_Ado" source="DonPedro_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonPedro_Ado|Borachio_Ado" source="DonPedro_Ado" target="Borachio_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DonPedro_Ado|Boy_Ado" source="DonPedro_Ado" target="Boy_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonPedro_Ado|FriarFrancis_Ado" source="DonPedro_Ado" target="FriarFrancis_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DonPedro_Ado|Dogberry_Ado" source="DonPedro_Ado" target="Dogberry_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonPedro_Ado|Verges_Ado" source="DonPedro_Ado" target="Verges_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonPedro_Ado|ATTENDANTS.0.1_Ado" source="DonPedro_Ado" target="ATTENDANTS.0.1_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonPedro_Ado|MUSICIANS_Ado" source="DonPedro_Ado" target="MUSICIANS_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonPedro_Ado|MESSENGERS.DONPEDRO.1_Ado" source="DonPedro_Ado" target="MESSENGERS.DONPEDRO.1_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benedick_Ado|DonJohn_Ado" source="Benedick_Ado" target="DonJohn_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Benedick_Ado|Claudio_Ado" source="Benedick_Ado" target="Claudio_Ado">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Benedick_Ado|LeonatosBrother_Ado" source="Benedick_Ado" target="LeonatosBrother_Ado">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Benedick_Ado|Margaret_Ado" source="Benedick_Ado" target="Margaret_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Benedick_Ado|Balthasar_Ado" source="Benedick_Ado" target="Balthasar_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Benedick_Ado|Ursula_Ado" source="Benedick_Ado" target="Ursula_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Benedick_Ado|Antonio_Ado" source="Benedick_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benedick_Ado|Borachio_Ado" source="Benedick_Ado" target="Borachio_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Benedick_Ado|Boy_Ado" source="Benedick_Ado" target="Boy_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benedick_Ado|FriarFrancis_Ado" source="Benedick_Ado" target="FriarFrancis_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Benedick_Ado|Dogberry_Ado" source="Benedick_Ado" target="Dogberry_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benedick_Ado|Verges_Ado" source="Benedick_Ado" target="Verges_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benedick_Ado|MESSENGERS.DONPEDRO.1_Ado" source="Benedick_Ado" target="MESSENGERS.DONPEDRO.1_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonJohn_Ado|Claudio_Ado" source="DonJohn_Ado" target="Claudio_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="DonJohn_Ado|Conrade_Ado" source="DonJohn_Ado" target="Conrade_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonJohn_Ado|Borachio_Ado" source="DonJohn_Ado" target="Borachio_Ado">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="DonJohn_Ado|LeonatosBrother_Ado" source="DonJohn_Ado" target="LeonatosBrother_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonJohn_Ado|Margaret_Ado" source="DonJohn_Ado" target="Margaret_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonJohn_Ado|Balthasar_Ado" source="DonJohn_Ado" target="Balthasar_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonJohn_Ado|Ursula_Ado" source="DonJohn_Ado" target="Ursula_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonJohn_Ado|Antonio_Ado" source="DonJohn_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DonJohn_Ado|FriarFrancis_Ado" source="DonJohn_Ado" target="FriarFrancis_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_Ado|LeonatosBrother_Ado" source="Claudio_Ado" target="LeonatosBrother_Ado">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Claudio_Ado|Margaret_Ado" source="Claudio_Ado" target="Margaret_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_Ado|Balthasar_Ado" source="Claudio_Ado" target="Balthasar_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Claudio_Ado|Ursula_Ado" source="Claudio_Ado" target="Ursula_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_Ado|Antonio_Ado" source="Claudio_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_Ado|Borachio_Ado" source="Claudio_Ado" target="Borachio_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Claudio_Ado|Boy_Ado" source="Claudio_Ado" target="Boy_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_Ado|FriarFrancis_Ado" source="Claudio_Ado" target="FriarFrancis_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Claudio_Ado|Dogberry_Ado" source="Claudio_Ado" target="Dogberry_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_Ado|Verges_Ado" source="Claudio_Ado" target="Verges_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_Ado|ATTENDANTS.0.1_Ado" source="Claudio_Ado" target="ATTENDANTS.0.1_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_Ado|MUSICIANS_Ado" source="Claudio_Ado" target="MUSICIANS_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_Ado|MESSENGERS.DONPEDRO.1_Ado" source="Claudio_Ado" target="MESSENGERS.DONPEDRO.1_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LeonatosBrother_Ado|Margaret_Ado" source="LeonatosBrother_Ado" target="Margaret_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LeonatosBrother_Ado|Balthasar_Ado" source="LeonatosBrother_Ado" target="Balthasar_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LeonatosBrother_Ado|Ursula_Ado" source="LeonatosBrother_Ado" target="Ursula_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LeonatosBrother_Ado|Antonio_Ado" source="LeonatosBrother_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LeonatosBrother_Ado|Borachio_Ado" source="LeonatosBrother_Ado" target="Borachio_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LeonatosBrother_Ado|Dogberry_Ado" source="LeonatosBrother_Ado" target="Dogberry_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LeonatosBrother_Ado|Verges_Ado" source="LeonatosBrother_Ado" target="Verges_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LeonatosBrother_Ado|FriarFrancis_Ado" source="LeonatosBrother_Ado" target="FriarFrancis_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LeonatosBrother_Ado|MESSENGERS.DONPEDRO.1_Ado" source="LeonatosBrother_Ado" target="MESSENGERS.DONPEDRO.1_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Conrade_Ado|Borachio_Ado" source="Conrade_Ado" target="Borachio_Ado">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Conrade_Ado|Dogberry_Ado" source="Conrade_Ado" target="Dogberry_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Conrade_Ado|Verges_Ado" source="Conrade_Ado" target="Verges_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Conrade_Ado|WATCHMEN.1_Ado" source="Conrade_Ado" target="WATCHMEN.1_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Conrade_Ado|WATCHMEN.Seacoal_Ado" source="Conrade_Ado" target="WATCHMEN.Seacoal_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Conrade_Ado|WATCHMEN.2_Ado" source="Conrade_Ado" target="WATCHMEN.2_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Conrade_Ado|Sexton_Ado" source="Conrade_Ado" target="Sexton_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Borachio_Ado|Margaret_Ado" source="Borachio_Ado" target="Margaret_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Borachio_Ado|Balthasar_Ado" source="Borachio_Ado" target="Balthasar_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Borachio_Ado|Ursula_Ado" source="Borachio_Ado" target="Ursula_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Borachio_Ado|Antonio_Ado" source="Borachio_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Borachio_Ado|Dogberry_Ado" source="Borachio_Ado" target="Dogberry_Ado">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Borachio_Ado|Verges_Ado" source="Borachio_Ado" target="Verges_Ado">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Borachio_Ado|WATCHMEN.1_Ado" source="Borachio_Ado" target="WATCHMEN.1_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Borachio_Ado|WATCHMEN.Seacoal_Ado" source="Borachio_Ado" target="WATCHMEN.Seacoal_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Borachio_Ado|WATCHMEN.2_Ado" source="Borachio_Ado" target="WATCHMEN.2_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Borachio_Ado|Sexton_Ado" source="Borachio_Ado" target="Sexton_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Margaret_Ado|Balthasar_Ado" source="Margaret_Ado" target="Balthasar_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Margaret_Ado|Ursula_Ado" source="Margaret_Ado" target="Ursula_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Margaret_Ado|Antonio_Ado" source="Margaret_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Balthasar_Ado|Ursula_Ado" source="Balthasar_Ado" target="Ursula_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Balthasar_Ado|Antonio_Ado" source="Balthasar_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Balthasar_Ado|Boy_Ado" source="Balthasar_Ado" target="Boy_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ursula_Ado|Antonio_Ado" source="Ursula_Ado" target="Antonio_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dogberry_Ado|Verges_Ado" source="Dogberry_Ado" target="Verges_Ado">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Dogberry_Ado|WATCHMEN.1_Ado" source="Dogberry_Ado" target="WATCHMEN.1_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Dogberry_Ado|WATCHMEN.Seacoal_Ado" source="Dogberry_Ado" target="WATCHMEN.Seacoal_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Dogberry_Ado|WATCHMEN.2_Ado" source="Dogberry_Ado" target="WATCHMEN.2_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dogberry_Ado|Sexton_Ado" source="Dogberry_Ado" target="Sexton_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Verges_Ado|WATCHMEN.1_Ado" source="Verges_Ado" target="WATCHMEN.1_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Verges_Ado|WATCHMEN.Seacoal_Ado" source="Verges_Ado" target="WATCHMEN.Seacoal_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Verges_Ado|WATCHMEN.2_Ado" source="Verges_Ado" target="WATCHMEN.2_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Verges_Ado|Sexton_Ado" source="Verges_Ado" target="Sexton_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.1_Ado|WATCHMEN.Seacoal_Ado" source="WATCHMEN.1_Ado" target="WATCHMEN.Seacoal_Ado">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="WATCHMEN.1_Ado|WATCHMEN.2_Ado" source="WATCHMEN.1_Ado" target="WATCHMEN.2_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.1_Ado|Sexton_Ado" source="WATCHMEN.1_Ado" target="Sexton_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.Seacoal_Ado|WATCHMEN.2_Ado" source="WATCHMEN.Seacoal_Ado" target="WATCHMEN.2_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.Seacoal_Ado|Sexton_Ado" source="WATCHMEN.Seacoal_Ado" target="Sexton_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FriarFrancis_Ado|MESSENGERS.DONPEDRO.1_Ado" source="FriarFrancis_Ado" target="MESSENGERS.DONPEDRO.1_Ado">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.0.1_Ado|MUSICIANS_Ado" source="ATTENDANTS.0.1_Ado" target="MUSICIANS_Ado">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

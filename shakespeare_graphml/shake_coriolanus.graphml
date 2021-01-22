@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="CITIZENS.ROMAN.0.1_Cor">
+            <data key="label">CITIZENS.ROMAN.0.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">328</data>
+        </node>
+        <node id="CITIZENS.ROMAN_Cor">
+            <data key="label">Citizens Plebeians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">149</data>
+        </node>
+        <node id="CITIZENS.ROMAN.0.2_Cor">
+            <data key="label">CITIZENS.ROMAN.0.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">311</data>
+        </node>
+        <node id="Menenius_Cor">
+            <data key="label">Menenius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4288</data>
+        </node>
+        <node id="Coriolanus_Cor">
+            <data key="label">Martius Coriolanus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6481</data>
+        </node>
+        <node id="MESSENGERS.X.1_Cor">
+            <data key="label">MESSENGERS.X.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">12</data>
+        </node>
+        <node id="SENATORS.ROMAN.0.1_Cor">
+            <data key="label">SENATORS.ROMAN.0.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">259</data>
+        </node>
+        <node id="Cominius_Cor">
+            <data key="label">Cominius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1919</data>
+        </node>
+        <node id="Lartius_Cor">
+            <data key="label">Lartius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">394</data>
+        </node>
+        <node id="TRIBUNES.Sicinius_Cor">
+            <data key="label">Sicinius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1928</data>
+        </node>
+        <node id="TRIBUNES.Brutus_Cor">
+            <data key="label">Brutus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1603</data>
+        </node>
+        <node id="SENATORS.VOLSCIAN.0.1_Cor">
+            <data key="label">SENATORS.VOLSCIAN.0.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">103</data>
+        </node>
+        <node id="Aufidius_Cor">
+            <data key="label">Aufidius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2034</data>
+        </node>
+        <node id="SENATORS.VOLSCIAN.0.2_Cor">
+            <data key="label">SENATORS.VOLSCIAN.0.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">40</data>
+        </node>
+        <node id="SENATORS.VOLSCIAN_Cor">
+            <data key="label">SENATORS.VOLSCIAN_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="Volumnia_Cor">
+            <data key="label">Volumnia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2414</data>
+        </node>
+        <node id="Virgilia_Cor">
+            <data key="label">Virgilia</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">238</data>
+        </node>
+        <node id="Gentlewoman_Cor">
+            <data key="label">Gentlewoman</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="Valeria_Cor">
+            <data key="label">Valeria</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">355</data>
+        </node>
+        <node id="MESSENGERS.X.2_Cor">
+            <data key="label">MESSENGERS.X.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">15</data>
+        </node>
+        <node id="SOLDIERS.ROMAN.0.1_Cor">
+            <data key="label">SOLDIERS.ROMAN.0.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">45</data>
+        </node>
+        <node id="SOLDIERS.ROMAN.0.2_Cor">
+            <data key="label">SOLDIERS.ROMAN.0.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="SOLDIERS.ROMAN_Cor">
+            <data key="label">Soldiers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">12</data>
+        </node>
+        <node id="SOLDIERS.ROMAN.0.3_Cor">
+            <data key="label">SOLDIERS.ROMAN.0.3_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="MESSENGERS.X.3_Cor">
+            <data key="label">MESSENGERS.X.3_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">62</data>
+        </node>
+        <node id="SOLDIERS.ROMAN.Lieutenant_Cor">
+            <data key="label">Lieutenant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="SOLDIERS.VOLSCIAN.0.1_Cor">
+            <data key="label">SOLDIERS.VOLSCIAN.0.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">17</data>
+        </node>
+        <node id="Herald_Cor">
+            <data key="label">Herald</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">38</data>
+        </node>
+        <node id="MESSENGERS.X.4_Cor">
+            <data key="label">MESSENGERS.X.4_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">71</data>
+        </node>
+        <node id="OFFICERS.1_Cor">
+            <data key="label">OFFICERS.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">114</data>
+        </node>
+        <node id="OFFICERS.2_Cor">
+            <data key="label">OFFICERS.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">186</data>
+        </node>
+        <node id="SENATORS.ROMAN_Cor">
+            <data key="label">Senators Patricians Nobles</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">19</data>
+        </node>
+        <node id="CITIZENS.ROMAN.1_Cor">
+            <data key="label">CITIZENS.ROMAN.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">94</data>
+        </node>
+        <node id="CITIZENS.ROMAN.2_Cor">
+            <data key="label">CITIZENS.ROMAN.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">119</data>
+        </node>
+        <node id="CITIZENS.ROMAN.3_Cor">
+            <data key="label">CITIZENS.ROMAN.3_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">461</data>
+        </node>
+        <node id="CITIZENS.ROMAN.4_Cor">
+            <data key="label">CITIZENS.ROMAN.4_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">69</data>
+        </node>
+        <node id="CITIZENS.ROMAN.5_Cor">
+            <data key="label">CITIZENS.ROMAN.5_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">38</data>
+        </node>
+        <node id="CITIZENS.ROMAN.6_Cor">
+            <data key="label">CITIZENS.ROMAN.6_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">36</data>
+        </node>
+        <node id="CITIZENS.ROMAN.7_Cor">
+            <data key="label">CITIZENS.ROMAN.7_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">42</data>
+        </node>
+        <node id="CITIZENS.ROMAN.8_Cor">
+            <data key="label">CITIZENS.ROMAN.8_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="SENATORS.ROMAN.0.2_Cor">
+            <data key="label">SENATORS.ROMAN.0.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">15</data>
+        </node>
+        <node id="AEDILES_Cor">
+            <data key="label">Aediles</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">2</data>
+        </node>
+        <node id="NOBLES.0.1_Cor">
+            <data key="label">Roman Lords, Gentry, Captains, Lictors, Trumpeters, Drummers, Musicians, Attendants, and Usher</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="AEDILES.X.2_Cor">
+            <data key="label">AEDILES.X.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">39</data>
+        </node>
+        <node id="Nicanor_Cor">
+            <data key="label">Roman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">234</data>
+        </node>
+        <node id="Adrian_Cor">
+            <data key="label">Volscian</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">160</data>
+        </node>
+        <node id="CITIZENS.ANTIUM.1_Cor">
+            <data key="label">Citizen</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">20</data>
+        </node>
+        <node id="SERVANTS.1_Cor">
+            <data key="label">SERVANTS.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">248</data>
+        </node>
+        <node id="SERVANTS.2_Cor">
+            <data key="label">SERVANTS.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">267</data>
+        </node>
+        <node id="SERVANTS.3_Cor">
+            <data key="label">SERVANTS.3_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">397</data>
+        </node>
+        <node id="AEDILES.X.3_Cor">
+            <data key="label">AEDILES.X.3_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">38</data>
+        </node>
+        <node id="MESSENGERS.TRIBUNES.1_Cor">
+            <data key="label">MESSENGERS.TRIBUNES.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">109</data>
+        </node>
+        <node id="MESSENGERS.TRIBUNES.2_Cor">
+            <data key="label">MESSENGERS.TRIBUNES.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">137</data>
+        </node>
+        <node id="CITIZENS.ROMAN.0.3_Cor">
+            <data key="label">CITIZENS.ROMAN.0.3_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">37</data>
+        </node>
+        <node id="SOLDIERS.VOLSCIAN.Lieutenant_Cor">
+            <data key="label">Lieutenant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">81</data>
+        </node>
+        <node id="WATCHMEN.1_Cor">
+            <data key="label">WATCHMEN.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">252</data>
+        </node>
+        <node id="WATCHMEN.2_Cor">
+            <data key="label">WATCHMEN.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">81</data>
+        </node>
+        <node id="YoungMartius_Cor">
+            <data key="label">Young Martius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">17</data>
+        </node>
+        <node id="CONSPIRATORS.0.1_Cor">
+            <data key="label">CONSPIRATORS.0.1_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">56</data>
+        </node>
+        <node id="CONSPIRATORS.0.2_Cor">
+            <data key="label">CONSPIRATORS.0.2_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">38</data>
+        </node>
+        <node id="CONSPIRATORS.0.3_Cor">
+            <data key="label">CONSPIRATORS.0.3_Cor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">80</data>
+        </node>
+        <node id="LORDS.VOLSCIAN_Cor">
+            <data key="label">Senators Lords</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">11</data>
+        </node>
+        <node id="LORDS.VOLSCIAN.0.1_Cor">
+            <data key="label">Roman Lords, Gentry, Captains, Lictors, Trumpeters, Drummers, Musicians, Attendants, and Usher</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">89</data>
+        </node>
+        <node id="CONSPIRATORS_Cor">
+            <data key="label">Conspirators</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">11</data>
+        </node>
+        <node id="CITIZENS.VOLSCIAN_Cor">
+            <data key="label">People</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">22</data>
+        </node>
+        <node id="LORDS.VOLSCIAN.0.2_Cor">
+            <data key="label">Roman Lords, Gentry, Captains, Lictors, Trumpeters, Drummers, Musicians, Attendants, and Usher</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">61</data>
+        </node>
+        <node id="LORDS.VOLSCIAN.0.3_Cor">
+            <data key="label">Roman Lords, Gentry, Captains, Lictors, Trumpeters, Drummers, Musicians, Attendants, and Usher</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">12</data>
+        </node>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|CITIZENS.ROMAN_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="CITIZENS.ROMAN_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|CITIZENS.ROMAN.0.2_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="CITIZENS.ROMAN.0.2_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|Menenius_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="Menenius_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|Coriolanus_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="Coriolanus_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|MESSENGERS.X.1_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="MESSENGERS.X.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|SENATORS.ROMAN.0.1_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="SENATORS.ROMAN.0.1_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|Cominius_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="Cominius_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|Lartius_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="Lartius_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|TRIBUNES.Sicinius_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="TRIBUNES.Sicinius_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|TRIBUNES.Brutus_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="TRIBUNES.Brutus_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|SENATORS.ROMAN_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="SENATORS.ROMAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|SENATORS.ROMAN.0.2_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="SENATORS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|AEDILES_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="AEDILES_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|AEDILES.X.3_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="AEDILES.X.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|MESSENGERS.TRIBUNES.1_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="MESSENGERS.TRIBUNES.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|MESSENGERS.TRIBUNES.2_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="MESSENGERS.TRIBUNES.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.1_Cor|CITIZENS.ROMAN.0.3_Cor" source="CITIZENS.ROMAN.0.1_Cor" target="CITIZENS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|CITIZENS.ROMAN.0.2_Cor" source="CITIZENS.ROMAN_Cor" target="CITIZENS.ROMAN.0.2_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|Menenius_Cor" source="CITIZENS.ROMAN_Cor" target="Menenius_Cor">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|Coriolanus_Cor" source="CITIZENS.ROMAN_Cor" target="Coriolanus_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|MESSENGERS.X.1_Cor" source="CITIZENS.ROMAN_Cor" target="MESSENGERS.X.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|SENATORS.ROMAN.0.1_Cor" source="CITIZENS.ROMAN_Cor" target="SENATORS.ROMAN.0.1_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|Cominius_Cor" source="CITIZENS.ROMAN_Cor" target="Cominius_Cor">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|Lartius_Cor" source="CITIZENS.ROMAN_Cor" target="Lartius_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|TRIBUNES.Sicinius_Cor" source="CITIZENS.ROMAN_Cor" target="TRIBUNES.Sicinius_Cor">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|TRIBUNES.Brutus_Cor" source="CITIZENS.ROMAN_Cor" target="TRIBUNES.Brutus_Cor">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|SENATORS.ROMAN_Cor" source="CITIZENS.ROMAN_Cor" target="SENATORS.ROMAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|SENATORS.ROMAN.0.2_Cor" source="CITIZENS.ROMAN_Cor" target="SENATORS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|AEDILES_Cor" source="CITIZENS.ROMAN_Cor" target="AEDILES_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|AEDILES.X.2_Cor" source="CITIZENS.ROMAN_Cor" target="AEDILES.X.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|AEDILES.X.3_Cor" source="CITIZENS.ROMAN_Cor" target="AEDILES.X.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|MESSENGERS.TRIBUNES.1_Cor" source="CITIZENS.ROMAN_Cor" target="MESSENGERS.TRIBUNES.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|MESSENGERS.TRIBUNES.2_Cor" source="CITIZENS.ROMAN_Cor" target="MESSENGERS.TRIBUNES.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN_Cor|CITIZENS.ROMAN.0.3_Cor" source="CITIZENS.ROMAN_Cor" target="CITIZENS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|Menenius_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="Menenius_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|Coriolanus_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="Coriolanus_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|MESSENGERS.X.1_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="MESSENGERS.X.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|SENATORS.ROMAN.0.1_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="SENATORS.ROMAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|Cominius_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="Cominius_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|Lartius_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="Lartius_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|TRIBUNES.Sicinius_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="TRIBUNES.Sicinius_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|TRIBUNES.Brutus_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="TRIBUNES.Brutus_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|AEDILES.X.3_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="AEDILES.X.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|MESSENGERS.TRIBUNES.1_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="MESSENGERS.TRIBUNES.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|MESSENGERS.TRIBUNES.2_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="MESSENGERS.TRIBUNES.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.0.2_Cor|CITIZENS.ROMAN.0.3_Cor" source="CITIZENS.ROMAN.0.2_Cor" target="CITIZENS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|Coriolanus_Cor" source="Menenius_Cor" target="Coriolanus_Cor">
+            <data key="weight">9</data>
+        </edge>
+        <edge id="Menenius_Cor|MESSENGERS.X.1_Cor" source="Menenius_Cor" target="MESSENGERS.X.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|SENATORS.ROMAN.0.1_Cor" source="Menenius_Cor" target="SENATORS.ROMAN.0.1_Cor">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Menenius_Cor|Cominius_Cor" source="Menenius_Cor" target="Cominius_Cor">
+            <data key="weight">9</data>
+        </edge>
+        <edge id="Menenius_Cor|Lartius_Cor" source="Menenius_Cor" target="Lartius_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Menenius_Cor|TRIBUNES.Sicinius_Cor" source="Menenius_Cor" target="TRIBUNES.Sicinius_Cor">
+            <data key="weight">10</data>
+        </edge>
+        <edge id="Menenius_Cor|TRIBUNES.Brutus_Cor" source="Menenius_Cor" target="TRIBUNES.Brutus_Cor">
+            <data key="weight">9</data>
+        </edge>
+        <edge id="Menenius_Cor|Volumnia_Cor" source="Menenius_Cor" target="Volumnia_Cor">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Menenius_Cor|Valeria_Cor" source="Menenius_Cor" target="Valeria_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|Virgilia_Cor" source="Menenius_Cor" target="Virgilia_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Menenius_Cor|Herald_Cor" source="Menenius_Cor" target="Herald_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|MESSENGERS.X.4_Cor" source="Menenius_Cor" target="MESSENGERS.X.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|OFFICERS.1_Cor" source="Menenius_Cor" target="OFFICERS.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|OFFICERS.2_Cor" source="Menenius_Cor" target="OFFICERS.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|SENATORS.ROMAN_Cor" source="Menenius_Cor" target="SENATORS.ROMAN_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Menenius_Cor|CITIZENS.ROMAN.1_Cor" source="Menenius_Cor" target="CITIZENS.ROMAN.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|CITIZENS.ROMAN.2_Cor" source="Menenius_Cor" target="CITIZENS.ROMAN.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|CITIZENS.ROMAN.3_Cor" source="Menenius_Cor" target="CITIZENS.ROMAN.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|CITIZENS.ROMAN.4_Cor" source="Menenius_Cor" target="CITIZENS.ROMAN.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|CITIZENS.ROMAN.5_Cor" source="Menenius_Cor" target="CITIZENS.ROMAN.5_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|CITIZENS.ROMAN.6_Cor" source="Menenius_Cor" target="CITIZENS.ROMAN.6_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|CITIZENS.ROMAN.7_Cor" source="Menenius_Cor" target="CITIZENS.ROMAN.7_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|CITIZENS.ROMAN.8_Cor" source="Menenius_Cor" target="CITIZENS.ROMAN.8_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|SENATORS.ROMAN.0.2_Cor" source="Menenius_Cor" target="SENATORS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|AEDILES_Cor" source="Menenius_Cor" target="AEDILES_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|NOBLES.0.1_Cor" source="Menenius_Cor" target="NOBLES.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|AEDILES.X.2_Cor" source="Menenius_Cor" target="AEDILES.X.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|AEDILES.X.3_Cor" source="Menenius_Cor" target="AEDILES.X.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|MESSENGERS.TRIBUNES.1_Cor" source="Menenius_Cor" target="MESSENGERS.TRIBUNES.1_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Menenius_Cor|MESSENGERS.TRIBUNES.2_Cor" source="Menenius_Cor" target="MESSENGERS.TRIBUNES.2_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Menenius_Cor|CITIZENS.ROMAN.0.3_Cor" source="Menenius_Cor" target="CITIZENS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|WATCHMEN.1_Cor" source="Menenius_Cor" target="WATCHMEN.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|WATCHMEN.2_Cor" source="Menenius_Cor" target="WATCHMEN.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menenius_Cor|Aufidius_Cor" source="Menenius_Cor" target="Aufidius_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|MESSENGERS.X.1_Cor" source="Coriolanus_Cor" target="MESSENGERS.X.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|SENATORS.ROMAN.0.1_Cor" source="Coriolanus_Cor" target="SENATORS.ROMAN.0.1_Cor">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Coriolanus_Cor|Cominius_Cor" source="Coriolanus_Cor" target="Cominius_Cor">
+            <data key="weight">9</data>
+        </edge>
+        <edge id="Coriolanus_Cor|Lartius_Cor" source="Coriolanus_Cor" target="Lartius_Cor">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Coriolanus_Cor|TRIBUNES.Sicinius_Cor" source="Coriolanus_Cor" target="TRIBUNES.Sicinius_Cor">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Coriolanus_Cor|TRIBUNES.Brutus_Cor" source="Coriolanus_Cor" target="TRIBUNES.Brutus_Cor">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Coriolanus_Cor|MESSENGERS.X.2_Cor" source="Coriolanus_Cor" target="MESSENGERS.X.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|SENATORS.VOLSCIAN.0.1_Cor" source="Coriolanus_Cor" target="SENATORS.VOLSCIAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|SOLDIERS.ROMAN.0.1_Cor" source="Coriolanus_Cor" target="SOLDIERS.ROMAN.0.1_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Coriolanus_Cor|SOLDIERS.ROMAN.0.2_Cor" source="Coriolanus_Cor" target="SOLDIERS.ROMAN.0.2_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Coriolanus_Cor|SOLDIERS.ROMAN_Cor" source="Coriolanus_Cor" target="SOLDIERS.ROMAN_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Coriolanus_Cor|SOLDIERS.ROMAN.0.3_Cor" source="Coriolanus_Cor" target="SOLDIERS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|MESSENGERS.X.3_Cor" source="Coriolanus_Cor" target="MESSENGERS.X.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|Aufidius_Cor" source="Coriolanus_Cor" target="Aufidius_Cor">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Coriolanus_Cor|Volumnia_Cor" source="Coriolanus_Cor" target="Volumnia_Cor">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Coriolanus_Cor|Valeria_Cor" source="Coriolanus_Cor" target="Valeria_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|Virgilia_Cor" source="Coriolanus_Cor" target="Virgilia_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Coriolanus_Cor|Herald_Cor" source="Coriolanus_Cor" target="Herald_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|MESSENGERS.X.4_Cor" source="Coriolanus_Cor" target="MESSENGERS.X.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|OFFICERS.1_Cor" source="Coriolanus_Cor" target="OFFICERS.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|OFFICERS.2_Cor" source="Coriolanus_Cor" target="OFFICERS.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|SENATORS.ROMAN_Cor" source="Coriolanus_Cor" target="SENATORS.ROMAN_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CITIZENS.ROMAN.1_Cor" source="Coriolanus_Cor" target="CITIZENS.ROMAN.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CITIZENS.ROMAN.2_Cor" source="Coriolanus_Cor" target="CITIZENS.ROMAN.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CITIZENS.ROMAN.3_Cor" source="Coriolanus_Cor" target="CITIZENS.ROMAN.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CITIZENS.ROMAN.4_Cor" source="Coriolanus_Cor" target="CITIZENS.ROMAN.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CITIZENS.ROMAN.5_Cor" source="Coriolanus_Cor" target="CITIZENS.ROMAN.5_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CITIZENS.ROMAN.6_Cor" source="Coriolanus_Cor" target="CITIZENS.ROMAN.6_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CITIZENS.ROMAN.7_Cor" source="Coriolanus_Cor" target="CITIZENS.ROMAN.7_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CITIZENS.ROMAN.8_Cor" source="Coriolanus_Cor" target="CITIZENS.ROMAN.8_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|SENATORS.ROMAN.0.2_Cor" source="Coriolanus_Cor" target="SENATORS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|AEDILES_Cor" source="Coriolanus_Cor" target="AEDILES_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|NOBLES.0.1_Cor" source="Coriolanus_Cor" target="NOBLES.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|AEDILES.X.2_Cor" source="Coriolanus_Cor" target="AEDILES.X.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CITIZENS.ANTIUM.1_Cor" source="Coriolanus_Cor" target="CITIZENS.ANTIUM.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|SERVANTS.1_Cor" source="Coriolanus_Cor" target="SERVANTS.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|SERVANTS.2_Cor" source="Coriolanus_Cor" target="SERVANTS.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|SERVANTS.3_Cor" source="Coriolanus_Cor" target="SERVANTS.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|WATCHMEN.1_Cor" source="Coriolanus_Cor" target="WATCHMEN.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|WATCHMEN.2_Cor" source="Coriolanus_Cor" target="WATCHMEN.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|YoungMartius_Cor" source="Coriolanus_Cor" target="YoungMartius_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CONSPIRATORS.0.1_Cor" source="Coriolanus_Cor" target="CONSPIRATORS.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CONSPIRATORS.0.2_Cor" source="Coriolanus_Cor" target="CONSPIRATORS.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CONSPIRATORS.0.3_Cor" source="Coriolanus_Cor" target="CONSPIRATORS.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|LORDS.VOLSCIAN_Cor" source="Coriolanus_Cor" target="LORDS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|LORDS.VOLSCIAN.0.1_Cor" source="Coriolanus_Cor" target="LORDS.VOLSCIAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CONSPIRATORS_Cor" source="Coriolanus_Cor" target="CONSPIRATORS_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|CITIZENS.VOLSCIAN_Cor" source="Coriolanus_Cor" target="CITIZENS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|LORDS.VOLSCIAN.0.2_Cor" source="Coriolanus_Cor" target="LORDS.VOLSCIAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Coriolanus_Cor|LORDS.VOLSCIAN.0.3_Cor" source="Coriolanus_Cor" target="LORDS.VOLSCIAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Cor|SENATORS.ROMAN.0.1_Cor" source="MESSENGERS.X.1_Cor" target="SENATORS.ROMAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Cor|Cominius_Cor" source="MESSENGERS.X.1_Cor" target="Cominius_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Cor|Lartius_Cor" source="MESSENGERS.X.1_Cor" target="Lartius_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Cor|TRIBUNES.Sicinius_Cor" source="MESSENGERS.X.1_Cor" target="TRIBUNES.Sicinius_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Cor|TRIBUNES.Brutus_Cor" source="MESSENGERS.X.1_Cor" target="TRIBUNES.Brutus_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|Cominius_Cor" source="SENATORS.ROMAN.0.1_Cor" target="Cominius_Cor">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|Lartius_Cor" source="SENATORS.ROMAN.0.1_Cor" target="Lartius_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|TRIBUNES.Sicinius_Cor" source="SENATORS.ROMAN.0.1_Cor" target="TRIBUNES.Sicinius_Cor">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|TRIBUNES.Brutus_Cor" source="SENATORS.ROMAN.0.1_Cor" target="TRIBUNES.Brutus_Cor">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|OFFICERS.1_Cor" source="SENATORS.ROMAN.0.1_Cor" target="OFFICERS.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|OFFICERS.2_Cor" source="SENATORS.ROMAN.0.1_Cor" target="OFFICERS.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|SENATORS.ROMAN_Cor" source="SENATORS.ROMAN.0.1_Cor" target="SENATORS.ROMAN_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|SENATORS.ROMAN.0.2_Cor" source="SENATORS.ROMAN.0.1_Cor" target="SENATORS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|AEDILES_Cor" source="SENATORS.ROMAN.0.1_Cor" target="AEDILES_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|NOBLES.0.1_Cor" source="SENATORS.ROMAN.0.1_Cor" target="NOBLES.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|Volumnia_Cor" source="SENATORS.ROMAN.0.1_Cor" target="Volumnia_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.1_Cor|AEDILES.X.2_Cor" source="SENATORS.ROMAN.0.1_Cor" target="AEDILES.X.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|Lartius_Cor" source="Cominius_Cor" target="Lartius_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cominius_Cor|TRIBUNES.Sicinius_Cor" source="Cominius_Cor" target="TRIBUNES.Sicinius_Cor">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Cominius_Cor|TRIBUNES.Brutus_Cor" source="Cominius_Cor" target="TRIBUNES.Brutus_Cor">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Cominius_Cor|MESSENGERS.X.3_Cor" source="Cominius_Cor" target="MESSENGERS.X.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|SOLDIERS.ROMAN_Cor" source="Cominius_Cor" target="SOLDIERS.ROMAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|Volumnia_Cor" source="Cominius_Cor" target="Volumnia_Cor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cominius_Cor|Valeria_Cor" source="Cominius_Cor" target="Valeria_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|Virgilia_Cor" source="Cominius_Cor" target="Virgilia_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cominius_Cor|Herald_Cor" source="Cominius_Cor" target="Herald_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|MESSENGERS.X.4_Cor" source="Cominius_Cor" target="MESSENGERS.X.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|OFFICERS.1_Cor" source="Cominius_Cor" target="OFFICERS.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|OFFICERS.2_Cor" source="Cominius_Cor" target="OFFICERS.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|SENATORS.ROMAN_Cor" source="Cominius_Cor" target="SENATORS.ROMAN_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cominius_Cor|SENATORS.ROMAN.0.2_Cor" source="Cominius_Cor" target="SENATORS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|AEDILES_Cor" source="Cominius_Cor" target="AEDILES_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|NOBLES.0.1_Cor" source="Cominius_Cor" target="NOBLES.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|AEDILES.X.2_Cor" source="Cominius_Cor" target="AEDILES.X.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|AEDILES.X.3_Cor" source="Cominius_Cor" target="AEDILES.X.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|MESSENGERS.TRIBUNES.1_Cor" source="Cominius_Cor" target="MESSENGERS.TRIBUNES.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|MESSENGERS.TRIBUNES.2_Cor" source="Cominius_Cor" target="MESSENGERS.TRIBUNES.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cominius_Cor|CITIZENS.ROMAN.0.3_Cor" source="Cominius_Cor" target="CITIZENS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lartius_Cor|TRIBUNES.Sicinius_Cor" source="Lartius_Cor" target="TRIBUNES.Sicinius_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lartius_Cor|TRIBUNES.Brutus_Cor" source="Lartius_Cor" target="TRIBUNES.Brutus_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lartius_Cor|MESSENGERS.X.2_Cor" source="Lartius_Cor" target="MESSENGERS.X.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lartius_Cor|SENATORS.VOLSCIAN.0.1_Cor" source="Lartius_Cor" target="SENATORS.VOLSCIAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lartius_Cor|SOLDIERS.ROMAN.0.1_Cor" source="Lartius_Cor" target="SOLDIERS.ROMAN.0.1_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lartius_Cor|SOLDIERS.ROMAN.0.2_Cor" source="Lartius_Cor" target="SOLDIERS.ROMAN.0.2_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lartius_Cor|SOLDIERS.ROMAN_Cor" source="Lartius_Cor" target="SOLDIERS.ROMAN_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lartius_Cor|SOLDIERS.ROMAN.0.3_Cor" source="Lartius_Cor" target="SOLDIERS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lartius_Cor|SOLDIERS.ROMAN.Lieutenant_Cor" source="Lartius_Cor" target="SOLDIERS.ROMAN.Lieutenant_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lartius_Cor|SENATORS.ROMAN_Cor" source="Lartius_Cor" target="SENATORS.ROMAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lartius_Cor|SENATORS.ROMAN.0.2_Cor" source="Lartius_Cor" target="SENATORS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lartius_Cor|AEDILES_Cor" source="Lartius_Cor" target="AEDILES_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|TRIBUNES.Brutus_Cor" source="TRIBUNES.Sicinius_Cor" target="TRIBUNES.Brutus_Cor">
+            <data key="weight">9</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|Volumnia_Cor" source="TRIBUNES.Sicinius_Cor" target="Volumnia_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|Valeria_Cor" source="TRIBUNES.Sicinius_Cor" target="Valeria_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|Virgilia_Cor" source="TRIBUNES.Sicinius_Cor" target="Virgilia_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|Herald_Cor" source="TRIBUNES.Sicinius_Cor" target="Herald_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|MESSENGERS.X.4_Cor" source="TRIBUNES.Sicinius_Cor" target="MESSENGERS.X.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|OFFICERS.1_Cor" source="TRIBUNES.Sicinius_Cor" target="OFFICERS.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|OFFICERS.2_Cor" source="TRIBUNES.Sicinius_Cor" target="OFFICERS.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|SENATORS.ROMAN_Cor" source="TRIBUNES.Sicinius_Cor" target="SENATORS.ROMAN_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|CITIZENS.ROMAN.1_Cor" source="TRIBUNES.Sicinius_Cor" target="CITIZENS.ROMAN.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|CITIZENS.ROMAN.2_Cor" source="TRIBUNES.Sicinius_Cor" target="CITIZENS.ROMAN.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|CITIZENS.ROMAN.3_Cor" source="TRIBUNES.Sicinius_Cor" target="CITIZENS.ROMAN.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|CITIZENS.ROMAN.4_Cor" source="TRIBUNES.Sicinius_Cor" target="CITIZENS.ROMAN.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|CITIZENS.ROMAN.5_Cor" source="TRIBUNES.Sicinius_Cor" target="CITIZENS.ROMAN.5_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|CITIZENS.ROMAN.6_Cor" source="TRIBUNES.Sicinius_Cor" target="CITIZENS.ROMAN.6_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|CITIZENS.ROMAN.7_Cor" source="TRIBUNES.Sicinius_Cor" target="CITIZENS.ROMAN.7_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|CITIZENS.ROMAN.8_Cor" source="TRIBUNES.Sicinius_Cor" target="CITIZENS.ROMAN.8_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|SENATORS.ROMAN.0.2_Cor" source="TRIBUNES.Sicinius_Cor" target="SENATORS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|AEDILES_Cor" source="TRIBUNES.Sicinius_Cor" target="AEDILES_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|AEDILES.X.2_Cor" source="TRIBUNES.Sicinius_Cor" target="AEDILES.X.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|AEDILES.X.3_Cor" source="TRIBUNES.Sicinius_Cor" target="AEDILES.X.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|MESSENGERS.TRIBUNES.1_Cor" source="TRIBUNES.Sicinius_Cor" target="MESSENGERS.TRIBUNES.1_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|MESSENGERS.TRIBUNES.2_Cor" source="TRIBUNES.Sicinius_Cor" target="MESSENGERS.TRIBUNES.2_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="TRIBUNES.Sicinius_Cor|CITIZENS.ROMAN.0.3_Cor" source="TRIBUNES.Sicinius_Cor" target="CITIZENS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|Volumnia_Cor" source="TRIBUNES.Brutus_Cor" target="Volumnia_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|Valeria_Cor" source="TRIBUNES.Brutus_Cor" target="Valeria_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|Virgilia_Cor" source="TRIBUNES.Brutus_Cor" target="Virgilia_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|Herald_Cor" source="TRIBUNES.Brutus_Cor" target="Herald_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|MESSENGERS.X.4_Cor" source="TRIBUNES.Brutus_Cor" target="MESSENGERS.X.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|OFFICERS.1_Cor" source="TRIBUNES.Brutus_Cor" target="OFFICERS.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|OFFICERS.2_Cor" source="TRIBUNES.Brutus_Cor" target="OFFICERS.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|SENATORS.ROMAN_Cor" source="TRIBUNES.Brutus_Cor" target="SENATORS.ROMAN_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|CITIZENS.ROMAN.1_Cor" source="TRIBUNES.Brutus_Cor" target="CITIZENS.ROMAN.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|CITIZENS.ROMAN.2_Cor" source="TRIBUNES.Brutus_Cor" target="CITIZENS.ROMAN.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|CITIZENS.ROMAN.3_Cor" source="TRIBUNES.Brutus_Cor" target="CITIZENS.ROMAN.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|CITIZENS.ROMAN.4_Cor" source="TRIBUNES.Brutus_Cor" target="CITIZENS.ROMAN.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|CITIZENS.ROMAN.5_Cor" source="TRIBUNES.Brutus_Cor" target="CITIZENS.ROMAN.5_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|CITIZENS.ROMAN.6_Cor" source="TRIBUNES.Brutus_Cor" target="CITIZENS.ROMAN.6_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|CITIZENS.ROMAN.7_Cor" source="TRIBUNES.Brutus_Cor" target="CITIZENS.ROMAN.7_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|CITIZENS.ROMAN.8_Cor" source="TRIBUNES.Brutus_Cor" target="CITIZENS.ROMAN.8_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|SENATORS.ROMAN.0.2_Cor" source="TRIBUNES.Brutus_Cor" target="SENATORS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|AEDILES_Cor" source="TRIBUNES.Brutus_Cor" target="AEDILES_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|AEDILES.X.2_Cor" source="TRIBUNES.Brutus_Cor" target="AEDILES.X.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|AEDILES.X.3_Cor" source="TRIBUNES.Brutus_Cor" target="AEDILES.X.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|MESSENGERS.TRIBUNES.1_Cor" source="TRIBUNES.Brutus_Cor" target="MESSENGERS.TRIBUNES.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|MESSENGERS.TRIBUNES.2_Cor" source="TRIBUNES.Brutus_Cor" target="MESSENGERS.TRIBUNES.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.Brutus_Cor|CITIZENS.ROMAN.0.3_Cor" source="TRIBUNES.Brutus_Cor" target="CITIZENS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.VOLSCIAN.0.1_Cor|Aufidius_Cor" source="SENATORS.VOLSCIAN.0.1_Cor" target="Aufidius_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.VOLSCIAN.0.1_Cor|SENATORS.VOLSCIAN.0.2_Cor" source="SENATORS.VOLSCIAN.0.1_Cor" target="SENATORS.VOLSCIAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.VOLSCIAN.0.1_Cor|SENATORS.VOLSCIAN_Cor" source="SENATORS.VOLSCIAN.0.1_Cor" target="SENATORS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.VOLSCIAN.0.1_Cor|MESSENGERS.X.2_Cor" source="SENATORS.VOLSCIAN.0.1_Cor" target="MESSENGERS.X.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.VOLSCIAN.0.1_Cor|SOLDIERS.ROMAN.0.1_Cor" source="SENATORS.VOLSCIAN.0.1_Cor" target="SOLDIERS.ROMAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.VOLSCIAN.0.1_Cor|SOLDIERS.ROMAN.0.2_Cor" source="SENATORS.VOLSCIAN.0.1_Cor" target="SOLDIERS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.VOLSCIAN.0.1_Cor|SOLDIERS.ROMAN_Cor" source="SENATORS.VOLSCIAN.0.1_Cor" target="SOLDIERS.ROMAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|SENATORS.VOLSCIAN.0.2_Cor" source="Aufidius_Cor" target="SENATORS.VOLSCIAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|SENATORS.VOLSCIAN_Cor" source="Aufidius_Cor" target="SENATORS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|SOLDIERS.VOLSCIAN.0.1_Cor" source="Aufidius_Cor" target="SOLDIERS.VOLSCIAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|SERVANTS.1_Cor" source="Aufidius_Cor" target="SERVANTS.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|SERVANTS.2_Cor" source="Aufidius_Cor" target="SERVANTS.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|SERVANTS.3_Cor" source="Aufidius_Cor" target="SERVANTS.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|SOLDIERS.VOLSCIAN.Lieutenant_Cor" source="Aufidius_Cor" target="SOLDIERS.VOLSCIAN.Lieutenant_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|WATCHMEN.1_Cor" source="Aufidius_Cor" target="WATCHMEN.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|WATCHMEN.2_Cor" source="Aufidius_Cor" target="WATCHMEN.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|Virgilia_Cor" source="Aufidius_Cor" target="Virgilia_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|Volumnia_Cor" source="Aufidius_Cor" target="Volumnia_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|YoungMartius_Cor" source="Aufidius_Cor" target="YoungMartius_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|CONSPIRATORS.0.1_Cor" source="Aufidius_Cor" target="CONSPIRATORS.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|CONSPIRATORS.0.2_Cor" source="Aufidius_Cor" target="CONSPIRATORS.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|CONSPIRATORS.0.3_Cor" source="Aufidius_Cor" target="CONSPIRATORS.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|LORDS.VOLSCIAN_Cor" source="Aufidius_Cor" target="LORDS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|LORDS.VOLSCIAN.0.1_Cor" source="Aufidius_Cor" target="LORDS.VOLSCIAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|CONSPIRATORS_Cor" source="Aufidius_Cor" target="CONSPIRATORS_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|CITIZENS.VOLSCIAN_Cor" source="Aufidius_Cor" target="CITIZENS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|LORDS.VOLSCIAN.0.2_Cor" source="Aufidius_Cor" target="LORDS.VOLSCIAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aufidius_Cor|LORDS.VOLSCIAN.0.3_Cor" source="Aufidius_Cor" target="LORDS.VOLSCIAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.VOLSCIAN.0.2_Cor|SENATORS.VOLSCIAN_Cor" source="SENATORS.VOLSCIAN.0.2_Cor" target="SENATORS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Volumnia_Cor|Virgilia_Cor" source="Volumnia_Cor" target="Virgilia_Cor">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Volumnia_Cor|Gentlewoman_Cor" source="Volumnia_Cor" target="Gentlewoman_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Volumnia_Cor|Valeria_Cor" source="Volumnia_Cor" target="Valeria_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Volumnia_Cor|Herald_Cor" source="Volumnia_Cor" target="Herald_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Volumnia_Cor|MESSENGERS.X.4_Cor" source="Volumnia_Cor" target="MESSENGERS.X.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Volumnia_Cor|NOBLES.0.1_Cor" source="Volumnia_Cor" target="NOBLES.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Volumnia_Cor|YoungMartius_Cor" source="Volumnia_Cor" target="YoungMartius_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Virgilia_Cor|Gentlewoman_Cor" source="Virgilia_Cor" target="Gentlewoman_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Virgilia_Cor|Valeria_Cor" source="Virgilia_Cor" target="Valeria_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Virgilia_Cor|Herald_Cor" source="Virgilia_Cor" target="Herald_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Virgilia_Cor|MESSENGERS.X.4_Cor" source="Virgilia_Cor" target="MESSENGERS.X.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Virgilia_Cor|YoungMartius_Cor" source="Virgilia_Cor" target="YoungMartius_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gentlewoman_Cor|Valeria_Cor" source="Gentlewoman_Cor" target="Valeria_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Valeria_Cor|Herald_Cor" source="Valeria_Cor" target="Herald_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Valeria_Cor|MESSENGERS.X.4_Cor" source="Valeria_Cor" target="MESSENGERS.X.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.2_Cor|SOLDIERS.ROMAN.0.1_Cor" source="MESSENGERS.X.2_Cor" target="SOLDIERS.ROMAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.2_Cor|SOLDIERS.ROMAN.0.2_Cor" source="MESSENGERS.X.2_Cor" target="SOLDIERS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.2_Cor|SOLDIERS.ROMAN_Cor" source="MESSENGERS.X.2_Cor" target="SOLDIERS.ROMAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ROMAN.0.1_Cor|SOLDIERS.ROMAN.0.2_Cor" source="SOLDIERS.ROMAN.0.1_Cor" target="SOLDIERS.ROMAN.0.2_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SOLDIERS.ROMAN.0.1_Cor|SOLDIERS.ROMAN_Cor" source="SOLDIERS.ROMAN.0.1_Cor" target="SOLDIERS.ROMAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ROMAN.0.1_Cor|SOLDIERS.ROMAN.0.3_Cor" source="SOLDIERS.ROMAN.0.1_Cor" target="SOLDIERS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ROMAN.0.2_Cor|SOLDIERS.ROMAN_Cor" source="SOLDIERS.ROMAN.0.2_Cor" target="SOLDIERS.ROMAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ROMAN.0.2_Cor|SOLDIERS.ROMAN.0.3_Cor" source="SOLDIERS.ROMAN.0.2_Cor" target="SOLDIERS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Herald_Cor|MESSENGERS.X.4_Cor" source="Herald_Cor" target="MESSENGERS.X.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.1_Cor|OFFICERS.2_Cor" source="OFFICERS.1_Cor" target="OFFICERS.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.1_Cor|SENATORS.ROMAN_Cor" source="OFFICERS.1_Cor" target="SENATORS.ROMAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.2_Cor|SENATORS.ROMAN_Cor" source="OFFICERS.2_Cor" target="SENATORS.ROMAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.ROMAN_Cor|SENATORS.ROMAN.0.2_Cor" source="SENATORS.ROMAN_Cor" target="SENATORS.ROMAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.ROMAN_Cor|AEDILES_Cor" source="SENATORS.ROMAN_Cor" target="AEDILES_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.1_Cor|CITIZENS.ROMAN.2_Cor" source="CITIZENS.ROMAN.1_Cor" target="CITIZENS.ROMAN.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.1_Cor|CITIZENS.ROMAN.3_Cor" source="CITIZENS.ROMAN.1_Cor" target="CITIZENS.ROMAN.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.1_Cor|CITIZENS.ROMAN.4_Cor" source="CITIZENS.ROMAN.1_Cor" target="CITIZENS.ROMAN.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.1_Cor|CITIZENS.ROMAN.5_Cor" source="CITIZENS.ROMAN.1_Cor" target="CITIZENS.ROMAN.5_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.1_Cor|CITIZENS.ROMAN.6_Cor" source="CITIZENS.ROMAN.1_Cor" target="CITIZENS.ROMAN.6_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.1_Cor|CITIZENS.ROMAN.7_Cor" source="CITIZENS.ROMAN.1_Cor" target="CITIZENS.ROMAN.7_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.1_Cor|CITIZENS.ROMAN.8_Cor" source="CITIZENS.ROMAN.1_Cor" target="CITIZENS.ROMAN.8_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.2_Cor|CITIZENS.ROMAN.3_Cor" source="CITIZENS.ROMAN.2_Cor" target="CITIZENS.ROMAN.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.2_Cor|CITIZENS.ROMAN.4_Cor" source="CITIZENS.ROMAN.2_Cor" target="CITIZENS.ROMAN.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.2_Cor|CITIZENS.ROMAN.5_Cor" source="CITIZENS.ROMAN.2_Cor" target="CITIZENS.ROMAN.5_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.2_Cor|CITIZENS.ROMAN.6_Cor" source="CITIZENS.ROMAN.2_Cor" target="CITIZENS.ROMAN.6_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.2_Cor|CITIZENS.ROMAN.7_Cor" source="CITIZENS.ROMAN.2_Cor" target="CITIZENS.ROMAN.7_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.2_Cor|CITIZENS.ROMAN.8_Cor" source="CITIZENS.ROMAN.2_Cor" target="CITIZENS.ROMAN.8_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.3_Cor|CITIZENS.ROMAN.4_Cor" source="CITIZENS.ROMAN.3_Cor" target="CITIZENS.ROMAN.4_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.3_Cor|CITIZENS.ROMAN.5_Cor" source="CITIZENS.ROMAN.3_Cor" target="CITIZENS.ROMAN.5_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.3_Cor|CITIZENS.ROMAN.6_Cor" source="CITIZENS.ROMAN.3_Cor" target="CITIZENS.ROMAN.6_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.3_Cor|CITIZENS.ROMAN.7_Cor" source="CITIZENS.ROMAN.3_Cor" target="CITIZENS.ROMAN.7_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.3_Cor|CITIZENS.ROMAN.8_Cor" source="CITIZENS.ROMAN.3_Cor" target="CITIZENS.ROMAN.8_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.4_Cor|CITIZENS.ROMAN.5_Cor" source="CITIZENS.ROMAN.4_Cor" target="CITIZENS.ROMAN.5_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.4_Cor|CITIZENS.ROMAN.6_Cor" source="CITIZENS.ROMAN.4_Cor" target="CITIZENS.ROMAN.6_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.4_Cor|CITIZENS.ROMAN.7_Cor" source="CITIZENS.ROMAN.4_Cor" target="CITIZENS.ROMAN.7_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.4_Cor|CITIZENS.ROMAN.8_Cor" source="CITIZENS.ROMAN.4_Cor" target="CITIZENS.ROMAN.8_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.5_Cor|CITIZENS.ROMAN.6_Cor" source="CITIZENS.ROMAN.5_Cor" target="CITIZENS.ROMAN.6_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.5_Cor|CITIZENS.ROMAN.7_Cor" source="CITIZENS.ROMAN.5_Cor" target="CITIZENS.ROMAN.7_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.5_Cor|CITIZENS.ROMAN.8_Cor" source="CITIZENS.ROMAN.5_Cor" target="CITIZENS.ROMAN.8_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.6_Cor|CITIZENS.ROMAN.7_Cor" source="CITIZENS.ROMAN.6_Cor" target="CITIZENS.ROMAN.7_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.6_Cor|CITIZENS.ROMAN.8_Cor" source="CITIZENS.ROMAN.6_Cor" target="CITIZENS.ROMAN.8_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.ROMAN.7_Cor|CITIZENS.ROMAN.8_Cor" source="CITIZENS.ROMAN.7_Cor" target="CITIZENS.ROMAN.8_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.ROMAN.0.2_Cor|AEDILES_Cor" source="SENATORS.ROMAN.0.2_Cor" target="AEDILES_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nicanor_Cor|Adrian_Cor" source="Nicanor_Cor" target="Adrian_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.1_Cor|SERVANTS.2_Cor" source="SERVANTS.1_Cor" target="SERVANTS.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.1_Cor|SERVANTS.3_Cor" source="SERVANTS.1_Cor" target="SERVANTS.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.2_Cor|SERVANTS.3_Cor" source="SERVANTS.2_Cor" target="SERVANTS.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AEDILES.X.3_Cor|MESSENGERS.TRIBUNES.1_Cor" source="AEDILES.X.3_Cor" target="MESSENGERS.TRIBUNES.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AEDILES.X.3_Cor|MESSENGERS.TRIBUNES.2_Cor" source="AEDILES.X.3_Cor" target="MESSENGERS.TRIBUNES.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AEDILES.X.3_Cor|CITIZENS.ROMAN.0.3_Cor" source="AEDILES.X.3_Cor" target="CITIZENS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.TRIBUNES.1_Cor|MESSENGERS.TRIBUNES.2_Cor" source="MESSENGERS.TRIBUNES.1_Cor" target="MESSENGERS.TRIBUNES.2_Cor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MESSENGERS.TRIBUNES.1_Cor|CITIZENS.ROMAN.0.3_Cor" source="MESSENGERS.TRIBUNES.1_Cor" target="CITIZENS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.TRIBUNES.2_Cor|CITIZENS.ROMAN.0.3_Cor" source="MESSENGERS.TRIBUNES.2_Cor" target="CITIZENS.ROMAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.1_Cor|WATCHMEN.2_Cor" source="WATCHMEN.1_Cor" target="WATCHMEN.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.1_Cor|CONSPIRATORS.0.2_Cor" source="CONSPIRATORS.0.1_Cor" target="CONSPIRATORS.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.1_Cor|CONSPIRATORS.0.3_Cor" source="CONSPIRATORS.0.1_Cor" target="CONSPIRATORS.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.1_Cor|LORDS.VOLSCIAN_Cor" source="CONSPIRATORS.0.1_Cor" target="LORDS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.1_Cor|LORDS.VOLSCIAN.0.1_Cor" source="CONSPIRATORS.0.1_Cor" target="LORDS.VOLSCIAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.1_Cor|CONSPIRATORS_Cor" source="CONSPIRATORS.0.1_Cor" target="CONSPIRATORS_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.1_Cor|CITIZENS.VOLSCIAN_Cor" source="CONSPIRATORS.0.1_Cor" target="CITIZENS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.1_Cor|LORDS.VOLSCIAN.0.2_Cor" source="CONSPIRATORS.0.1_Cor" target="LORDS.VOLSCIAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.1_Cor|LORDS.VOLSCIAN.0.3_Cor" source="CONSPIRATORS.0.1_Cor" target="LORDS.VOLSCIAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.2_Cor|CONSPIRATORS.0.3_Cor" source="CONSPIRATORS.0.2_Cor" target="CONSPIRATORS.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.2_Cor|LORDS.VOLSCIAN_Cor" source="CONSPIRATORS.0.2_Cor" target="LORDS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.2_Cor|LORDS.VOLSCIAN.0.1_Cor" source="CONSPIRATORS.0.2_Cor" target="LORDS.VOLSCIAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.2_Cor|CONSPIRATORS_Cor" source="CONSPIRATORS.0.2_Cor" target="CONSPIRATORS_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.2_Cor|CITIZENS.VOLSCIAN_Cor" source="CONSPIRATORS.0.2_Cor" target="CITIZENS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.2_Cor|LORDS.VOLSCIAN.0.2_Cor" source="CONSPIRATORS.0.2_Cor" target="LORDS.VOLSCIAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.2_Cor|LORDS.VOLSCIAN.0.3_Cor" source="CONSPIRATORS.0.2_Cor" target="LORDS.VOLSCIAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.3_Cor|LORDS.VOLSCIAN_Cor" source="CONSPIRATORS.0.3_Cor" target="LORDS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.3_Cor|LORDS.VOLSCIAN.0.1_Cor" source="CONSPIRATORS.0.3_Cor" target="LORDS.VOLSCIAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.3_Cor|CONSPIRATORS_Cor" source="CONSPIRATORS.0.3_Cor" target="CONSPIRATORS_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.3_Cor|CITIZENS.VOLSCIAN_Cor" source="CONSPIRATORS.0.3_Cor" target="CITIZENS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.3_Cor|LORDS.VOLSCIAN.0.2_Cor" source="CONSPIRATORS.0.3_Cor" target="LORDS.VOLSCIAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS.0.3_Cor|LORDS.VOLSCIAN.0.3_Cor" source="CONSPIRATORS.0.3_Cor" target="LORDS.VOLSCIAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.VOLSCIAN_Cor|LORDS.VOLSCIAN.0.1_Cor" source="LORDS.VOLSCIAN_Cor" target="LORDS.VOLSCIAN.0.1_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.VOLSCIAN_Cor|CONSPIRATORS_Cor" source="LORDS.VOLSCIAN_Cor" target="CONSPIRATORS_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.VOLSCIAN_Cor|CITIZENS.VOLSCIAN_Cor" source="LORDS.VOLSCIAN_Cor" target="CITIZENS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.VOLSCIAN_Cor|LORDS.VOLSCIAN.0.2_Cor" source="LORDS.VOLSCIAN_Cor" target="LORDS.VOLSCIAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.VOLSCIAN_Cor|LORDS.VOLSCIAN.0.3_Cor" source="LORDS.VOLSCIAN_Cor" target="LORDS.VOLSCIAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.VOLSCIAN.0.1_Cor|CONSPIRATORS_Cor" source="LORDS.VOLSCIAN.0.1_Cor" target="CONSPIRATORS_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.VOLSCIAN.0.1_Cor|CITIZENS.VOLSCIAN_Cor" source="LORDS.VOLSCIAN.0.1_Cor" target="CITIZENS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.VOLSCIAN.0.1_Cor|LORDS.VOLSCIAN.0.2_Cor" source="LORDS.VOLSCIAN.0.1_Cor" target="LORDS.VOLSCIAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.VOLSCIAN.0.1_Cor|LORDS.VOLSCIAN.0.3_Cor" source="LORDS.VOLSCIAN.0.1_Cor" target="LORDS.VOLSCIAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS_Cor|CITIZENS.VOLSCIAN_Cor" source="CONSPIRATORS_Cor" target="CITIZENS.VOLSCIAN_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS_Cor|LORDS.VOLSCIAN.0.2_Cor" source="CONSPIRATORS_Cor" target="LORDS.VOLSCIAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CONSPIRATORS_Cor|LORDS.VOLSCIAN.0.3_Cor" source="CONSPIRATORS_Cor" target="LORDS.VOLSCIAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.VOLSCIAN_Cor|LORDS.VOLSCIAN.0.2_Cor" source="CITIZENS.VOLSCIAN_Cor" target="LORDS.VOLSCIAN.0.2_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.VOLSCIAN_Cor|LORDS.VOLSCIAN.0.3_Cor" source="CITIZENS.VOLSCIAN_Cor" target="LORDS.VOLSCIAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.VOLSCIAN.0.2_Cor|LORDS.VOLSCIAN.0.3_Cor" source="LORDS.VOLSCIAN.0.2_Cor" target="LORDS.VOLSCIAN.0.3_Cor">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

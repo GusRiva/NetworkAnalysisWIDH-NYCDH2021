@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="KingJohn_Jn">
+            <data key="label">John</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3309</data>
+        </node>
+        <node id="Chatillion_Jn">
+            <data key="label">Chatillion</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">296</data>
+        </node>
+        <node id="QueenEleanor_Jn">
+            <data key="label">Queen Eleanor</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">424</data>
+        </node>
+        <node id="Essex_Jn">
+            <data key="label">Earl of Essex</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">25</data>
+        </node>
+        <node id="Bastard_Jn">
+            <data key="label">Bastard Philip Faulconbridge</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4087</data>
+        </node>
+        <node id="RobertFaulconbridge_Jn">
+            <data key="label">Robert Faulconbridge</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">179</data>
+        </node>
+        <node id="LadyFaulconbridge_Jn">
+            <data key="label">Lady Faulconbridge</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">122</data>
+        </node>
+        <node id="Gurney_Jn">
+            <data key="label">James Gurney</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="Dauphin_Jn">
+            <data key="label">Louis the Dauphin</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1194</data>
+        </node>
+        <node id="Arthur_Jn">
+            <data key="label">Arthur</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">977</data>
+        </node>
+        <node id="Austria_Jn">
+            <data key="label">Duke of Austria Limoges</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">239</data>
+        </node>
+        <node id="Constance_Jn">
+            <data key="label">Constance</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2113</data>
+        </node>
+        <node id="KingPhilip_Jn">
+            <data key="label">King Philip II</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1477</data>
+        </node>
+        <node id="Blanche_Jn">
+            <data key="label">Blanche</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">332</data>
+        </node>
+        <node id="CITIZENS.0.1_Jn">
+            <data key="label">Citizen</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">517</data>
+        </node>
+        <node id="HERALDS.FRENCH_Jn">
+            <data key="label">French Herald</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">87</data>
+        </node>
+        <node id="HERALDS.ENGLISH_Jn">
+            <data key="label">English Herald</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">101</data>
+        </node>
+        <node id="Salisbury_Jn">
+            <data key="label">Earl of Salisbury</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1216</data>
+        </node>
+        <node id="Pandulph_Jn">
+            <data key="label">Cardinal Pandulph</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1264</data>
+        </node>
+        <node id="Hubert_Jn">
+            <data key="label">Hubert</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1010</data>
+        </node>
+        <node id="EXECUTIONERS.0.1_Jn">
+            <data key="label">EXECUTIONERS.0.1_Jn</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">19</data>
+        </node>
+        <node id="Pembroke_Jn">
+            <data key="label">Earl of Pembroke</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">610</data>
+        </node>
+        <node id="MESSENGERS.ENGLISH.1_Jn">
+            <data key="label">English Messenger, French Messenger, Sheriff, Lords, Soldiers, Attendants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">164</data>
+        </node>
+        <node id="Peter_Jn">
+            <data key="label">Peter</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="Bigot_Jn">
+            <data key="label">Lord Bigot</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">59</data>
+        </node>
+        <node id="Melun_Jn">
+            <data key="label">Count Melun</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">308</data>
+        </node>
+        <node id="MESSENGERS.FRENCH.1_Jn">
+            <data key="label">English Messenger, French Messenger, Sheriff, Lords, Soldiers, Attendants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">46</data>
+        </node>
+        <node id="PrinceHenry_Jn">
+            <data key="label">Prince Henry</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">221</data>
+        </node>
+        <edge id="KingJohn_Jn|Chatillion_Jn" source="KingJohn_Jn" target="Chatillion_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingJohn_Jn|QueenEleanor_Jn" source="KingJohn_Jn" target="QueenEleanor_Jn">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="KingJohn_Jn|Essex_Jn" source="KingJohn_Jn" target="Essex_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingJohn_Jn|Bastard_Jn" source="KingJohn_Jn" target="Bastard_Jn">
+            <data key="weight">8</data>
+        </edge>
+        <edge id="KingJohn_Jn|RobertFaulconbridge_Jn" source="KingJohn_Jn" target="RobertFaulconbridge_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingJohn_Jn|LadyFaulconbridge_Jn" source="KingJohn_Jn" target="LadyFaulconbridge_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingJohn_Jn|Gurney_Jn" source="KingJohn_Jn" target="Gurney_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingJohn_Jn|Dauphin_Jn" source="KingJohn_Jn" target="Dauphin_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingJohn_Jn|Arthur_Jn" source="KingJohn_Jn" target="Arthur_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="KingJohn_Jn|Austria_Jn" source="KingJohn_Jn" target="Austria_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingJohn_Jn|Constance_Jn" source="KingJohn_Jn" target="Constance_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingJohn_Jn|KingPhilip_Jn" source="KingJohn_Jn" target="KingPhilip_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingJohn_Jn|Blanche_Jn" source="KingJohn_Jn" target="Blanche_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingJohn_Jn|CITIZENS.0.1_Jn" source="KingJohn_Jn" target="CITIZENS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingJohn_Jn|HERALDS.FRENCH_Jn" source="KingJohn_Jn" target="HERALDS.FRENCH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingJohn_Jn|HERALDS.ENGLISH_Jn" source="KingJohn_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingJohn_Jn|Salisbury_Jn" source="KingJohn_Jn" target="Salisbury_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="KingJohn_Jn|Pandulph_Jn" source="KingJohn_Jn" target="Pandulph_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingJohn_Jn|Hubert_Jn" source="KingJohn_Jn" target="Hubert_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="KingJohn_Jn|Pembroke_Jn" source="KingJohn_Jn" target="Pembroke_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingJohn_Jn|MESSENGERS.ENGLISH.1_Jn" source="KingJohn_Jn" target="MESSENGERS.ENGLISH.1_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingJohn_Jn|Peter_Jn" source="KingJohn_Jn" target="Peter_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingJohn_Jn|PrinceHenry_Jn" source="KingJohn_Jn" target="PrinceHenry_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|QueenEleanor_Jn" source="Chatillion_Jn" target="QueenEleanor_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Chatillion_Jn|Essex_Jn" source="Chatillion_Jn" target="Essex_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|Bastard_Jn" source="Chatillion_Jn" target="Bastard_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Chatillion_Jn|RobertFaulconbridge_Jn" source="Chatillion_Jn" target="RobertFaulconbridge_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|LadyFaulconbridge_Jn" source="Chatillion_Jn" target="LadyFaulconbridge_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|Gurney_Jn" source="Chatillion_Jn" target="Gurney_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|Dauphin_Jn" source="Chatillion_Jn" target="Dauphin_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|Arthur_Jn" source="Chatillion_Jn" target="Arthur_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|Austria_Jn" source="Chatillion_Jn" target="Austria_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|Constance_Jn" source="Chatillion_Jn" target="Constance_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|KingPhilip_Jn" source="Chatillion_Jn" target="KingPhilip_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|Blanche_Jn" source="Chatillion_Jn" target="Blanche_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|CITIZENS.0.1_Jn" source="Chatillion_Jn" target="CITIZENS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|HERALDS.FRENCH_Jn" source="Chatillion_Jn" target="HERALDS.FRENCH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chatillion_Jn|HERALDS.ENGLISH_Jn" source="Chatillion_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|Essex_Jn" source="QueenEleanor_Jn" target="Essex_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|Bastard_Jn" source="QueenEleanor_Jn" target="Bastard_Jn">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|RobertFaulconbridge_Jn" source="QueenEleanor_Jn" target="RobertFaulconbridge_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|LadyFaulconbridge_Jn" source="QueenEleanor_Jn" target="LadyFaulconbridge_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|Gurney_Jn" source="QueenEleanor_Jn" target="Gurney_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|Dauphin_Jn" source="QueenEleanor_Jn" target="Dauphin_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|Arthur_Jn" source="QueenEleanor_Jn" target="Arthur_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|Austria_Jn" source="QueenEleanor_Jn" target="Austria_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|Constance_Jn" source="QueenEleanor_Jn" target="Constance_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|KingPhilip_Jn" source="QueenEleanor_Jn" target="KingPhilip_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|Blanche_Jn" source="QueenEleanor_Jn" target="Blanche_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|CITIZENS.0.1_Jn" source="QueenEleanor_Jn" target="CITIZENS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|HERALDS.FRENCH_Jn" source="QueenEleanor_Jn" target="HERALDS.FRENCH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|HERALDS.ENGLISH_Jn" source="QueenEleanor_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|Salisbury_Jn" source="QueenEleanor_Jn" target="Salisbury_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|Pandulph_Jn" source="QueenEleanor_Jn" target="Pandulph_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenEleanor_Jn|Hubert_Jn" source="QueenEleanor_Jn" target="Hubert_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Essex_Jn|Bastard_Jn" source="Essex_Jn" target="Bastard_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Essex_Jn|RobertFaulconbridge_Jn" source="Essex_Jn" target="RobertFaulconbridge_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Essex_Jn|LadyFaulconbridge_Jn" source="Essex_Jn" target="LadyFaulconbridge_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Essex_Jn|Gurney_Jn" source="Essex_Jn" target="Gurney_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_Jn|RobertFaulconbridge_Jn" source="Bastard_Jn" target="RobertFaulconbridge_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_Jn|LadyFaulconbridge_Jn" source="Bastard_Jn" target="LadyFaulconbridge_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_Jn|Gurney_Jn" source="Bastard_Jn" target="Gurney_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_Jn|Dauphin_Jn" source="Bastard_Jn" target="Dauphin_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bastard_Jn|Arthur_Jn" source="Bastard_Jn" target="Arthur_Jn">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Bastard_Jn|Austria_Jn" source="Bastard_Jn" target="Austria_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bastard_Jn|Constance_Jn" source="Bastard_Jn" target="Constance_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bastard_Jn|KingPhilip_Jn" source="Bastard_Jn" target="KingPhilip_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bastard_Jn|Blanche_Jn" source="Bastard_Jn" target="Blanche_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bastard_Jn|CITIZENS.0.1_Jn" source="Bastard_Jn" target="CITIZENS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_Jn|HERALDS.FRENCH_Jn" source="Bastard_Jn" target="HERALDS.FRENCH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_Jn|HERALDS.ENGLISH_Jn" source="Bastard_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_Jn|Salisbury_Jn" source="Bastard_Jn" target="Salisbury_Jn">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Bastard_Jn|Pandulph_Jn" source="Bastard_Jn" target="Pandulph_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bastard_Jn|Hubert_Jn" source="Bastard_Jn" target="Hubert_Jn">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Bastard_Jn|Pembroke_Jn" source="Bastard_Jn" target="Pembroke_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bastard_Jn|MESSENGERS.ENGLISH.1_Jn" source="Bastard_Jn" target="MESSENGERS.ENGLISH.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_Jn|Peter_Jn" source="Bastard_Jn" target="Peter_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_Jn|Bigot_Jn" source="Bastard_Jn" target="Bigot_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_Jn|PrinceHenry_Jn" source="Bastard_Jn" target="PrinceHenry_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RobertFaulconbridge_Jn|LadyFaulconbridge_Jn" source="RobertFaulconbridge_Jn" target="LadyFaulconbridge_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RobertFaulconbridge_Jn|Gurney_Jn" source="RobertFaulconbridge_Jn" target="Gurney_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyFaulconbridge_Jn|Gurney_Jn" source="LadyFaulconbridge_Jn" target="Gurney_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dauphin_Jn|Arthur_Jn" source="Dauphin_Jn" target="Arthur_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Dauphin_Jn|Austria_Jn" source="Dauphin_Jn" target="Austria_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Dauphin_Jn|Constance_Jn" source="Dauphin_Jn" target="Constance_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Dauphin_Jn|KingPhilip_Jn" source="Dauphin_Jn" target="KingPhilip_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Dauphin_Jn|Blanche_Jn" source="Dauphin_Jn" target="Blanche_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Dauphin_Jn|CITIZENS.0.1_Jn" source="Dauphin_Jn" target="CITIZENS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dauphin_Jn|HERALDS.FRENCH_Jn" source="Dauphin_Jn" target="HERALDS.FRENCH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dauphin_Jn|HERALDS.ENGLISH_Jn" source="Dauphin_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dauphin_Jn|Salisbury_Jn" source="Dauphin_Jn" target="Salisbury_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Dauphin_Jn|Pandulph_Jn" source="Dauphin_Jn" target="Pandulph_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Dauphin_Jn|MESSENGERS.FRENCH.1_Jn" source="Dauphin_Jn" target="MESSENGERS.FRENCH.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Arthur_Jn|Austria_Jn" source="Arthur_Jn" target="Austria_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Arthur_Jn|Constance_Jn" source="Arthur_Jn" target="Constance_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Arthur_Jn|KingPhilip_Jn" source="Arthur_Jn" target="KingPhilip_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Arthur_Jn|Blanche_Jn" source="Arthur_Jn" target="Blanche_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Arthur_Jn|CITIZENS.0.1_Jn" source="Arthur_Jn" target="CITIZENS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Arthur_Jn|HERALDS.FRENCH_Jn" source="Arthur_Jn" target="HERALDS.FRENCH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Arthur_Jn|HERALDS.ENGLISH_Jn" source="Arthur_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Arthur_Jn|Salisbury_Jn" source="Arthur_Jn" target="Salisbury_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Arthur_Jn|Pandulph_Jn" source="Arthur_Jn" target="Pandulph_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Arthur_Jn|Hubert_Jn" source="Arthur_Jn" target="Hubert_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Arthur_Jn|EXECUTIONERS.0.1_Jn" source="Arthur_Jn" target="EXECUTIONERS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Arthur_Jn|Pembroke_Jn" source="Arthur_Jn" target="Pembroke_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Arthur_Jn|Bigot_Jn" source="Arthur_Jn" target="Bigot_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Austria_Jn|Constance_Jn" source="Austria_Jn" target="Constance_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Austria_Jn|KingPhilip_Jn" source="Austria_Jn" target="KingPhilip_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Austria_Jn|Blanche_Jn" source="Austria_Jn" target="Blanche_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Austria_Jn|CITIZENS.0.1_Jn" source="Austria_Jn" target="CITIZENS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Austria_Jn|HERALDS.FRENCH_Jn" source="Austria_Jn" target="HERALDS.FRENCH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Austria_Jn|HERALDS.ENGLISH_Jn" source="Austria_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Austria_Jn|Salisbury_Jn" source="Austria_Jn" target="Salisbury_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Austria_Jn|Pandulph_Jn" source="Austria_Jn" target="Pandulph_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Constance_Jn|KingPhilip_Jn" source="Constance_Jn" target="KingPhilip_Jn">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Constance_Jn|Blanche_Jn" source="Constance_Jn" target="Blanche_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Constance_Jn|CITIZENS.0.1_Jn" source="Constance_Jn" target="CITIZENS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Constance_Jn|HERALDS.FRENCH_Jn" source="Constance_Jn" target="HERALDS.FRENCH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Constance_Jn|HERALDS.ENGLISH_Jn" source="Constance_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Constance_Jn|Salisbury_Jn" source="Constance_Jn" target="Salisbury_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Constance_Jn|Pandulph_Jn" source="Constance_Jn" target="Pandulph_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingPhilip_Jn|Blanche_Jn" source="KingPhilip_Jn" target="Blanche_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingPhilip_Jn|CITIZENS.0.1_Jn" source="KingPhilip_Jn" target="CITIZENS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingPhilip_Jn|HERALDS.FRENCH_Jn" source="KingPhilip_Jn" target="HERALDS.FRENCH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingPhilip_Jn|HERALDS.ENGLISH_Jn" source="KingPhilip_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingPhilip_Jn|Salisbury_Jn" source="KingPhilip_Jn" target="Salisbury_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingPhilip_Jn|Pandulph_Jn" source="KingPhilip_Jn" target="Pandulph_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Blanche_Jn|CITIZENS.0.1_Jn" source="Blanche_Jn" target="CITIZENS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Blanche_Jn|HERALDS.FRENCH_Jn" source="Blanche_Jn" target="HERALDS.FRENCH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Blanche_Jn|HERALDS.ENGLISH_Jn" source="Blanche_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Blanche_Jn|Salisbury_Jn" source="Blanche_Jn" target="Salisbury_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Blanche_Jn|Pandulph_Jn" source="Blanche_Jn" target="Pandulph_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.0.1_Jn|HERALDS.FRENCH_Jn" source="CITIZENS.0.1_Jn" target="HERALDS.FRENCH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS.0.1_Jn|HERALDS.ENGLISH_Jn" source="CITIZENS.0.1_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HERALDS.FRENCH_Jn|HERALDS.ENGLISH_Jn" source="HERALDS.FRENCH_Jn" target="HERALDS.ENGLISH_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_Jn|Pandulph_Jn" source="Salisbury_Jn" target="Pandulph_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Salisbury_Jn|Pembroke_Jn" source="Salisbury_Jn" target="Pembroke_Jn">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Salisbury_Jn|MESSENGERS.ENGLISH.1_Jn" source="Salisbury_Jn" target="MESSENGERS.ENGLISH.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_Jn|Peter_Jn" source="Salisbury_Jn" target="Peter_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_Jn|Hubert_Jn" source="Salisbury_Jn" target="Hubert_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Salisbury_Jn|Bigot_Jn" source="Salisbury_Jn" target="Bigot_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_Jn|Melun_Jn" source="Salisbury_Jn" target="Melun_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_Jn|PrinceHenry_Jn" source="Salisbury_Jn" target="PrinceHenry_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hubert_Jn|EXECUTIONERS.0.1_Jn" source="Hubert_Jn" target="EXECUTIONERS.0.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hubert_Jn|Pembroke_Jn" source="Hubert_Jn" target="Pembroke_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hubert_Jn|MESSENGERS.ENGLISH.1_Jn" source="Hubert_Jn" target="MESSENGERS.ENGLISH.1_Jn">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hubert_Jn|Peter_Jn" source="Hubert_Jn" target="Peter_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hubert_Jn|Bigot_Jn" source="Hubert_Jn" target="Bigot_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pembroke_Jn|MESSENGERS.ENGLISH.1_Jn" source="Pembroke_Jn" target="MESSENGERS.ENGLISH.1_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pembroke_Jn|Peter_Jn" source="Pembroke_Jn" target="Peter_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pembroke_Jn|Bigot_Jn" source="Pembroke_Jn" target="Bigot_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pembroke_Jn|Melun_Jn" source="Pembroke_Jn" target="Melun_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pembroke_Jn|PrinceHenry_Jn" source="Pembroke_Jn" target="PrinceHenry_Jn">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.ENGLISH.1_Jn|Peter_Jn" source="MESSENGERS.ENGLISH.1_Jn" target="Peter_Jn">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

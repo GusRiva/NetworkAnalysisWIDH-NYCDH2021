@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Shallow_2H4">
+            <data key="label">Shallow</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">914</data>
+        </node>
+        <node id="Slender_Wiv">
+            <data key="label">Slender</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1171</data>
+        </node>
+        <node id="HughEvans_Wiv">
+            <data key="label">Sir Hugh</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1849</data>
+        </node>
+        <node id="MasterPage_Wiv">
+            <data key="label">Page</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1094</data>
+        </node>
+        <node id="Falstaff_1H4">
+            <data key="label">Falstaff</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3649</data>
+        </node>
+        <node id="Bardolph_1H4">
+            <data key="label">Bardolph</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">168</data>
+        </node>
+        <node id="Pistol_2H4">
+            <data key="label">Pistol</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">464</data>
+        </node>
+        <node id="Nym_H5">
+            <data key="label">Nym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">239</data>
+        </node>
+        <node id="Simple_Wiv">
+            <data key="label">Simple</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">332</data>
+        </node>
+        <node id="AnnePage_Wiv">
+            <data key="label">Anne</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">185</data>
+        </node>
+        <node id="Host_Wiv">
+            <data key="label">Host</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">855</data>
+        </node>
+        <node id="MistressQuickly_1H4">
+            <data key="label">Mistress Quickly</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2200</data>
+        </node>
+        <node id="Rugby_Wiv">
+            <data key="label">John Rugby</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">52</data>
+        </node>
+        <node id="DoctorCaius_Wiv">
+            <data key="label">Doctor Caius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">819</data>
+        </node>
+        <node id="Fenton_Wiv">
+            <data key="label">Fenton</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">750</data>
+        </node>
+        <node id="MistressPage_Wiv">
+            <data key="label">Mistress Page</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2428</data>
+        </node>
+        <node id="MistressFord_Wiv">
+            <data key="label">Mistress Ford</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1293</data>
+        </node>
+        <node id="MasterFord_Wiv">
+            <data key="label">Ford</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2530</data>
+        </node>
+        <node id="Robin_Wiv">
+            <data key="label">Robin</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">101</data>
+        </node>
+        <node id="Robert_Wiv">
+            <data key="label">Robert</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">20</data>
+        </node>
+        <node id="John_Wiv">
+            <data key="label">John</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">13</data>
+        </node>
+        <node id="WilliamPage_Wiv">
+            <data key="label">William</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">37</data>
+        </node>
+        <node id="BOYS_Wiv">
+            <data key="label">Windsor Children, disguised as fairies</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">59</data>
+        </node>
+        <edge id="Shallow_2H4|Slender_Wiv" source="Shallow_2H4" target="Slender_Wiv">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Shallow_2H4|HughEvans_Wiv" source="Shallow_2H4" target="HughEvans_Wiv">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Shallow_2H4|MasterPage_Wiv" source="Shallow_2H4" target="MasterPage_Wiv">
+            <data key="weight">8</data>
+        </edge>
+        <edge id="Shallow_2H4|Falstaff_1H4" source="Shallow_2H4" target="Falstaff_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Shallow_2H4|Bardolph_1H4" source="Shallow_2H4" target="Bardolph_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|Pistol_2H4" source="Shallow_2H4" target="Pistol_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Shallow_2H4|Nym_H5" source="Shallow_2H4" target="Nym_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Shallow_2H4|Simple_Wiv" source="Shallow_2H4" target="Simple_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Shallow_2H4|AnnePage_Wiv" source="Shallow_2H4" target="AnnePage_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Shallow_2H4|MistressPage_Wiv" source="Shallow_2H4" target="MistressPage_Wiv">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Shallow_2H4|MistressFord_Wiv" source="Shallow_2H4" target="MistressFord_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Shallow_2H4|MasterFord_Wiv" source="Shallow_2H4" target="MasterFord_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Shallow_2H4|MistressQuickly_1H4" source="Shallow_2H4" target="MistressQuickly_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Shallow_2H4|Host_Wiv" source="Shallow_2H4" target="Host_Wiv">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Shallow_2H4|DoctorCaius_Wiv" source="Shallow_2H4" target="DoctorCaius_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Shallow_2H4|Rugby_Wiv" source="Shallow_2H4" target="Rugby_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|Robin_Wiv" source="Shallow_2H4" target="Robin_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|Fenton_Wiv" source="Shallow_2H4" target="Fenton_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|Robert_Wiv" source="Shallow_2H4" target="Robert_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shallow_2H4|John_Wiv" source="Shallow_2H4" target="John_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Slender_Wiv|HughEvans_Wiv" source="Slender_Wiv" target="HughEvans_Wiv">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Slender_Wiv|MasterPage_Wiv" source="Slender_Wiv" target="MasterPage_Wiv">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Slender_Wiv|Falstaff_1H4" source="Slender_Wiv" target="Falstaff_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Slender_Wiv|Bardolph_1H4" source="Slender_Wiv" target="Bardolph_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Slender_Wiv|Pistol_2H4" source="Slender_Wiv" target="Pistol_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Slender_Wiv|Nym_H5" source="Slender_Wiv" target="Nym_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Slender_Wiv|Simple_Wiv" source="Slender_Wiv" target="Simple_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Slender_Wiv|AnnePage_Wiv" source="Slender_Wiv" target="AnnePage_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Slender_Wiv|DoctorCaius_Wiv" source="Slender_Wiv" target="DoctorCaius_Wiv">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Slender_Wiv|Rugby_Wiv" source="Slender_Wiv" target="Rugby_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Slender_Wiv|Host_Wiv" source="Slender_Wiv" target="Host_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Slender_Wiv|MistressPage_Wiv" source="Slender_Wiv" target="MistressPage_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Slender_Wiv|Robin_Wiv" source="Slender_Wiv" target="Robin_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Slender_Wiv|MasterFord_Wiv" source="Slender_Wiv" target="MasterFord_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Slender_Wiv|Fenton_Wiv" source="Slender_Wiv" target="Fenton_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Slender_Wiv|MistressQuickly_1H4" source="Slender_Wiv" target="MistressQuickly_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Slender_Wiv|MistressFord_Wiv" source="Slender_Wiv" target="MistressFord_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Slender_Wiv|BOYS_Wiv" source="Slender_Wiv" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HughEvans_Wiv|MasterPage_Wiv" source="HughEvans_Wiv" target="MasterPage_Wiv">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="HughEvans_Wiv|Falstaff_1H4" source="HughEvans_Wiv" target="Falstaff_1H4">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="HughEvans_Wiv|Bardolph_1H4" source="HughEvans_Wiv" target="Bardolph_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HughEvans_Wiv|Pistol_2H4" source="HughEvans_Wiv" target="Pistol_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HughEvans_Wiv|Nym_H5" source="HughEvans_Wiv" target="Nym_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HughEvans_Wiv|Simple_Wiv" source="HughEvans_Wiv" target="Simple_Wiv">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="HughEvans_Wiv|AnnePage_Wiv" source="HughEvans_Wiv" target="AnnePage_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HughEvans_Wiv|Host_Wiv" source="HughEvans_Wiv" target="Host_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="HughEvans_Wiv|DoctorCaius_Wiv" source="HughEvans_Wiv" target="DoctorCaius_Wiv">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="HughEvans_Wiv|MistressPage_Wiv" source="HughEvans_Wiv" target="MistressPage_Wiv">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="HughEvans_Wiv|Robin_Wiv" source="HughEvans_Wiv" target="Robin_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HughEvans_Wiv|MasterFord_Wiv" source="HughEvans_Wiv" target="MasterFord_Wiv">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="HughEvans_Wiv|MistressFord_Wiv" source="HughEvans_Wiv" target="MistressFord_Wiv">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="HughEvans_Wiv|Robert_Wiv" source="HughEvans_Wiv" target="Robert_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HughEvans_Wiv|John_Wiv" source="HughEvans_Wiv" target="John_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HughEvans_Wiv|MistressQuickly_1H4" source="HughEvans_Wiv" target="MistressQuickly_1H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="HughEvans_Wiv|WilliamPage_Wiv" source="HughEvans_Wiv" target="WilliamPage_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HughEvans_Wiv|BOYS_Wiv" source="HughEvans_Wiv" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HughEvans_Wiv|Fenton_Wiv" source="HughEvans_Wiv" target="Fenton_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MasterPage_Wiv|Falstaff_1H4" source="MasterPage_Wiv" target="Falstaff_1H4">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="MasterPage_Wiv|Bardolph_1H4" source="MasterPage_Wiv" target="Bardolph_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MasterPage_Wiv|Pistol_2H4" source="MasterPage_Wiv" target="Pistol_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="MasterPage_Wiv|Nym_H5" source="MasterPage_Wiv" target="Nym_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MasterPage_Wiv|Simple_Wiv" source="MasterPage_Wiv" target="Simple_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MasterPage_Wiv|AnnePage_Wiv" source="MasterPage_Wiv" target="AnnePage_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="MasterPage_Wiv|MistressPage_Wiv" source="MasterPage_Wiv" target="MistressPage_Wiv">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="MasterPage_Wiv|MistressFord_Wiv" source="MasterPage_Wiv" target="MistressFord_Wiv">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="MasterPage_Wiv|MasterFord_Wiv" source="MasterPage_Wiv" target="MasterFord_Wiv">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="MasterPage_Wiv|MistressQuickly_1H4" source="MasterPage_Wiv" target="MistressQuickly_1H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="MasterPage_Wiv|Host_Wiv" source="MasterPage_Wiv" target="Host_Wiv">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="MasterPage_Wiv|DoctorCaius_Wiv" source="MasterPage_Wiv" target="DoctorCaius_Wiv">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="MasterPage_Wiv|Rugby_Wiv" source="MasterPage_Wiv" target="Rugby_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MasterPage_Wiv|Robin_Wiv" source="MasterPage_Wiv" target="Robin_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MasterPage_Wiv|Robert_Wiv" source="MasterPage_Wiv" target="Robert_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MasterPage_Wiv|John_Wiv" source="MasterPage_Wiv" target="John_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MasterPage_Wiv|Fenton_Wiv" source="MasterPage_Wiv" target="Fenton_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MasterPage_Wiv|BOYS_Wiv" source="MasterPage_Wiv" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Bardolph_1H4" source="Falstaff_1H4" target="Bardolph_1H4">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Falstaff_1H4|Pistol_2H4" source="Falstaff_1H4" target="Pistol_2H4">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Falstaff_1H4|Nym_H5" source="Falstaff_1H4" target="Nym_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|Simple_Wiv" source="Falstaff_1H4" target="Simple_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|AnnePage_Wiv" source="Falstaff_1H4" target="AnnePage_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|Host_Wiv" source="Falstaff_1H4" target="Host_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|Robin_Wiv" source="Falstaff_1H4" target="Robin_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|MistressQuickly_1H4" source="Falstaff_1H4" target="MistressQuickly_1H4">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Falstaff_1H4|MasterFord_Wiv" source="Falstaff_1H4" target="MasterFord_Wiv">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Falstaff_1H4|MistressFord_Wiv" source="Falstaff_1H4" target="MistressFord_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Falstaff_1H4|MistressPage_Wiv" source="Falstaff_1H4" target="MistressPage_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Falstaff_1H4|Robert_Wiv" source="Falstaff_1H4" target="Robert_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|John_Wiv" source="Falstaff_1H4" target="John_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Falstaff_1H4|DoctorCaius_Wiv" source="Falstaff_1H4" target="DoctorCaius_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Falstaff_1H4|BOYS_Wiv" source="Falstaff_1H4" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Falstaff_1H4|Fenton_Wiv" source="Falstaff_1H4" target="Fenton_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Pistol_2H4" source="Bardolph_1H4" target="Pistol_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bardolph_1H4|Nym_H5" source="Bardolph_1H4" target="Nym_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bardolph_1H4|Simple_Wiv" source="Bardolph_1H4" target="Simple_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bardolph_1H4|AnnePage_Wiv" source="Bardolph_1H4" target="AnnePage_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Host_Wiv" source="Bardolph_1H4" target="Host_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bardolph_1H4|Robin_Wiv" source="Bardolph_1H4" target="Robin_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|MistressQuickly_1H4" source="Bardolph_1H4" target="MistressQuickly_1H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bardolph_1H4|MasterFord_Wiv" source="Bardolph_1H4" target="MasterFord_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bardolph_1H4|DoctorCaius_Wiv" source="Bardolph_1H4" target="DoctorCaius_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|Nym_H5" source="Pistol_2H4" target="Nym_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Pistol_2H4|Simple_Wiv" source="Pistol_2H4" target="Simple_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|AnnePage_Wiv" source="Pistol_2H4" target="AnnePage_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pistol_2H4|Host_Wiv" source="Pistol_2H4" target="Host_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pistol_2H4|MistressPage_Wiv" source="Pistol_2H4" target="MistressPage_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pistol_2H4|MistressFord_Wiv" source="Pistol_2H4" target="MistressFord_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pistol_2H4|MasterFord_Wiv" source="Pistol_2H4" target="MasterFord_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Pistol_2H4|MistressQuickly_1H4" source="Pistol_2H4" target="MistressQuickly_1H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Pistol_2H4|Robin_Wiv" source="Pistol_2H4" target="Robin_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|BOYS_Wiv" source="Pistol_2H4" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|DoctorCaius_Wiv" source="Pistol_2H4" target="DoctorCaius_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|Fenton_Wiv" source="Pistol_2H4" target="Fenton_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nym_H5|Simple_Wiv" source="Nym_H5" target="Simple_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nym_H5|AnnePage_Wiv" source="Nym_H5" target="AnnePage_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nym_H5|Host_Wiv" source="Nym_H5" target="Host_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Nym_H5|MistressPage_Wiv" source="Nym_H5" target="MistressPage_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nym_H5|MistressFord_Wiv" source="Nym_H5" target="MistressFord_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nym_H5|MasterFord_Wiv" source="Nym_H5" target="MasterFord_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nym_H5|MistressQuickly_1H4" source="Nym_H5" target="MistressQuickly_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Simple_Wiv|AnnePage_Wiv" source="Simple_Wiv" target="AnnePage_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Simple_Wiv|MistressQuickly_1H4" source="Simple_Wiv" target="MistressQuickly_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Simple_Wiv|Rugby_Wiv" source="Simple_Wiv" target="Rugby_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Simple_Wiv|DoctorCaius_Wiv" source="Simple_Wiv" target="DoctorCaius_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Simple_Wiv|Fenton_Wiv" source="Simple_Wiv" target="Fenton_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Simple_Wiv|Host_Wiv" source="Simple_Wiv" target="Host_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AnnePage_Wiv|Fenton_Wiv" source="AnnePage_Wiv" target="Fenton_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AnnePage_Wiv|MistressQuickly_1H4" source="AnnePage_Wiv" target="MistressQuickly_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AnnePage_Wiv|MistressPage_Wiv" source="AnnePage_Wiv" target="MistressPage_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AnnePage_Wiv|MistressFord_Wiv" source="AnnePage_Wiv" target="MistressFord_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AnnePage_Wiv|BOYS_Wiv" source="AnnePage_Wiv" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AnnePage_Wiv|MasterFord_Wiv" source="AnnePage_Wiv" target="MasterFord_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AnnePage_Wiv|DoctorCaius_Wiv" source="AnnePage_Wiv" target="DoctorCaius_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Host_Wiv|MistressPage_Wiv" source="Host_Wiv" target="MistressPage_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Host_Wiv|MistressFord_Wiv" source="Host_Wiv" target="MistressFord_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Host_Wiv|MasterFord_Wiv" source="Host_Wiv" target="MasterFord_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Host_Wiv|MistressQuickly_1H4" source="Host_Wiv" target="MistressQuickly_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Host_Wiv|DoctorCaius_Wiv" source="Host_Wiv" target="DoctorCaius_Wiv">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Host_Wiv|Rugby_Wiv" source="Host_Wiv" target="Rugby_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Host_Wiv|Robin_Wiv" source="Host_Wiv" target="Robin_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Host_Wiv|Fenton_Wiv" source="Host_Wiv" target="Fenton_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|Rugby_Wiv" source="MistressQuickly_1H4" target="Rugby_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|DoctorCaius_Wiv" source="MistressQuickly_1H4" target="DoctorCaius_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|Fenton_Wiv" source="MistressQuickly_1H4" target="Fenton_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|MistressPage_Wiv" source="MistressQuickly_1H4" target="MistressPage_Wiv">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|MistressFord_Wiv" source="MistressQuickly_1H4" target="MistressFord_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|MasterFord_Wiv" source="MistressQuickly_1H4" target="MasterFord_Wiv">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|Robin_Wiv" source="MistressQuickly_1H4" target="Robin_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|WilliamPage_Wiv" source="MistressQuickly_1H4" target="WilliamPage_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|BOYS_Wiv" source="MistressQuickly_1H4" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Rugby_Wiv|DoctorCaius_Wiv" source="Rugby_Wiv" target="DoctorCaius_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Rugby_Wiv|Fenton_Wiv" source="Rugby_Wiv" target="Fenton_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DoctorCaius_Wiv|Fenton_Wiv" source="DoctorCaius_Wiv" target="Fenton_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DoctorCaius_Wiv|MistressPage_Wiv" source="DoctorCaius_Wiv" target="MistressPage_Wiv">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="DoctorCaius_Wiv|Robin_Wiv" source="DoctorCaius_Wiv" target="Robin_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DoctorCaius_Wiv|MasterFord_Wiv" source="DoctorCaius_Wiv" target="MasterFord_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="DoctorCaius_Wiv|MistressFord_Wiv" source="DoctorCaius_Wiv" target="MistressFord_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="DoctorCaius_Wiv|Robert_Wiv" source="DoctorCaius_Wiv" target="Robert_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DoctorCaius_Wiv|John_Wiv" source="DoctorCaius_Wiv" target="John_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DoctorCaius_Wiv|BOYS_Wiv" source="DoctorCaius_Wiv" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fenton_Wiv|MistressPage_Wiv" source="Fenton_Wiv" target="MistressPage_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Fenton_Wiv|MistressFord_Wiv" source="Fenton_Wiv" target="MistressFord_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fenton_Wiv|BOYS_Wiv" source="Fenton_Wiv" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fenton_Wiv|MasterFord_Wiv" source="Fenton_Wiv" target="MasterFord_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressPage_Wiv|MistressFord_Wiv" source="MistressPage_Wiv" target="MistressFord_Wiv">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="MistressPage_Wiv|MasterFord_Wiv" source="MistressPage_Wiv" target="MasterFord_Wiv">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="MistressPage_Wiv|Robin_Wiv" source="MistressPage_Wiv" target="Robin_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MistressPage_Wiv|Robert_Wiv" source="MistressPage_Wiv" target="Robert_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MistressPage_Wiv|John_Wiv" source="MistressPage_Wiv" target="John_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MistressPage_Wiv|WilliamPage_Wiv" source="MistressPage_Wiv" target="WilliamPage_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressPage_Wiv|BOYS_Wiv" source="MistressPage_Wiv" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressFord_Wiv|MasterFord_Wiv" source="MistressFord_Wiv" target="MasterFord_Wiv">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="MistressFord_Wiv|Robin_Wiv" source="MistressFord_Wiv" target="Robin_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressFord_Wiv|Robert_Wiv" source="MistressFord_Wiv" target="Robert_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MistressFord_Wiv|John_Wiv" source="MistressFord_Wiv" target="John_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MistressFord_Wiv|BOYS_Wiv" source="MistressFord_Wiv" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MasterFord_Wiv|Robin_Wiv" source="MasterFord_Wiv" target="Robin_Wiv">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="MasterFord_Wiv|Robert_Wiv" source="MasterFord_Wiv" target="Robert_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MasterFord_Wiv|John_Wiv" source="MasterFord_Wiv" target="John_Wiv">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MasterFord_Wiv|BOYS_Wiv" source="MasterFord_Wiv" target="BOYS_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Robin_Wiv|Robert_Wiv" source="Robin_Wiv" target="Robert_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Robin_Wiv|John_Wiv" source="Robin_Wiv" target="John_Wiv">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Robert_Wiv|John_Wiv" source="Robert_Wiv" target="John_Wiv">
+            <data key="weight">2</data>
+        </edge>
+    </graph>
+</graphml>

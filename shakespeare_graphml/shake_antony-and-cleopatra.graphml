@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Philo_Ant">
+            <data key="label">Philo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">125</data>
+        </node>
+        <node id="Cleopatra_Ant">
+            <data key="label">Cleopatra</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4695</data>
+        </node>
+        <node id="Antony_JC">
+            <data key="label">Antony</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5998</data>
+        </node>
+        <node id="MESSENGERS.X.1_Ant">
+            <data key="label">MESSENGERS.X.1_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <node id="Demetrius_Ant">
+            <data key="label">Demetrius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">35</data>
+        </node>
+        <node id="Charmian_Ant">
+            <data key="label">Charmian</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">632</data>
+        </node>
+        <node id="Alexas_Ant">
+            <data key="label">Alexas</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">207</data>
+        </node>
+        <node id="Soothsayer_Ant">
+            <data key="label">A Soothsayer</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">209</data>
+        </node>
+        <node id="Enobarbus_Ant">
+            <data key="label">Enobarbus Domitius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2436</data>
+        </node>
+        <node id="Iras_Ant">
+            <data key="label">Iras</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">160</data>
+        </node>
+        <node id="MESSENGERS.ANTONY.1_Ant">
+            <data key="label">MESSENGERS.ANTONY.1_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">83</data>
+        </node>
+        <node id="MESSENGERS.ANTONY.2_Ant">
+            <data key="label">MESSENGERS.ANTONY.2_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="MESSENGERS.ANTONY.3_Ant">
+            <data key="label">MESSENGERS.ANTONY.3_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">22</data>
+        </node>
+        <node id="Octavius_JC">
+            <data key="label">Octavius Caesar</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2889</data>
+        </node>
+        <node id="Lepidus_JC">
+            <data key="label">Lepidus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">411</data>
+        </node>
+        <node id="MESSENGERS.CAESAR.1_Ant">
+            <data key="label">MESSENGERS.CAESAR.1_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">49</data>
+        </node>
+        <node id="MESSENGERS.CAESAR.2_Ant">
+            <data key="label">MESSENGERS.CAESAR.2_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">67</data>
+        </node>
+        <node id="Mardian_Ant">
+            <data key="label">Mardian</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">118</data>
+        </node>
+        <node id="Pompey_Ant">
+            <data key="label">Sextus Pompeius Pompey</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">931</data>
+        </node>
+        <node id="Menas_Ant">
+            <data key="label">Menas</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">459</data>
+        </node>
+        <node id="Varrius_Ant">
+            <data key="label">Varrius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">27</data>
+        </node>
+        <node id="Maecenas_Ant">
+            <data key="label">Maecenas</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">255</data>
+        </node>
+        <node id="Agrippa_Ant">
+            <data key="label">Agrippa</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">376</data>
+        </node>
+        <node id="Octavia_Ant">
+            <data key="label">Octavia</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">234</data>
+        </node>
+        <node id="MESSENGERS.X.2_Ant">
+            <data key="label">MESSENGERS.X.2_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">224</data>
+        </node>
+        <node id="SERVANTS.0.1_Ant">
+            <data key="label">SERVANTS.0.1_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">66</data>
+        </node>
+        <node id="SERVANTS.0.2_Ant">
+            <data key="label">SERVANTS.0.2_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">58</data>
+        </node>
+        <node id="Boy_Ant">
+            <data key="label">A Boy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">39</data>
+        </node>
+        <node id="CAPTAINS_Ant">
+            <data key="label">CAPTAINS_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">17</data>
+        </node>
+        <node id="Ventidius_Ant">
+            <data key="label">Ventidius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">220</data>
+        </node>
+        <node id="Silius_Ant">
+            <data key="label">Silius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">67</data>
+        </node>
+        <node id="Eros_Ant">
+            <data key="label">Eros</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">284</data>
+        </node>
+        <node id="Canidius_Ant">
+            <data key="label">Canidius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">165</data>
+        </node>
+        <node id="MESSENGERS.X.3_Ant">
+            <data key="label">MESSENGERS.X.3_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">13</data>
+        </node>
+        <node id="SOLDIERS.ANTONY.X.1_Ant">
+            <data key="label">SOLDIERS.ANTONY.X.1_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">87</data>
+        </node>
+        <node id="MESSENGERS.X.4_Ant">
+            <data key="label">MESSENGERS.X.4_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="Taurus_Ant">
+            <data key="label">Taurus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2</data>
+        </node>
+        <node id="Scarus_Ant">
+            <data key="label">Scarus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">267</data>
+        </node>
+        <node id="ATTENDANTS.ANTONY_Ant">
+            <data key="label">ATTENDANTS.ANTONY_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">3</data>
+        </node>
+        <node id="Dolabella_Ant">
+            <data key="label">Dolabella</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">286</data>
+        </node>
+        <node id="Ambassador_Ant">
+            <data key="label">A Schoolmaster Ambassador</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">107</data>
+        </node>
+        <node id="Thidias_Ant">
+            <data key="label">Thidias</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">182</data>
+        </node>
+        <node id="SERVANTS.X.1_Ant">
+            <data key="label">SERVANTS.X.1_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="SERVANTS.X.2_Ant">
+            <data key="label">SERVANTS.X.2_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="SERVANTS_Ant">
+            <data key="label">Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">3</data>
+        </node>
+        <node id="SOLDIERS.ANTONY.0.1_Ant">
+            <data key="label">SOLDIERS.ANTONY.0.1_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">65</data>
+        </node>
+        <node id="SOLDIERS.ANTONY.0.2_Ant">
+            <data key="label">SOLDIERS.ANTONY.0.2_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">63</data>
+        </node>
+        <node id="SOLDIERS.ANTONY.0.3_Ant">
+            <data key="label">SOLDIERS.ANTONY.0.3_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">15</data>
+        </node>
+        <node id="SOLDIERS.ANTONY.0.4_Ant">
+            <data key="label">SOLDIERS.ANTONY.0.4_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <node id="SOLDIERS.ANTONY_Ant">
+            <data key="label">SOLDIERS.ANTONY_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">14</data>
+        </node>
+        <node id="SOLDIERS.ANTONY.X.2_Ant">
+            <data key="label">SOLDIERS.ANTONY.X.2_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">18</data>
+        </node>
+        <node id="CAPTAINS.0.1_Ant">
+            <data key="label">A Captain</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="SOLDIERS.ANTONY.X.3_Ant">
+            <data key="label">SOLDIERS.ANTONY.X.3_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">63</data>
+        </node>
+        <node id="MESSENGERS.X.5_Ant">
+            <data key="label">MESSENGERS.X.5_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <node id="SOLDIERS.CAESAR.X.1_Ant">
+            <data key="label">SOLDIERS.CAESAR.X.1_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">62</data>
+        </node>
+        <node id="WATCHMEN.Sentry_Ant">
+            <data key="label">WATCHMEN.Sentry_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">91</data>
+        </node>
+        <node id="WATCHMEN.1_Ant">
+            <data key="label">WATCHMEN.1_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">25</data>
+        </node>
+        <node id="WATCHMEN.2_Ant">
+            <data key="label">WATCHMEN.2_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">26</data>
+        </node>
+        <node id="GUARDS.0.1_Ant">
+            <data key="label">GUARDS.0.1_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">27</data>
+        </node>
+        <node id="GUARDS.0.2_Ant">
+            <data key="label">GUARDS.0.2_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <node id="GUARDS_Ant">
+            <data key="label">Guardsmen</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="GUARDS.Dercetus_Ant">
+            <data key="label">Dercetus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">159</data>
+        </node>
+        <node id="GUARDS.0.3_Ant">
+            <data key="label">GUARDS.0.3_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2</data>
+        </node>
+        <node id="Diomedes_Ant">
+            <data key="label">Diomedes</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">128</data>
+        </node>
+        <node id="LADIES_Ant">
+            <data key="label">LADIES_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">3</data>
+        </node>
+        <node id="Egyptian_Ant">
+            <data key="label">An Egyptian</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">37</data>
+        </node>
+        <node id="Proculeius_Ant">
+            <data key="label">Proculeius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">211</data>
+        </node>
+        <node id="Gallus_Ant">
+            <data key="label">Gallus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="ATTENDANTS.CAESAR_Ant">
+            <data key="label">ATTENDANTS.CAESAR_Ant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">11</data>
+        </node>
+        <node id="Seleucus_Ant">
+            <data key="label">Seleucus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">26</data>
+        </node>
+        <node id="GUARDS.CAESAR.1_Ant">
+            <data key="label">GUARDS.CAESAR.1_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">21</data>
+        </node>
+        <node id="Countryman_Ant">
+            <data key="label">A Countryman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">252</data>
+        </node>
+        <node id="GUARDS.CAESAR.0.1_Ant">
+            <data key="label">GUARDS.CAESAR.0.1_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">86</data>
+        </node>
+        <node id="GUARDS.CAESAR.0.2_Ant">
+            <data key="label">GUARDS.CAESAR.0.2_Ant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <edge id="Philo_Ant|Cleopatra_Ant" source="Philo_Ant" target="Cleopatra_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Philo_Ant|Antony_JC" source="Philo_Ant" target="Antony_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Philo_Ant|MESSENGERS.X.1_Ant" source="Philo_Ant" target="MESSENGERS.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Philo_Ant|Demetrius_Ant" source="Philo_Ant" target="Demetrius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Antony_JC" source="Cleopatra_Ant" target="Antony_JC">
+            <data key="weight">11</data>
+        </edge>
+        <edge id="Cleopatra_Ant|MESSENGERS.X.1_Ant" source="Cleopatra_Ant" target="MESSENGERS.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Demetrius_Ant" source="Cleopatra_Ant" target="Demetrius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Charmian_Ant" source="Cleopatra_Ant" target="Charmian_Ant">
+            <data key="weight">10</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Alexas_Ant" source="Cleopatra_Ant" target="Alexas_Ant">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Soothsayer_Ant" source="Cleopatra_Ant" target="Soothsayer_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Enobarbus_Ant" source="Cleopatra_Ant" target="Enobarbus_Ant">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Iras_Ant" source="Cleopatra_Ant" target="Iras_Ant">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Cleopatra_Ant|MESSENGERS.ANTONY.1_Ant" source="Cleopatra_Ant" target="MESSENGERS.ANTONY.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|MESSENGERS.ANTONY.2_Ant" source="Cleopatra_Ant" target="MESSENGERS.ANTONY.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|MESSENGERS.ANTONY.3_Ant" source="Cleopatra_Ant" target="MESSENGERS.ANTONY.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Mardian_Ant" source="Cleopatra_Ant" target="Mardian_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cleopatra_Ant|MESSENGERS.X.2_Ant" source="Cleopatra_Ant" target="MESSENGERS.X.2_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Canidius_Ant" source="Cleopatra_Ant" target="Canidius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|MESSENGERS.X.3_Ant" source="Cleopatra_Ant" target="MESSENGERS.X.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|SOLDIERS.ANTONY.X.1_Ant" source="Cleopatra_Ant" target="SOLDIERS.ANTONY.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|MESSENGERS.X.4_Ant" source="Cleopatra_Ant" target="MESSENGERS.X.4_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|ATTENDANTS.ANTONY_Ant" source="Cleopatra_Ant" target="ATTENDANTS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Eros_Ant" source="Cleopatra_Ant" target="Eros_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Ambassador_Ant" source="Cleopatra_Ant" target="Ambassador_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|SERVANTS.X.1_Ant" source="Cleopatra_Ant" target="SERVANTS.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Thidias_Ant" source="Cleopatra_Ant" target="Thidias_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|SERVANTS.X.2_Ant" source="Cleopatra_Ant" target="SERVANTS.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|SERVANTS_Ant" source="Cleopatra_Ant" target="SERVANTS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|SOLDIERS.ANTONY.X.2_Ant" source="Cleopatra_Ant" target="SOLDIERS.ANTONY.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|CAPTAINS.0.1_Ant" source="Cleopatra_Ant" target="CAPTAINS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|CAPTAINS_Ant" source="Cleopatra_Ant" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|SOLDIERS.ANTONY_Ant" source="Cleopatra_Ant" target="SOLDIERS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Scarus_Ant" source="Cleopatra_Ant" target="Scarus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Diomedes_Ant" source="Cleopatra_Ant" target="Diomedes_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|LADIES_Ant" source="Cleopatra_Ant" target="LADIES_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|GUARDS_Ant" source="Cleopatra_Ant" target="GUARDS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Proculeius_Ant" source="Cleopatra_Ant" target="Proculeius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Gallus_Ant" source="Cleopatra_Ant" target="Gallus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Dolabella_Ant" source="Cleopatra_Ant" target="Dolabella_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Maecenas_Ant" source="Cleopatra_Ant" target="Maecenas_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|ATTENDANTS.CAESAR_Ant" source="Cleopatra_Ant" target="ATTENDANTS.CAESAR_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Octavius_JC" source="Cleopatra_Ant" target="Octavius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Seleucus_Ant" source="Cleopatra_Ant" target="Seleucus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|GUARDS.CAESAR.1_Ant" source="Cleopatra_Ant" target="GUARDS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|Countryman_Ant" source="Cleopatra_Ant" target="Countryman_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|GUARDS.CAESAR.0.1_Ant" source="Cleopatra_Ant" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleopatra_Ant|GUARDS.CAESAR.0.2_Ant" source="Cleopatra_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|MESSENGERS.X.1_Ant" source="Antony_JC" target="MESSENGERS.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Demetrius_Ant" source="Antony_JC" target="Demetrius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Charmian_Ant" source="Antony_JC" target="Charmian_Ant">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Antony_JC|Alexas_Ant" source="Antony_JC" target="Alexas_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Soothsayer_Ant" source="Antony_JC" target="Soothsayer_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|Enobarbus_Ant" source="Antony_JC" target="Enobarbus_Ant">
+            <data key="weight">8</data>
+        </edge>
+        <edge id="Antony_JC|Iras_Ant" source="Antony_JC" target="Iras_Ant">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Antony_JC|MESSENGERS.ANTONY.1_Ant" source="Antony_JC" target="MESSENGERS.ANTONY.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|MESSENGERS.ANTONY.2_Ant" source="Antony_JC" target="MESSENGERS.ANTONY.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|MESSENGERS.ANTONY.3_Ant" source="Antony_JC" target="MESSENGERS.ANTONY.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Lepidus_JC" source="Antony_JC" target="Lepidus_JC">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Antony_JC|Octavius_JC" source="Antony_JC" target="Octavius_JC">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Antony_JC|Maecenas_Ant" source="Antony_JC" target="Maecenas_Ant">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Antony_JC|Agrippa_Ant" source="Antony_JC" target="Agrippa_Ant">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Antony_JC|Octavia_Ant" source="Antony_JC" target="Octavia_Ant">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Antony_JC|Pompey_Ant" source="Antony_JC" target="Pompey_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|Menas_Ant" source="Antony_JC" target="Menas_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|SERVANTS.0.1_Ant" source="Antony_JC" target="SERVANTS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SERVANTS.0.2_Ant" source="Antony_JC" target="SERVANTS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Boy_Ant" source="Antony_JC" target="Boy_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|CAPTAINS_Ant" source="Antony_JC" target="CAPTAINS_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|Canidius_Ant" source="Antony_JC" target="Canidius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|MESSENGERS.X.3_Ant" source="Antony_JC" target="MESSENGERS.X.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.ANTONY.X.1_Ant" source="Antony_JC" target="SOLDIERS.ANTONY.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|MESSENGERS.X.4_Ant" source="Antony_JC" target="MESSENGERS.X.4_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|ATTENDANTS.ANTONY_Ant" source="Antony_JC" target="ATTENDANTS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Eros_Ant" source="Antony_JC" target="Eros_Ant">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Antony_JC|Ambassador_Ant" source="Antony_JC" target="Ambassador_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SERVANTS.X.1_Ant" source="Antony_JC" target="SERVANTS.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Thidias_Ant" source="Antony_JC" target="Thidias_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SERVANTS.X.2_Ant" source="Antony_JC" target="SERVANTS.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SERVANTS_Ant" source="Antony_JC" target="SERVANTS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.ANTONY.X.2_Ant" source="Antony_JC" target="SOLDIERS.ANTONY.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|CAPTAINS.0.1_Ant" source="Antony_JC" target="CAPTAINS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.ANTONY_Ant" source="Antony_JC" target="SOLDIERS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.ANTONY.X.3_Ant" source="Antony_JC" target="SOLDIERS.ANTONY.X.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Scarus_Ant" source="Antony_JC" target="Scarus_Ant">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Antony_JC|Mardian_Ant" source="Antony_JC" target="Mardian_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|GUARDS.0.1_Ant" source="Antony_JC" target="GUARDS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|GUARDS.0.2_Ant" source="Antony_JC" target="GUARDS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|GUARDS_Ant" source="Antony_JC" target="GUARDS_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|GUARDS.Dercetus_Ant" source="Antony_JC" target="GUARDS.Dercetus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|GUARDS.0.3_Ant" source="Antony_JC" target="GUARDS.0.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Diomedes_Ant" source="Antony_JC" target="Diomedes_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|LADIES_Ant" source="Antony_JC" target="LADIES_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Ant|Demetrius_Ant" source="MESSENGERS.X.1_Ant" target="Demetrius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Alexas_Ant" source="Charmian_Ant" target="Alexas_Ant">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Charmian_Ant|Soothsayer_Ant" source="Charmian_Ant" target="Soothsayer_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Enobarbus_Ant" source="Charmian_Ant" target="Enobarbus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Iras_Ant" source="Charmian_Ant" target="Iras_Ant">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Charmian_Ant|MESSENGERS.ANTONY.1_Ant" source="Charmian_Ant" target="MESSENGERS.ANTONY.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|MESSENGERS.ANTONY.2_Ant" source="Charmian_Ant" target="MESSENGERS.ANTONY.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|MESSENGERS.ANTONY.3_Ant" source="Charmian_Ant" target="MESSENGERS.ANTONY.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Mardian_Ant" source="Charmian_Ant" target="Mardian_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Charmian_Ant|MESSENGERS.X.2_Ant" source="Charmian_Ant" target="MESSENGERS.X.2_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Charmian_Ant|ATTENDANTS.ANTONY_Ant" source="Charmian_Ant" target="ATTENDANTS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Eros_Ant" source="Charmian_Ant" target="Eros_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Charmian_Ant|SOLDIERS.ANTONY.X.2_Ant" source="Charmian_Ant" target="SOLDIERS.ANTONY.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|CAPTAINS.0.1_Ant" source="Charmian_Ant" target="CAPTAINS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|CAPTAINS_Ant" source="Charmian_Ant" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|SOLDIERS.ANTONY_Ant" source="Charmian_Ant" target="SOLDIERS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Diomedes_Ant" source="Charmian_Ant" target="Diomedes_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|LADIES_Ant" source="Charmian_Ant" target="LADIES_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|GUARDS_Ant" source="Charmian_Ant" target="GUARDS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Proculeius_Ant" source="Charmian_Ant" target="Proculeius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Gallus_Ant" source="Charmian_Ant" target="Gallus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Dolabella_Ant" source="Charmian_Ant" target="Dolabella_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Maecenas_Ant" source="Charmian_Ant" target="Maecenas_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|ATTENDANTS.CAESAR_Ant" source="Charmian_Ant" target="ATTENDANTS.CAESAR_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Octavius_JC" source="Charmian_Ant" target="Octavius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Seleucus_Ant" source="Charmian_Ant" target="Seleucus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|GUARDS.CAESAR.1_Ant" source="Charmian_Ant" target="GUARDS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|Countryman_Ant" source="Charmian_Ant" target="Countryman_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|GUARDS.CAESAR.0.1_Ant" source="Charmian_Ant" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charmian_Ant|GUARDS.CAESAR.0.2_Ant" source="Charmian_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alexas_Ant|Soothsayer_Ant" source="Alexas_Ant" target="Soothsayer_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alexas_Ant|Enobarbus_Ant" source="Alexas_Ant" target="Enobarbus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alexas_Ant|Iras_Ant" source="Alexas_Ant" target="Iras_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Alexas_Ant|MESSENGERS.ANTONY.1_Ant" source="Alexas_Ant" target="MESSENGERS.ANTONY.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alexas_Ant|MESSENGERS.ANTONY.2_Ant" source="Alexas_Ant" target="MESSENGERS.ANTONY.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alexas_Ant|MESSENGERS.ANTONY.3_Ant" source="Alexas_Ant" target="MESSENGERS.ANTONY.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alexas_Ant|Mardian_Ant" source="Alexas_Ant" target="Mardian_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Alexas_Ant|MESSENGERS.X.2_Ant" source="Alexas_Ant" target="MESSENGERS.X.2_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Soothsayer_Ant|Enobarbus_Ant" source="Soothsayer_Ant" target="Enobarbus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_Ant|Iras_Ant" source="Soothsayer_Ant" target="Iras_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_Ant|MESSENGERS.ANTONY.1_Ant" source="Soothsayer_Ant" target="MESSENGERS.ANTONY.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_Ant|MESSENGERS.ANTONY.2_Ant" source="Soothsayer_Ant" target="MESSENGERS.ANTONY.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_Ant|MESSENGERS.ANTONY.3_Ant" source="Soothsayer_Ant" target="MESSENGERS.ANTONY.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_Ant|Octavia_Ant" source="Soothsayer_Ant" target="Octavia_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_Ant|Octavius_JC" source="Soothsayer_Ant" target="Octavius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Iras_Ant" source="Enobarbus_Ant" target="Iras_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|MESSENGERS.ANTONY.1_Ant" source="Enobarbus_Ant" target="MESSENGERS.ANTONY.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|MESSENGERS.ANTONY.2_Ant" source="Enobarbus_Ant" target="MESSENGERS.ANTONY.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|MESSENGERS.ANTONY.3_Ant" source="Enobarbus_Ant" target="MESSENGERS.ANTONY.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Lepidus_JC" source="Enobarbus_Ant" target="Lepidus_JC">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Octavius_JC" source="Enobarbus_Ant" target="Octavius_JC">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Maecenas_Ant" source="Enobarbus_Ant" target="Maecenas_Ant">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Agrippa_Ant" source="Enobarbus_Ant" target="Agrippa_Ant">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Pompey_Ant" source="Enobarbus_Ant" target="Pompey_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Menas_Ant" source="Enobarbus_Ant" target="Menas_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Enobarbus_Ant|SERVANTS.0.1_Ant" source="Enobarbus_Ant" target="SERVANTS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|SERVANTS.0.2_Ant" source="Enobarbus_Ant" target="SERVANTS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Boy_Ant" source="Enobarbus_Ant" target="Boy_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|CAPTAINS_Ant" source="Enobarbus_Ant" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Octavia_Ant" source="Enobarbus_Ant" target="Octavia_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Eros_Ant" source="Enobarbus_Ant" target="Eros_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Canidius_Ant" source="Enobarbus_Ant" target="Canidius_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Enobarbus_Ant|MESSENGERS.X.3_Ant" source="Enobarbus_Ant" target="MESSENGERS.X.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|SOLDIERS.ANTONY.X.1_Ant" source="Enobarbus_Ant" target="SOLDIERS.ANTONY.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|MESSENGERS.X.4_Ant" source="Enobarbus_Ant" target="MESSENGERS.X.4_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Scarus_Ant" source="Enobarbus_Ant" target="Scarus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Ambassador_Ant" source="Enobarbus_Ant" target="Ambassador_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|SERVANTS.X.1_Ant" source="Enobarbus_Ant" target="SERVANTS.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|Thidias_Ant" source="Enobarbus_Ant" target="Thidias_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|SERVANTS.X.2_Ant" source="Enobarbus_Ant" target="SERVANTS.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|SERVANTS_Ant" source="Enobarbus_Ant" target="SERVANTS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|MESSENGERS.X.5_Ant" source="Enobarbus_Ant" target="MESSENGERS.X.5_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|SOLDIERS.CAESAR.X.1_Ant" source="Enobarbus_Ant" target="SOLDIERS.CAESAR.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|WATCHMEN.Sentry_Ant" source="Enobarbus_Ant" target="WATCHMEN.Sentry_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|WATCHMEN.1_Ant" source="Enobarbus_Ant" target="WATCHMEN.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Enobarbus_Ant|WATCHMEN.2_Ant" source="Enobarbus_Ant" target="WATCHMEN.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|MESSENGERS.ANTONY.1_Ant" source="Iras_Ant" target="MESSENGERS.ANTONY.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|MESSENGERS.ANTONY.2_Ant" source="Iras_Ant" target="MESSENGERS.ANTONY.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|MESSENGERS.ANTONY.3_Ant" source="Iras_Ant" target="MESSENGERS.ANTONY.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|Mardian_Ant" source="Iras_Ant" target="Mardian_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|MESSENGERS.X.2_Ant" source="Iras_Ant" target="MESSENGERS.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|ATTENDANTS.ANTONY_Ant" source="Iras_Ant" target="ATTENDANTS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|Eros_Ant" source="Iras_Ant" target="Eros_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|Diomedes_Ant" source="Iras_Ant" target="Diomedes_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|LADIES_Ant" source="Iras_Ant" target="LADIES_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|GUARDS_Ant" source="Iras_Ant" target="GUARDS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|Proculeius_Ant" source="Iras_Ant" target="Proculeius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|Gallus_Ant" source="Iras_Ant" target="Gallus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|Dolabella_Ant" source="Iras_Ant" target="Dolabella_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|Maecenas_Ant" source="Iras_Ant" target="Maecenas_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|ATTENDANTS.CAESAR_Ant" source="Iras_Ant" target="ATTENDANTS.CAESAR_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|Octavius_JC" source="Iras_Ant" target="Octavius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|Seleucus_Ant" source="Iras_Ant" target="Seleucus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|GUARDS.CAESAR.1_Ant" source="Iras_Ant" target="GUARDS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|Countryman_Ant" source="Iras_Ant" target="Countryman_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|GUARDS.CAESAR.0.1_Ant" source="Iras_Ant" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iras_Ant|GUARDS.CAESAR.0.2_Ant" source="Iras_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.ANTONY.1_Ant|MESSENGERS.ANTONY.2_Ant" source="MESSENGERS.ANTONY.1_Ant" target="MESSENGERS.ANTONY.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.ANTONY.1_Ant|MESSENGERS.ANTONY.3_Ant" source="MESSENGERS.ANTONY.1_Ant" target="MESSENGERS.ANTONY.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.ANTONY.2_Ant|MESSENGERS.ANTONY.3_Ant" source="MESSENGERS.ANTONY.2_Ant" target="MESSENGERS.ANTONY.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Lepidus_JC" source="Octavius_JC" target="Lepidus_JC">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Octavius_JC|MESSENGERS.CAESAR.1_Ant" source="Octavius_JC" target="MESSENGERS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|MESSENGERS.CAESAR.2_Ant" source="Octavius_JC" target="MESSENGERS.CAESAR.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Maecenas_Ant" source="Octavius_JC" target="Maecenas_Ant">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Octavius_JC|Agrippa_Ant" source="Octavius_JC" target="Agrippa_Ant">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Octavius_JC|Octavia_Ant" source="Octavius_JC" target="Octavia_Ant">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Octavius_JC|Pompey_Ant" source="Octavius_JC" target="Pompey_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Octavius_JC|Menas_Ant" source="Octavius_JC" target="Menas_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Octavius_JC|SERVANTS.0.1_Ant" source="Octavius_JC" target="SERVANTS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|SERVANTS.0.2_Ant" source="Octavius_JC" target="SERVANTS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Boy_Ant" source="Octavius_JC" target="Boy_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|CAPTAINS_Ant" source="Octavius_JC" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Taurus_Ant" source="Octavius_JC" target="Taurus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Dolabella_Ant" source="Octavius_JC" target="Dolabella_Ant">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Octavius_JC|Ambassador_Ant" source="Octavius_JC" target="Ambassador_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Thidias_Ant" source="Octavius_JC" target="Thidias_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|MESSENGERS.X.5_Ant" source="Octavius_JC" target="MESSENGERS.X.5_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|SOLDIERS.CAESAR.X.1_Ant" source="Octavius_JC" target="SOLDIERS.CAESAR.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|GUARDS.Dercetus_Ant" source="Octavius_JC" target="GUARDS.Dercetus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Egyptian_Ant" source="Octavius_JC" target="Egyptian_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Proculeius_Ant" source="Octavius_JC" target="Proculeius_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Octavius_JC|Gallus_Ant" source="Octavius_JC" target="Gallus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|ATTENDANTS.CAESAR_Ant" source="Octavius_JC" target="ATTENDANTS.CAESAR_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Seleucus_Ant" source="Octavius_JC" target="Seleucus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|GUARDS.CAESAR.1_Ant" source="Octavius_JC" target="GUARDS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Countryman_Ant" source="Octavius_JC" target="Countryman_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|GUARDS.CAESAR.0.1_Ant" source="Octavius_JC" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|GUARDS.CAESAR.0.2_Ant" source="Octavius_JC" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lepidus_JC|MESSENGERS.CAESAR.1_Ant" source="Lepidus_JC" target="MESSENGERS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lepidus_JC|MESSENGERS.CAESAR.2_Ant" source="Lepidus_JC" target="MESSENGERS.CAESAR.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lepidus_JC|Maecenas_Ant" source="Lepidus_JC" target="Maecenas_Ant">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Lepidus_JC|Agrippa_Ant" source="Lepidus_JC" target="Agrippa_Ant">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Lepidus_JC|Pompey_Ant" source="Lepidus_JC" target="Pompey_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lepidus_JC|Menas_Ant" source="Lepidus_JC" target="Menas_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lepidus_JC|SERVANTS.0.1_Ant" source="Lepidus_JC" target="SERVANTS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lepidus_JC|SERVANTS.0.2_Ant" source="Lepidus_JC" target="SERVANTS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lepidus_JC|Boy_Ant" source="Lepidus_JC" target="Boy_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lepidus_JC|CAPTAINS_Ant" source="Lepidus_JC" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lepidus_JC|Octavia_Ant" source="Lepidus_JC" target="Octavia_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.CAESAR.1_Ant|MESSENGERS.CAESAR.2_Ant" source="MESSENGERS.CAESAR.1_Ant" target="MESSENGERS.CAESAR.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mardian_Ant|MESSENGERS.X.2_Ant" source="Mardian_Ant" target="MESSENGERS.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mardian_Ant|Eros_Ant" source="Mardian_Ant" target="Eros_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mardian_Ant|GUARDS.0.1_Ant" source="Mardian_Ant" target="GUARDS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mardian_Ant|GUARDS.0.2_Ant" source="Mardian_Ant" target="GUARDS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mardian_Ant|GUARDS_Ant" source="Mardian_Ant" target="GUARDS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mardian_Ant|GUARDS.Dercetus_Ant" source="Mardian_Ant" target="GUARDS.Dercetus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mardian_Ant|GUARDS.0.3_Ant" source="Mardian_Ant" target="GUARDS.0.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mardian_Ant|Diomedes_Ant" source="Mardian_Ant" target="Diomedes_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pompey_Ant|Menas_Ant" source="Pompey_Ant" target="Menas_Ant">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Pompey_Ant|Varrius_Ant" source="Pompey_Ant" target="Varrius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pompey_Ant|Maecenas_Ant" source="Pompey_Ant" target="Maecenas_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pompey_Ant|Agrippa_Ant" source="Pompey_Ant" target="Agrippa_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pompey_Ant|SERVANTS.0.1_Ant" source="Pompey_Ant" target="SERVANTS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pompey_Ant|SERVANTS.0.2_Ant" source="Pompey_Ant" target="SERVANTS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pompey_Ant|Boy_Ant" source="Pompey_Ant" target="Boy_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pompey_Ant|CAPTAINS_Ant" source="Pompey_Ant" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menas_Ant|Varrius_Ant" source="Menas_Ant" target="Varrius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menas_Ant|Maecenas_Ant" source="Menas_Ant" target="Maecenas_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Menas_Ant|Agrippa_Ant" source="Menas_Ant" target="Agrippa_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Menas_Ant|SERVANTS.0.1_Ant" source="Menas_Ant" target="SERVANTS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menas_Ant|SERVANTS.0.2_Ant" source="Menas_Ant" target="SERVANTS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menas_Ant|Boy_Ant" source="Menas_Ant" target="Boy_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menas_Ant|CAPTAINS_Ant" source="Menas_Ant" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|Agrippa_Ant" source="Maecenas_Ant" target="Agrippa_Ant">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Maecenas_Ant|SERVANTS.0.1_Ant" source="Maecenas_Ant" target="SERVANTS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|SERVANTS.0.2_Ant" source="Maecenas_Ant" target="SERVANTS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|Boy_Ant" source="Maecenas_Ant" target="Boy_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|CAPTAINS_Ant" source="Maecenas_Ant" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|Octavia_Ant" source="Maecenas_Ant" target="Octavia_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|Dolabella_Ant" source="Maecenas_Ant" target="Dolabella_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Maecenas_Ant|GUARDS.Dercetus_Ant" source="Maecenas_Ant" target="GUARDS.Dercetus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|Egyptian_Ant" source="Maecenas_Ant" target="Egyptian_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|Proculeius_Ant" source="Maecenas_Ant" target="Proculeius_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Maecenas_Ant|Gallus_Ant" source="Maecenas_Ant" target="Gallus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|ATTENDANTS.CAESAR_Ant" source="Maecenas_Ant" target="ATTENDANTS.CAESAR_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|Seleucus_Ant" source="Maecenas_Ant" target="Seleucus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|GUARDS.CAESAR.1_Ant" source="Maecenas_Ant" target="GUARDS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|Countryman_Ant" source="Maecenas_Ant" target="Countryman_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|GUARDS.CAESAR.0.1_Ant" source="Maecenas_Ant" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maecenas_Ant|GUARDS.CAESAR.0.2_Ant" source="Maecenas_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|SERVANTS.0.1_Ant" source="Agrippa_Ant" target="SERVANTS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|SERVANTS.0.2_Ant" source="Agrippa_Ant" target="SERVANTS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|Boy_Ant" source="Agrippa_Ant" target="Boy_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|CAPTAINS_Ant" source="Agrippa_Ant" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|Octavia_Ant" source="Agrippa_Ant" target="Octavia_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Agrippa_Ant|MESSENGERS.X.5_Ant" source="Agrippa_Ant" target="MESSENGERS.X.5_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|SOLDIERS.CAESAR.X.1_Ant" source="Agrippa_Ant" target="SOLDIERS.CAESAR.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|Scarus_Ant" source="Agrippa_Ant" target="Scarus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|Eros_Ant" source="Agrippa_Ant" target="Eros_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|Dolabella_Ant" source="Agrippa_Ant" target="Dolabella_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|GUARDS.Dercetus_Ant" source="Agrippa_Ant" target="GUARDS.Dercetus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|Egyptian_Ant" source="Agrippa_Ant" target="Egyptian_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agrippa_Ant|Proculeius_Ant" source="Agrippa_Ant" target="Proculeius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.0.1_Ant|SERVANTS.0.2_Ant" source="SERVANTS.0.1_Ant" target="SERVANTS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.0.1_Ant|Boy_Ant" source="SERVANTS.0.1_Ant" target="Boy_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.0.1_Ant|CAPTAINS_Ant" source="SERVANTS.0.1_Ant" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.0.2_Ant|Boy_Ant" source="SERVANTS.0.2_Ant" target="Boy_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.0.2_Ant|CAPTAINS_Ant" source="SERVANTS.0.2_Ant" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boy_Ant|CAPTAINS_Ant" source="Boy_Ant" target="CAPTAINS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CAPTAINS_Ant|Eros_Ant" source="CAPTAINS_Ant" target="Eros_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CAPTAINS_Ant|SOLDIERS.ANTONY.X.2_Ant" source="CAPTAINS_Ant" target="SOLDIERS.ANTONY.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CAPTAINS_Ant|CAPTAINS.0.1_Ant" source="CAPTAINS_Ant" target="CAPTAINS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CAPTAINS_Ant|SOLDIERS.ANTONY_Ant" source="CAPTAINS_Ant" target="SOLDIERS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ventidius_Ant|Silius_Ant" source="Ventidius_Ant" target="Silius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|ATTENDANTS.ANTONY_Ant" source="Eros_Ant" target="ATTENDANTS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|SOLDIERS.ANTONY.X.2_Ant" source="Eros_Ant" target="SOLDIERS.ANTONY.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|CAPTAINS.0.1_Ant" source="Eros_Ant" target="CAPTAINS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|SOLDIERS.ANTONY_Ant" source="Eros_Ant" target="SOLDIERS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|SOLDIERS.ANTONY.X.3_Ant" source="Eros_Ant" target="SOLDIERS.ANTONY.X.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|Scarus_Ant" source="Eros_Ant" target="Scarus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|GUARDS.0.1_Ant" source="Eros_Ant" target="GUARDS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|GUARDS.0.2_Ant" source="Eros_Ant" target="GUARDS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|GUARDS_Ant" source="Eros_Ant" target="GUARDS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|GUARDS.Dercetus_Ant" source="Eros_Ant" target="GUARDS.Dercetus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|GUARDS.0.3_Ant" source="Eros_Ant" target="GUARDS.0.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Eros_Ant|Diomedes_Ant" source="Eros_Ant" target="Diomedes_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Canidius_Ant|MESSENGERS.X.3_Ant" source="Canidius_Ant" target="MESSENGERS.X.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Canidius_Ant|SOLDIERS.ANTONY.X.1_Ant" source="Canidius_Ant" target="SOLDIERS.ANTONY.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Canidius_Ant|MESSENGERS.X.4_Ant" source="Canidius_Ant" target="MESSENGERS.X.4_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Canidius_Ant|Scarus_Ant" source="Canidius_Ant" target="Scarus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.3_Ant|SOLDIERS.ANTONY.X.1_Ant" source="MESSENGERS.X.3_Ant" target="SOLDIERS.ANTONY.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.3_Ant|MESSENGERS.X.4_Ant" source="MESSENGERS.X.3_Ant" target="MESSENGERS.X.4_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.X.1_Ant|MESSENGERS.X.4_Ant" source="SOLDIERS.ANTONY.X.1_Ant" target="MESSENGERS.X.4_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dolabella_Ant|Ambassador_Ant" source="Dolabella_Ant" target="Ambassador_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dolabella_Ant|Thidias_Ant" source="Dolabella_Ant" target="Thidias_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dolabella_Ant|GUARDS.Dercetus_Ant" source="Dolabella_Ant" target="GUARDS.Dercetus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dolabella_Ant|Egyptian_Ant" source="Dolabella_Ant" target="Egyptian_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dolabella_Ant|Proculeius_Ant" source="Dolabella_Ant" target="Proculeius_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Dolabella_Ant|Gallus_Ant" source="Dolabella_Ant" target="Gallus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dolabella_Ant|ATTENDANTS.CAESAR_Ant" source="Dolabella_Ant" target="ATTENDANTS.CAESAR_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dolabella_Ant|Seleucus_Ant" source="Dolabella_Ant" target="Seleucus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dolabella_Ant|GUARDS.CAESAR.1_Ant" source="Dolabella_Ant" target="GUARDS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dolabella_Ant|Countryman_Ant" source="Dolabella_Ant" target="Countryman_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dolabella_Ant|GUARDS.CAESAR.0.1_Ant" source="Dolabella_Ant" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dolabella_Ant|GUARDS.CAESAR.0.2_Ant" source="Dolabella_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ambassador_Ant|Thidias_Ant" source="Ambassador_Ant" target="Thidias_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ambassador_Ant|SERVANTS.X.1_Ant" source="Ambassador_Ant" target="SERVANTS.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ambassador_Ant|SERVANTS.X.2_Ant" source="Ambassador_Ant" target="SERVANTS.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thidias_Ant|SERVANTS.X.1_Ant" source="Thidias_Ant" target="SERVANTS.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thidias_Ant|SERVANTS.X.2_Ant" source="Thidias_Ant" target="SERVANTS.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.X.1_Ant|SERVANTS.X.2_Ant" source="SERVANTS.X.1_Ant" target="SERVANTS.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.0.1_Ant|SOLDIERS.ANTONY.0.2_Ant" source="SOLDIERS.ANTONY.0.1_Ant" target="SOLDIERS.ANTONY.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.0.1_Ant|SOLDIERS.ANTONY.0.3_Ant" source="SOLDIERS.ANTONY.0.1_Ant" target="SOLDIERS.ANTONY.0.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.0.1_Ant|SOLDIERS.ANTONY.0.4_Ant" source="SOLDIERS.ANTONY.0.1_Ant" target="SOLDIERS.ANTONY.0.4_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.0.1_Ant|SOLDIERS.ANTONY_Ant" source="SOLDIERS.ANTONY.0.1_Ant" target="SOLDIERS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.0.2_Ant|SOLDIERS.ANTONY.0.3_Ant" source="SOLDIERS.ANTONY.0.2_Ant" target="SOLDIERS.ANTONY.0.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.0.2_Ant|SOLDIERS.ANTONY.0.4_Ant" source="SOLDIERS.ANTONY.0.2_Ant" target="SOLDIERS.ANTONY.0.4_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.0.2_Ant|SOLDIERS.ANTONY_Ant" source="SOLDIERS.ANTONY.0.2_Ant" target="SOLDIERS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.0.3_Ant|SOLDIERS.ANTONY.0.4_Ant" source="SOLDIERS.ANTONY.0.3_Ant" target="SOLDIERS.ANTONY.0.4_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.0.3_Ant|SOLDIERS.ANTONY_Ant" source="SOLDIERS.ANTONY.0.3_Ant" target="SOLDIERS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.0.4_Ant|SOLDIERS.ANTONY_Ant" source="SOLDIERS.ANTONY.0.4_Ant" target="SOLDIERS.ANTONY_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY_Ant|SOLDIERS.ANTONY.X.2_Ant" source="SOLDIERS.ANTONY_Ant" target="SOLDIERS.ANTONY.X.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY_Ant|CAPTAINS.0.1_Ant" source="SOLDIERS.ANTONY_Ant" target="CAPTAINS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.X.2_Ant|CAPTAINS.0.1_Ant" source="SOLDIERS.ANTONY.X.2_Ant" target="CAPTAINS.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.5_Ant|SOLDIERS.CAESAR.X.1_Ant" source="MESSENGERS.X.5_Ant" target="SOLDIERS.CAESAR.X.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.Sentry_Ant|WATCHMEN.1_Ant" source="WATCHMEN.Sentry_Ant" target="WATCHMEN.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.Sentry_Ant|WATCHMEN.2_Ant" source="WATCHMEN.Sentry_Ant" target="WATCHMEN.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.1_Ant|WATCHMEN.2_Ant" source="WATCHMEN.1_Ant" target="WATCHMEN.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.0.1_Ant|GUARDS.0.2_Ant" source="GUARDS.0.1_Ant" target="GUARDS.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.0.1_Ant|GUARDS_Ant" source="GUARDS.0.1_Ant" target="GUARDS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.0.1_Ant|GUARDS.Dercetus_Ant" source="GUARDS.0.1_Ant" target="GUARDS.Dercetus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.0.1_Ant|GUARDS.0.3_Ant" source="GUARDS.0.1_Ant" target="GUARDS.0.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.0.1_Ant|Diomedes_Ant" source="GUARDS.0.1_Ant" target="Diomedes_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.0.2_Ant|GUARDS_Ant" source="GUARDS.0.2_Ant" target="GUARDS_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.0.2_Ant|GUARDS.Dercetus_Ant" source="GUARDS.0.2_Ant" target="GUARDS.Dercetus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.0.2_Ant|GUARDS.0.3_Ant" source="GUARDS.0.2_Ant" target="GUARDS.0.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.0.2_Ant|Diomedes_Ant" source="GUARDS.0.2_Ant" target="Diomedes_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS_Ant|GUARDS.Dercetus_Ant" source="GUARDS_Ant" target="GUARDS.Dercetus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS_Ant|GUARDS.0.3_Ant" source="GUARDS_Ant" target="GUARDS.0.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS_Ant|Diomedes_Ant" source="GUARDS_Ant" target="Diomedes_Ant">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="GUARDS_Ant|LADIES_Ant" source="GUARDS_Ant" target="LADIES_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.Dercetus_Ant|GUARDS.0.3_Ant" source="GUARDS.Dercetus_Ant" target="GUARDS.0.3_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.Dercetus_Ant|Diomedes_Ant" source="GUARDS.Dercetus_Ant" target="Diomedes_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.Dercetus_Ant|Egyptian_Ant" source="GUARDS.Dercetus_Ant" target="Egyptian_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.Dercetus_Ant|Proculeius_Ant" source="GUARDS.Dercetus_Ant" target="Proculeius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.0.3_Ant|Diomedes_Ant" source="GUARDS.0.3_Ant" target="Diomedes_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Diomedes_Ant|LADIES_Ant" source="Diomedes_Ant" target="LADIES_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egyptian_Ant|Proculeius_Ant" source="Egyptian_Ant" target="Proculeius_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proculeius_Ant|Gallus_Ant" source="Proculeius_Ant" target="Gallus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proculeius_Ant|ATTENDANTS.CAESAR_Ant" source="Proculeius_Ant" target="ATTENDANTS.CAESAR_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proculeius_Ant|Seleucus_Ant" source="Proculeius_Ant" target="Seleucus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proculeius_Ant|GUARDS.CAESAR.1_Ant" source="Proculeius_Ant" target="GUARDS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proculeius_Ant|Countryman_Ant" source="Proculeius_Ant" target="Countryman_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proculeius_Ant|GUARDS.CAESAR.0.1_Ant" source="Proculeius_Ant" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Proculeius_Ant|GUARDS.CAESAR.0.2_Ant" source="Proculeius_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gallus_Ant|ATTENDANTS.CAESAR_Ant" source="Gallus_Ant" target="ATTENDANTS.CAESAR_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gallus_Ant|Seleucus_Ant" source="Gallus_Ant" target="Seleucus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gallus_Ant|GUARDS.CAESAR.1_Ant" source="Gallus_Ant" target="GUARDS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gallus_Ant|Countryman_Ant" source="Gallus_Ant" target="Countryman_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gallus_Ant|GUARDS.CAESAR.0.1_Ant" source="Gallus_Ant" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gallus_Ant|GUARDS.CAESAR.0.2_Ant" source="Gallus_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CAESAR_Ant|Seleucus_Ant" source="ATTENDANTS.CAESAR_Ant" target="Seleucus_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CAESAR_Ant|GUARDS.CAESAR.1_Ant" source="ATTENDANTS.CAESAR_Ant" target="GUARDS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CAESAR_Ant|Countryman_Ant" source="ATTENDANTS.CAESAR_Ant" target="Countryman_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CAESAR_Ant|GUARDS.CAESAR.0.1_Ant" source="ATTENDANTS.CAESAR_Ant" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CAESAR_Ant|GUARDS.CAESAR.0.2_Ant" source="ATTENDANTS.CAESAR_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Seleucus_Ant|GUARDS.CAESAR.1_Ant" source="Seleucus_Ant" target="GUARDS.CAESAR.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Seleucus_Ant|Countryman_Ant" source="Seleucus_Ant" target="Countryman_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Seleucus_Ant|GUARDS.CAESAR.0.1_Ant" source="Seleucus_Ant" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Seleucus_Ant|GUARDS.CAESAR.0.2_Ant" source="Seleucus_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.CAESAR.1_Ant|Countryman_Ant" source="GUARDS.CAESAR.1_Ant" target="Countryman_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.CAESAR.1_Ant|GUARDS.CAESAR.0.1_Ant" source="GUARDS.CAESAR.1_Ant" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.CAESAR.1_Ant|GUARDS.CAESAR.0.2_Ant" source="GUARDS.CAESAR.1_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Countryman_Ant|GUARDS.CAESAR.0.1_Ant" source="Countryman_Ant" target="GUARDS.CAESAR.0.1_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Countryman_Ant|GUARDS.CAESAR.0.2_Ant" source="Countryman_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GUARDS.CAESAR.0.1_Ant|GUARDS.CAESAR.0.2_Ant" source="GUARDS.CAESAR.0.1_Ant" target="GUARDS.CAESAR.0.2_Ant">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

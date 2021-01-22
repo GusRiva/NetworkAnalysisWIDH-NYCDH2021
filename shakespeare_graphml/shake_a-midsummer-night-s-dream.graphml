@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Theseus_MND">
+            <data key="label">Theseus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1724</data>
+        </node>
+        <node id="Hippolyta_MND">
+            <data key="label">Hippolyta</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">250</data>
+        </node>
+        <node id="Egeus_MND">
+            <data key="label">Egeus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">296</data>
+        </node>
+        <node id="Hermia_MND">
+            <data key="label">Hermia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1284</data>
+        </node>
+        <node id="Demetrius_MND">
+            <data key="label">Demetrius</data>
+            <data key="gender">MAE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1066</data>
+        </node>
+        <node id="Lysander_MND">
+            <data key="label">Lysander</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1395</data>
+        </node>
+        <node id="Helena_MND">
+            <data key="label">Helena</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1816</data>
+        </node>
+        <node id="Quince_MND">
+            <data key="label">Peter Quince</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">962</data>
+        </node>
+        <node id="Bottom_MND">
+            <data key="label">Nick Bottom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2040</data>
+        </node>
+        <node id="Flute_MND">
+            <data key="label">Francis Flute</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">355</data>
+        </node>
+        <node id="Starveling_MND">
+            <data key="label">Robin Starveling</data>
+            <data key="gender"> MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">94</data>
+        </node>
+        <node id="Snout_MND">
+            <data key="label">Tom Snout</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">165</data>
+        </node>
+        <node id="Snug_MND">
+            <data key="label">Snug</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">125</data>
+        </node>
+        <node id="RobinGoodfellow_MND">
+            <data key="label">Robin Goodfellow</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1370</data>
+        </node>
+        <node id="FAIRIES.TITANIA.1_MND">
+            <data key="label">A Fairy</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">187</data>
+        </node>
+        <node id="Oberon_MND">
+            <data key="label">Oberon</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1607</data>
+        </node>
+        <node id="Titania_MND">
+            <data key="label">Titania</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1080</data>
+        </node>
+        <node id="FAIRIES.TITANIA.0.1_MND">
+            <data key="label">Other Fairies in the trains of Titania and Oberon</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">44</data>
+        </node>
+        <node id="FAIRIES.TITANIA_MND">
+            <data key="label">Other Fairies in the trains of Titania and Oberon</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">60</data>
+        </node>
+        <node id="FAIRIES.TITANIA.0.2_MND">
+            <data key="label">Other Fairies in the trains of Titania and Oberon</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">10</data>
+        </node>
+        <node id="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="label">Peaseblossom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="label">Cobweb</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="FAIRIES.TITANIA.Mote_MND">
+            <data key="label">Mote</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="label">Mustardseed</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">12</data>
+        </node>
+        <node id="Philostrate_MND">
+            <data key="label">Philostrate</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">183</data>
+        </node>
+        <edge id="Theseus_MND|Hippolyta_MND" source="Theseus_MND" target="Hippolyta_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Theseus_MND|Egeus_MND" source="Theseus_MND" target="Egeus_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Theseus_MND|Hermia_MND" source="Theseus_MND" target="Hermia_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Theseus_MND|Demetrius_MND" source="Theseus_MND" target="Demetrius_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Theseus_MND|Lysander_MND" source="Theseus_MND" target="Lysander_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Theseus_MND|Helena_MND" source="Theseus_MND" target="Helena_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Theseus_MND|Titania_MND" source="Theseus_MND" target="Titania_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Theseus_MND|Bottom_MND" source="Theseus_MND" target="Bottom_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Theseus_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Theseus_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Theseus_MND|FAIRIES.TITANIA.Cobweb_MND" source="Theseus_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Theseus_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Theseus_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Theseus_MND|Oberon_MND" source="Theseus_MND" target="Oberon_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Theseus_MND|RobinGoodfellow_MND" source="Theseus_MND" target="RobinGoodfellow_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Theseus_MND|Philostrate_MND" source="Theseus_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Theseus_MND|Quince_MND" source="Theseus_MND" target="Quince_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Theseus_MND|Snout_MND" source="Theseus_MND" target="Snout_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Theseus_MND|Flute_MND" source="Theseus_MND" target="Flute_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Theseus_MND|Snug_MND" source="Theseus_MND" target="Snug_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Theseus_MND|Starveling_MND" source="Theseus_MND" target="Starveling_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hippolyta_MND|Egeus_MND" source="Hippolyta_MND" target="Egeus_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hippolyta_MND|Hermia_MND" source="Hippolyta_MND" target="Hermia_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hippolyta_MND|Demetrius_MND" source="Hippolyta_MND" target="Demetrius_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Hippolyta_MND|Lysander_MND" source="Hippolyta_MND" target="Lysander_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Hippolyta_MND|Helena_MND" source="Hippolyta_MND" target="Helena_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hippolyta_MND|Titania_MND" source="Hippolyta_MND" target="Titania_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hippolyta_MND|Bottom_MND" source="Hippolyta_MND" target="Bottom_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hippolyta_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Hippolyta_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hippolyta_MND|FAIRIES.TITANIA.Cobweb_MND" source="Hippolyta_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hippolyta_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Hippolyta_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hippolyta_MND|Oberon_MND" source="Hippolyta_MND" target="Oberon_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hippolyta_MND|RobinGoodfellow_MND" source="Hippolyta_MND" target="RobinGoodfellow_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hippolyta_MND|Philostrate_MND" source="Hippolyta_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hippolyta_MND|Quince_MND" source="Hippolyta_MND" target="Quince_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hippolyta_MND|Snout_MND" source="Hippolyta_MND" target="Snout_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hippolyta_MND|Flute_MND" source="Hippolyta_MND" target="Flute_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hippolyta_MND|Snug_MND" source="Hippolyta_MND" target="Snug_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hippolyta_MND|Starveling_MND" source="Hippolyta_MND" target="Starveling_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeus_MND|Hermia_MND" source="Egeus_MND" target="Hermia_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Egeus_MND|Demetrius_MND" source="Egeus_MND" target="Demetrius_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Egeus_MND|Lysander_MND" source="Egeus_MND" target="Lysander_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Egeus_MND|Helena_MND" source="Egeus_MND" target="Helena_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Egeus_MND|Titania_MND" source="Egeus_MND" target="Titania_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeus_MND|Bottom_MND" source="Egeus_MND" target="Bottom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeus_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Egeus_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeus_MND|FAIRIES.TITANIA.Cobweb_MND" source="Egeus_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeus_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Egeus_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeus_MND|Oberon_MND" source="Egeus_MND" target="Oberon_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Egeus_MND|RobinGoodfellow_MND" source="Egeus_MND" target="RobinGoodfellow_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermia_MND|Demetrius_MND" source="Hermia_MND" target="Demetrius_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Hermia_MND|Lysander_MND" source="Hermia_MND" target="Lysander_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Hermia_MND|Helena_MND" source="Hermia_MND" target="Helena_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Hermia_MND|Titania_MND" source="Hermia_MND" target="Titania_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hermia_MND|FAIRIES.TITANIA.0.1_MND" source="Hermia_MND" target="FAIRIES.TITANIA.0.1_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermia_MND|FAIRIES.TITANIA_MND" source="Hermia_MND" target="FAIRIES.TITANIA_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermia_MND|FAIRIES.TITANIA.0.2_MND" source="Hermia_MND" target="FAIRIES.TITANIA.0.2_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermia_MND|Oberon_MND" source="Hermia_MND" target="Oberon_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Hermia_MND|RobinGoodfellow_MND" source="Hermia_MND" target="RobinGoodfellow_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Hermia_MND|Bottom_MND" source="Hermia_MND" target="Bottom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermia_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Hermia_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermia_MND|FAIRIES.TITANIA.Cobweb_MND" source="Hermia_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermia_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Hermia_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|Lysander_MND" source="Demetrius_MND" target="Lysander_MND">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Demetrius_MND|Helena_MND" source="Demetrius_MND" target="Helena_MND">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Demetrius_MND|RobinGoodfellow_MND" source="Demetrius_MND" target="RobinGoodfellow_MND">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Demetrius_MND|FAIRIES.TITANIA.1_MND" source="Demetrius_MND" target="FAIRIES.TITANIA.1_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|Oberon_MND" source="Demetrius_MND" target="Oberon_MND">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Demetrius_MND|Titania_MND" source="Demetrius_MND" target="Titania_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Demetrius_MND|FAIRIES.TITANIA.0.1_MND" source="Demetrius_MND" target="FAIRIES.TITANIA.0.1_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|FAIRIES.TITANIA_MND" source="Demetrius_MND" target="FAIRIES.TITANIA_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|FAIRIES.TITANIA.0.2_MND" source="Demetrius_MND" target="FAIRIES.TITANIA.0.2_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|Bottom_MND" source="Demetrius_MND" target="Bottom_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Demetrius_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Demetrius_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|FAIRIES.TITANIA.Cobweb_MND" source="Demetrius_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Demetrius_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|Philostrate_MND" source="Demetrius_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|Quince_MND" source="Demetrius_MND" target="Quince_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|Snout_MND" source="Demetrius_MND" target="Snout_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|Flute_MND" source="Demetrius_MND" target="Flute_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|Snug_MND" source="Demetrius_MND" target="Snug_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_MND|Starveling_MND" source="Demetrius_MND" target="Starveling_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|Helena_MND" source="Lysander_MND" target="Helena_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Lysander_MND|Titania_MND" source="Lysander_MND" target="Titania_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lysander_MND|FAIRIES.TITANIA.0.1_MND" source="Lysander_MND" target="FAIRIES.TITANIA.0.1_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|FAIRIES.TITANIA_MND" source="Lysander_MND" target="FAIRIES.TITANIA_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|FAIRIES.TITANIA.0.2_MND" source="Lysander_MND" target="FAIRIES.TITANIA.0.2_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|Oberon_MND" source="Lysander_MND" target="Oberon_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Lysander_MND|RobinGoodfellow_MND" source="Lysander_MND" target="RobinGoodfellow_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Lysander_MND|Bottom_MND" source="Lysander_MND" target="Bottom_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lysander_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Lysander_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|FAIRIES.TITANIA.Cobweb_MND" source="Lysander_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Lysander_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|Philostrate_MND" source="Lysander_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|Quince_MND" source="Lysander_MND" target="Quince_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|Snout_MND" source="Lysander_MND" target="Snout_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|Flute_MND" source="Lysander_MND" target="Flute_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|Snug_MND" source="Lysander_MND" target="Snug_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lysander_MND|Starveling_MND" source="Lysander_MND" target="Starveling_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helena_MND|RobinGoodfellow_MND" source="Helena_MND" target="RobinGoodfellow_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Helena_MND|FAIRIES.TITANIA.1_MND" source="Helena_MND" target="FAIRIES.TITANIA.1_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helena_MND|Oberon_MND" source="Helena_MND" target="Oberon_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Helena_MND|Titania_MND" source="Helena_MND" target="Titania_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Helena_MND|FAIRIES.TITANIA.0.1_MND" source="Helena_MND" target="FAIRIES.TITANIA.0.1_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helena_MND|FAIRIES.TITANIA_MND" source="Helena_MND" target="FAIRIES.TITANIA_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helena_MND|FAIRIES.TITANIA.0.2_MND" source="Helena_MND" target="FAIRIES.TITANIA.0.2_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helena_MND|Bottom_MND" source="Helena_MND" target="Bottom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helena_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Helena_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helena_MND|FAIRIES.TITANIA.Cobweb_MND" source="Helena_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helena_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Helena_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Quince_MND|Bottom_MND" source="Quince_MND" target="Bottom_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Quince_MND|Flute_MND" source="Quince_MND" target="Flute_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Quince_MND|Starveling_MND" source="Quince_MND" target="Starveling_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Quince_MND|Snout_MND" source="Quince_MND" target="Snout_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Quince_MND|Snug_MND" source="Quince_MND" target="Snug_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Quince_MND|RobinGoodfellow_MND" source="Quince_MND" target="RobinGoodfellow_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Quince_MND|Titania_MND" source="Quince_MND" target="Titania_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Quince_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Quince_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Quince_MND|FAIRIES.TITANIA.Cobweb_MND" source="Quince_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Quince_MND|FAIRIES.TITANIA.Mote_MND" source="Quince_MND" target="FAIRIES.TITANIA.Mote_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Quince_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Quince_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Quince_MND|Philostrate_MND" source="Quince_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Quince_MND|Oberon_MND" source="Quince_MND" target="Oberon_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bottom_MND|Flute_MND" source="Bottom_MND" target="Flute_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Bottom_MND|Starveling_MND" source="Bottom_MND" target="Starveling_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Bottom_MND|Snout_MND" source="Bottom_MND" target="Snout_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bottom_MND|Snug_MND" source="Bottom_MND" target="Snug_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bottom_MND|RobinGoodfellow_MND" source="Bottom_MND" target="RobinGoodfellow_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bottom_MND|Titania_MND" source="Bottom_MND" target="Titania_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bottom_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Bottom_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bottom_MND|FAIRIES.TITANIA.Cobweb_MND" source="Bottom_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bottom_MND|FAIRIES.TITANIA.Mote_MND" source="Bottom_MND" target="FAIRIES.TITANIA.Mote_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bottom_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Bottom_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bottom_MND|Oberon_MND" source="Bottom_MND" target="Oberon_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bottom_MND|Philostrate_MND" source="Bottom_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flute_MND|Starveling_MND" source="Flute_MND" target="Starveling_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Flute_MND|Snout_MND" source="Flute_MND" target="Snout_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Flute_MND|Snug_MND" source="Flute_MND" target="Snug_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Flute_MND|RobinGoodfellow_MND" source="Flute_MND" target="RobinGoodfellow_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Flute_MND|Titania_MND" source="Flute_MND" target="Titania_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Flute_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Flute_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flute_MND|FAIRIES.TITANIA.Cobweb_MND" source="Flute_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flute_MND|FAIRIES.TITANIA.Mote_MND" source="Flute_MND" target="FAIRIES.TITANIA.Mote_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flute_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Flute_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flute_MND|Philostrate_MND" source="Flute_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flute_MND|Oberon_MND" source="Flute_MND" target="Oberon_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Starveling_MND|Snout_MND" source="Starveling_MND" target="Snout_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Starveling_MND|Snug_MND" source="Starveling_MND" target="Snug_MND">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Starveling_MND|RobinGoodfellow_MND" source="Starveling_MND" target="RobinGoodfellow_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Starveling_MND|Titania_MND" source="Starveling_MND" target="Titania_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Starveling_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Starveling_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Starveling_MND|FAIRIES.TITANIA.Cobweb_MND" source="Starveling_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Starveling_MND|FAIRIES.TITANIA.Mote_MND" source="Starveling_MND" target="FAIRIES.TITANIA.Mote_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Starveling_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Starveling_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Starveling_MND|Philostrate_MND" source="Starveling_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Starveling_MND|Oberon_MND" source="Starveling_MND" target="Oberon_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Snout_MND|Snug_MND" source="Snout_MND" target="Snug_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Snout_MND|RobinGoodfellow_MND" source="Snout_MND" target="RobinGoodfellow_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Snout_MND|Titania_MND" source="Snout_MND" target="Titania_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Snout_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Snout_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Snout_MND|FAIRIES.TITANIA.Cobweb_MND" source="Snout_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Snout_MND|FAIRIES.TITANIA.Mote_MND" source="Snout_MND" target="FAIRIES.TITANIA.Mote_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Snout_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Snout_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Snout_MND|Philostrate_MND" source="Snout_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Snout_MND|Oberon_MND" source="Snout_MND" target="Oberon_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Snug_MND|Philostrate_MND" source="Snug_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Snug_MND|RobinGoodfellow_MND" source="Snug_MND" target="RobinGoodfellow_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Snug_MND|Oberon_MND" source="Snug_MND" target="Oberon_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Snug_MND|Titania_MND" source="Snug_MND" target="Titania_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RobinGoodfellow_MND|FAIRIES.TITANIA.1_MND" source="RobinGoodfellow_MND" target="FAIRIES.TITANIA.1_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RobinGoodfellow_MND|Oberon_MND" source="RobinGoodfellow_MND" target="Oberon_MND">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="RobinGoodfellow_MND|Titania_MND" source="RobinGoodfellow_MND" target="Titania_MND">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="RobinGoodfellow_MND|FAIRIES.TITANIA.0.1_MND" source="RobinGoodfellow_MND" target="FAIRIES.TITANIA.0.1_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RobinGoodfellow_MND|FAIRIES.TITANIA_MND" source="RobinGoodfellow_MND" target="FAIRIES.TITANIA_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RobinGoodfellow_MND|FAIRIES.TITANIA.0.2_MND" source="RobinGoodfellow_MND" target="FAIRIES.TITANIA.0.2_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RobinGoodfellow_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="RobinGoodfellow_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="RobinGoodfellow_MND|FAIRIES.TITANIA.Cobweb_MND" source="RobinGoodfellow_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="RobinGoodfellow_MND|FAIRIES.TITANIA.Mote_MND" source="RobinGoodfellow_MND" target="FAIRIES.TITANIA.Mote_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RobinGoodfellow_MND|FAIRIES.TITANIA.Mustardseed_MND" source="RobinGoodfellow_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="RobinGoodfellow_MND|Philostrate_MND" source="RobinGoodfellow_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FAIRIES.TITANIA.1_MND|Oberon_MND" source="FAIRIES.TITANIA.1_MND" target="Oberon_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FAIRIES.TITANIA.1_MND|Titania_MND" source="FAIRIES.TITANIA.1_MND" target="Titania_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oberon_MND|Titania_MND" source="Oberon_MND" target="Titania_MND">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Oberon_MND|FAIRIES.TITANIA.0.1_MND" source="Oberon_MND" target="FAIRIES.TITANIA.0.1_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oberon_MND|FAIRIES.TITANIA_MND" source="Oberon_MND" target="FAIRIES.TITANIA_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oberon_MND|FAIRIES.TITANIA.0.2_MND" source="Oberon_MND" target="FAIRIES.TITANIA.0.2_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oberon_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Oberon_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oberon_MND|FAIRIES.TITANIA.Cobweb_MND" source="Oberon_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oberon_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Oberon_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oberon_MND|Philostrate_MND" source="Oberon_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titania_MND|FAIRIES.TITANIA.0.1_MND" source="Titania_MND" target="FAIRIES.TITANIA.0.1_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titania_MND|FAIRIES.TITANIA_MND" source="Titania_MND" target="FAIRIES.TITANIA_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titania_MND|FAIRIES.TITANIA.0.2_MND" source="Titania_MND" target="FAIRIES.TITANIA.0.2_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titania_MND|FAIRIES.TITANIA.Peaseblossom_MND" source="Titania_MND" target="FAIRIES.TITANIA.Peaseblossom_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Titania_MND|FAIRIES.TITANIA.Cobweb_MND" source="Titania_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Titania_MND|FAIRIES.TITANIA.Mote_MND" source="Titania_MND" target="FAIRIES.TITANIA.Mote_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titania_MND|FAIRIES.TITANIA.Mustardseed_MND" source="Titania_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Titania_MND|Philostrate_MND" source="Titania_MND" target="Philostrate_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FAIRIES.TITANIA.0.1_MND|FAIRIES.TITANIA_MND" source="FAIRIES.TITANIA.0.1_MND" target="FAIRIES.TITANIA_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FAIRIES.TITANIA.0.1_MND|FAIRIES.TITANIA.0.2_MND" source="FAIRIES.TITANIA.0.1_MND" target="FAIRIES.TITANIA.0.2_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FAIRIES.TITANIA_MND|FAIRIES.TITANIA.0.2_MND" source="FAIRIES.TITANIA_MND" target="FAIRIES.TITANIA.0.2_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FAIRIES.TITANIA.Peaseblossom_MND|FAIRIES.TITANIA.Cobweb_MND" source="FAIRIES.TITANIA.Peaseblossom_MND" target="FAIRIES.TITANIA.Cobweb_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="FAIRIES.TITANIA.Peaseblossom_MND|FAIRIES.TITANIA.Mote_MND" source="FAIRIES.TITANIA.Peaseblossom_MND" target="FAIRIES.TITANIA.Mote_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FAIRIES.TITANIA.Peaseblossom_MND|FAIRIES.TITANIA.Mustardseed_MND" source="FAIRIES.TITANIA.Peaseblossom_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="FAIRIES.TITANIA.Cobweb_MND|FAIRIES.TITANIA.Mote_MND" source="FAIRIES.TITANIA.Cobweb_MND" target="FAIRIES.TITANIA.Mote_MND">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FAIRIES.TITANIA.Cobweb_MND|FAIRIES.TITANIA.Mustardseed_MND" source="FAIRIES.TITANIA.Cobweb_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="FAIRIES.TITANIA.Mote_MND|FAIRIES.TITANIA.Mustardseed_MND" source="FAIRIES.TITANIA.Mote_MND" target="FAIRIES.TITANIA.Mustardseed_MND">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

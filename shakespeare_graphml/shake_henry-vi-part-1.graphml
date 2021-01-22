@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Bedford_H5">
+            <data key="label">Bedford</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">595</data>
+        </node>
+        <node id="Gloucester_2H4">
+            <data key="label">Gloucester</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1401</data>
+        </node>
+        <node id="Exeter_H5">
+            <data key="label">Exeter</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">444</data>
+        </node>
+        <node id="CardinalBeaufort_1H6">
+            <data key="label">Winchester</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">727</data>
+        </node>
+        <node id="MESSENGERS.ENGLISH.1_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">126</data>
+        </node>
+        <node id="MESSENGERS.ENGLISH.2_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">54</data>
+        </node>
+        <node id="MESSENGERS.ENGLISH.3_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">338</data>
+        </node>
+        <node id="Charles_1H6">
+            <data key="label">Charles</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1019</data>
+        </node>
+        <node id="Alanson_1H6">
+            <data key="label">Alanson</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">359</data>
+        </node>
+        <node id="Reignier_1H6">
+            <data key="label">Reignier</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">444</data>
+        </node>
+        <node id="Bastard_1H6">
+            <data key="label">Orleance</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">222</data>
+        </node>
+        <node id="Pucelle_1H6">
+            <data key="label">Pucelle</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1957</data>
+        </node>
+        <node id="WARDERS.1_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">22</data>
+        </node>
+        <node id="SERVANTS.GLOUCESTER.0.1_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">22</data>
+        </node>
+        <node id="WARDERS.2_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="Woodville_1H6">
+            <data key="label">Woodville</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">38</data>
+        </node>
+        <node id="SERVANTS.GLOUCESTER_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">18</data>
+        </node>
+        <node id="Mayor_1H6">
+            <data key="label">Mayor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">151</data>
+        </node>
+        <node id="OFFICERS.0.1_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">49</data>
+        </node>
+        <node id="MasterGunner_1H6">
+            <data key="label">Master Gunner</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">138</data>
+        </node>
+        <node id="Boy_1H6">
+            <data key="label">Boy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">32</data>
+        </node>
+        <node id="Salisbury_1H6">
+            <data key="label">Salisbury</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">113</data>
+        </node>
+        <node id="Talbot_1H6">
+            <data key="label">Talbot</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3109</data>
+        </node>
+        <node id="Gargrave_1H6">
+            <data key="label">Gargrave</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">18</data>
+        </node>
+        <node id="Glansdale_1H6">
+            <data key="label">Glansdale</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="MESSENGERS.ENGLISH.X.1_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">33</data>
+        </node>
+        <node id="SOLDIERS.FRENCH.Sergeant_1H6">
+            <data key="label">Sergeant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">31</data>
+        </node>
+        <node id="WATCHMEN.1_1H6">
+            <data key="label">Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">29</data>
+        </node>
+        <node id="Burgundy_1H6">
+            <data key="label">Burgundy</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">334</data>
+        </node>
+        <node id="SOLDIERS.ENGLISH.1_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">34</data>
+        </node>
+        <node id="MESSENGERS.FRENCH.1_1H6">
+            <data key="label">Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">102</data>
+        </node>
+        <node id="SOLDIERS.ENGLISH.0.1_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="Countess_1H6">
+            <data key="label">Countess</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">350</data>
+        </node>
+        <node id="Porter_1H6">
+            <data key="label">Porter</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3</data>
+        </node>
+        <node id="York_1H6">
+            <data key="label">Plantagenet York</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1385</data>
+        </node>
+        <node id="Suffolk_1H6">
+            <data key="label">Suffolk</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1304</data>
+        </node>
+        <node id="Somerset_1H6">
+            <data key="label">Somerset</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">513</data>
+        </node>
+        <node id="Warwick_2H4">
+            <data key="label">Warwick</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">542</data>
+        </node>
+        <node id="Vernon_1H6">
+            <data key="label">Vernon</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">237</data>
+        </node>
+        <node id="Lawyer_1H6">
+            <data key="label">Lawyer</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">29</data>
+        </node>
+        <node id="Mortimer_1H4">
+            <data key="label">Mortimer</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">651</data>
+        </node>
+        <node id="JAILERS.0.1_1H6">
+            <data key="label">The English</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">30</data>
+        </node>
+        <node id="HenryVI_1H6">
+            <data key="label">King Henry VI</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1330</data>
+        </node>
+        <node id="SERVANTS.WINCHESTER.0.1_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">29</data>
+        </node>
+        <node id="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">65</data>
+        </node>
+        <node id="SERVANTS.1_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="SERVANTS.2_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="SERVANTS.3_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="SOLDIERS.FRENCH.PUCELLE.0.1_1H6">
+            <data key="label">Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">21</data>
+        </node>
+        <node id="Watchman_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">10</data>
+        </node>
+        <node id="SOLDIERS.ENGLISH.Captain_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">22</data>
+        </node>
+        <node id="Fastolf_1H6">
+            <data key="label">Fastolf</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">55</data>
+        </node>
+        <node id="Basset_1H6">
+            <data key="label">Basset</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">191</data>
+        </node>
+        <node id="General_1H6">
+            <data key="label">General</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">202</data>
+        </node>
+        <node id="MESSENGERS.ENGLISH.X.2_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">49</data>
+        </node>
+        <node id="Lucy_1H6">
+            <data key="label">Lucy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">586</data>
+        </node>
+        <node id="SOLDIERS.ENGLISH.SOMERSET.0.1_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="JohnTalbot_1H6">
+            <data key="label">John Talbot</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">400</data>
+        </node>
+        <node id="SERVANTS.TALBOT.1_1H6">
+            <data key="label">Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">10</data>
+        </node>
+        <node id="Legate_1H6">
+            <data key="label">Legate</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="SOLDIERS.FRENCH.Scout_1H6">
+            <data key="label">Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">31</data>
+        </node>
+        <node id="QueenMargaret_1H6">
+            <data key="label">Margaret</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">254</data>
+        </node>
+        <node id="Shepherd_1H6">
+            <data key="label">Shepherd</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">201</data>
+        </node>
+        <edge id="Bedford_H5|Gloucester_2H4" source="Bedford_H5" target="Gloucester_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Exeter_H5" source="Bedford_H5" target="Exeter_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|CardinalBeaufort_1H6" source="Bedford_H5" target="CardinalBeaufort_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|MESSENGERS.ENGLISH.1_1H6" source="Bedford_H5" target="MESSENGERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|MESSENGERS.ENGLISH.2_1H6" source="Bedford_H5" target="MESSENGERS.ENGLISH.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|MESSENGERS.ENGLISH.3_1H6" source="Bedford_H5" target="MESSENGERS.ENGLISH.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|SOLDIERS.FRENCH.Sergeant_1H6" source="Bedford_H5" target="SOLDIERS.FRENCH.Sergeant_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|WATCHMEN.1_1H6" source="Bedford_H5" target="WATCHMEN.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Talbot_1H6" source="Bedford_H5" target="Talbot_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bedford_H5|Burgundy_1H6" source="Bedford_H5" target="Burgundy_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bedford_H5|Alanson_1H6" source="Bedford_H5" target="Alanson_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bedford_H5|Bastard_1H6" source="Bedford_H5" target="Bastard_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bedford_H5|Reignier_1H6" source="Bedford_H5" target="Reignier_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bedford_H5|Charles_1H6" source="Bedford_H5" target="Charles_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bedford_H5|Pucelle_1H6" source="Bedford_H5" target="Pucelle_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bedford_H5|SOLDIERS.ENGLISH.1_1H6" source="Bedford_H5" target="SOLDIERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|MESSENGERS.FRENCH.1_1H6" source="Bedford_H5" target="MESSENGERS.FRENCH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|SOLDIERS.ENGLISH.0.1_1H6" source="Bedford_H5" target="SOLDIERS.ENGLISH.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|SOLDIERS.FRENCH.PUCELLE.0.1_1H6" source="Bedford_H5" target="SOLDIERS.FRENCH.PUCELLE.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Watchman_1H6" source="Bedford_H5" target="Watchman_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|SOLDIERS.ENGLISH.Captain_1H6" source="Bedford_H5" target="SOLDIERS.ENGLISH.Captain_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Fastolf_1H6" source="Bedford_H5" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|Exeter_H5" source="Gloucester_2H4" target="Exeter_H5">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Gloucester_2H4|CardinalBeaufort_1H6" source="Gloucester_2H4" target="CardinalBeaufort_1H6">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Gloucester_2H4|MESSENGERS.ENGLISH.1_1H6" source="Gloucester_2H4" target="MESSENGERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|MESSENGERS.ENGLISH.2_1H6" source="Gloucester_2H4" target="MESSENGERS.ENGLISH.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|MESSENGERS.ENGLISH.3_1H6" source="Gloucester_2H4" target="MESSENGERS.ENGLISH.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|WARDERS.1_1H6" source="Gloucester_2H4" target="WARDERS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|SERVANTS.GLOUCESTER.0.1_1H6" source="Gloucester_2H4" target="SERVANTS.GLOUCESTER.0.1_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gloucester_2H4|WARDERS.2_1H6" source="Gloucester_2H4" target="WARDERS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|Woodville_1H6" source="Gloucester_2H4" target="Woodville_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|SERVANTS.GLOUCESTER_1H6" source="Gloucester_2H4" target="SERVANTS.GLOUCESTER_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|Mayor_1H6" source="Gloucester_2H4" target="Mayor_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gloucester_2H4|OFFICERS.0.1_1H6" source="Gloucester_2H4" target="OFFICERS.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|Warwick_2H4" source="Gloucester_2H4" target="Warwick_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gloucester_2H4|Somerset_1H6" source="Gloucester_2H4" target="Somerset_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gloucester_2H4|York_1H6" source="Gloucester_2H4" target="York_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gloucester_2H4|HenryVI_1H6" source="Gloucester_2H4" target="HenryVI_1H6">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Gloucester_2H4|SERVANTS.WINCHESTER.0.1_1H6" source="Gloucester_2H4" target="SERVANTS.WINCHESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|SERVANTS.GLOUCESTER.0.2_1H6" source="Gloucester_2H4" target="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|SERVANTS.1_1H6" source="Gloucester_2H4" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|SERVANTS.2_1H6" source="Gloucester_2H4" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|SERVANTS.3_1H6" source="Gloucester_2H4" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|Suffolk_1H6" source="Gloucester_2H4" target="Suffolk_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gloucester_2H4|Talbot_1H6" source="Gloucester_2H4" target="Talbot_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gloucester_2H4|Vernon_1H6" source="Gloucester_2H4" target="Vernon_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gloucester_2H4|Basset_1H6" source="Gloucester_2H4" target="Basset_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gloucester_2H4|Fastolf_1H6" source="Gloucester_2H4" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|Legate_1H6" source="Gloucester_2H4" target="Legate_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|CardinalBeaufort_1H6" source="Exeter_H5" target="CardinalBeaufort_1H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Exeter_H5|MESSENGERS.ENGLISH.1_1H6" source="Exeter_H5" target="MESSENGERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|MESSENGERS.ENGLISH.2_1H6" source="Exeter_H5" target="MESSENGERS.ENGLISH.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|MESSENGERS.ENGLISH.3_1H6" source="Exeter_H5" target="MESSENGERS.ENGLISH.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Warwick_2H4" source="Exeter_H5" target="Warwick_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_H5|Somerset_1H6" source="Exeter_H5" target="Somerset_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_H5|York_1H6" source="Exeter_H5" target="York_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_H5|HenryVI_1H6" source="Exeter_H5" target="HenryVI_1H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Exeter_H5|Mayor_1H6" source="Exeter_H5" target="Mayor_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|SERVANTS.WINCHESTER.0.1_1H6" source="Exeter_H5" target="SERVANTS.WINCHESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|SERVANTS.GLOUCESTER.0.1_1H6" source="Exeter_H5" target="SERVANTS.GLOUCESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|SERVANTS.GLOUCESTER.0.2_1H6" source="Exeter_H5" target="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|SERVANTS.1_1H6" source="Exeter_H5" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|SERVANTS.2_1H6" source="Exeter_H5" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|SERVANTS.3_1H6" source="Exeter_H5" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Suffolk_1H6" source="Exeter_H5" target="Suffolk_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_H5|Fastolf_1H6" source="Exeter_H5" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Talbot_1H6" source="Exeter_H5" target="Talbot_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Vernon_1H6" source="Exeter_H5" target="Vernon_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Basset_1H6" source="Exeter_H5" target="Basset_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Legate_1H6" source="Exeter_H5" target="Legate_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|MESSENGERS.ENGLISH.1_1H6" source="CardinalBeaufort_1H6" target="MESSENGERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|MESSENGERS.ENGLISH.2_1H6" source="CardinalBeaufort_1H6" target="MESSENGERS.ENGLISH.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|MESSENGERS.ENGLISH.3_1H6" source="CardinalBeaufort_1H6" target="MESSENGERS.ENGLISH.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|WARDERS.1_1H6" source="CardinalBeaufort_1H6" target="WARDERS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|SERVANTS.GLOUCESTER.0.1_1H6" source="CardinalBeaufort_1H6" target="SERVANTS.GLOUCESTER.0.1_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|WARDERS.2_1H6" source="CardinalBeaufort_1H6" target="WARDERS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Woodville_1H6" source="CardinalBeaufort_1H6" target="Woodville_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|SERVANTS.GLOUCESTER_1H6" source="CardinalBeaufort_1H6" target="SERVANTS.GLOUCESTER_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Mayor_1H6" source="CardinalBeaufort_1H6" target="Mayor_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|OFFICERS.0.1_1H6" source="CardinalBeaufort_1H6" target="OFFICERS.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Warwick_2H4" source="CardinalBeaufort_1H6" target="Warwick_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Somerset_1H6" source="CardinalBeaufort_1H6" target="Somerset_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|York_1H6" source="CardinalBeaufort_1H6" target="York_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|HenryVI_1H6" source="CardinalBeaufort_1H6" target="HenryVI_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|SERVANTS.WINCHESTER.0.1_1H6" source="CardinalBeaufort_1H6" target="SERVANTS.WINCHESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|SERVANTS.GLOUCESTER.0.2_1H6" source="CardinalBeaufort_1H6" target="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|SERVANTS.1_1H6" source="CardinalBeaufort_1H6" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|SERVANTS.2_1H6" source="CardinalBeaufort_1H6" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|SERVANTS.3_1H6" source="CardinalBeaufort_1H6" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Suffolk_1H6" source="CardinalBeaufort_1H6" target="Suffolk_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Fastolf_1H6" source="CardinalBeaufort_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Talbot_1H6" source="CardinalBeaufort_1H6" target="Talbot_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Vernon_1H6" source="CardinalBeaufort_1H6" target="Vernon_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Basset_1H6" source="CardinalBeaufort_1H6" target="Basset_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Legate_1H6" source="CardinalBeaufort_1H6" target="Legate_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Shepherd_1H6" source="CardinalBeaufort_1H6" target="Shepherd_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Pucelle_1H6" source="CardinalBeaufort_1H6" target="Pucelle_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Charles_1H6" source="CardinalBeaufort_1H6" target="Charles_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Alanson_1H6" source="CardinalBeaufort_1H6" target="Alanson_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CardinalBeaufort_1H6|Reignier_1H6" source="CardinalBeaufort_1H6" target="Reignier_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.ENGLISH.1_1H6|MESSENGERS.ENGLISH.2_1H6" source="MESSENGERS.ENGLISH.1_1H6" target="MESSENGERS.ENGLISH.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.ENGLISH.1_1H6|MESSENGERS.ENGLISH.3_1H6" source="MESSENGERS.ENGLISH.1_1H6" target="MESSENGERS.ENGLISH.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.ENGLISH.2_1H6|MESSENGERS.ENGLISH.3_1H6" source="MESSENGERS.ENGLISH.2_1H6" target="MESSENGERS.ENGLISH.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|Alanson_1H6" source="Charles_1H6" target="Alanson_1H6">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Charles_1H6|Reignier_1H6" source="Charles_1H6" target="Reignier_1H6">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Charles_1H6|Bastard_1H6" source="Charles_1H6" target="Bastard_1H6">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Charles_1H6|Pucelle_1H6" source="Charles_1H6" target="Pucelle_1H6">
+            <data key="weight">8</data>
+        </edge>
+        <edge id="Charles_1H6|SOLDIERS.FRENCH.Sergeant_1H6" source="Charles_1H6" target="SOLDIERS.FRENCH.Sergeant_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|WATCHMEN.1_1H6" source="Charles_1H6" target="WATCHMEN.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|Talbot_1H6" source="Charles_1H6" target="Talbot_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Charles_1H6|Burgundy_1H6" source="Charles_1H6" target="Burgundy_1H6">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Charles_1H6|SOLDIERS.ENGLISH.1_1H6" source="Charles_1H6" target="SOLDIERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|SOLDIERS.FRENCH.PUCELLE.0.1_1H6" source="Charles_1H6" target="SOLDIERS.FRENCH.PUCELLE.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|Watchman_1H6" source="Charles_1H6" target="Watchman_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|SOLDIERS.ENGLISH.Captain_1H6" source="Charles_1H6" target="SOLDIERS.ENGLISH.Captain_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|Fastolf_1H6" source="Charles_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|SERVANTS.TALBOT.1_1H6" source="Charles_1H6" target="SERVANTS.TALBOT.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|Lucy_1H6" source="Charles_1H6" target="Lucy_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|SOLDIERS.FRENCH.Scout_1H6" source="Charles_1H6" target="SOLDIERS.FRENCH.Scout_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|York_1H6" source="Charles_1H6" target="York_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|Shepherd_1H6" source="Charles_1H6" target="Shepherd_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_1H6|Warwick_2H4" source="Charles_1H6" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alanson_1H6|Reignier_1H6" source="Alanson_1H6" target="Reignier_1H6">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Alanson_1H6|Bastard_1H6" source="Alanson_1H6" target="Bastard_1H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Alanson_1H6|Pucelle_1H6" source="Alanson_1H6" target="Pucelle_1H6">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Alanson_1H6|SOLDIERS.FRENCH.Sergeant_1H6" source="Alanson_1H6" target="SOLDIERS.FRENCH.Sergeant_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alanson_1H6|WATCHMEN.1_1H6" source="Alanson_1H6" target="WATCHMEN.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alanson_1H6|Talbot_1H6" source="Alanson_1H6" target="Talbot_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Alanson_1H6|Burgundy_1H6" source="Alanson_1H6" target="Burgundy_1H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Alanson_1H6|SOLDIERS.ENGLISH.1_1H6" source="Alanson_1H6" target="SOLDIERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alanson_1H6|SOLDIERS.FRENCH.PUCELLE.0.1_1H6" source="Alanson_1H6" target="SOLDIERS.FRENCH.PUCELLE.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alanson_1H6|Watchman_1H6" source="Alanson_1H6" target="Watchman_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alanson_1H6|SOLDIERS.ENGLISH.Captain_1H6" source="Alanson_1H6" target="SOLDIERS.ENGLISH.Captain_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alanson_1H6|Fastolf_1H6" source="Alanson_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alanson_1H6|SOLDIERS.FRENCH.Scout_1H6" source="Alanson_1H6" target="SOLDIERS.FRENCH.Scout_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alanson_1H6|York_1H6" source="Alanson_1H6" target="York_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alanson_1H6|Shepherd_1H6" source="Alanson_1H6" target="Shepherd_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alanson_1H6|Warwick_2H4" source="Alanson_1H6" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Reignier_1H6|Bastard_1H6" source="Reignier_1H6" target="Bastard_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Reignier_1H6|Pucelle_1H6" source="Reignier_1H6" target="Pucelle_1H6">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Reignier_1H6|SOLDIERS.FRENCH.Sergeant_1H6" source="Reignier_1H6" target="SOLDIERS.FRENCH.Sergeant_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Reignier_1H6|WATCHMEN.1_1H6" source="Reignier_1H6" target="WATCHMEN.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Reignier_1H6|Talbot_1H6" source="Reignier_1H6" target="Talbot_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Reignier_1H6|Burgundy_1H6" source="Reignier_1H6" target="Burgundy_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Reignier_1H6|SOLDIERS.ENGLISH.1_1H6" source="Reignier_1H6" target="SOLDIERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Reignier_1H6|SOLDIERS.FRENCH.PUCELLE.0.1_1H6" source="Reignier_1H6" target="SOLDIERS.FRENCH.PUCELLE.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Reignier_1H6|Watchman_1H6" source="Reignier_1H6" target="Watchman_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Reignier_1H6|SOLDIERS.ENGLISH.Captain_1H6" source="Reignier_1H6" target="SOLDIERS.ENGLISH.Captain_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Reignier_1H6|Fastolf_1H6" source="Reignier_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Reignier_1H6|York_1H6" source="Reignier_1H6" target="York_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Reignier_1H6|Suffolk_1H6" source="Reignier_1H6" target="Suffolk_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Reignier_1H6|QueenMargaret_1H6" source="Reignier_1H6" target="QueenMargaret_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Reignier_1H6|Shepherd_1H6" source="Reignier_1H6" target="Shepherd_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Reignier_1H6|Warwick_2H4" source="Reignier_1H6" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_1H6|Pucelle_1H6" source="Bastard_1H6" target="Pucelle_1H6">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Bastard_1H6|SOLDIERS.FRENCH.Sergeant_1H6" source="Bastard_1H6" target="SOLDIERS.FRENCH.Sergeant_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_1H6|WATCHMEN.1_1H6" source="Bastard_1H6" target="WATCHMEN.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_1H6|Talbot_1H6" source="Bastard_1H6" target="Talbot_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bastard_1H6|Burgundy_1H6" source="Bastard_1H6" target="Burgundy_1H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Bastard_1H6|SOLDIERS.ENGLISH.1_1H6" source="Bastard_1H6" target="SOLDIERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_1H6|SOLDIERS.FRENCH.PUCELLE.0.1_1H6" source="Bastard_1H6" target="SOLDIERS.FRENCH.PUCELLE.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_1H6|Watchman_1H6" source="Bastard_1H6" target="Watchman_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_1H6|SOLDIERS.ENGLISH.Captain_1H6" source="Bastard_1H6" target="SOLDIERS.ENGLISH.Captain_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_1H6|Fastolf_1H6" source="Bastard_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_1H6|SERVANTS.TALBOT.1_1H6" source="Bastard_1H6" target="SERVANTS.TALBOT.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bastard_1H6|Lucy_1H6" source="Bastard_1H6" target="Lucy_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|Talbot_1H6" source="Pucelle_1H6" target="Talbot_1H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Pucelle_1H6|SOLDIERS.FRENCH.Sergeant_1H6" source="Pucelle_1H6" target="SOLDIERS.FRENCH.Sergeant_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|WATCHMEN.1_1H6" source="Pucelle_1H6" target="WATCHMEN.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|Burgundy_1H6" source="Pucelle_1H6" target="Burgundy_1H6">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Pucelle_1H6|SOLDIERS.ENGLISH.1_1H6" source="Pucelle_1H6" target="SOLDIERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|SOLDIERS.FRENCH.PUCELLE.0.1_1H6" source="Pucelle_1H6" target="SOLDIERS.FRENCH.PUCELLE.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|Watchman_1H6" source="Pucelle_1H6" target="Watchman_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|SOLDIERS.ENGLISH.Captain_1H6" source="Pucelle_1H6" target="SOLDIERS.ENGLISH.Captain_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|Fastolf_1H6" source="Pucelle_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|SERVANTS.TALBOT.1_1H6" source="Pucelle_1H6" target="SERVANTS.TALBOT.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|Lucy_1H6" source="Pucelle_1H6" target="Lucy_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|SOLDIERS.FRENCH.Scout_1H6" source="Pucelle_1H6" target="SOLDIERS.FRENCH.Scout_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|York_1H6" source="Pucelle_1H6" target="York_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pucelle_1H6|Suffolk_1H6" source="Pucelle_1H6" target="Suffolk_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|QueenMargaret_1H6" source="Pucelle_1H6" target="QueenMargaret_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|Shepherd_1H6" source="Pucelle_1H6" target="Shepherd_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pucelle_1H6|Warwick_2H4" source="Pucelle_1H6" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WARDERS.1_1H6|SERVANTS.GLOUCESTER.0.1_1H6" source="WARDERS.1_1H6" target="SERVANTS.GLOUCESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WARDERS.1_1H6|WARDERS.2_1H6" source="WARDERS.1_1H6" target="WARDERS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WARDERS.1_1H6|Woodville_1H6" source="WARDERS.1_1H6" target="Woodville_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WARDERS.1_1H6|SERVANTS.GLOUCESTER_1H6" source="WARDERS.1_1H6" target="SERVANTS.GLOUCESTER_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WARDERS.1_1H6|Mayor_1H6" source="WARDERS.1_1H6" target="Mayor_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WARDERS.1_1H6|OFFICERS.0.1_1H6" source="WARDERS.1_1H6" target="OFFICERS.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|WARDERS.2_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="WARDERS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|Woodville_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="Woodville_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|SERVANTS.GLOUCESTER_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="SERVANTS.GLOUCESTER_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|Mayor_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="Mayor_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|OFFICERS.0.1_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="OFFICERS.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|Warwick_2H4" source="SERVANTS.GLOUCESTER.0.1_1H6" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|Somerset_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="Somerset_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|York_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="York_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|HenryVI_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="HenryVI_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|SERVANTS.WINCHESTER.0.1_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="SERVANTS.WINCHESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|SERVANTS.GLOUCESTER.0.2_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|SERVANTS.1_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|SERVANTS.2_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|SERVANTS.3_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.1_1H6|Suffolk_1H6" source="SERVANTS.GLOUCESTER.0.1_1H6" target="Suffolk_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WARDERS.2_1H6|Woodville_1H6" source="WARDERS.2_1H6" target="Woodville_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WARDERS.2_1H6|SERVANTS.GLOUCESTER_1H6" source="WARDERS.2_1H6" target="SERVANTS.GLOUCESTER_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WARDERS.2_1H6|Mayor_1H6" source="WARDERS.2_1H6" target="Mayor_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WARDERS.2_1H6|OFFICERS.0.1_1H6" source="WARDERS.2_1H6" target="OFFICERS.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Woodville_1H6|SERVANTS.GLOUCESTER_1H6" source="Woodville_1H6" target="SERVANTS.GLOUCESTER_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Woodville_1H6|Mayor_1H6" source="Woodville_1H6" target="Mayor_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Woodville_1H6|OFFICERS.0.1_1H6" source="Woodville_1H6" target="OFFICERS.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER_1H6|Mayor_1H6" source="SERVANTS.GLOUCESTER_1H6" target="Mayor_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER_1H6|OFFICERS.0.1_1H6" source="SERVANTS.GLOUCESTER_1H6" target="OFFICERS.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mayor_1H6|OFFICERS.0.1_1H6" source="Mayor_1H6" target="OFFICERS.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mayor_1H6|Warwick_2H4" source="Mayor_1H6" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mayor_1H6|Somerset_1H6" source="Mayor_1H6" target="Somerset_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mayor_1H6|York_1H6" source="Mayor_1H6" target="York_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mayor_1H6|HenryVI_1H6" source="Mayor_1H6" target="HenryVI_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mayor_1H6|SERVANTS.WINCHESTER.0.1_1H6" source="Mayor_1H6" target="SERVANTS.WINCHESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mayor_1H6|SERVANTS.GLOUCESTER.0.2_1H6" source="Mayor_1H6" target="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mayor_1H6|SERVANTS.1_1H6" source="Mayor_1H6" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mayor_1H6|SERVANTS.2_1H6" source="Mayor_1H6" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mayor_1H6|SERVANTS.3_1H6" source="Mayor_1H6" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mayor_1H6|Suffolk_1H6" source="Mayor_1H6" target="Suffolk_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MasterGunner_1H6|Boy_1H6" source="MasterGunner_1H6" target="Boy_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MasterGunner_1H6|Salisbury_1H6" source="MasterGunner_1H6" target="Salisbury_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MasterGunner_1H6|Talbot_1H6" source="MasterGunner_1H6" target="Talbot_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MasterGunner_1H6|Gargrave_1H6" source="MasterGunner_1H6" target="Gargrave_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MasterGunner_1H6|Glansdale_1H6" source="MasterGunner_1H6" target="Glansdale_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MasterGunner_1H6|MESSENGERS.ENGLISH.X.1_1H6" source="MasterGunner_1H6" target="MESSENGERS.ENGLISH.X.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boy_1H6|Salisbury_1H6" source="Boy_1H6" target="Salisbury_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boy_1H6|Talbot_1H6" source="Boy_1H6" target="Talbot_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boy_1H6|Gargrave_1H6" source="Boy_1H6" target="Gargrave_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boy_1H6|Glansdale_1H6" source="Boy_1H6" target="Glansdale_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boy_1H6|MESSENGERS.ENGLISH.X.1_1H6" source="Boy_1H6" target="MESSENGERS.ENGLISH.X.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_1H6|Talbot_1H6" source="Salisbury_1H6" target="Talbot_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_1H6|Gargrave_1H6" source="Salisbury_1H6" target="Gargrave_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_1H6|Glansdale_1H6" source="Salisbury_1H6" target="Glansdale_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_1H6|MESSENGERS.ENGLISH.X.1_1H6" source="Salisbury_1H6" target="MESSENGERS.ENGLISH.X.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|Gargrave_1H6" source="Talbot_1H6" target="Gargrave_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|Glansdale_1H6" source="Talbot_1H6" target="Glansdale_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|MESSENGERS.ENGLISH.X.1_1H6" source="Talbot_1H6" target="MESSENGERS.ENGLISH.X.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|SOLDIERS.FRENCH.Sergeant_1H6" source="Talbot_1H6" target="SOLDIERS.FRENCH.Sergeant_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|WATCHMEN.1_1H6" source="Talbot_1H6" target="WATCHMEN.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|Burgundy_1H6" source="Talbot_1H6" target="Burgundy_1H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Talbot_1H6|SOLDIERS.ENGLISH.1_1H6" source="Talbot_1H6" target="SOLDIERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|MESSENGERS.FRENCH.1_1H6" source="Talbot_1H6" target="MESSENGERS.FRENCH.1_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Talbot_1H6|SOLDIERS.ENGLISH.0.1_1H6" source="Talbot_1H6" target="SOLDIERS.ENGLISH.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|Countess_1H6" source="Talbot_1H6" target="Countess_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|Porter_1H6" source="Talbot_1H6" target="Porter_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|SOLDIERS.FRENCH.PUCELLE.0.1_1H6" source="Talbot_1H6" target="SOLDIERS.FRENCH.PUCELLE.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|Watchman_1H6" source="Talbot_1H6" target="Watchman_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|SOLDIERS.ENGLISH.Captain_1H6" source="Talbot_1H6" target="SOLDIERS.ENGLISH.Captain_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|Fastolf_1H6" source="Talbot_1H6" target="Fastolf_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Talbot_1H6|HenryVI_1H6" source="Talbot_1H6" target="HenryVI_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Talbot_1H6|Vernon_1H6" source="Talbot_1H6" target="Vernon_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Talbot_1H6|Basset_1H6" source="Talbot_1H6" target="Basset_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Talbot_1H6|York_1H6" source="Talbot_1H6" target="York_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|Somerset_1H6" source="Talbot_1H6" target="Somerset_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|Warwick_2H4" source="Talbot_1H6" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|General_1H6" source="Talbot_1H6" target="General_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|JohnTalbot_1H6" source="Talbot_1H6" target="JohnTalbot_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Talbot_1H6|SERVANTS.TALBOT.1_1H6" source="Talbot_1H6" target="SERVANTS.TALBOT.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Talbot_1H6|Lucy_1H6" source="Talbot_1H6" target="Lucy_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gargrave_1H6|Glansdale_1H6" source="Gargrave_1H6" target="Glansdale_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gargrave_1H6|MESSENGERS.ENGLISH.X.1_1H6" source="Gargrave_1H6" target="MESSENGERS.ENGLISH.X.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Glansdale_1H6|MESSENGERS.ENGLISH.X.1_1H6" source="Glansdale_1H6" target="MESSENGERS.ENGLISH.X.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.FRENCH.Sergeant_1H6|WATCHMEN.1_1H6" source="SOLDIERS.FRENCH.Sergeant_1H6" target="WATCHMEN.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.FRENCH.Sergeant_1H6|Burgundy_1H6" source="SOLDIERS.FRENCH.Sergeant_1H6" target="Burgundy_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.FRENCH.Sergeant_1H6|SOLDIERS.ENGLISH.1_1H6" source="SOLDIERS.FRENCH.Sergeant_1H6" target="SOLDIERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.1_1H6|Burgundy_1H6" source="WATCHMEN.1_1H6" target="Burgundy_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.1_1H6|SOLDIERS.ENGLISH.1_1H6" source="WATCHMEN.1_1H6" target="SOLDIERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_1H6|SOLDIERS.ENGLISH.1_1H6" source="Burgundy_1H6" target="SOLDIERS.ENGLISH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_1H6|MESSENGERS.FRENCH.1_1H6" source="Burgundy_1H6" target="MESSENGERS.FRENCH.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_1H6|SOLDIERS.ENGLISH.0.1_1H6" source="Burgundy_1H6" target="SOLDIERS.ENGLISH.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_1H6|SOLDIERS.FRENCH.PUCELLE.0.1_1H6" source="Burgundy_1H6" target="SOLDIERS.FRENCH.PUCELLE.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_1H6|Watchman_1H6" source="Burgundy_1H6" target="Watchman_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_1H6|SOLDIERS.ENGLISH.Captain_1H6" source="Burgundy_1H6" target="SOLDIERS.ENGLISH.Captain_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_1H6|Fastolf_1H6" source="Burgundy_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_1H6|SERVANTS.TALBOT.1_1H6" source="Burgundy_1H6" target="SERVANTS.TALBOT.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_1H6|Lucy_1H6" source="Burgundy_1H6" target="Lucy_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_1H6|SOLDIERS.FRENCH.Scout_1H6" source="Burgundy_1H6" target="SOLDIERS.FRENCH.Scout_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.FRENCH.1_1H6|SOLDIERS.ENGLISH.0.1_1H6" source="MESSENGERS.FRENCH.1_1H6" target="SOLDIERS.ENGLISH.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.FRENCH.1_1H6|Countess_1H6" source="MESSENGERS.FRENCH.1_1H6" target="Countess_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.FRENCH.1_1H6|Porter_1H6" source="MESSENGERS.FRENCH.1_1H6" target="Porter_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Countess_1H6|Porter_1H6" source="Countess_1H6" target="Porter_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|Suffolk_1H6" source="York_1H6" target="Suffolk_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="York_1H6|Somerset_1H6" source="York_1H6" target="Somerset_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="York_1H6|Warwick_2H4" source="York_1H6" target="Warwick_2H4">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="York_1H6|Vernon_1H6" source="York_1H6" target="Vernon_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="York_1H6|Lawyer_1H6" source="York_1H6" target="Lawyer_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|Mortimer_1H4" source="York_1H6" target="Mortimer_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|JAILERS.0.1_1H6" source="York_1H6" target="JAILERS.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|HenryVI_1H6" source="York_1H6" target="HenryVI_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="York_1H6|SERVANTS.WINCHESTER.0.1_1H6" source="York_1H6" target="SERVANTS.WINCHESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|SERVANTS.GLOUCESTER.0.2_1H6" source="York_1H6" target="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|SERVANTS.1_1H6" source="York_1H6" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|SERVANTS.2_1H6" source="York_1H6" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|SERVANTS.3_1H6" source="York_1H6" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|Fastolf_1H6" source="York_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|Basset_1H6" source="York_1H6" target="Basset_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|MESSENGERS.ENGLISH.X.2_1H6" source="York_1H6" target="MESSENGERS.ENGLISH.X.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|Lucy_1H6" source="York_1H6" target="Lucy_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|QueenMargaret_1H6" source="York_1H6" target="QueenMargaret_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|Shepherd_1H6" source="York_1H6" target="Shepherd_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_1H6|Somerset_1H6" source="Suffolk_1H6" target="Somerset_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Suffolk_1H6|Warwick_2H4" source="Suffolk_1H6" target="Warwick_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Suffolk_1H6|Vernon_1H6" source="Suffolk_1H6" target="Vernon_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_1H6|Lawyer_1H6" source="Suffolk_1H6" target="Lawyer_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_1H6|HenryVI_1H6" source="Suffolk_1H6" target="HenryVI_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Suffolk_1H6|SERVANTS.WINCHESTER.0.1_1H6" source="Suffolk_1H6" target="SERVANTS.WINCHESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_1H6|SERVANTS.GLOUCESTER.0.2_1H6" source="Suffolk_1H6" target="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_1H6|SERVANTS.1_1H6" source="Suffolk_1H6" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_1H6|SERVANTS.2_1H6" source="Suffolk_1H6" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_1H6|SERVANTS.3_1H6" source="Suffolk_1H6" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_1H6|QueenMargaret_1H6" source="Suffolk_1H6" target="QueenMargaret_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_1H6|Warwick_2H4" source="Somerset_1H6" target="Warwick_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Somerset_1H6|Vernon_1H6" source="Somerset_1H6" target="Vernon_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Somerset_1H6|Lawyer_1H6" source="Somerset_1H6" target="Lawyer_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_1H6|HenryVI_1H6" source="Somerset_1H6" target="HenryVI_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Somerset_1H6|SERVANTS.WINCHESTER.0.1_1H6" source="Somerset_1H6" target="SERVANTS.WINCHESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_1H6|SERVANTS.GLOUCESTER.0.2_1H6" source="Somerset_1H6" target="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_1H6|SERVANTS.1_1H6" source="Somerset_1H6" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_1H6|SERVANTS.2_1H6" source="Somerset_1H6" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_1H6|SERVANTS.3_1H6" source="Somerset_1H6" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_1H6|Fastolf_1H6" source="Somerset_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_1H6|Basset_1H6" source="Somerset_1H6" target="Basset_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_1H6|SOLDIERS.ENGLISH.SOMERSET.0.1_1H6" source="Somerset_1H6" target="SOLDIERS.ENGLISH.SOMERSET.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_1H6|Lucy_1H6" source="Somerset_1H6" target="Lucy_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|Vernon_1H6" source="Warwick_2H4" target="Vernon_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Warwick_2H4|Lawyer_1H6" source="Warwick_2H4" target="Lawyer_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|HenryVI_1H6" source="Warwick_2H4" target="HenryVI_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Warwick_2H4|SERVANTS.WINCHESTER.0.1_1H6" source="Warwick_2H4" target="SERVANTS.WINCHESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|SERVANTS.GLOUCESTER.0.2_1H6" source="Warwick_2H4" target="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|SERVANTS.1_1H6" source="Warwick_2H4" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|SERVANTS.2_1H6" source="Warwick_2H4" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|SERVANTS.3_1H6" source="Warwick_2H4" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|Fastolf_1H6" source="Warwick_2H4" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|Basset_1H6" source="Warwick_2H4" target="Basset_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|Shepherd_1H6" source="Warwick_2H4" target="Shepherd_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Vernon_1H6|Lawyer_1H6" source="Vernon_1H6" target="Lawyer_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Vernon_1H6|HenryVI_1H6" source="Vernon_1H6" target="HenryVI_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Vernon_1H6|Basset_1H6" source="Vernon_1H6" target="Basset_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Vernon_1H6|Fastolf_1H6" source="Vernon_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mortimer_1H4|JAILERS.0.1_1H6" source="Mortimer_1H4" target="JAILERS.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|SERVANTS.WINCHESTER.0.1_1H6" source="HenryVI_1H6" target="SERVANTS.WINCHESTER.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|SERVANTS.GLOUCESTER.0.2_1H6" source="HenryVI_1H6" target="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|SERVANTS.1_1H6" source="HenryVI_1H6" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|SERVANTS.2_1H6" source="HenryVI_1H6" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|SERVANTS.3_1H6" source="HenryVI_1H6" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|Basset_1H6" source="HenryVI_1H6" target="Basset_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryVI_1H6|Fastolf_1H6" source="HenryVI_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|Legate_1H6" source="HenryVI_1H6" target="Legate_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.WINCHESTER.0.1_1H6|SERVANTS.GLOUCESTER.0.2_1H6" source="SERVANTS.WINCHESTER.0.1_1H6" target="SERVANTS.GLOUCESTER.0.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.WINCHESTER.0.1_1H6|SERVANTS.1_1H6" source="SERVANTS.WINCHESTER.0.1_1H6" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.WINCHESTER.0.1_1H6|SERVANTS.2_1H6" source="SERVANTS.WINCHESTER.0.1_1H6" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.WINCHESTER.0.1_1H6|SERVANTS.3_1H6" source="SERVANTS.WINCHESTER.0.1_1H6" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.2_1H6|SERVANTS.1_1H6" source="SERVANTS.GLOUCESTER.0.2_1H6" target="SERVANTS.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.2_1H6|SERVANTS.2_1H6" source="SERVANTS.GLOUCESTER.0.2_1H6" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.GLOUCESTER.0.2_1H6|SERVANTS.3_1H6" source="SERVANTS.GLOUCESTER.0.2_1H6" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.1_1H6|SERVANTS.2_1H6" source="SERVANTS.1_1H6" target="SERVANTS.2_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.1_1H6|SERVANTS.3_1H6" source="SERVANTS.1_1H6" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.2_1H6|SERVANTS.3_1H6" source="SERVANTS.2_1H6" target="SERVANTS.3_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.FRENCH.PUCELLE.0.1_1H6|Watchman_1H6" source="SOLDIERS.FRENCH.PUCELLE.0.1_1H6" target="Watchman_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.FRENCH.PUCELLE.0.1_1H6|SOLDIERS.ENGLISH.Captain_1H6" source="SOLDIERS.FRENCH.PUCELLE.0.1_1H6" target="SOLDIERS.ENGLISH.Captain_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.FRENCH.PUCELLE.0.1_1H6|Fastolf_1H6" source="SOLDIERS.FRENCH.PUCELLE.0.1_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Watchman_1H6|SOLDIERS.ENGLISH.Captain_1H6" source="Watchman_1H6" target="SOLDIERS.ENGLISH.Captain_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Watchman_1H6|Fastolf_1H6" source="Watchman_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ENGLISH.Captain_1H6|Fastolf_1H6" source="SOLDIERS.ENGLISH.Captain_1H6" target="Fastolf_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fastolf_1H6|Basset_1H6" source="Fastolf_1H6" target="Basset_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.ENGLISH.X.2_1H6|Lucy_1H6" source="MESSENGERS.ENGLISH.X.2_1H6" target="Lucy_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucy_1H6|SOLDIERS.ENGLISH.SOMERSET.0.1_1H6" source="Lucy_1H6" target="SOLDIERS.ENGLISH.SOMERSET.0.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucy_1H6|SERVANTS.TALBOT.1_1H6" source="Lucy_1H6" target="SERVANTS.TALBOT.1_1H6">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

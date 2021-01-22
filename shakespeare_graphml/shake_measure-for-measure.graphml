@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Duke_MM">
+            <data key="label">Duke</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6533</data>
+        </node>
+        <node id="Escalus_MM">
+            <data key="label">Escalus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1418</data>
+        </node>
+        <node id="Angelo_MM">
+            <data key="label">Angelo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2380</data>
+        </node>
+        <node id="Lucio_MM">
+            <data key="label">Lucio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2318</data>
+        </node>
+        <node id="GENTLEMEN.1_MM">
+            <data key="label">GENTLEMEN.1_MM</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">169</data>
+        </node>
+        <node id="GENTLEMEN.2_MM">
+            <data key="label">GENTLEMEN.2_MM</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">59</data>
+        </node>
+        <node id="Bawd_MM">
+            <data key="label">Mistress Overdone</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">226</data>
+        </node>
+        <node id="Pompey_MM">
+            <data key="label">Pompey</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1292</data>
+        </node>
+        <node id="Claudio_MM">
+            <data key="label">Claudio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">798</data>
+        </node>
+        <node id="Provost_MM">
+            <data key="label">Provost</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1052</data>
+        </node>
+        <node id="FriarThomas_MM">
+            <data key="label">Friar Thomas</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">35</data>
+        </node>
+        <node id="Isabella_MM">
+            <data key="label">Isabella</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3018</data>
+        </node>
+        <node id="Nun_MM">
+            <data key="label">Francisca</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">76</data>
+        </node>
+        <node id="Elbow_MM">
+            <data key="label">Elbow</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">600</data>
+        </node>
+        <node id="Froth_MM">
+            <data key="label">Froth</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">58</data>
+        </node>
+        <node id="Justice_MM">
+            <data key="label">Justice</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">10</data>
+        </node>
+        <node id="SERVANTS.1_MM">
+            <data key="label">Servant</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">34</data>
+        </node>
+        <node id="Juliet_MM">
+            <data key="label">Juliet</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">63</data>
+        </node>
+        <node id="Boy_MM">
+            <data key="label">Boy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">41</data>
+        </node>
+        <node id="Mariana_MM">
+            <data key="label">Mariana</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">484</data>
+        </node>
+        <node id="Abhorson_MM">
+            <data key="label">Abhorson</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">141</data>
+        </node>
+        <node id="Messenger_MM">
+            <data key="label">Messenger</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">41</data>
+        </node>
+        <node id="Barnardine_MM">
+            <data key="label">Barnardine</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">112</data>
+        </node>
+        <node id="FriarPeter_MM">
+            <data key="label">Friar Peter</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">273</data>
+        </node>
+        <edge id="Duke_MM|Escalus_MM" source="Duke_MM" target="Escalus_MM">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Duke_MM|Angelo_MM" source="Duke_MM" target="Angelo_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Duke_MM|FriarThomas_MM" source="Duke_MM" target="FriarThomas_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_MM|Provost_MM" source="Duke_MM" target="Provost_MM">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Duke_MM|Juliet_MM" source="Duke_MM" target="Juliet_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_MM|Claudio_MM" source="Duke_MM" target="Claudio_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Duke_MM|Isabella_MM" source="Duke_MM" target="Isabella_MM">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Duke_MM|Elbow_MM" source="Duke_MM" target="Elbow_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_MM|Pompey_MM" source="Duke_MM" target="Pompey_MM">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Duke_MM|Lucio_MM" source="Duke_MM" target="Lucio_MM">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Duke_MM|Bawd_MM" source="Duke_MM" target="Bawd_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_MM|Boy_MM" source="Duke_MM" target="Boy_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_MM|Mariana_MM" source="Duke_MM" target="Mariana_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Duke_MM|Abhorson_MM" source="Duke_MM" target="Abhorson_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Duke_MM|Messenger_MM" source="Duke_MM" target="Messenger_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_MM|Barnardine_MM" source="Duke_MM" target="Barnardine_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_MM|FriarPeter_MM" source="Duke_MM" target="FriarPeter_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Escalus_MM|Angelo_MM" source="Escalus_MM" target="Angelo_MM">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Escalus_MM|Provost_MM" source="Escalus_MM" target="Provost_MM">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Escalus_MM|Elbow_MM" source="Escalus_MM" target="Elbow_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Escalus_MM|Pompey_MM" source="Escalus_MM" target="Pompey_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Escalus_MM|Froth_MM" source="Escalus_MM" target="Froth_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Escalus_MM|Justice_MM" source="Escalus_MM" target="Justice_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Escalus_MM|Lucio_MM" source="Escalus_MM" target="Lucio_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Escalus_MM|Bawd_MM" source="Escalus_MM" target="Bawd_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Escalus_MM|FriarPeter_MM" source="Escalus_MM" target="FriarPeter_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Escalus_MM|Isabella_MM" source="Escalus_MM" target="Isabella_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Escalus_MM|Mariana_MM" source="Escalus_MM" target="Mariana_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angelo_MM|Provost_MM" source="Angelo_MM" target="Provost_MM">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Angelo_MM|Elbow_MM" source="Angelo_MM" target="Elbow_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angelo_MM|Pompey_MM" source="Angelo_MM" target="Pompey_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angelo_MM|Froth_MM" source="Angelo_MM" target="Froth_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angelo_MM|Justice_MM" source="Angelo_MM" target="Justice_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angelo_MM|SERVANTS.1_MM" source="Angelo_MM" target="SERVANTS.1_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Angelo_MM|Isabella_MM" source="Angelo_MM" target="Isabella_MM">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Angelo_MM|Lucio_MM" source="Angelo_MM" target="Lucio_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Angelo_MM|FriarPeter_MM" source="Angelo_MM" target="FriarPeter_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angelo_MM|Mariana_MM" source="Angelo_MM" target="Mariana_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucio_MM|GENTLEMEN.1_MM" source="Lucio_MM" target="GENTLEMEN.1_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucio_MM|GENTLEMEN.2_MM" source="Lucio_MM" target="GENTLEMEN.2_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucio_MM|Bawd_MM" source="Lucio_MM" target="Bawd_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lucio_MM|Pompey_MM" source="Lucio_MM" target="Pompey_MM">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lucio_MM|Claudio_MM" source="Lucio_MM" target="Claudio_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucio_MM|Provost_MM" source="Lucio_MM" target="Provost_MM">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Lucio_MM|Isabella_MM" source="Lucio_MM" target="Isabella_MM">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Lucio_MM|Nun_MM" source="Lucio_MM" target="Nun_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucio_MM|SERVANTS.1_MM" source="Lucio_MM" target="SERVANTS.1_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucio_MM|Elbow_MM" source="Lucio_MM" target="Elbow_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucio_MM|Abhorson_MM" source="Lucio_MM" target="Abhorson_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucio_MM|Barnardine_MM" source="Lucio_MM" target="Barnardine_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucio_MM|FriarPeter_MM" source="Lucio_MM" target="FriarPeter_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucio_MM|Mariana_MM" source="Lucio_MM" target="Mariana_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_MM|GENTLEMEN.2_MM" source="GENTLEMEN.1_MM" target="GENTLEMEN.2_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_MM|Bawd_MM" source="GENTLEMEN.1_MM" target="Bawd_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_MM|Pompey_MM" source="GENTLEMEN.1_MM" target="Pompey_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_MM|Claudio_MM" source="GENTLEMEN.1_MM" target="Claudio_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_MM|Provost_MM" source="GENTLEMEN.1_MM" target="Provost_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.2_MM|Bawd_MM" source="GENTLEMEN.2_MM" target="Bawd_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.2_MM|Pompey_MM" source="GENTLEMEN.2_MM" target="Pompey_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.2_MM|Claudio_MM" source="GENTLEMEN.2_MM" target="Claudio_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.2_MM|Provost_MM" source="GENTLEMEN.2_MM" target="Provost_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bawd_MM|Pompey_MM" source="Bawd_MM" target="Pompey_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bawd_MM|Claudio_MM" source="Bawd_MM" target="Claudio_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bawd_MM|Provost_MM" source="Bawd_MM" target="Provost_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bawd_MM|Elbow_MM" source="Bawd_MM" target="Elbow_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pompey_MM|Claudio_MM" source="Pompey_MM" target="Claudio_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pompey_MM|Provost_MM" source="Pompey_MM" target="Provost_MM">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Pompey_MM|Elbow_MM" source="Pompey_MM" target="Elbow_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pompey_MM|Froth_MM" source="Pompey_MM" target="Froth_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pompey_MM|Justice_MM" source="Pompey_MM" target="Justice_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pompey_MM|Abhorson_MM" source="Pompey_MM" target="Abhorson_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pompey_MM|Messenger_MM" source="Pompey_MM" target="Messenger_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pompey_MM|Barnardine_MM" source="Pompey_MM" target="Barnardine_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pompey_MM|Isabella_MM" source="Pompey_MM" target="Isabella_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_MM|Provost_MM" source="Claudio_MM" target="Provost_MM">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Claudio_MM|Isabella_MM" source="Claudio_MM" target="Isabella_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_MM|Abhorson_MM" source="Claudio_MM" target="Abhorson_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Claudio_MM|Messenger_MM" source="Claudio_MM" target="Messenger_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Provost_MM|Elbow_MM" source="Provost_MM" target="Elbow_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Provost_MM|Froth_MM" source="Provost_MM" target="Froth_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Provost_MM|Justice_MM" source="Provost_MM" target="Justice_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Provost_MM|SERVANTS.1_MM" source="Provost_MM" target="SERVANTS.1_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Provost_MM|Isabella_MM" source="Provost_MM" target="Isabella_MM">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Provost_MM|Juliet_MM" source="Provost_MM" target="Juliet_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Provost_MM|Abhorson_MM" source="Provost_MM" target="Abhorson_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Provost_MM|Messenger_MM" source="Provost_MM" target="Messenger_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Provost_MM|Barnardine_MM" source="Provost_MM" target="Barnardine_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Provost_MM|FriarPeter_MM" source="Provost_MM" target="FriarPeter_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Provost_MM|Mariana_MM" source="Provost_MM" target="Mariana_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Isabella_MM|Nun_MM" source="Isabella_MM" target="Nun_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Isabella_MM|SERVANTS.1_MM" source="Isabella_MM" target="SERVANTS.1_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Isabella_MM|Boy_MM" source="Isabella_MM" target="Boy_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Isabella_MM|Mariana_MM" source="Isabella_MM" target="Mariana_MM">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Isabella_MM|Abhorson_MM" source="Isabella_MM" target="Abhorson_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Isabella_MM|Barnardine_MM" source="Isabella_MM" target="Barnardine_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Isabella_MM|FriarPeter_MM" source="Isabella_MM" target="FriarPeter_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Elbow_MM|Froth_MM" source="Elbow_MM" target="Froth_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Elbow_MM|Justice_MM" source="Elbow_MM" target="Justice_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Froth_MM|Justice_MM" source="Froth_MM" target="Justice_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boy_MM|Mariana_MM" source="Boy_MM" target="Mariana_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mariana_MM|FriarPeter_MM" source="Mariana_MM" target="FriarPeter_MM">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Abhorson_MM|Messenger_MM" source="Abhorson_MM" target="Messenger_MM">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Abhorson_MM|Barnardine_MM" source="Abhorson_MM" target="Barnardine_MM">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

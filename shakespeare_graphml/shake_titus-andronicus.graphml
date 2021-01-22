@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Saturninus_Tit">
+            <data key="label">Saturninus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1590</data>
+        </node>
+        <node id="Bassianus_Tit">
+            <data key="label">Bassianus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">461</data>
+        </node>
+        <node id="Marcus_Tit">
+            <data key="label">Marcus Andronicus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2447</data>
+        </node>
+        <node id="Captain_Tit">
+            <data key="label">Captain</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">41</data>
+        </node>
+        <node id="Titus_Tit">
+            <data key="label">Titus Andronicus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5712</data>
+        </node>
+        <node id="Lucius_Tit">
+            <data key="label">Lucius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1412</data>
+        </node>
+        <node id="Tamora_Tit">
+            <data key="label">Tamora</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1981</data>
+        </node>
+        <node id="Chiron_Tit">
+            <data key="label">Chiron</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">403</data>
+        </node>
+        <node id="Demetrius_Tit">
+            <data key="label">Demetrius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">720</data>
+        </node>
+        <node id="Lavinia_Tit">
+            <data key="label">Lavinia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">457</data>
+        </node>
+        <node id="TRIBUNES_Tit">
+            <data key="label">Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">31</data>
+        </node>
+        <node id="Mutius_Tit">
+            <data key="label">Mutius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">25</data>
+        </node>
+        <node id="Martius_Tit">
+            <data key="label">Martius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">273</data>
+        </node>
+        <node id="Quintus_Tit">
+            <data key="label">Quintus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">227</data>
+        </node>
+        <node id="Aaron_Tit">
+            <data key="label">Aaron</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2805</data>
+        </node>
+        <node id="Messenger_Tit">
+            <data key="label">Messenger</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">56</data>
+        </node>
+        <node id="YoungLucius_Tit">
+            <data key="label">Young Lucius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">350</data>
+        </node>
+        <node id="Nurse_Tit">
+            <data key="label">Nurse</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">136</data>
+        </node>
+        <node id="Publius_Tit">
+            <data key="label">Publius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">112</data>
+        </node>
+        <node id="CountryFellow_Tit">
+            <data key="label">Country Fellow</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">173</data>
+        </node>
+        <node id="Aemilius_Tit">
+            <data key="label">Aemilius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">132</data>
+        </node>
+        <node id="GOTHS.0.1_Tit">
+            <data key="label">First Goth</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">66</data>
+        </node>
+        <node id="GOTHS_Tit">
+            <data key="label">Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">10</data>
+        </node>
+        <node id="GOTHS.0.2_Tit">
+            <data key="label">Second Goth</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">160</data>
+        </node>
+        <node id="GOTHS.0_Tit">
+            <data key="label">Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">28</data>
+        </node>
+        <node id="ATTENDANTS_Tit">
+            <data key="label">Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">12</data>
+        </node>
+        <node id="TRIBUNES.0.1_Tit">
+            <data key="label">Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">21</data>
+        </node>
+        <edge id="Saturninus_Tit|Bassianus_Tit" source="Saturninus_Tit" target="Bassianus_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Saturninus_Tit|Marcus_Tit" source="Saturninus_Tit" target="Marcus_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Saturninus_Tit|Captain_Tit" source="Saturninus_Tit" target="Captain_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Saturninus_Tit|Titus_Tit" source="Saturninus_Tit" target="Titus_Tit">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Saturninus_Tit|Lucius_Tit" source="Saturninus_Tit" target="Lucius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Saturninus_Tit|Tamora_Tit" source="Saturninus_Tit" target="Tamora_Tit">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Saturninus_Tit|Chiron_Tit" source="Saturninus_Tit" target="Chiron_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Saturninus_Tit|Demetrius_Tit" source="Saturninus_Tit" target="Demetrius_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Saturninus_Tit|Lavinia_Tit" source="Saturninus_Tit" target="Lavinia_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Saturninus_Tit|TRIBUNES_Tit" source="Saturninus_Tit" target="TRIBUNES_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Saturninus_Tit|Mutius_Tit" source="Saturninus_Tit" target="Mutius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Saturninus_Tit|Martius_Tit" source="Saturninus_Tit" target="Martius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Saturninus_Tit|Quintus_Tit" source="Saturninus_Tit" target="Quintus_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Saturninus_Tit|Aaron_Tit" source="Saturninus_Tit" target="Aaron_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Saturninus_Tit|CountryFellow_Tit" source="Saturninus_Tit" target="CountryFellow_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Saturninus_Tit|Aemilius_Tit" source="Saturninus_Tit" target="Aemilius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Saturninus_Tit|GOTHS.0.1_Tit" source="Saturninus_Tit" target="GOTHS.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Saturninus_Tit|ATTENDANTS_Tit" source="Saturninus_Tit" target="ATTENDANTS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Saturninus_Tit|YoungLucius_Tit" source="Saturninus_Tit" target="YoungLucius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Saturninus_Tit|TRIBUNES.0.1_Tit" source="Saturninus_Tit" target="TRIBUNES.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bassianus_Tit|Marcus_Tit" source="Bassianus_Tit" target="Marcus_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bassianus_Tit|Captain_Tit" source="Bassianus_Tit" target="Captain_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bassianus_Tit|Titus_Tit" source="Bassianus_Tit" target="Titus_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bassianus_Tit|Lucius_Tit" source="Bassianus_Tit" target="Lucius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bassianus_Tit|Tamora_Tit" source="Bassianus_Tit" target="Tamora_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bassianus_Tit|Chiron_Tit" source="Bassianus_Tit" target="Chiron_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bassianus_Tit|Demetrius_Tit" source="Bassianus_Tit" target="Demetrius_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bassianus_Tit|Lavinia_Tit" source="Bassianus_Tit" target="Lavinia_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bassianus_Tit|TRIBUNES_Tit" source="Bassianus_Tit" target="TRIBUNES_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bassianus_Tit|Mutius_Tit" source="Bassianus_Tit" target="Mutius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bassianus_Tit|Martius_Tit" source="Bassianus_Tit" target="Martius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bassianus_Tit|Quintus_Tit" source="Bassianus_Tit" target="Quintus_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bassianus_Tit|Aaron_Tit" source="Bassianus_Tit" target="Aaron_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marcus_Tit|Captain_Tit" source="Marcus_Tit" target="Captain_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marcus_Tit|Titus_Tit" source="Marcus_Tit" target="Titus_Tit">
+            <data key="weight">8</data>
+        </edge>
+        <edge id="Marcus_Tit|Lucius_Tit" source="Marcus_Tit" target="Lucius_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Marcus_Tit|Tamora_Tit" source="Marcus_Tit" target="Tamora_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Marcus_Tit|Chiron_Tit" source="Marcus_Tit" target="Chiron_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Marcus_Tit|Demetrius_Tit" source="Marcus_Tit" target="Demetrius_Tit">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Marcus_Tit|Lavinia_Tit" source="Marcus_Tit" target="Lavinia_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Marcus_Tit|TRIBUNES_Tit" source="Marcus_Tit" target="TRIBUNES_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Marcus_Tit|Mutius_Tit" source="Marcus_Tit" target="Mutius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marcus_Tit|Martius_Tit" source="Marcus_Tit" target="Martius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marcus_Tit|Quintus_Tit" source="Marcus_Tit" target="Quintus_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marcus_Tit|Aaron_Tit" source="Marcus_Tit" target="Aaron_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Marcus_Tit|Messenger_Tit" source="Marcus_Tit" target="Messenger_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marcus_Tit|YoungLucius_Tit" source="Marcus_Tit" target="YoungLucius_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Marcus_Tit|Publius_Tit" source="Marcus_Tit" target="Publius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Marcus_Tit|CountryFellow_Tit" source="Marcus_Tit" target="CountryFellow_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marcus_Tit|GOTHS.0.1_Tit" source="Marcus_Tit" target="GOTHS.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marcus_Tit|Aemilius_Tit" source="Marcus_Tit" target="Aemilius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marcus_Tit|ATTENDANTS_Tit" source="Marcus_Tit" target="ATTENDANTS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marcus_Tit|TRIBUNES.0.1_Tit" source="Marcus_Tit" target="TRIBUNES.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Captain_Tit|Titus_Tit" source="Captain_Tit" target="Titus_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Captain_Tit|Lucius_Tit" source="Captain_Tit" target="Lucius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Captain_Tit|Tamora_Tit" source="Captain_Tit" target="Tamora_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Captain_Tit|Chiron_Tit" source="Captain_Tit" target="Chiron_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Captain_Tit|Demetrius_Tit" source="Captain_Tit" target="Demetrius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Captain_Tit|Lavinia_Tit" source="Captain_Tit" target="Lavinia_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Captain_Tit|TRIBUNES_Tit" source="Captain_Tit" target="TRIBUNES_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Captain_Tit|Mutius_Tit" source="Captain_Tit" target="Mutius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Captain_Tit|Martius_Tit" source="Captain_Tit" target="Martius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Captain_Tit|Quintus_Tit" source="Captain_Tit" target="Quintus_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titus_Tit|Lucius_Tit" source="Titus_Tit" target="Lucius_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Titus_Tit|Tamora_Tit" source="Titus_Tit" target="Tamora_Tit">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Titus_Tit|Chiron_Tit" source="Titus_Tit" target="Chiron_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Titus_Tit|Demetrius_Tit" source="Titus_Tit" target="Demetrius_Tit">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Titus_Tit|Lavinia_Tit" source="Titus_Tit" target="Lavinia_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Titus_Tit|TRIBUNES_Tit" source="Titus_Tit" target="TRIBUNES_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Titus_Tit|Mutius_Tit" source="Titus_Tit" target="Mutius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titus_Tit|Martius_Tit" source="Titus_Tit" target="Martius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Titus_Tit|Quintus_Tit" source="Titus_Tit" target="Quintus_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Titus_Tit|Aaron_Tit" source="Titus_Tit" target="Aaron_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Titus_Tit|Messenger_Tit" source="Titus_Tit" target="Messenger_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titus_Tit|YoungLucius_Tit" source="Titus_Tit" target="YoungLucius_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Titus_Tit|Publius_Tit" source="Titus_Tit" target="Publius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Titus_Tit|CountryFellow_Tit" source="Titus_Tit" target="CountryFellow_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titus_Tit|GOTHS.0.1_Tit" source="Titus_Tit" target="GOTHS.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titus_Tit|Aemilius_Tit" source="Titus_Tit" target="Aemilius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titus_Tit|ATTENDANTS_Tit" source="Titus_Tit" target="ATTENDANTS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Titus_Tit|TRIBUNES.0.1_Tit" source="Titus_Tit" target="TRIBUNES.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|Tamora_Tit" source="Lucius_Tit" target="Tamora_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lucius_Tit|Chiron_Tit" source="Lucius_Tit" target="Chiron_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|Demetrius_Tit" source="Lucius_Tit" target="Demetrius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|Lavinia_Tit" source="Lucius_Tit" target="Lavinia_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|TRIBUNES_Tit" source="Lucius_Tit" target="TRIBUNES_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lucius_Tit|Mutius_Tit" source="Lucius_Tit" target="Mutius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|Martius_Tit" source="Lucius_Tit" target="Martius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|Quintus_Tit" source="Lucius_Tit" target="Quintus_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|Aaron_Tit" source="Lucius_Tit" target="Aaron_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lucius_Tit|Messenger_Tit" source="Lucius_Tit" target="Messenger_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|GOTHS.0.1_Tit" source="Lucius_Tit" target="GOTHS.0.1_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lucius_Tit|GOTHS_Tit" source="Lucius_Tit" target="GOTHS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|GOTHS.0.2_Tit" source="Lucius_Tit" target="GOTHS.0.2_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|GOTHS.0_Tit" source="Lucius_Tit" target="GOTHS.0_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|Aemilius_Tit" source="Lucius_Tit" target="Aemilius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lucius_Tit|ATTENDANTS_Tit" source="Lucius_Tit" target="ATTENDANTS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|YoungLucius_Tit" source="Lucius_Tit" target="YoungLucius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Tit|TRIBUNES.0.1_Tit" source="Lucius_Tit" target="TRIBUNES.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tamora_Tit|Chiron_Tit" source="Tamora_Tit" target="Chiron_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Tamora_Tit|Demetrius_Tit" source="Tamora_Tit" target="Demetrius_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Tamora_Tit|Lavinia_Tit" source="Tamora_Tit" target="Lavinia_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tamora_Tit|TRIBUNES_Tit" source="Tamora_Tit" target="TRIBUNES_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tamora_Tit|Mutius_Tit" source="Tamora_Tit" target="Mutius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tamora_Tit|Martius_Tit" source="Tamora_Tit" target="Martius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tamora_Tit|Quintus_Tit" source="Tamora_Tit" target="Quintus_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tamora_Tit|Aaron_Tit" source="Tamora_Tit" target="Aaron_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tamora_Tit|CountryFellow_Tit" source="Tamora_Tit" target="CountryFellow_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tamora_Tit|Aemilius_Tit" source="Tamora_Tit" target="Aemilius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tamora_Tit|Publius_Tit" source="Tamora_Tit" target="Publius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tamora_Tit|GOTHS.0.1_Tit" source="Tamora_Tit" target="GOTHS.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tamora_Tit|ATTENDANTS_Tit" source="Tamora_Tit" target="ATTENDANTS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tamora_Tit|YoungLucius_Tit" source="Tamora_Tit" target="YoungLucius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tamora_Tit|TRIBUNES.0.1_Tit" source="Tamora_Tit" target="TRIBUNES.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chiron_Tit|Demetrius_Tit" source="Chiron_Tit" target="Demetrius_Tit">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Chiron_Tit|Lavinia_Tit" source="Chiron_Tit" target="Lavinia_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Chiron_Tit|TRIBUNES_Tit" source="Chiron_Tit" target="TRIBUNES_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chiron_Tit|Mutius_Tit" source="Chiron_Tit" target="Mutius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chiron_Tit|Martius_Tit" source="Chiron_Tit" target="Martius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Chiron_Tit|Quintus_Tit" source="Chiron_Tit" target="Quintus_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Chiron_Tit|Aaron_Tit" source="Chiron_Tit" target="Aaron_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Chiron_Tit|YoungLucius_Tit" source="Chiron_Tit" target="YoungLucius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chiron_Tit|Nurse_Tit" source="Chiron_Tit" target="Nurse_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chiron_Tit|Publius_Tit" source="Chiron_Tit" target="Publius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_Tit|Lavinia_Tit" source="Demetrius_Tit" target="Lavinia_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Demetrius_Tit|TRIBUNES_Tit" source="Demetrius_Tit" target="TRIBUNES_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_Tit|Mutius_Tit" source="Demetrius_Tit" target="Mutius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_Tit|Martius_Tit" source="Demetrius_Tit" target="Martius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Demetrius_Tit|Quintus_Tit" source="Demetrius_Tit" target="Quintus_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Demetrius_Tit|Aaron_Tit" source="Demetrius_Tit" target="Aaron_Tit">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Demetrius_Tit|YoungLucius_Tit" source="Demetrius_Tit" target="YoungLucius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_Tit|Nurse_Tit" source="Demetrius_Tit" target="Nurse_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Demetrius_Tit|Publius_Tit" source="Demetrius_Tit" target="Publius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lavinia_Tit|TRIBUNES_Tit" source="Lavinia_Tit" target="TRIBUNES_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lavinia_Tit|Mutius_Tit" source="Lavinia_Tit" target="Mutius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lavinia_Tit|Martius_Tit" source="Lavinia_Tit" target="Martius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lavinia_Tit|Quintus_Tit" source="Lavinia_Tit" target="Quintus_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lavinia_Tit|Aaron_Tit" source="Lavinia_Tit" target="Aaron_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES_Tit|Mutius_Tit" source="TRIBUNES_Tit" target="Mutius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES_Tit|Martius_Tit" source="TRIBUNES_Tit" target="Martius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES_Tit|Quintus_Tit" source="TRIBUNES_Tit" target="Quintus_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES_Tit|GOTHS.0.1_Tit" source="TRIBUNES_Tit" target="GOTHS.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES_Tit|Aaron_Tit" source="TRIBUNES_Tit" target="Aaron_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES_Tit|Aemilius_Tit" source="TRIBUNES_Tit" target="Aemilius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES_Tit|ATTENDANTS_Tit" source="TRIBUNES_Tit" target="ATTENDANTS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES_Tit|YoungLucius_Tit" source="TRIBUNES_Tit" target="YoungLucius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES_Tit|TRIBUNES.0.1_Tit" source="TRIBUNES_Tit" target="TRIBUNES.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mutius_Tit|Martius_Tit" source="Mutius_Tit" target="Martius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mutius_Tit|Quintus_Tit" source="Mutius_Tit" target="Quintus_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Martius_Tit|Quintus_Tit" source="Martius_Tit" target="Quintus_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Martius_Tit|Aaron_Tit" source="Martius_Tit" target="Aaron_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Quintus_Tit|Aaron_Tit" source="Quintus_Tit" target="Aaron_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aaron_Tit|Messenger_Tit" source="Aaron_Tit" target="Messenger_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aaron_Tit|YoungLucius_Tit" source="Aaron_Tit" target="YoungLucius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Aaron_Tit|Nurse_Tit" source="Aaron_Tit" target="Nurse_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aaron_Tit|GOTHS.0.1_Tit" source="Aaron_Tit" target="GOTHS.0.1_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Aaron_Tit|GOTHS_Tit" source="Aaron_Tit" target="GOTHS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aaron_Tit|GOTHS.0.2_Tit" source="Aaron_Tit" target="GOTHS.0.2_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aaron_Tit|GOTHS.0_Tit" source="Aaron_Tit" target="GOTHS.0_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aaron_Tit|Aemilius_Tit" source="Aaron_Tit" target="Aemilius_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Aaron_Tit|ATTENDANTS_Tit" source="Aaron_Tit" target="ATTENDANTS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aaron_Tit|TRIBUNES.0.1_Tit" source="Aaron_Tit" target="TRIBUNES.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="YoungLucius_Tit|Nurse_Tit" source="YoungLucius_Tit" target="Nurse_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="YoungLucius_Tit|GOTHS.0.1_Tit" source="YoungLucius_Tit" target="GOTHS.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="YoungLucius_Tit|Aemilius_Tit" source="YoungLucius_Tit" target="Aemilius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="YoungLucius_Tit|ATTENDANTS_Tit" source="YoungLucius_Tit" target="ATTENDANTS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="YoungLucius_Tit|TRIBUNES.0.1_Tit" source="YoungLucius_Tit" target="TRIBUNES.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Publius_Tit|CountryFellow_Tit" source="Publius_Tit" target="CountryFellow_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CountryFellow_Tit|Aemilius_Tit" source="CountryFellow_Tit" target="Aemilius_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aemilius_Tit|GOTHS.0.1_Tit" source="Aemilius_Tit" target="GOTHS.0.1_Tit">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Aemilius_Tit|GOTHS_Tit" source="Aemilius_Tit" target="GOTHS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aemilius_Tit|GOTHS.0.2_Tit" source="Aemilius_Tit" target="GOTHS.0.2_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aemilius_Tit|GOTHS.0_Tit" source="Aemilius_Tit" target="GOTHS.0_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aemilius_Tit|ATTENDANTS_Tit" source="Aemilius_Tit" target="ATTENDANTS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aemilius_Tit|TRIBUNES.0.1_Tit" source="Aemilius_Tit" target="TRIBUNES.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GOTHS.0.1_Tit|GOTHS_Tit" source="GOTHS.0.1_Tit" target="GOTHS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GOTHS.0.1_Tit|GOTHS.0.2_Tit" source="GOTHS.0.1_Tit" target="GOTHS.0.2_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GOTHS.0.1_Tit|GOTHS.0_Tit" source="GOTHS.0.1_Tit" target="GOTHS.0_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GOTHS.0.1_Tit|ATTENDANTS_Tit" source="GOTHS.0.1_Tit" target="ATTENDANTS_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GOTHS.0.1_Tit|TRIBUNES.0.1_Tit" source="GOTHS.0.1_Tit" target="TRIBUNES.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GOTHS_Tit|GOTHS.0.2_Tit" source="GOTHS_Tit" target="GOTHS.0.2_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GOTHS_Tit|GOTHS.0_Tit" source="GOTHS_Tit" target="GOTHS.0_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GOTHS.0.2_Tit|GOTHS.0_Tit" source="GOTHS.0.2_Tit" target="GOTHS.0_Tit">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS_Tit|TRIBUNES.0.1_Tit" source="ATTENDANTS_Tit" target="TRIBUNES.0.1_Tit">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

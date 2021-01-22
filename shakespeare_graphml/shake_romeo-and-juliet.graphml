@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Chorus_Rom">
+            <data key="label">Chorus</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">219</data>
+        </node>
+        <node id="SERVANTS.CAPULET.Sampson_Rom">
+            <data key="label">Sampson</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">258</data>
+        </node>
+        <node id="SERVANTS.CAPULET.Gregory_Rom">
+            <data key="label">Gregory</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">145</data>
+        </node>
+        <node id="SERVANTS.MONTAGUE.Abram_Rom">
+            <data key="label">Abram</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="Benvolio_Rom">
+            <data key="label">Benvolio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1160</data>
+        </node>
+        <node id="Tybalt_Rom">
+            <data key="label">Tybalt</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">263</data>
+        </node>
+        <node id="CITIZENS_Rom">
+            <data key="label">Three or four Citizens</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="Capulet_Rom">
+            <data key="label">Capulet</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2136</data>
+        </node>
+        <node id="LadyCapulet_Rom">
+            <data key="label">Lady Capulet</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">874</data>
+        </node>
+        <node id="Montague_Rom">
+            <data key="label">Montague</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">317</data>
+        </node>
+        <node id="LadyMontague_Rom">
+            <data key="label">Lady Montague</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">28</data>
+        </node>
+        <node id="PrinceEscalus_Rom">
+            <data key="label">Escalus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">584</data>
+        </node>
+        <node id="Romeo_Rom">
+            <data key="label">Romeo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4620</data>
+        </node>
+        <node id="Paris_Rom">
+            <data key="label">Paris</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">540</data>
+        </node>
+        <node id="SERVANTS.CAPULET.X.1_Rom">
+            <data key="label">SERVANTS.CAPULET.X.1_Rom</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">142</data>
+        </node>
+        <node id="Nurse_Rom">
+            <data key="label">Nurse</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2205</data>
+        </node>
+        <node id="Juliet_Rom">
+            <data key="label">Juliet</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4265</data>
+        </node>
+        <node id="SERVANTS.CAPULET.X.2_Rom">
+            <data key="label">SERVANTS.CAPULET.X.2_Rom</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">35</data>
+        </node>
+        <node id="Mercutio_Rom">
+            <data key="label">Mercutio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2100</data>
+        </node>
+        <node id="SERVANTS.CAPULET.0.1_Rom">
+            <data key="label">SERVANTS.CAPULET.0.1_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">119</data>
+        </node>
+        <node id="SERVANTS.CAPULET.0.2_Rom">
+            <data key="label">SERVANTS.CAPULET.0.2_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">37</data>
+        </node>
+        <node id="SERVANTS.CAPULET.0.3_Rom">
+            <data key="label">SERVANTS.CAPULET.0.3_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">21</data>
+        </node>
+        <node id="Cousin_Rom">
+            <data key="label">Cousin_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">18</data>
+        </node>
+        <node id="SERVANTS.CAPULET.0_Rom">
+            <data key="label">SERVANTS.CAPULET.0_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="FriarLawrence_Rom">
+            <data key="label">Friar Lawrence</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2722</data>
+        </node>
+        <node id="SERVANTS.CAPULET.Peter_Rom">
+            <data key="label">Peter</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">244</data>
+        </node>
+        <node id="Petruchio_Rom">
+            <data key="label">Petruchio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2</data>
+        </node>
+        <node id="CITIZENS.0.1_Rom">
+            <data key="label">CITIZENS.0.1_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">27</data>
+        </node>
+        <node id="MUSICIANS.0.1_Rom">
+            <data key="label">MUSICIANS.0.1_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">70</data>
+        </node>
+        <node id="MUSICIANS.0.2_Rom">
+            <data key="label">MUSICIANS.0.2_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">34</data>
+        </node>
+        <node id="MUSICIANS.0.3_Rom">
+            <data key="label">MUSICIANS.0.3_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="SERVANTS.MONTAGUE.Balthasar_Rom">
+            <data key="label">Balthasar</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">233</data>
+        </node>
+        <node id="Apothecary_Rom">
+            <data key="label">Apothecary</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">53</data>
+        </node>
+        <node id="FriarJohn_Rom">
+            <data key="label">Friar John</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">97</data>
+        </node>
+        <node id="SERVANTS.PARIS.1_Rom">
+            <data key="label">SERVANTS.PARIS.1_Rom</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">80</data>
+        </node>
+        <node id="WATCHMEN.0.1_Rom">
+            <data key="label">WATCHMEN.0.1_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">133</data>
+        </node>
+        <node id="WATCHMEN.0.2_Rom">
+            <data key="label">WATCHMEN.0.2_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="WATCHMEN.0.3_Rom">
+            <data key="label">WATCHMEN.0.3_Rom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">26</data>
+        </node>
+        <edge id="SERVANTS.CAPULET.Sampson_Rom|SERVANTS.CAPULET.Gregory_Rom" source="SERVANTS.CAPULET.Sampson_Rom" target="SERVANTS.CAPULET.Gregory_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Sampson_Rom|SERVANTS.MONTAGUE.Abram_Rom" source="SERVANTS.CAPULET.Sampson_Rom" target="SERVANTS.MONTAGUE.Abram_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Sampson_Rom|Benvolio_Rom" source="SERVANTS.CAPULET.Sampson_Rom" target="Benvolio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Sampson_Rom|Tybalt_Rom" source="SERVANTS.CAPULET.Sampson_Rom" target="Tybalt_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Sampson_Rom|CITIZENS_Rom" source="SERVANTS.CAPULET.Sampson_Rom" target="CITIZENS_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Sampson_Rom|Capulet_Rom" source="SERVANTS.CAPULET.Sampson_Rom" target="Capulet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Sampson_Rom|LadyCapulet_Rom" source="SERVANTS.CAPULET.Sampson_Rom" target="LadyCapulet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Sampson_Rom|Montague_Rom" source="SERVANTS.CAPULET.Sampson_Rom" target="Montague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Sampson_Rom|LadyMontague_Rom" source="SERVANTS.CAPULET.Sampson_Rom" target="LadyMontague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Sampson_Rom|PrinceEscalus_Rom" source="SERVANTS.CAPULET.Sampson_Rom" target="PrinceEscalus_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Sampson_Rom|Romeo_Rom" source="SERVANTS.CAPULET.Sampson_Rom" target="Romeo_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Gregory_Rom|SERVANTS.MONTAGUE.Abram_Rom" source="SERVANTS.CAPULET.Gregory_Rom" target="SERVANTS.MONTAGUE.Abram_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Gregory_Rom|Benvolio_Rom" source="SERVANTS.CAPULET.Gregory_Rom" target="Benvolio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Gregory_Rom|Tybalt_Rom" source="SERVANTS.CAPULET.Gregory_Rom" target="Tybalt_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Gregory_Rom|CITIZENS_Rom" source="SERVANTS.CAPULET.Gregory_Rom" target="CITIZENS_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Gregory_Rom|Capulet_Rom" source="SERVANTS.CAPULET.Gregory_Rom" target="Capulet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Gregory_Rom|LadyCapulet_Rom" source="SERVANTS.CAPULET.Gregory_Rom" target="LadyCapulet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Gregory_Rom|Montague_Rom" source="SERVANTS.CAPULET.Gregory_Rom" target="Montague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Gregory_Rom|LadyMontague_Rom" source="SERVANTS.CAPULET.Gregory_Rom" target="LadyMontague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Gregory_Rom|PrinceEscalus_Rom" source="SERVANTS.CAPULET.Gregory_Rom" target="PrinceEscalus_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Gregory_Rom|Romeo_Rom" source="SERVANTS.CAPULET.Gregory_Rom" target="Romeo_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Abram_Rom|Benvolio_Rom" source="SERVANTS.MONTAGUE.Abram_Rom" target="Benvolio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Abram_Rom|Tybalt_Rom" source="SERVANTS.MONTAGUE.Abram_Rom" target="Tybalt_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Abram_Rom|CITIZENS_Rom" source="SERVANTS.MONTAGUE.Abram_Rom" target="CITIZENS_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Abram_Rom|Capulet_Rom" source="SERVANTS.MONTAGUE.Abram_Rom" target="Capulet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Abram_Rom|LadyCapulet_Rom" source="SERVANTS.MONTAGUE.Abram_Rom" target="LadyCapulet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Abram_Rom|Montague_Rom" source="SERVANTS.MONTAGUE.Abram_Rom" target="Montague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Abram_Rom|LadyMontague_Rom" source="SERVANTS.MONTAGUE.Abram_Rom" target="LadyMontague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Abram_Rom|PrinceEscalus_Rom" source="SERVANTS.MONTAGUE.Abram_Rom" target="PrinceEscalus_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Abram_Rom|Romeo_Rom" source="SERVANTS.MONTAGUE.Abram_Rom" target="Romeo_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|Tybalt_Rom" source="Benvolio_Rom" target="Tybalt_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Benvolio_Rom|CITIZENS_Rom" source="Benvolio_Rom" target="CITIZENS_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|Capulet_Rom" source="Benvolio_Rom" target="Capulet_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Benvolio_Rom|LadyCapulet_Rom" source="Benvolio_Rom" target="LadyCapulet_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Benvolio_Rom|Montague_Rom" source="Benvolio_Rom" target="Montague_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Benvolio_Rom|LadyMontague_Rom" source="Benvolio_Rom" target="LadyMontague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|PrinceEscalus_Rom" source="Benvolio_Rom" target="PrinceEscalus_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Benvolio_Rom|Romeo_Rom" source="Benvolio_Rom" target="Romeo_Rom">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Benvolio_Rom|Paris_Rom" source="Benvolio_Rom" target="Paris_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|SERVANTS.CAPULET.X.1_Rom" source="Benvolio_Rom" target="SERVANTS.CAPULET.X.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|Mercutio_Rom" source="Benvolio_Rom" target="Mercutio_Rom">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Benvolio_Rom|SERVANTS.CAPULET.0.1_Rom" source="Benvolio_Rom" target="SERVANTS.CAPULET.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|SERVANTS.CAPULET.0.2_Rom" source="Benvolio_Rom" target="SERVANTS.CAPULET.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|SERVANTS.CAPULET.0.3_Rom" source="Benvolio_Rom" target="SERVANTS.CAPULET.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|Cousin_Rom" source="Benvolio_Rom" target="Cousin_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|SERVANTS.CAPULET.0_Rom" source="Benvolio_Rom" target="SERVANTS.CAPULET.0_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|Juliet_Rom" source="Benvolio_Rom" target="Juliet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|Nurse_Rom" source="Benvolio_Rom" target="Nurse_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Benvolio_Rom|SERVANTS.CAPULET.Peter_Rom" source="Benvolio_Rom" target="SERVANTS.CAPULET.Peter_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|Petruchio_Rom" source="Benvolio_Rom" target="Petruchio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Benvolio_Rom|CITIZENS.0.1_Rom" source="Benvolio_Rom" target="CITIZENS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|CITIZENS_Rom" source="Tybalt_Rom" target="CITIZENS_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|Capulet_Rom" source="Tybalt_Rom" target="Capulet_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tybalt_Rom|LadyCapulet_Rom" source="Tybalt_Rom" target="LadyCapulet_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tybalt_Rom|Montague_Rom" source="Tybalt_Rom" target="Montague_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tybalt_Rom|LadyMontague_Rom" source="Tybalt_Rom" target="LadyMontague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|PrinceEscalus_Rom" source="Tybalt_Rom" target="PrinceEscalus_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tybalt_Rom|Romeo_Rom" source="Tybalt_Rom" target="Romeo_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Tybalt_Rom|SERVANTS.CAPULET.0.1_Rom" source="Tybalt_Rom" target="SERVANTS.CAPULET.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|SERVANTS.CAPULET.0.2_Rom" source="Tybalt_Rom" target="SERVANTS.CAPULET.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|SERVANTS.CAPULET.0.3_Rom" source="Tybalt_Rom" target="SERVANTS.CAPULET.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|Cousin_Rom" source="Tybalt_Rom" target="Cousin_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|SERVANTS.CAPULET.0_Rom" source="Tybalt_Rom" target="SERVANTS.CAPULET.0_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|Juliet_Rom" source="Tybalt_Rom" target="Juliet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|Nurse_Rom" source="Tybalt_Rom" target="Nurse_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|Mercutio_Rom" source="Tybalt_Rom" target="Mercutio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|Petruchio_Rom" source="Tybalt_Rom" target="Petruchio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tybalt_Rom|CITIZENS.0.1_Rom" source="Tybalt_Rom" target="CITIZENS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS_Rom|Capulet_Rom" source="CITIZENS_Rom" target="Capulet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS_Rom|LadyCapulet_Rom" source="CITIZENS_Rom" target="LadyCapulet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS_Rom|Montague_Rom" source="CITIZENS_Rom" target="Montague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS_Rom|LadyMontague_Rom" source="CITIZENS_Rom" target="LadyMontague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS_Rom|PrinceEscalus_Rom" source="CITIZENS_Rom" target="PrinceEscalus_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="CITIZENS_Rom|Romeo_Rom" source="CITIZENS_Rom" target="Romeo_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|LadyCapulet_Rom" source="Capulet_Rom" target="LadyCapulet_Rom">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Capulet_Rom|Montague_Rom" source="Capulet_Rom" target="Montague_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Capulet_Rom|LadyMontague_Rom" source="Capulet_Rom" target="LadyMontague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|PrinceEscalus_Rom" source="Capulet_Rom" target="PrinceEscalus_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Capulet_Rom|Romeo_Rom" source="Capulet_Rom" target="Romeo_Rom">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Capulet_Rom|Paris_Rom" source="Capulet_Rom" target="Paris_Rom">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Capulet_Rom|SERVANTS.CAPULET.X.1_Rom" source="Capulet_Rom" target="SERVANTS.CAPULET.X.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|SERVANTS.CAPULET.0.1_Rom" source="Capulet_Rom" target="SERVANTS.CAPULET.0.1_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Capulet_Rom|SERVANTS.CAPULET.0.2_Rom" source="Capulet_Rom" target="SERVANTS.CAPULET.0.2_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Capulet_Rom|SERVANTS.CAPULET.0.3_Rom" source="Capulet_Rom" target="SERVANTS.CAPULET.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|Cousin_Rom" source="Capulet_Rom" target="Cousin_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|SERVANTS.CAPULET.0_Rom" source="Capulet_Rom" target="SERVANTS.CAPULET.0_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|Juliet_Rom" source="Capulet_Rom" target="Juliet_Rom">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Capulet_Rom|Nurse_Rom" source="Capulet_Rom" target="Nurse_Rom">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Capulet_Rom|FriarLawrence_Rom" source="Capulet_Rom" target="FriarLawrence_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Capulet_Rom|MUSICIANS.0.1_Rom" source="Capulet_Rom" target="MUSICIANS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|SERVANTS.CAPULET.Peter_Rom" source="Capulet_Rom" target="SERVANTS.CAPULET.Peter_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|MUSICIANS.0.2_Rom" source="Capulet_Rom" target="MUSICIANS.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|MUSICIANS.0.3_Rom" source="Capulet_Rom" target="MUSICIANS.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|SERVANTS.PARIS.1_Rom" source="Capulet_Rom" target="SERVANTS.PARIS.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|SERVANTS.MONTAGUE.Balthasar_Rom" source="Capulet_Rom" target="SERVANTS.MONTAGUE.Balthasar_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|WATCHMEN.0.1_Rom" source="Capulet_Rom" target="WATCHMEN.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|WATCHMEN.0.2_Rom" source="Capulet_Rom" target="WATCHMEN.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Capulet_Rom|WATCHMEN.0.3_Rom" source="Capulet_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|Montague_Rom" source="LadyCapulet_Rom" target="Montague_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|LadyMontague_Rom" source="LadyCapulet_Rom" target="LadyMontague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|PrinceEscalus_Rom" source="LadyCapulet_Rom" target="PrinceEscalus_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|Romeo_Rom" source="LadyCapulet_Rom" target="Romeo_Rom">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|Nurse_Rom" source="LadyCapulet_Rom" target="Nurse_Rom">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|Juliet_Rom" source="LadyCapulet_Rom" target="Juliet_Rom">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|SERVANTS.CAPULET.X.2_Rom" source="LadyCapulet_Rom" target="SERVANTS.CAPULET.X.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|Mercutio_Rom" source="LadyCapulet_Rom" target="Mercutio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|Petruchio_Rom" source="LadyCapulet_Rom" target="Petruchio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|CITIZENS.0.1_Rom" source="LadyCapulet_Rom" target="CITIZENS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|Paris_Rom" source="LadyCapulet_Rom" target="Paris_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|SERVANTS.CAPULET.0.1_Rom" source="LadyCapulet_Rom" target="SERVANTS.CAPULET.0.1_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|SERVANTS.CAPULET.0.2_Rom" source="LadyCapulet_Rom" target="SERVANTS.CAPULET.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|FriarLawrence_Rom" source="LadyCapulet_Rom" target="FriarLawrence_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|MUSICIANS.0.1_Rom" source="LadyCapulet_Rom" target="MUSICIANS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|SERVANTS.CAPULET.Peter_Rom" source="LadyCapulet_Rom" target="SERVANTS.CAPULET.Peter_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|MUSICIANS.0.2_Rom" source="LadyCapulet_Rom" target="MUSICIANS.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|MUSICIANS.0.3_Rom" source="LadyCapulet_Rom" target="MUSICIANS.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|SERVANTS.PARIS.1_Rom" source="LadyCapulet_Rom" target="SERVANTS.PARIS.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|SERVANTS.MONTAGUE.Balthasar_Rom" source="LadyCapulet_Rom" target="SERVANTS.MONTAGUE.Balthasar_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|WATCHMEN.0.1_Rom" source="LadyCapulet_Rom" target="WATCHMEN.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|WATCHMEN.0.2_Rom" source="LadyCapulet_Rom" target="WATCHMEN.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyCapulet_Rom|WATCHMEN.0.3_Rom" source="LadyCapulet_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|LadyMontague_Rom" source="Montague_Rom" target="LadyMontague_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|PrinceEscalus_Rom" source="Montague_Rom" target="PrinceEscalus_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Montague_Rom|Romeo_Rom" source="Montague_Rom" target="Romeo_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Montague_Rom|Mercutio_Rom" source="Montague_Rom" target="Mercutio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|Petruchio_Rom" source="Montague_Rom" target="Petruchio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|CITIZENS.0.1_Rom" source="Montague_Rom" target="CITIZENS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|Paris_Rom" source="Montague_Rom" target="Paris_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|SERVANTS.PARIS.1_Rom" source="Montague_Rom" target="SERVANTS.PARIS.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|SERVANTS.MONTAGUE.Balthasar_Rom" source="Montague_Rom" target="SERVANTS.MONTAGUE.Balthasar_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|FriarLawrence_Rom" source="Montague_Rom" target="FriarLawrence_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|Juliet_Rom" source="Montague_Rom" target="Juliet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|WATCHMEN.0.1_Rom" source="Montague_Rom" target="WATCHMEN.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|WATCHMEN.0.2_Rom" source="Montague_Rom" target="WATCHMEN.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_Rom|WATCHMEN.0.3_Rom" source="Montague_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMontague_Rom|PrinceEscalus_Rom" source="LadyMontague_Rom" target="PrinceEscalus_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMontague_Rom|Romeo_Rom" source="LadyMontague_Rom" target="Romeo_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|Romeo_Rom" source="PrinceEscalus_Rom" target="Romeo_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|Mercutio_Rom" source="PrinceEscalus_Rom" target="Mercutio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|Petruchio_Rom" source="PrinceEscalus_Rom" target="Petruchio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|CITIZENS.0.1_Rom" source="PrinceEscalus_Rom" target="CITIZENS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|Paris_Rom" source="PrinceEscalus_Rom" target="Paris_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|SERVANTS.PARIS.1_Rom" source="PrinceEscalus_Rom" target="SERVANTS.PARIS.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|SERVANTS.MONTAGUE.Balthasar_Rom" source="PrinceEscalus_Rom" target="SERVANTS.MONTAGUE.Balthasar_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|FriarLawrence_Rom" source="PrinceEscalus_Rom" target="FriarLawrence_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|Juliet_Rom" source="PrinceEscalus_Rom" target="Juliet_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|WATCHMEN.0.1_Rom" source="PrinceEscalus_Rom" target="WATCHMEN.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|WATCHMEN.0.2_Rom" source="PrinceEscalus_Rom" target="WATCHMEN.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEscalus_Rom|WATCHMEN.0.3_Rom" source="PrinceEscalus_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|Paris_Rom" source="Romeo_Rom" target="Paris_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Romeo_Rom|SERVANTS.CAPULET.X.1_Rom" source="Romeo_Rom" target="SERVANTS.CAPULET.X.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|Mercutio_Rom" source="Romeo_Rom" target="Mercutio_Rom">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Romeo_Rom|SERVANTS.CAPULET.0.1_Rom" source="Romeo_Rom" target="SERVANTS.CAPULET.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|SERVANTS.CAPULET.0.2_Rom" source="Romeo_Rom" target="SERVANTS.CAPULET.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|SERVANTS.CAPULET.0.3_Rom" source="Romeo_Rom" target="SERVANTS.CAPULET.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|Cousin_Rom" source="Romeo_Rom" target="Cousin_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|SERVANTS.CAPULET.0_Rom" source="Romeo_Rom" target="SERVANTS.CAPULET.0_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|Juliet_Rom" source="Romeo_Rom" target="Juliet_Rom">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Romeo_Rom|Nurse_Rom" source="Romeo_Rom" target="Nurse_Rom">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Romeo_Rom|FriarLawrence_Rom" source="Romeo_Rom" target="FriarLawrence_Rom">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Romeo_Rom|SERVANTS.CAPULET.Peter_Rom" source="Romeo_Rom" target="SERVANTS.CAPULET.Peter_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|Petruchio_Rom" source="Romeo_Rom" target="Petruchio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|CITIZENS.0.1_Rom" source="Romeo_Rom" target="CITIZENS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|SERVANTS.MONTAGUE.Balthasar_Rom" source="Romeo_Rom" target="SERVANTS.MONTAGUE.Balthasar_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Romeo_Rom|Apothecary_Rom" source="Romeo_Rom" target="Apothecary_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|SERVANTS.PARIS.1_Rom" source="Romeo_Rom" target="SERVANTS.PARIS.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|WATCHMEN.0.1_Rom" source="Romeo_Rom" target="WATCHMEN.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|WATCHMEN.0.2_Rom" source="Romeo_Rom" target="WATCHMEN.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Romeo_Rom|WATCHMEN.0.3_Rom" source="Romeo_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Rom|SERVANTS.CAPULET.X.1_Rom" source="Paris_Rom" target="SERVANTS.CAPULET.X.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Rom|FriarLawrence_Rom" source="Paris_Rom" target="FriarLawrence_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Paris_Rom|Juliet_Rom" source="Paris_Rom" target="Juliet_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Paris_Rom|Nurse_Rom" source="Paris_Rom" target="Nurse_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Rom|MUSICIANS.0.1_Rom" source="Paris_Rom" target="MUSICIANS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Rom|SERVANTS.CAPULET.Peter_Rom" source="Paris_Rom" target="SERVANTS.CAPULET.Peter_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Rom|MUSICIANS.0.2_Rom" source="Paris_Rom" target="MUSICIANS.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Rom|MUSICIANS.0.3_Rom" source="Paris_Rom" target="MUSICIANS.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Rom|SERVANTS.PARIS.1_Rom" source="Paris_Rom" target="SERVANTS.PARIS.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Rom|SERVANTS.MONTAGUE.Balthasar_Rom" source="Paris_Rom" target="SERVANTS.MONTAGUE.Balthasar_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Rom|WATCHMEN.0.1_Rom" source="Paris_Rom" target="WATCHMEN.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Rom|WATCHMEN.0.2_Rom" source="Paris_Rom" target="WATCHMEN.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Rom|WATCHMEN.0.3_Rom" source="Paris_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nurse_Rom|Juliet_Rom" source="Nurse_Rom" target="Juliet_Rom">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Nurse_Rom|SERVANTS.CAPULET.X.2_Rom" source="Nurse_Rom" target="SERVANTS.CAPULET.X.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nurse_Rom|SERVANTS.CAPULET.0.1_Rom" source="Nurse_Rom" target="SERVANTS.CAPULET.0.1_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Nurse_Rom|SERVANTS.CAPULET.0.2_Rom" source="Nurse_Rom" target="SERVANTS.CAPULET.0.2_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Nurse_Rom|SERVANTS.CAPULET.0.3_Rom" source="Nurse_Rom" target="SERVANTS.CAPULET.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nurse_Rom|Cousin_Rom" source="Nurse_Rom" target="Cousin_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nurse_Rom|SERVANTS.CAPULET.0_Rom" source="Nurse_Rom" target="SERVANTS.CAPULET.0_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nurse_Rom|Mercutio_Rom" source="Nurse_Rom" target="Mercutio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nurse_Rom|SERVANTS.CAPULET.Peter_Rom" source="Nurse_Rom" target="SERVANTS.CAPULET.Peter_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Nurse_Rom|FriarLawrence_Rom" source="Nurse_Rom" target="FriarLawrence_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Nurse_Rom|MUSICIANS.0.1_Rom" source="Nurse_Rom" target="MUSICIANS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nurse_Rom|MUSICIANS.0.2_Rom" source="Nurse_Rom" target="MUSICIANS.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nurse_Rom|MUSICIANS.0.3_Rom" source="Nurse_Rom" target="MUSICIANS.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Juliet_Rom|SERVANTS.CAPULET.X.2_Rom" source="Juliet_Rom" target="SERVANTS.CAPULET.X.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Juliet_Rom|SERVANTS.CAPULET.0.1_Rom" source="Juliet_Rom" target="SERVANTS.CAPULET.0.1_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Juliet_Rom|SERVANTS.CAPULET.0.2_Rom" source="Juliet_Rom" target="SERVANTS.CAPULET.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Juliet_Rom|SERVANTS.CAPULET.0.3_Rom" source="Juliet_Rom" target="SERVANTS.CAPULET.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Juliet_Rom|Cousin_Rom" source="Juliet_Rom" target="Cousin_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Juliet_Rom|SERVANTS.CAPULET.0_Rom" source="Juliet_Rom" target="SERVANTS.CAPULET.0_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Juliet_Rom|FriarLawrence_Rom" source="Juliet_Rom" target="FriarLawrence_Rom">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Juliet_Rom|SERVANTS.PARIS.1_Rom" source="Juliet_Rom" target="SERVANTS.PARIS.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Juliet_Rom|SERVANTS.MONTAGUE.Balthasar_Rom" source="Juliet_Rom" target="SERVANTS.MONTAGUE.Balthasar_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Juliet_Rom|WATCHMEN.0.1_Rom" source="Juliet_Rom" target="WATCHMEN.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Juliet_Rom|WATCHMEN.0.2_Rom" source="Juliet_Rom" target="WATCHMEN.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Juliet_Rom|WATCHMEN.0.3_Rom" source="Juliet_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mercutio_Rom|SERVANTS.CAPULET.Peter_Rom" source="Mercutio_Rom" target="SERVANTS.CAPULET.Peter_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mercutio_Rom|Petruchio_Rom" source="Mercutio_Rom" target="Petruchio_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mercutio_Rom|CITIZENS.0.1_Rom" source="Mercutio_Rom" target="CITIZENS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.0.1_Rom|SERVANTS.CAPULET.0.2_Rom" source="SERVANTS.CAPULET.0.1_Rom" target="SERVANTS.CAPULET.0.2_Rom">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.0.1_Rom|SERVANTS.CAPULET.0.3_Rom" source="SERVANTS.CAPULET.0.1_Rom" target="SERVANTS.CAPULET.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.0.1_Rom|Cousin_Rom" source="SERVANTS.CAPULET.0.1_Rom" target="Cousin_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.0.1_Rom|SERVANTS.CAPULET.0_Rom" source="SERVANTS.CAPULET.0.1_Rom" target="SERVANTS.CAPULET.0_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.0.2_Rom|SERVANTS.CAPULET.0.3_Rom" source="SERVANTS.CAPULET.0.2_Rom" target="SERVANTS.CAPULET.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.0.2_Rom|Cousin_Rom" source="SERVANTS.CAPULET.0.2_Rom" target="Cousin_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.0.2_Rom|SERVANTS.CAPULET.0_Rom" source="SERVANTS.CAPULET.0.2_Rom" target="SERVANTS.CAPULET.0_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.0.3_Rom|Cousin_Rom" source="SERVANTS.CAPULET.0.3_Rom" target="Cousin_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.0.3_Rom|SERVANTS.CAPULET.0_Rom" source="SERVANTS.CAPULET.0.3_Rom" target="SERVANTS.CAPULET.0_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cousin_Rom|SERVANTS.CAPULET.0_Rom" source="Cousin_Rom" target="SERVANTS.CAPULET.0_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FriarLawrence_Rom|MUSICIANS.0.1_Rom" source="FriarLawrence_Rom" target="MUSICIANS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FriarLawrence_Rom|SERVANTS.CAPULET.Peter_Rom" source="FriarLawrence_Rom" target="SERVANTS.CAPULET.Peter_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FriarLawrence_Rom|MUSICIANS.0.2_Rom" source="FriarLawrence_Rom" target="MUSICIANS.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FriarLawrence_Rom|MUSICIANS.0.3_Rom" source="FriarLawrence_Rom" target="MUSICIANS.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FriarLawrence_Rom|FriarJohn_Rom" source="FriarLawrence_Rom" target="FriarJohn_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FriarLawrence_Rom|SERVANTS.PARIS.1_Rom" source="FriarLawrence_Rom" target="SERVANTS.PARIS.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FriarLawrence_Rom|SERVANTS.MONTAGUE.Balthasar_Rom" source="FriarLawrence_Rom" target="SERVANTS.MONTAGUE.Balthasar_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FriarLawrence_Rom|WATCHMEN.0.1_Rom" source="FriarLawrence_Rom" target="WATCHMEN.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FriarLawrence_Rom|WATCHMEN.0.2_Rom" source="FriarLawrence_Rom" target="WATCHMEN.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FriarLawrence_Rom|WATCHMEN.0.3_Rom" source="FriarLawrence_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Peter_Rom|MUSICIANS.0.1_Rom" source="SERVANTS.CAPULET.Peter_Rom" target="MUSICIANS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Peter_Rom|MUSICIANS.0.2_Rom" source="SERVANTS.CAPULET.Peter_Rom" target="MUSICIANS.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAPULET.Peter_Rom|MUSICIANS.0.3_Rom" source="SERVANTS.CAPULET.Peter_Rom" target="MUSICIANS.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Rom|CITIZENS.0.1_Rom" source="Petruchio_Rom" target="CITIZENS.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MUSICIANS.0.1_Rom|MUSICIANS.0.2_Rom" source="MUSICIANS.0.1_Rom" target="MUSICIANS.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MUSICIANS.0.1_Rom|MUSICIANS.0.3_Rom" source="MUSICIANS.0.1_Rom" target="MUSICIANS.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MUSICIANS.0.2_Rom|MUSICIANS.0.3_Rom" source="MUSICIANS.0.2_Rom" target="MUSICIANS.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Balthasar_Rom|Apothecary_Rom" source="SERVANTS.MONTAGUE.Balthasar_Rom" target="Apothecary_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Balthasar_Rom|SERVANTS.PARIS.1_Rom" source="SERVANTS.MONTAGUE.Balthasar_Rom" target="SERVANTS.PARIS.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Balthasar_Rom|WATCHMEN.0.1_Rom" source="SERVANTS.MONTAGUE.Balthasar_Rom" target="WATCHMEN.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Balthasar_Rom|WATCHMEN.0.2_Rom" source="SERVANTS.MONTAGUE.Balthasar_Rom" target="WATCHMEN.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.MONTAGUE.Balthasar_Rom|WATCHMEN.0.3_Rom" source="SERVANTS.MONTAGUE.Balthasar_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PARIS.1_Rom|WATCHMEN.0.1_Rom" source="SERVANTS.PARIS.1_Rom" target="WATCHMEN.0.1_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PARIS.1_Rom|WATCHMEN.0.2_Rom" source="SERVANTS.PARIS.1_Rom" target="WATCHMEN.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PARIS.1_Rom|WATCHMEN.0.3_Rom" source="SERVANTS.PARIS.1_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.0.1_Rom|WATCHMEN.0.2_Rom" source="WATCHMEN.0.1_Rom" target="WATCHMEN.0.2_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.0.1_Rom|WATCHMEN.0.3_Rom" source="WATCHMEN.0.1_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.0.2_Rom|WATCHMEN.0.3_Rom" source="WATCHMEN.0.2_Rom" target="WATCHMEN.0.3_Rom">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

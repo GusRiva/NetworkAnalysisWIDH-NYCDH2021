@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Shipmaster_Tmp">
+            <data key="label">Shipmaster</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">17</data>
+        </node>
+        <node id="Boatswain_Tmp">
+            <data key="label">Boatswain</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">353</data>
+        </node>
+        <node id="Alonso_Tmp">
+            <data key="label">Alonso</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">749</data>
+        </node>
+        <node id="Antonio_Tmp">
+            <data key="label">Antonio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">991</data>
+        </node>
+        <node id="Gonzalo_Tmp">
+            <data key="label">Gonzalo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1157</data>
+        </node>
+        <node id="Sebastian_Tmp">
+            <data key="label">Sebastian</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">699</data>
+        </node>
+        <node id="SAILORS_Tmp">
+            <data key="label">Mariners</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="Miranda_Tmp">
+            <data key="label">Miranda</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1014</data>
+        </node>
+        <node id="Prospero_Tmp">
+            <data key="label">Prospero</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4712</data>
+        </node>
+        <node id="Ariel_Tmp">
+            <data key="label">Ariel</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1277</data>
+        </node>
+        <node id="Caliban_Tmp">
+            <data key="label">Caliban</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1351</data>
+        </node>
+        <node id="Ferdinand_Tmp">
+            <data key="label">Ferdinand</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">982</data>
+        </node>
+        <node id="Adrian_Tmp">
+            <data key="label">Adrian</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">64</data>
+        </node>
+        <node id="Francisco_Tmp">
+            <data key="label">Francisco</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">79</data>
+        </node>
+        <node id="Trinculo_Tmp">
+            <data key="label">Trinculo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">816</data>
+        </node>
+        <node id="Stephano_Tmp">
+            <data key="label">Stephano</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1312</data>
+        </node>
+        <node id="SPIRITS.Iris_Tmp">
+            <data key="label">SPIRITS.Iris_Tmp</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">297</data>
+        </node>
+        <node id="SPIRITS.Ceres_Tmp">
+            <data key="label">SPIRITS.Ceres_Tmp</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">155</data>
+        </node>
+        <node id="SPIRITS.Juno_Tmp">
+            <data key="label">SPIRITS.Juno_Tmp</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">41</data>
+        </node>
+        <edge id="Shipmaster_Tmp|Boatswain_Tmp" source="Shipmaster_Tmp" target="Boatswain_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shipmaster_Tmp|Alonso_Tmp" source="Shipmaster_Tmp" target="Alonso_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shipmaster_Tmp|Antonio_Tmp" source="Shipmaster_Tmp" target="Antonio_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shipmaster_Tmp|Gonzalo_Tmp" source="Shipmaster_Tmp" target="Gonzalo_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shipmaster_Tmp|Sebastian_Tmp" source="Shipmaster_Tmp" target="Sebastian_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shipmaster_Tmp|SAILORS_Tmp" source="Shipmaster_Tmp" target="SAILORS_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boatswain_Tmp|Alonso_Tmp" source="Boatswain_Tmp" target="Alonso_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Boatswain_Tmp|Antonio_Tmp" source="Boatswain_Tmp" target="Antonio_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Boatswain_Tmp|Gonzalo_Tmp" source="Boatswain_Tmp" target="Gonzalo_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Boatswain_Tmp|Sebastian_Tmp" source="Boatswain_Tmp" target="Sebastian_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Boatswain_Tmp|SAILORS_Tmp" source="Boatswain_Tmp" target="SAILORS_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boatswain_Tmp|Prospero_Tmp" source="Boatswain_Tmp" target="Prospero_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boatswain_Tmp|Ariel_Tmp" source="Boatswain_Tmp" target="Ariel_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boatswain_Tmp|Miranda_Tmp" source="Boatswain_Tmp" target="Miranda_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boatswain_Tmp|Ferdinand_Tmp" source="Boatswain_Tmp" target="Ferdinand_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boatswain_Tmp|Stephano_Tmp" source="Boatswain_Tmp" target="Stephano_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boatswain_Tmp|Trinculo_Tmp" source="Boatswain_Tmp" target="Trinculo_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boatswain_Tmp|Caliban_Tmp" source="Boatswain_Tmp" target="Caliban_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alonso_Tmp|Antonio_Tmp" source="Alonso_Tmp" target="Antonio_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Alonso_Tmp|Gonzalo_Tmp" source="Alonso_Tmp" target="Gonzalo_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Alonso_Tmp|Sebastian_Tmp" source="Alonso_Tmp" target="Sebastian_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Alonso_Tmp|SAILORS_Tmp" source="Alonso_Tmp" target="SAILORS_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alonso_Tmp|Adrian_Tmp" source="Alonso_Tmp" target="Adrian_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Alonso_Tmp|Francisco_Tmp" source="Alonso_Tmp" target="Francisco_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Alonso_Tmp|Ariel_Tmp" source="Alonso_Tmp" target="Ariel_Tmp">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Alonso_Tmp|Prospero_Tmp" source="Alonso_Tmp" target="Prospero_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Alonso_Tmp|Miranda_Tmp" source="Alonso_Tmp" target="Miranda_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alonso_Tmp|Ferdinand_Tmp" source="Alonso_Tmp" target="Ferdinand_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alonso_Tmp|Stephano_Tmp" source="Alonso_Tmp" target="Stephano_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alonso_Tmp|Trinculo_Tmp" source="Alonso_Tmp" target="Trinculo_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alonso_Tmp|Caliban_Tmp" source="Alonso_Tmp" target="Caliban_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_Tmp|Gonzalo_Tmp" source="Antonio_Tmp" target="Gonzalo_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Antonio_Tmp|Sebastian_Tmp" source="Antonio_Tmp" target="Sebastian_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Antonio_Tmp|SAILORS_Tmp" source="Antonio_Tmp" target="SAILORS_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_Tmp|Adrian_Tmp" source="Antonio_Tmp" target="Adrian_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antonio_Tmp|Francisco_Tmp" source="Antonio_Tmp" target="Francisco_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antonio_Tmp|Ariel_Tmp" source="Antonio_Tmp" target="Ariel_Tmp">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Antonio_Tmp|Prospero_Tmp" source="Antonio_Tmp" target="Prospero_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antonio_Tmp|Miranda_Tmp" source="Antonio_Tmp" target="Miranda_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_Tmp|Ferdinand_Tmp" source="Antonio_Tmp" target="Ferdinand_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_Tmp|Stephano_Tmp" source="Antonio_Tmp" target="Stephano_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_Tmp|Trinculo_Tmp" source="Antonio_Tmp" target="Trinculo_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_Tmp|Caliban_Tmp" source="Antonio_Tmp" target="Caliban_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gonzalo_Tmp|Sebastian_Tmp" source="Gonzalo_Tmp" target="Sebastian_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Gonzalo_Tmp|SAILORS_Tmp" source="Gonzalo_Tmp" target="SAILORS_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gonzalo_Tmp|Adrian_Tmp" source="Gonzalo_Tmp" target="Adrian_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gonzalo_Tmp|Francisco_Tmp" source="Gonzalo_Tmp" target="Francisco_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gonzalo_Tmp|Ariel_Tmp" source="Gonzalo_Tmp" target="Ariel_Tmp">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Gonzalo_Tmp|Prospero_Tmp" source="Gonzalo_Tmp" target="Prospero_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gonzalo_Tmp|Miranda_Tmp" source="Gonzalo_Tmp" target="Miranda_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gonzalo_Tmp|Ferdinand_Tmp" source="Gonzalo_Tmp" target="Ferdinand_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gonzalo_Tmp|Stephano_Tmp" source="Gonzalo_Tmp" target="Stephano_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gonzalo_Tmp|Trinculo_Tmp" source="Gonzalo_Tmp" target="Trinculo_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gonzalo_Tmp|Caliban_Tmp" source="Gonzalo_Tmp" target="Caliban_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sebastian_Tmp|SAILORS_Tmp" source="Sebastian_Tmp" target="SAILORS_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sebastian_Tmp|Adrian_Tmp" source="Sebastian_Tmp" target="Adrian_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Sebastian_Tmp|Francisco_Tmp" source="Sebastian_Tmp" target="Francisco_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Sebastian_Tmp|Ariel_Tmp" source="Sebastian_Tmp" target="Ariel_Tmp">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Sebastian_Tmp|Prospero_Tmp" source="Sebastian_Tmp" target="Prospero_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Sebastian_Tmp|Miranda_Tmp" source="Sebastian_Tmp" target="Miranda_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sebastian_Tmp|Ferdinand_Tmp" source="Sebastian_Tmp" target="Ferdinand_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sebastian_Tmp|Stephano_Tmp" source="Sebastian_Tmp" target="Stephano_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sebastian_Tmp|Trinculo_Tmp" source="Sebastian_Tmp" target="Trinculo_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sebastian_Tmp|Caliban_Tmp" source="Sebastian_Tmp" target="Caliban_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Miranda_Tmp|Prospero_Tmp" source="Miranda_Tmp" target="Prospero_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Miranda_Tmp|Ariel_Tmp" source="Miranda_Tmp" target="Ariel_Tmp">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Miranda_Tmp|Caliban_Tmp" source="Miranda_Tmp" target="Caliban_Tmp">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Miranda_Tmp|Ferdinand_Tmp" source="Miranda_Tmp" target="Ferdinand_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Miranda_Tmp|SPIRITS.Iris_Tmp" source="Miranda_Tmp" target="SPIRITS.Iris_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Miranda_Tmp|SPIRITS.Ceres_Tmp" source="Miranda_Tmp" target="SPIRITS.Ceres_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Miranda_Tmp|SPIRITS.Juno_Tmp" source="Miranda_Tmp" target="SPIRITS.Juno_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Miranda_Tmp|Stephano_Tmp" source="Miranda_Tmp" target="Stephano_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Miranda_Tmp|Trinculo_Tmp" source="Miranda_Tmp" target="Trinculo_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Prospero_Tmp|Ariel_Tmp" source="Prospero_Tmp" target="Ariel_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Prospero_Tmp|Caliban_Tmp" source="Prospero_Tmp" target="Caliban_Tmp">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Prospero_Tmp|Ferdinand_Tmp" source="Prospero_Tmp" target="Ferdinand_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Prospero_Tmp|Francisco_Tmp" source="Prospero_Tmp" target="Francisco_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Prospero_Tmp|Adrian_Tmp" source="Prospero_Tmp" target="Adrian_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Prospero_Tmp|SPIRITS.Iris_Tmp" source="Prospero_Tmp" target="SPIRITS.Iris_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Prospero_Tmp|SPIRITS.Ceres_Tmp" source="Prospero_Tmp" target="SPIRITS.Ceres_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Prospero_Tmp|SPIRITS.Juno_Tmp" source="Prospero_Tmp" target="SPIRITS.Juno_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Prospero_Tmp|Stephano_Tmp" source="Prospero_Tmp" target="Stephano_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Prospero_Tmp|Trinculo_Tmp" source="Prospero_Tmp" target="Trinculo_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ariel_Tmp|Caliban_Tmp" source="Ariel_Tmp" target="Caliban_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Ariel_Tmp|Ferdinand_Tmp" source="Ariel_Tmp" target="Ferdinand_Tmp">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Ariel_Tmp|Adrian_Tmp" source="Ariel_Tmp" target="Adrian_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ariel_Tmp|Francisco_Tmp" source="Ariel_Tmp" target="Francisco_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ariel_Tmp|Stephano_Tmp" source="Ariel_Tmp" target="Stephano_Tmp">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Ariel_Tmp|Trinculo_Tmp" source="Ariel_Tmp" target="Trinculo_Tmp">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Ariel_Tmp|SPIRITS.Iris_Tmp" source="Ariel_Tmp" target="SPIRITS.Iris_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ariel_Tmp|SPIRITS.Ceres_Tmp" source="Ariel_Tmp" target="SPIRITS.Ceres_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ariel_Tmp|SPIRITS.Juno_Tmp" source="Ariel_Tmp" target="SPIRITS.Juno_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caliban_Tmp|Ferdinand_Tmp" source="Caliban_Tmp" target="Ferdinand_Tmp">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Caliban_Tmp|Trinculo_Tmp" source="Caliban_Tmp" target="Trinculo_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Caliban_Tmp|Stephano_Tmp" source="Caliban_Tmp" target="Stephano_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Caliban_Tmp|SPIRITS.Iris_Tmp" source="Caliban_Tmp" target="SPIRITS.Iris_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caliban_Tmp|SPIRITS.Ceres_Tmp" source="Caliban_Tmp" target="SPIRITS.Ceres_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caliban_Tmp|SPIRITS.Juno_Tmp" source="Caliban_Tmp" target="SPIRITS.Juno_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ferdinand_Tmp|SPIRITS.Iris_Tmp" source="Ferdinand_Tmp" target="SPIRITS.Iris_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ferdinand_Tmp|SPIRITS.Ceres_Tmp" source="Ferdinand_Tmp" target="SPIRITS.Ceres_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ferdinand_Tmp|SPIRITS.Juno_Tmp" source="Ferdinand_Tmp" target="SPIRITS.Juno_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ferdinand_Tmp|Stephano_Tmp" source="Ferdinand_Tmp" target="Stephano_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ferdinand_Tmp|Trinculo_Tmp" source="Ferdinand_Tmp" target="Trinculo_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Adrian_Tmp|Francisco_Tmp" source="Adrian_Tmp" target="Francisco_Tmp">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Trinculo_Tmp|Stephano_Tmp" source="Trinculo_Tmp" target="Stephano_Tmp">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Trinculo_Tmp|SPIRITS.Iris_Tmp" source="Trinculo_Tmp" target="SPIRITS.Iris_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Trinculo_Tmp|SPIRITS.Ceres_Tmp" source="Trinculo_Tmp" target="SPIRITS.Ceres_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Trinculo_Tmp|SPIRITS.Juno_Tmp" source="Trinculo_Tmp" target="SPIRITS.Juno_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Stephano_Tmp|SPIRITS.Iris_Tmp" source="Stephano_Tmp" target="SPIRITS.Iris_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Stephano_Tmp|SPIRITS.Ceres_Tmp" source="Stephano_Tmp" target="SPIRITS.Ceres_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Stephano_Tmp|SPIRITS.Juno_Tmp" source="Stephano_Tmp" target="SPIRITS.Juno_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SPIRITS.Iris_Tmp|SPIRITS.Ceres_Tmp" source="SPIRITS.Iris_Tmp" target="SPIRITS.Ceres_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SPIRITS.Iris_Tmp|SPIRITS.Juno_Tmp" source="SPIRITS.Iris_Tmp" target="SPIRITS.Juno_Tmp">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SPIRITS.Ceres_Tmp|SPIRITS.Juno_Tmp" source="SPIRITS.Ceres_Tmp" target="SPIRITS.Juno_Tmp">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

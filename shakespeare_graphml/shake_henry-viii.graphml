@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Prologue_H8">
+            <data key="label">Prologue</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">266</data>
+        </node>
+        <node id="Buckingham_H8">
+            <data key="label">Duke of Buckingham</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1480</data>
+        </node>
+        <node id="Norfolk_H8">
+            <data key="label">Duke of Norfolk</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1453</data>
+        </node>
+        <node id="Abergavenny_H8">
+            <data key="label">Lord Abergavenny</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">114</data>
+        </node>
+        <node id="Wolsey_H8">
+            <data key="label">Cardinal Wolsey</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3200</data>
+        </node>
+        <node id="SECRETARIES.0.1_H8">
+            <data key="label">SECRETARIES.0.1_H8</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="Brandon_H8">
+            <data key="label">Brandon</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">84</data>
+        </node>
+        <node id="Sergeant_H8">
+            <data key="label">Sergeant at Arms</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">28</data>
+        </node>
+        <node id="HenryVIII_H8">
+            <data key="label">King Henry the Eighth</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3370</data>
+        </node>
+        <node id="Katherine_H8">
+            <data key="label">Queen Katherine</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2885</data>
+        </node>
+        <node id="Surveyor_H8">
+            <data key="label">Knevet, former Surveyor to Buckingham</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">449</data>
+        </node>
+        <node id="Chamberlain_H8">
+            <data key="label">Lord Chamberlain</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1051</data>
+        </node>
+        <node id="Sands_H8">
+            <data key="label">Lord Sands (also Sir Walter Sands)</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">338</data>
+        </node>
+        <node id="Lovell_H8">
+            <data key="label">Sir Thomas Lovell</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">475</data>
+        </node>
+        <node id="Guilford_H8">
+            <data key="label">Sir Henry Guilford</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">69</data>
+        </node>
+        <node id="Anne_H8">
+            <data key="label">Anne Bullen</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">376</data>
+        </node>
+        <node id="SERVANTS.X.1_H8">
+            <data key="label">Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="GENTLEMEN.1_H8">
+            <data key="label">First Gentleman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">703</data>
+        </node>
+        <node id="GENTLEMEN.2_H8">
+            <data key="label">Second Gentleman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">569</data>
+        </node>
+        <node id="Vaux_H8">
+            <data key="label">Sir Nicholas Vaux</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="Suffolk_H8">
+            <data key="label">Duke of Suffolk</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">624</data>
+        </node>
+        <node id="Campeius_H8">
+            <data key="label">Cardinal Campeius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">379</data>
+        </node>
+        <node id="Gardiner_H8">
+            <data key="label">Gardiner</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">665</data>
+        </node>
+        <node id="OldLady_H8">
+            <data key="label">Old Lady</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">495</data>
+        </node>
+        <node id="Scribe_H8">
+            <data key="label">Scribes</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">18</data>
+        </node>
+        <node id="Crier_H8">
+            <data key="label">Crier</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="Usher_H8">
+            <data key="label">Queen’s Gentleman Usher</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="BishopOfLincoln_H8">
+            <data key="label">Bishop of Lincoln</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">52</data>
+        </node>
+        <node id="LADIES.KATHERINE.0.1_H8">
+            <data key="label">Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">70</data>
+        </node>
+        <node id="GENTLEMEN.X_H8">
+            <data key="label">Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">19</data>
+        </node>
+        <node id="Surrey_H8">
+            <data key="label">Earl of Surrey</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">522</data>
+        </node>
+        <node id="Cromwell_H8">
+            <data key="label">Cromwell</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">304</data>
+        </node>
+        <node id="GENTLEMEN.3_H8">
+            <data key="label">Third Gentleman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">437</data>
+        </node>
+        <node id="Griffith_H8">
+            <data key="label">Griffith</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">421</data>
+        </node>
+        <node id="LADIES.KATHERINE.Patience_H8">
+            <data key="label">Patience</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">35</data>
+        </node>
+        <node id="Messenger_H8">
+            <data key="label">Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">29</data>
+        </node>
+        <node id="Capuchius_H8">
+            <data key="label">Capuchius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">65</data>
+        </node>
+        <node id="Page_H8">
+            <data key="label">Page to Gardiner</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3</data>
+        </node>
+        <node id="Denny_H8">
+            <data key="label">Sir Anthony Denny</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">21</data>
+        </node>
+        <node id="Cranmer_H8">
+            <data key="label">Cranmer</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1039</data>
+        </node>
+        <node id="Keeper_H8">
+            <data key="label">Keeper</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">40</data>
+        </node>
+        <node id="Butts_H8">
+            <data key="label">Doctor Butts</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">59</data>
+        </node>
+        <node id="Chancellor_H8">
+            <data key="label">Lord Chancellor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">212</data>
+        </node>
+        <node id="Porter_H8">
+            <data key="label">Porter and his Man</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">274</data>
+        </node>
+        <node id="SERVANTS.LARDER.1_H8">
+            <data key="label">Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">13</data>
+        </node>
+        <node id="SERVANTS.PORTER.1_H8">
+            <data key="label">Porter and his Man</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">354</data>
+        </node>
+        <node id="Garter_H8">
+            <data key="label">Garter King of Arms</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">21</data>
+        </node>
+        <node id="Epilogue_H8">
+            <data key="label">Epilogue</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">123</data>
+        </node>
+        <edge id="Buckingham_H8|Norfolk_H8" source="Buckingham_H8" target="Norfolk_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Buckingham_H8|Abergavenny_H8" source="Buckingham_H8" target="Abergavenny_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Buckingham_H8|Wolsey_H8" source="Buckingham_H8" target="Wolsey_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Buckingham_H8|SECRETARIES.0.1_H8" source="Buckingham_H8" target="SECRETARIES.0.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Buckingham_H8|Brandon_H8" source="Buckingham_H8" target="Brandon_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Buckingham_H8|Sergeant_H8" source="Buckingham_H8" target="Sergeant_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Buckingham_H8|GENTLEMEN.1_H8" source="Buckingham_H8" target="GENTLEMEN.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Buckingham_H8|GENTLEMEN.2_H8" source="Buckingham_H8" target="GENTLEMEN.2_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Buckingham_H8|Lovell_H8" source="Buckingham_H8" target="Lovell_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Buckingham_H8|Vaux_H8" source="Buckingham_H8" target="Vaux_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_H8|Abergavenny_H8" source="Norfolk_H8" target="Abergavenny_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_H8|Wolsey_H8" source="Norfolk_H8" target="Wolsey_H8">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Norfolk_H8|SECRETARIES.0.1_H8" source="Norfolk_H8" target="SECRETARIES.0.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_H8|Brandon_H8" source="Norfolk_H8" target="Brandon_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_H8|Sergeant_H8" source="Norfolk_H8" target="Sergeant_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_H8|HenryVIII_H8" source="Norfolk_H8" target="HenryVIII_H8">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Norfolk_H8|Katherine_H8" source="Norfolk_H8" target="Katherine_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_H8|Surveyor_H8" source="Norfolk_H8" target="Surveyor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_H8|Chamberlain_H8" source="Norfolk_H8" target="Chamberlain_H8">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Norfolk_H8|Suffolk_H8" source="Norfolk_H8" target="Suffolk_H8">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Norfolk_H8|Campeius_H8" source="Norfolk_H8" target="Campeius_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_H8|Gardiner_H8" source="Norfolk_H8" target="Gardiner_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Norfolk_H8|Surrey_H8" source="Norfolk_H8" target="Surrey_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Norfolk_H8|Cromwell_H8" source="Norfolk_H8" target="Cromwell_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Norfolk_H8|Cranmer_H8" source="Norfolk_H8" target="Cranmer_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_H8|Keeper_H8" source="Norfolk_H8" target="Keeper_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_H8|Butts_H8" source="Norfolk_H8" target="Butts_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_H8|Chancellor_H8" source="Norfolk_H8" target="Chancellor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Abergavenny_H8|Wolsey_H8" source="Abergavenny_H8" target="Wolsey_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Abergavenny_H8|SECRETARIES.0.1_H8" source="Abergavenny_H8" target="SECRETARIES.0.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Abergavenny_H8|Brandon_H8" source="Abergavenny_H8" target="Brandon_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Abergavenny_H8|Sergeant_H8" source="Abergavenny_H8" target="Sergeant_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|SECRETARIES.0.1_H8" source="Wolsey_H8" target="SECRETARIES.0.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Brandon_H8" source="Wolsey_H8" target="Brandon_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Sergeant_H8" source="Wolsey_H8" target="Sergeant_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|HenryVIII_H8" source="Wolsey_H8" target="HenryVIII_H8">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Wolsey_H8|Katherine_H8" source="Wolsey_H8" target="Katherine_H8">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Wolsey_H8|Surveyor_H8" source="Wolsey_H8" target="Surveyor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Guilford_H8" source="Wolsey_H8" target="Guilford_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Chamberlain_H8" source="Wolsey_H8" target="Chamberlain_H8">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Wolsey_H8|Sands_H8" source="Wolsey_H8" target="Sands_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Lovell_H8" source="Wolsey_H8" target="Lovell_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Anne_H8" source="Wolsey_H8" target="Anne_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|SERVANTS.X.1_H8" source="Wolsey_H8" target="SERVANTS.X.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Suffolk_H8" source="Wolsey_H8" target="Suffolk_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Wolsey_H8|Campeius_H8" source="Wolsey_H8" target="Campeius_H8">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Wolsey_H8|Gardiner_H8" source="Wolsey_H8" target="Gardiner_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Scribe_H8" source="Wolsey_H8" target="Scribe_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Crier_H8" source="Wolsey_H8" target="Crier_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Usher_H8" source="Wolsey_H8" target="Usher_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|BishopOfLincoln_H8" source="Wolsey_H8" target="BishopOfLincoln_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|LADIES.KATHERINE.0.1_H8" source="Wolsey_H8" target="LADIES.KATHERINE.0.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|GENTLEMEN.X_H8" source="Wolsey_H8" target="GENTLEMEN.X_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Surrey_H8" source="Wolsey_H8" target="Surrey_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Wolsey_H8|Cromwell_H8" source="Wolsey_H8" target="Cromwell_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SECRETARIES.0.1_H8|Brandon_H8" source="SECRETARIES.0.1_H8" target="Brandon_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SECRETARIES.0.1_H8|Sergeant_H8" source="SECRETARIES.0.1_H8" target="Sergeant_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brandon_H8|Sergeant_H8" source="Brandon_H8" target="Sergeant_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Katherine_H8" source="HenryVIII_H8" target="Katherine_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryVIII_H8|Surveyor_H8" source="HenryVIII_H8" target="Surveyor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Guilford_H8" source="HenryVIII_H8" target="Guilford_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Chamberlain_H8" source="HenryVIII_H8" target="Chamberlain_H8">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="HenryVIII_H8|Sands_H8" source="HenryVIII_H8" target="Sands_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Lovell_H8" source="HenryVIII_H8" target="Lovell_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryVIII_H8|Anne_H8" source="HenryVIII_H8" target="Anne_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|SERVANTS.X.1_H8" source="HenryVIII_H8" target="SERVANTS.X.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Suffolk_H8" source="HenryVIII_H8" target="Suffolk_H8">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="HenryVIII_H8|Campeius_H8" source="HenryVIII_H8" target="Campeius_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryVIII_H8|Gardiner_H8" source="HenryVIII_H8" target="Gardiner_H8">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="HenryVIII_H8|Scribe_H8" source="HenryVIII_H8" target="Scribe_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Crier_H8" source="HenryVIII_H8" target="Crier_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Usher_H8" source="HenryVIII_H8" target="Usher_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|BishopOfLincoln_H8" source="HenryVIII_H8" target="BishopOfLincoln_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Surrey_H8" source="HenryVIII_H8" target="Surrey_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryVIII_H8|Cromwell_H8" source="HenryVIII_H8" target="Cromwell_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryVIII_H8|Page_H8" source="HenryVIII_H8" target="Page_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Denny_H8" source="HenryVIII_H8" target="Denny_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Cranmer_H8" source="HenryVIII_H8" target="Cranmer_H8">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="HenryVIII_H8|OldLady_H8" source="HenryVIII_H8" target="OldLady_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Keeper_H8" source="HenryVIII_H8" target="Keeper_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Butts_H8" source="HenryVIII_H8" target="Butts_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Chancellor_H8" source="HenryVIII_H8" target="Chancellor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVIII_H8|Garter_H8" source="HenryVIII_H8" target="Garter_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H8|Surveyor_H8" source="Katherine_H8" target="Surveyor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H8|Scribe_H8" source="Katherine_H8" target="Scribe_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H8|Crier_H8" source="Katherine_H8" target="Crier_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H8|Campeius_H8" source="Katherine_H8" target="Campeius_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Katherine_H8|Usher_H8" source="Katherine_H8" target="Usher_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H8|BishopOfLincoln_H8" source="Katherine_H8" target="BishopOfLincoln_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H8|LADIES.KATHERINE.0.1_H8" source="Katherine_H8" target="LADIES.KATHERINE.0.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H8|GENTLEMEN.X_H8" source="Katherine_H8" target="GENTLEMEN.X_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H8|Griffith_H8" source="Katherine_H8" target="Griffith_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H8|LADIES.KATHERINE.Patience_H8" source="Katherine_H8" target="LADIES.KATHERINE.Patience_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H8|Messenger_H8" source="Katherine_H8" target="Messenger_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H8|Capuchius_H8" source="Katherine_H8" target="Capuchius_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chamberlain_H8|Sands_H8" source="Chamberlain_H8" target="Sands_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Chamberlain_H8|Lovell_H8" source="Chamberlain_H8" target="Lovell_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Chamberlain_H8|Guilford_H8" source="Chamberlain_H8" target="Guilford_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chamberlain_H8|Anne_H8" source="Chamberlain_H8" target="Anne_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Chamberlain_H8|SERVANTS.X.1_H8" source="Chamberlain_H8" target="SERVANTS.X.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chamberlain_H8|Suffolk_H8" source="Chamberlain_H8" target="Suffolk_H8">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Chamberlain_H8|Campeius_H8" source="Chamberlain_H8" target="Campeius_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chamberlain_H8|Gardiner_H8" source="Chamberlain_H8" target="Gardiner_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Chamberlain_H8|OldLady_H8" source="Chamberlain_H8" target="OldLady_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chamberlain_H8|Surrey_H8" source="Chamberlain_H8" target="Surrey_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Chamberlain_H8|Cromwell_H8" source="Chamberlain_H8" target="Cromwell_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Chamberlain_H8|Cranmer_H8" source="Chamberlain_H8" target="Cranmer_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chamberlain_H8|Keeper_H8" source="Chamberlain_H8" target="Keeper_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chamberlain_H8|Butts_H8" source="Chamberlain_H8" target="Butts_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chamberlain_H8|Chancellor_H8" source="Chamberlain_H8" target="Chancellor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chamberlain_H8|Porter_H8" source="Chamberlain_H8" target="Porter_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chamberlain_H8|SERVANTS.LARDER.1_H8" source="Chamberlain_H8" target="SERVANTS.LARDER.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Chamberlain_H8|SERVANTS.PORTER.1_H8" source="Chamberlain_H8" target="SERVANTS.PORTER.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sands_H8|Lovell_H8" source="Sands_H8" target="Lovell_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Sands_H8|Guilford_H8" source="Sands_H8" target="Guilford_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sands_H8|Anne_H8" source="Sands_H8" target="Anne_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sands_H8|SERVANTS.X.1_H8" source="Sands_H8" target="SERVANTS.X.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|Guilford_H8" source="Lovell_H8" target="Guilford_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|Anne_H8" source="Lovell_H8" target="Anne_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|SERVANTS.X.1_H8" source="Lovell_H8" target="SERVANTS.X.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|GENTLEMEN.1_H8" source="Lovell_H8" target="GENTLEMEN.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|GENTLEMEN.2_H8" source="Lovell_H8" target="GENTLEMEN.2_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|Vaux_H8" source="Lovell_H8" target="Vaux_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|Gardiner_H8" source="Lovell_H8" target="Gardiner_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|Page_H8" source="Lovell_H8" target="Page_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|Suffolk_H8" source="Lovell_H8" target="Suffolk_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|Denny_H8" source="Lovell_H8" target="Denny_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|Cranmer_H8" source="Lovell_H8" target="Cranmer_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lovell_H8|OldLady_H8" source="Lovell_H8" target="OldLady_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Guilford_H8|Anne_H8" source="Guilford_H8" target="Anne_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Guilford_H8|SERVANTS.X.1_H8" source="Guilford_H8" target="SERVANTS.X.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Anne_H8|SERVANTS.X.1_H8" source="Anne_H8" target="SERVANTS.X.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Anne_H8|OldLady_H8" source="Anne_H8" target="OldLady_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_H8|GENTLEMEN.2_H8" source="GENTLEMEN.1_H8" target="GENTLEMEN.2_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="GENTLEMEN.1_H8|Vaux_H8" source="GENTLEMEN.1_H8" target="Vaux_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_H8|GENTLEMEN.3_H8" source="GENTLEMEN.1_H8" target="GENTLEMEN.3_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.2_H8|Vaux_H8" source="GENTLEMEN.2_H8" target="Vaux_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.2_H8|GENTLEMEN.3_H8" source="GENTLEMEN.2_H8" target="GENTLEMEN.3_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_H8|Campeius_H8" source="Suffolk_H8" target="Campeius_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_H8|Gardiner_H8" source="Suffolk_H8" target="Gardiner_H8">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Suffolk_H8|Surrey_H8" source="Suffolk_H8" target="Surrey_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Suffolk_H8|Cromwell_H8" source="Suffolk_H8" target="Cromwell_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Suffolk_H8|Page_H8" source="Suffolk_H8" target="Page_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_H8|Denny_H8" source="Suffolk_H8" target="Denny_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_H8|Cranmer_H8" source="Suffolk_H8" target="Cranmer_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Suffolk_H8|OldLady_H8" source="Suffolk_H8" target="OldLady_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_H8|Keeper_H8" source="Suffolk_H8" target="Keeper_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_H8|Butts_H8" source="Suffolk_H8" target="Butts_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Suffolk_H8|Chancellor_H8" source="Suffolk_H8" target="Chancellor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Campeius_H8|Gardiner_H8" source="Campeius_H8" target="Gardiner_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Campeius_H8|Scribe_H8" source="Campeius_H8" target="Scribe_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Campeius_H8|Crier_H8" source="Campeius_H8" target="Crier_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Campeius_H8|Usher_H8" source="Campeius_H8" target="Usher_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Campeius_H8|BishopOfLincoln_H8" source="Campeius_H8" target="BishopOfLincoln_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Campeius_H8|LADIES.KATHERINE.0.1_H8" source="Campeius_H8" target="LADIES.KATHERINE.0.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Campeius_H8|GENTLEMEN.X_H8" source="Campeius_H8" target="GENTLEMEN.X_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gardiner_H8|Page_H8" source="Gardiner_H8" target="Page_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gardiner_H8|Denny_H8" source="Gardiner_H8" target="Denny_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gardiner_H8|Cranmer_H8" source="Gardiner_H8" target="Cranmer_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gardiner_H8|OldLady_H8" source="Gardiner_H8" target="OldLady_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gardiner_H8|Keeper_H8" source="Gardiner_H8" target="Keeper_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gardiner_H8|Butts_H8" source="Gardiner_H8" target="Butts_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gardiner_H8|Chancellor_H8" source="Gardiner_H8" target="Chancellor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gardiner_H8|Cromwell_H8" source="Gardiner_H8" target="Cromwell_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gardiner_H8|Surrey_H8" source="Gardiner_H8" target="Surrey_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OldLady_H8|Page_H8" source="OldLady_H8" target="Page_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OldLady_H8|Denny_H8" source="OldLady_H8" target="Denny_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OldLady_H8|Cranmer_H8" source="OldLady_H8" target="Cranmer_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Scribe_H8|Crier_H8" source="Scribe_H8" target="Crier_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Scribe_H8|Usher_H8" source="Scribe_H8" target="Usher_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Scribe_H8|BishopOfLincoln_H8" source="Scribe_H8" target="BishopOfLincoln_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Crier_H8|Usher_H8" source="Crier_H8" target="Usher_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Crier_H8|BishopOfLincoln_H8" source="Crier_H8" target="BishopOfLincoln_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Usher_H8|BishopOfLincoln_H8" source="Usher_H8" target="BishopOfLincoln_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.KATHERINE.0.1_H8|GENTLEMEN.X_H8" source="LADIES.KATHERINE.0.1_H8" target="GENTLEMEN.X_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Surrey_H8|Cromwell_H8" source="Surrey_H8" target="Cromwell_H8">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Surrey_H8|Cranmer_H8" source="Surrey_H8" target="Cranmer_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Surrey_H8|Keeper_H8" source="Surrey_H8" target="Keeper_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Surrey_H8|Butts_H8" source="Surrey_H8" target="Butts_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Surrey_H8|Chancellor_H8" source="Surrey_H8" target="Chancellor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cromwell_H8|Cranmer_H8" source="Cromwell_H8" target="Cranmer_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cromwell_H8|Keeper_H8" source="Cromwell_H8" target="Keeper_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cromwell_H8|Butts_H8" source="Cromwell_H8" target="Butts_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cromwell_H8|Chancellor_H8" source="Cromwell_H8" target="Chancellor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Griffith_H8|LADIES.KATHERINE.Patience_H8" source="Griffith_H8" target="LADIES.KATHERINE.Patience_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Griffith_H8|Messenger_H8" source="Griffith_H8" target="Messenger_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Griffith_H8|Capuchius_H8" source="Griffith_H8" target="Capuchius_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.KATHERINE.Patience_H8|Messenger_H8" source="LADIES.KATHERINE.Patience_H8" target="Messenger_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.KATHERINE.Patience_H8|Capuchius_H8" source="LADIES.KATHERINE.Patience_H8" target="Capuchius_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Messenger_H8|Capuchius_H8" source="Messenger_H8" target="Capuchius_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Page_H8|Denny_H8" source="Page_H8" target="Denny_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Page_H8|Cranmer_H8" source="Page_H8" target="Cranmer_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Denny_H8|Cranmer_H8" source="Denny_H8" target="Cranmer_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cranmer_H8|Keeper_H8" source="Cranmer_H8" target="Keeper_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cranmer_H8|Butts_H8" source="Cranmer_H8" target="Butts_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cranmer_H8|Chancellor_H8" source="Cranmer_H8" target="Chancellor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cranmer_H8|Garter_H8" source="Cranmer_H8" target="Garter_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Keeper_H8|Butts_H8" source="Keeper_H8" target="Butts_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Keeper_H8|Chancellor_H8" source="Keeper_H8" target="Chancellor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Butts_H8|Chancellor_H8" source="Butts_H8" target="Chancellor_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Porter_H8|SERVANTS.LARDER.1_H8" source="Porter_H8" target="SERVANTS.LARDER.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Porter_H8|SERVANTS.PORTER.1_H8" source="Porter_H8" target="SERVANTS.PORTER.1_H8">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LARDER.1_H8|SERVANTS.PORTER.1_H8" source="SERVANTS.LARDER.1_H8" target="SERVANTS.PORTER.1_H8">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

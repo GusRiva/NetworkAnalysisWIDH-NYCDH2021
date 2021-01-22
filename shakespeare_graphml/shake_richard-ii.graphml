@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="RichardII_R2">
+            <data key="label">King Richard II</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5986</data>
+        </node>
+        <node id="Gaunt_R2">
+            <data key="label">John of Gaunt</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1515</data>
+        </node>
+        <node id="HenryIV_1H4">
+            <data key="label">Henry Bolingbroke Hereford</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3117</data>
+        </node>
+        <node id="Mowbray_R2">
+            <data key="label">Mowbray</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1057</data>
+        </node>
+        <node id="DuchessOfGloucester_R2">
+            <data key="label">Duchess of Gloucester</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">457</data>
+        </node>
+        <node id="LordMarshal_R2">
+            <data key="label">Lord Marshal</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">202</data>
+        </node>
+        <node id="Aumerle_R2">
+            <data key="label">Duke of Aumerle</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">676</data>
+        </node>
+        <node id="HERALDS.1_R2">
+            <data key="label">First Herald</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">48</data>
+        </node>
+        <node id="HERALDS.2_R2">
+            <data key="label">Second Herald</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">48</data>
+        </node>
+        <node id="Green_R2">
+            <data key="label">Green</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">243</data>
+        </node>
+        <node id="Bushy_R2">
+            <data key="label">Bushy</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">272</data>
+        </node>
+        <node id="Bagot_R2">
+            <data key="label">Bagot</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">171</data>
+        </node>
+        <node id="York_R2">
+            <data key="label">Duke of York</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2232</data>
+        </node>
+        <node id="Queen_R2">
+            <data key="label">Queen</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">910</data>
+        </node>
+        <node id="Northumberland_R2">
+            <data key="label">Earl of Northumberland</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1104</data>
+        </node>
+        <node id="Ross_R2">
+            <data key="label">Lord Ross</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">178</data>
+        </node>
+        <node id="Willoughby_R2">
+            <data key="label">Lord Willoughby</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">102</data>
+        </node>
+        <node id="SERVANTS.YORK.1_R2">
+            <data key="label">Servingmen</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">43</data>
+        </node>
+        <node id="Hotspur_R2">
+            <data key="label">Harry Percy</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">352</data>
+        </node>
+        <node id="Berkeley_R2">
+            <data key="label">Lord Berkeley</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">69</data>
+        </node>
+        <node id="WelshCaptain_R2">
+            <data key="label">Welsh Captain</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">121</data>
+        </node>
+        <node id="Salisbury_R2">
+            <data key="label">Earl of Salisbury</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">156</data>
+        </node>
+        <node id="BishopOfCarlisle_R2">
+            <data key="label">Bishop of Carlisle</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">485</data>
+        </node>
+        <node id="Scroop_R2">
+            <data key="label">Sir Stephen Scroop</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">285</data>
+        </node>
+        <node id="LADIES.0.1_R2">
+            <data key="label">LADIES.0.1_R2</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">27</data>
+        </node>
+        <node id="Gardener_R2">
+            <data key="label">Gardener</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">409</data>
+        </node>
+        <node id="SERVANTS.GARDENER.1_R2">
+            <data key="label">SERVANTS.GARDENER.1_R2</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">70</data>
+        </node>
+        <node id="Fitzwater_R2">
+            <data key="label">Lord Fitzwater</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">218</data>
+        </node>
+        <node id="LORDS.1_R2">
+            <data key="label">Another Lord</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">43</data>
+        </node>
+        <node id="Surrey_R2">
+            <data key="label">Duke of Surrey</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">75</data>
+        </node>
+        <node id="AbbotOfWestminster_R2">
+            <data key="label">Abbot of Westminster</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">71</data>
+        </node>
+        <node id="DuchessOfYork_R2">
+            <data key="label">Duchess of York</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">734</data>
+        </node>
+        <node id="Exton_R2">
+            <data key="label">Sir Pierce of Exton</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">178</data>
+        </node>
+        <node id="SERVANTS.EXTON.0.1_R2">
+            <data key="label">SERVANTS.EXTON.0.1_R2</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="Groom_R2">
+            <data key="label">Groom</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">91</data>
+        </node>
+        <node id="Jailer_R2">
+            <data key="label">Keeper</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">38</data>
+        </node>
+        <edge id="RichardII_R2|Gaunt_R2" source="RichardII_R2" target="Gaunt_R2">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="RichardII_R2|HenryIV_1H4" source="RichardII_R2" target="HenryIV_1H4">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="RichardII_R2|Mowbray_R2" source="RichardII_R2" target="Mowbray_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="RichardII_R2|LordMarshal_R2" source="RichardII_R2" target="LordMarshal_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|Aumerle_R2" source="RichardII_R2" target="Aumerle_R2">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="RichardII_R2|HERALDS.1_R2" source="RichardII_R2" target="HERALDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|HERALDS.2_R2" source="RichardII_R2" target="HERALDS.2_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|Green_R2" source="RichardII_R2" target="Green_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|Bushy_R2" source="RichardII_R2" target="Bushy_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|Bagot_R2" source="RichardII_R2" target="Bagot_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="RichardII_R2|York_R2" source="RichardII_R2" target="York_R2">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="RichardII_R2|Queen_R2" source="RichardII_R2" target="Queen_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="RichardII_R2|Northumberland_R2" source="RichardII_R2" target="Northumberland_R2">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="RichardII_R2|Ross_R2" source="RichardII_R2" target="Ross_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|Willoughby_R2" source="RichardII_R2" target="Willoughby_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|BishopOfCarlisle_R2" source="RichardII_R2" target="BishopOfCarlisle_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="RichardII_R2|Salisbury_R2" source="RichardII_R2" target="Salisbury_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|Scroop_R2" source="RichardII_R2" target="Scroop_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|Hotspur_R2" source="RichardII_R2" target="Hotspur_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="RichardII_R2|Fitzwater_R2" source="RichardII_R2" target="Fitzwater_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|LORDS.1_R2" source="RichardII_R2" target="LORDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|Surrey_R2" source="RichardII_R2" target="Surrey_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|AbbotOfWestminster_R2" source="RichardII_R2" target="AbbotOfWestminster_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|Groom_R2" source="RichardII_R2" target="Groom_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|Jailer_R2" source="RichardII_R2" target="Jailer_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardII_R2|Exton_R2" source="RichardII_R2" target="Exton_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gaunt_R2|HenryIV_1H4" source="Gaunt_R2" target="HenryIV_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gaunt_R2|Mowbray_R2" source="Gaunt_R2" target="Mowbray_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gaunt_R2|DuchessOfGloucester_R2" source="Gaunt_R2" target="DuchessOfGloucester_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gaunt_R2|LordMarshal_R2" source="Gaunt_R2" target="LordMarshal_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gaunt_R2|Aumerle_R2" source="Gaunt_R2" target="Aumerle_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gaunt_R2|HERALDS.1_R2" source="Gaunt_R2" target="HERALDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gaunt_R2|HERALDS.2_R2" source="Gaunt_R2" target="HERALDS.2_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gaunt_R2|York_R2" source="Gaunt_R2" target="York_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gaunt_R2|Queen_R2" source="Gaunt_R2" target="Queen_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gaunt_R2|Northumberland_R2" source="Gaunt_R2" target="Northumberland_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gaunt_R2|Ross_R2" source="Gaunt_R2" target="Ross_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gaunt_R2|Willoughby_R2" source="Gaunt_R2" target="Willoughby_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Mowbray_R2" source="HenryIV_1H4" target="Mowbray_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryIV_1H4|LordMarshal_R2" source="HenryIV_1H4" target="LordMarshal_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Aumerle_R2" source="HenryIV_1H4" target="Aumerle_R2">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="HenryIV_1H4|HERALDS.1_R2" source="HenryIV_1H4" target="HERALDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|HERALDS.2_R2" source="HenryIV_1H4" target="HERALDS.2_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Northumberland_R2" source="HenryIV_1H4" target="Northumberland_R2">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="HenryIV_1H4|Hotspur_R2" source="HenryIV_1H4" target="Hotspur_R2">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="HenryIV_1H4|Ross_R2" source="HenryIV_1H4" target="Ross_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Willoughby_R2" source="HenryIV_1H4" target="Willoughby_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Berkeley_R2" source="HenryIV_1H4" target="Berkeley_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|York_R2" source="HenryIV_1H4" target="York_R2">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="HenryIV_1H4|Bushy_R2" source="HenryIV_1H4" target="Bushy_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Green_R2" source="HenryIV_1H4" target="Green_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Bagot_R2" source="HenryIV_1H4" target="Bagot_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Fitzwater_R2" source="HenryIV_1H4" target="Fitzwater_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryIV_1H4|LORDS.1_R2" source="HenryIV_1H4" target="LORDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Surrey_R2" source="HenryIV_1H4" target="Surrey_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|BishopOfCarlisle_R2" source="HenryIV_1H4" target="BishopOfCarlisle_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|AbbotOfWestminster_R2" source="HenryIV_1H4" target="AbbotOfWestminster_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|DuchessOfYork_R2" source="HenryIV_1H4" target="DuchessOfYork_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryIV_1H4|Exton_R2" source="HenryIV_1H4" target="Exton_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mowbray_R2|LordMarshal_R2" source="Mowbray_R2" target="LordMarshal_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mowbray_R2|Aumerle_R2" source="Mowbray_R2" target="Aumerle_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mowbray_R2|HERALDS.1_R2" source="Mowbray_R2" target="HERALDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mowbray_R2|HERALDS.2_R2" source="Mowbray_R2" target="HERALDS.2_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LordMarshal_R2|Aumerle_R2" source="LordMarshal_R2" target="Aumerle_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LordMarshal_R2|HERALDS.1_R2" source="LordMarshal_R2" target="HERALDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LordMarshal_R2|HERALDS.2_R2" source="LordMarshal_R2" target="HERALDS.2_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aumerle_R2|HERALDS.1_R2" source="Aumerle_R2" target="HERALDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aumerle_R2|HERALDS.2_R2" source="Aumerle_R2" target="HERALDS.2_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aumerle_R2|Green_R2" source="Aumerle_R2" target="Green_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aumerle_R2|Bushy_R2" source="Aumerle_R2" target="Bushy_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aumerle_R2|Bagot_R2" source="Aumerle_R2" target="Bagot_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Aumerle_R2|BishopOfCarlisle_R2" source="Aumerle_R2" target="BishopOfCarlisle_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Aumerle_R2|Salisbury_R2" source="Aumerle_R2" target="Salisbury_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aumerle_R2|Scroop_R2" source="Aumerle_R2" target="Scroop_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aumerle_R2|Northumberland_R2" source="Aumerle_R2" target="Northumberland_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Aumerle_R2|York_R2" source="Aumerle_R2" target="York_R2">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Aumerle_R2|Hotspur_R2" source="Aumerle_R2" target="Hotspur_R2">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Aumerle_R2|Fitzwater_R2" source="Aumerle_R2" target="Fitzwater_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aumerle_R2|LORDS.1_R2" source="Aumerle_R2" target="LORDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aumerle_R2|Surrey_R2" source="Aumerle_R2" target="Surrey_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aumerle_R2|AbbotOfWestminster_R2" source="Aumerle_R2" target="AbbotOfWestminster_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aumerle_R2|DuchessOfYork_R2" source="Aumerle_R2" target="DuchessOfYork_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HERALDS.1_R2|HERALDS.2_R2" source="HERALDS.1_R2" target="HERALDS.2_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Green_R2|Bushy_R2" source="Green_R2" target="Bushy_R2">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Green_R2|Bagot_R2" source="Green_R2" target="Bagot_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Green_R2|Queen_R2" source="Green_R2" target="Queen_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Green_R2|York_R2" source="Green_R2" target="York_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Green_R2|SERVANTS.YORK.1_R2" source="Green_R2" target="SERVANTS.YORK.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bushy_R2|Bagot_R2" source="Bushy_R2" target="Bagot_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bushy_R2|Queen_R2" source="Bushy_R2" target="Queen_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bushy_R2|York_R2" source="Bushy_R2" target="York_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bushy_R2|SERVANTS.YORK.1_R2" source="Bushy_R2" target="SERVANTS.YORK.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bagot_R2|Queen_R2" source="Bagot_R2" target="Queen_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bagot_R2|York_R2" source="Bagot_R2" target="York_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bagot_R2|SERVANTS.YORK.1_R2" source="Bagot_R2" target="SERVANTS.YORK.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bagot_R2|Fitzwater_R2" source="Bagot_R2" target="Fitzwater_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bagot_R2|Hotspur_R2" source="Bagot_R2" target="Hotspur_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bagot_R2|LORDS.1_R2" source="Bagot_R2" target="LORDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bagot_R2|Surrey_R2" source="Bagot_R2" target="Surrey_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bagot_R2|BishopOfCarlisle_R2" source="Bagot_R2" target="BishopOfCarlisle_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bagot_R2|Northumberland_R2" source="Bagot_R2" target="Northumberland_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bagot_R2|AbbotOfWestminster_R2" source="Bagot_R2" target="AbbotOfWestminster_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_R2|Queen_R2" source="York_R2" target="Queen_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="York_R2|Northumberland_R2" source="York_R2" target="Northumberland_R2">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="York_R2|Ross_R2" source="York_R2" target="Ross_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="York_R2|Willoughby_R2" source="York_R2" target="Willoughby_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="York_R2|SERVANTS.YORK.1_R2" source="York_R2" target="SERVANTS.YORK.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_R2|Hotspur_R2" source="York_R2" target="Hotspur_R2">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="York_R2|Berkeley_R2" source="York_R2" target="Berkeley_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_R2|Fitzwater_R2" source="York_R2" target="Fitzwater_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_R2|LORDS.1_R2" source="York_R2" target="LORDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_R2|Surrey_R2" source="York_R2" target="Surrey_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_R2|BishopOfCarlisle_R2" source="York_R2" target="BishopOfCarlisle_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_R2|AbbotOfWestminster_R2" source="York_R2" target="AbbotOfWestminster_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_R2|DuchessOfYork_R2" source="York_R2" target="DuchessOfYork_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Queen_R2|Northumberland_R2" source="Queen_R2" target="Northumberland_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Queen_R2|Ross_R2" source="Queen_R2" target="Ross_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_R2|Willoughby_R2" source="Queen_R2" target="Willoughby_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_R2|SERVANTS.YORK.1_R2" source="Queen_R2" target="SERVANTS.YORK.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_R2|LADIES.0.1_R2" source="Queen_R2" target="LADIES.0.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_R2|Gardener_R2" source="Queen_R2" target="Gardener_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_R2|SERVANTS.GARDENER.1_R2" source="Queen_R2" target="SERVANTS.GARDENER.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_R2|Ross_R2" source="Northumberland_R2" target="Ross_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Northumberland_R2|Willoughby_R2" source="Northumberland_R2" target="Willoughby_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Northumberland_R2|Hotspur_R2" source="Northumberland_R2" target="Hotspur_R2">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Northumberland_R2|Berkeley_R2" source="Northumberland_R2" target="Berkeley_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_R2|Fitzwater_R2" source="Northumberland_R2" target="Fitzwater_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Northumberland_R2|LORDS.1_R2" source="Northumberland_R2" target="LORDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_R2|Surrey_R2" source="Northumberland_R2" target="Surrey_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_R2|BishopOfCarlisle_R2" source="Northumberland_R2" target="BishopOfCarlisle_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_R2|AbbotOfWestminster_R2" source="Northumberland_R2" target="AbbotOfWestminster_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_R2|Exton_R2" source="Northumberland_R2" target="Exton_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_R2|Willoughby_R2" source="Ross_R2" target="Willoughby_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ross_R2|Hotspur_R2" source="Ross_R2" target="Hotspur_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_R2|Berkeley_R2" source="Ross_R2" target="Berkeley_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Willoughby_R2|Hotspur_R2" source="Willoughby_R2" target="Hotspur_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Willoughby_R2|Berkeley_R2" source="Willoughby_R2" target="Berkeley_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hotspur_R2|Berkeley_R2" source="Hotspur_R2" target="Berkeley_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hotspur_R2|Fitzwater_R2" source="Hotspur_R2" target="Fitzwater_R2">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hotspur_R2|LORDS.1_R2" source="Hotspur_R2" target="LORDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hotspur_R2|Surrey_R2" source="Hotspur_R2" target="Surrey_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hotspur_R2|BishopOfCarlisle_R2" source="Hotspur_R2" target="BishopOfCarlisle_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hotspur_R2|AbbotOfWestminster_R2" source="Hotspur_R2" target="AbbotOfWestminster_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hotspur_R2|DuchessOfYork_R2" source="Hotspur_R2" target="DuchessOfYork_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hotspur_R2|Exton_R2" source="Hotspur_R2" target="Exton_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WelshCaptain_R2|Salisbury_R2" source="WelshCaptain_R2" target="Salisbury_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_R2|BishopOfCarlisle_R2" source="Salisbury_R2" target="BishopOfCarlisle_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_R2|Scroop_R2" source="Salisbury_R2" target="Scroop_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfCarlisle_R2|Scroop_R2" source="BishopOfCarlisle_R2" target="Scroop_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfCarlisle_R2|Fitzwater_R2" source="BishopOfCarlisle_R2" target="Fitzwater_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfCarlisle_R2|LORDS.1_R2" source="BishopOfCarlisle_R2" target="LORDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfCarlisle_R2|Surrey_R2" source="BishopOfCarlisle_R2" target="Surrey_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfCarlisle_R2|AbbotOfWestminster_R2" source="BishopOfCarlisle_R2" target="AbbotOfWestminster_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_R2|Gardener_R2" source="LADIES.0.1_R2" target="Gardener_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_R2|SERVANTS.GARDENER.1_R2" source="LADIES.0.1_R2" target="SERVANTS.GARDENER.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gardener_R2|SERVANTS.GARDENER.1_R2" source="Gardener_R2" target="SERVANTS.GARDENER.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fitzwater_R2|LORDS.1_R2" source="Fitzwater_R2" target="LORDS.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fitzwater_R2|Surrey_R2" source="Fitzwater_R2" target="Surrey_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fitzwater_R2|AbbotOfWestminster_R2" source="Fitzwater_R2" target="AbbotOfWestminster_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fitzwater_R2|Exton_R2" source="Fitzwater_R2" target="Exton_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.1_R2|Surrey_R2" source="LORDS.1_R2" target="Surrey_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.1_R2|AbbotOfWestminster_R2" source="LORDS.1_R2" target="AbbotOfWestminster_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Surrey_R2|AbbotOfWestminster_R2" source="Surrey_R2" target="AbbotOfWestminster_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exton_R2|SERVANTS.EXTON.0.1_R2" source="Exton_R2" target="SERVANTS.EXTON.0.1_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exton_R2|Groom_R2" source="Exton_R2" target="Groom_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exton_R2|Jailer_R2" source="Exton_R2" target="Jailer_R2">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Groom_R2|Jailer_R2" source="Groom_R2" target="Jailer_R2">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

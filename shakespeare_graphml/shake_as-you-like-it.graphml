@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Orlando_AYL">
+            <data key="label">Orlando</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2370</data>
+        </node>
+        <node id="Adam_AYL">
+            <data key="label">Adam</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">513</data>
+        </node>
+        <node id="Oliver_AYL">
+            <data key="label">Oliver</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1164</data>
+        </node>
+        <node id="Dennis_AYL">
+            <data key="label">Dennis</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">17</data>
+        </node>
+        <node id="Charles_AYL">
+            <data key="label">Charles</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">375</data>
+        </node>
+        <node id="Celia_AYL">
+            <data key="label">Celia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2106</data>
+        </node>
+        <node id="Rosalind_AYL">
+            <data key="label">Rosalind</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5697</data>
+        </node>
+        <node id="Touchstone_AYL">
+            <data key="label">Touchstone</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2374</data>
+        </node>
+        <node id="LORDS.FREDERICK.LeBeau_AYL">
+            <data key="label">Le Beau</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">371</data>
+        </node>
+        <node id="DukeFrederick_AYL">
+            <data key="label">Duke Frederick</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">529</data>
+        </node>
+        <node id="DukeSenior_AYL">
+            <data key="label">Duke Senior</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">808</data>
+        </node>
+        <node id="LORDS.SENIOR.Amiens_AYL">
+            <data key="label">Amiens</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">278</data>
+        </node>
+        <node id="LORDS.SENIOR.0.1_AYL">
+            <data key="label">First Lord</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">320</data>
+        </node>
+        <node id="LORDS.SENIOR.0.2_AYL">
+            <data key="label">Second Lord</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">32</data>
+        </node>
+        <node id="LORDS.FREDERICK.0.1_AYL">
+            <data key="label">First Lord</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">32</data>
+        </node>
+        <node id="LORDS.FREDERICK.0.2_AYL">
+            <data key="label">Second Lord</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">63</data>
+        </node>
+        <node id="Corin_AYL">
+            <data key="label">Corin</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">549</data>
+        </node>
+        <node id="Silvius_AYL">
+            <data key="label">Silvius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">540</data>
+        </node>
+        <node id="Jaques_AYL">
+            <data key="label">Jaques</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1769</data>
+        </node>
+        <node id="LORDS.SENIOR_AYL">
+            <data key="label">Lords, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">39</data>
+        </node>
+        <node id="Audrey_AYL">
+            <data key="label">Audrey</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">149</data>
+        </node>
+        <node id="OliverMartext_AYL">
+            <data key="label">Sir Oliver Martext</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">36</data>
+        </node>
+        <node id="Phoebe_AYL">
+            <data key="label">Phoebe</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">694</data>
+        </node>
+        <node id="William_AYL">
+            <data key="label">William</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">41</data>
+        </node>
+        <node id="SERVANTS.1_AYL">
+            <data key="label">First Page</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">213</data>
+        </node>
+        <node id="SERVANTS.2_AYL">
+            <data key="label">Second Page</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">196</data>
+        </node>
+        <node id="Hymen_AYL">
+            <data key="label">Hymen</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">134</data>
+        </node>
+        <node id="SecondBrother_AYL">
+            <data key="label">Second Brother</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">128</data>
+        </node>
+        <edge id="Orlando_AYL|Adam_AYL" source="Orlando_AYL" target="Adam_AYL">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Orlando_AYL|Oliver_AYL" source="Orlando_AYL" target="Oliver_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Orlando_AYL|Dennis_AYL" source="Orlando_AYL" target="Dennis_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orlando_AYL|Charles_AYL" source="Orlando_AYL" target="Charles_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Orlando_AYL|Celia_AYL" source="Orlando_AYL" target="Celia_AYL">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Orlando_AYL|Rosalind_AYL" source="Orlando_AYL" target="Rosalind_AYL">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Orlando_AYL|Touchstone_AYL" source="Orlando_AYL" target="Touchstone_AYL">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Orlando_AYL|LORDS.FREDERICK.LeBeau_AYL" source="Orlando_AYL" target="LORDS.FREDERICK.LeBeau_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orlando_AYL|DukeFrederick_AYL" source="Orlando_AYL" target="DukeFrederick_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orlando_AYL|DukeSenior_AYL" source="Orlando_AYL" target="DukeSenior_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Orlando_AYL|LORDS.SENIOR.0.1_AYL" source="Orlando_AYL" target="LORDS.SENIOR.0.1_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orlando_AYL|Jaques_AYL" source="Orlando_AYL" target="Jaques_AYL">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Orlando_AYL|LORDS.SENIOR.Amiens_AYL" source="Orlando_AYL" target="LORDS.SENIOR.Amiens_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orlando_AYL|Corin_AYL" source="Orlando_AYL" target="Corin_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orlando_AYL|Phoebe_AYL" source="Orlando_AYL" target="Phoebe_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Orlando_AYL|Silvius_AYL" source="Orlando_AYL" target="Silvius_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Orlando_AYL|Hymen_AYL" source="Orlando_AYL" target="Hymen_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orlando_AYL|SecondBrother_AYL" source="Orlando_AYL" target="SecondBrother_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adam_AYL|Oliver_AYL" source="Adam_AYL" target="Oliver_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adam_AYL|Dennis_AYL" source="Adam_AYL" target="Dennis_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adam_AYL|Charles_AYL" source="Adam_AYL" target="Charles_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adam_AYL|DukeSenior_AYL" source="Adam_AYL" target="DukeSenior_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adam_AYL|LORDS.SENIOR.0.1_AYL" source="Adam_AYL" target="LORDS.SENIOR.0.1_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adam_AYL|Jaques_AYL" source="Adam_AYL" target="Jaques_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Adam_AYL|LORDS.SENIOR.Amiens_AYL" source="Adam_AYL" target="LORDS.SENIOR.Amiens_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oliver_AYL|Dennis_AYL" source="Oliver_AYL" target="Dennis_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oliver_AYL|Charles_AYL" source="Oliver_AYL" target="Charles_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oliver_AYL|DukeFrederick_AYL" source="Oliver_AYL" target="DukeFrederick_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oliver_AYL|Rosalind_AYL" source="Oliver_AYL" target="Rosalind_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Oliver_AYL|Celia_AYL" source="Oliver_AYL" target="Celia_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oliver_AYL|Silvius_AYL" source="Oliver_AYL" target="Silvius_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Oliver_AYL|Phoebe_AYL" source="Oliver_AYL" target="Phoebe_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dennis_AYL|Charles_AYL" source="Dennis_AYL" target="Charles_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_AYL|Celia_AYL" source="Charles_AYL" target="Celia_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_AYL|Rosalind_AYL" source="Charles_AYL" target="Rosalind_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_AYL|Touchstone_AYL" source="Charles_AYL" target="Touchstone_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_AYL|LORDS.FREDERICK.LeBeau_AYL" source="Charles_AYL" target="LORDS.FREDERICK.LeBeau_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Charles_AYL|DukeFrederick_AYL" source="Charles_AYL" target="DukeFrederick_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Celia_AYL|Rosalind_AYL" source="Celia_AYL" target="Rosalind_AYL">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Celia_AYL|Touchstone_AYL" source="Celia_AYL" target="Touchstone_AYL">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Celia_AYL|LORDS.FREDERICK.LeBeau_AYL" source="Celia_AYL" target="LORDS.FREDERICK.LeBeau_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Celia_AYL|DukeFrederick_AYL" source="Celia_AYL" target="DukeFrederick_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Celia_AYL|Corin_AYL" source="Celia_AYL" target="Corin_AYL">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Celia_AYL|Silvius_AYL" source="Celia_AYL" target="Silvius_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Celia_AYL|Jaques_AYL" source="Celia_AYL" target="Jaques_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Rosalind_AYL|Touchstone_AYL" source="Rosalind_AYL" target="Touchstone_AYL">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Rosalind_AYL|LORDS.FREDERICK.LeBeau_AYL" source="Rosalind_AYL" target="LORDS.FREDERICK.LeBeau_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Rosalind_AYL|DukeFrederick_AYL" source="Rosalind_AYL" target="DukeFrederick_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Rosalind_AYL|Corin_AYL" source="Rosalind_AYL" target="Corin_AYL">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Rosalind_AYL|Silvius_AYL" source="Rosalind_AYL" target="Silvius_AYL">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Rosalind_AYL|Jaques_AYL" source="Rosalind_AYL" target="Jaques_AYL">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Rosalind_AYL|Phoebe_AYL" source="Rosalind_AYL" target="Phoebe_AYL">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Rosalind_AYL|DukeSenior_AYL" source="Rosalind_AYL" target="DukeSenior_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Rosalind_AYL|Hymen_AYL" source="Rosalind_AYL" target="Hymen_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Rosalind_AYL|SecondBrother_AYL" source="Rosalind_AYL" target="SecondBrother_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Touchstone_AYL|LORDS.FREDERICK.LeBeau_AYL" source="Touchstone_AYL" target="LORDS.FREDERICK.LeBeau_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Touchstone_AYL|DukeFrederick_AYL" source="Touchstone_AYL" target="DukeFrederick_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Touchstone_AYL|Corin_AYL" source="Touchstone_AYL" target="Corin_AYL">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Touchstone_AYL|Silvius_AYL" source="Touchstone_AYL" target="Silvius_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Touchstone_AYL|Jaques_AYL" source="Touchstone_AYL" target="Jaques_AYL">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Touchstone_AYL|Audrey_AYL" source="Touchstone_AYL" target="Audrey_AYL">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Touchstone_AYL|OliverMartext_AYL" source="Touchstone_AYL" target="OliverMartext_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Touchstone_AYL|William_AYL" source="Touchstone_AYL" target="William_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Touchstone_AYL|SERVANTS.1_AYL" source="Touchstone_AYL" target="SERVANTS.1_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Touchstone_AYL|SERVANTS.2_AYL" source="Touchstone_AYL" target="SERVANTS.2_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Touchstone_AYL|DukeSenior_AYL" source="Touchstone_AYL" target="DukeSenior_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Touchstone_AYL|Phoebe_AYL" source="Touchstone_AYL" target="Phoebe_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Touchstone_AYL|Hymen_AYL" source="Touchstone_AYL" target="Hymen_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Touchstone_AYL|SecondBrother_AYL" source="Touchstone_AYL" target="SecondBrother_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.FREDERICK.LeBeau_AYL|DukeFrederick_AYL" source="LORDS.FREDERICK.LeBeau_AYL" target="DukeFrederick_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DukeFrederick_AYL|LORDS.FREDERICK.0.1_AYL" source="DukeFrederick_AYL" target="LORDS.FREDERICK.0.1_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DukeFrederick_AYL|LORDS.FREDERICK.0.2_AYL" source="DukeFrederick_AYL" target="LORDS.FREDERICK.0.2_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DukeSenior_AYL|LORDS.SENIOR.Amiens_AYL" source="DukeSenior_AYL" target="LORDS.SENIOR.Amiens_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DukeSenior_AYL|LORDS.SENIOR.0.1_AYL" source="DukeSenior_AYL" target="LORDS.SENIOR.0.1_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DukeSenior_AYL|LORDS.SENIOR.0.2_AYL" source="DukeSenior_AYL" target="LORDS.SENIOR.0.2_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DukeSenior_AYL|Jaques_AYL" source="DukeSenior_AYL" target="Jaques_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="DukeSenior_AYL|Phoebe_AYL" source="DukeSenior_AYL" target="Phoebe_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DukeSenior_AYL|Silvius_AYL" source="DukeSenior_AYL" target="Silvius_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DukeSenior_AYL|Hymen_AYL" source="DukeSenior_AYL" target="Hymen_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="DukeSenior_AYL|SecondBrother_AYL" source="DukeSenior_AYL" target="SecondBrother_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.SENIOR.Amiens_AYL|LORDS.SENIOR.0.1_AYL" source="LORDS.SENIOR.Amiens_AYL" target="LORDS.SENIOR.0.1_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LORDS.SENIOR.Amiens_AYL|LORDS.SENIOR.0.2_AYL" source="LORDS.SENIOR.Amiens_AYL" target="LORDS.SENIOR.0.2_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.SENIOR.Amiens_AYL|Jaques_AYL" source="LORDS.SENIOR.Amiens_AYL" target="Jaques_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LORDS.SENIOR.Amiens_AYL|LORDS.SENIOR_AYL" source="LORDS.SENIOR.Amiens_AYL" target="LORDS.SENIOR_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.SENIOR.0.1_AYL|LORDS.SENIOR.0.2_AYL" source="LORDS.SENIOR.0.1_AYL" target="LORDS.SENIOR.0.2_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LORDS.SENIOR.0.1_AYL|Jaques_AYL" source="LORDS.SENIOR.0.1_AYL" target="Jaques_AYL">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LORDS.SENIOR.0.2_AYL|Jaques_AYL" source="LORDS.SENIOR.0.2_AYL" target="Jaques_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.FREDERICK.0.1_AYL|LORDS.FREDERICK.0.2_AYL" source="LORDS.FREDERICK.0.1_AYL" target="LORDS.FREDERICK.0.2_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Corin_AYL|Silvius_AYL" source="Corin_AYL" target="Silvius_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Corin_AYL|Jaques_AYL" source="Corin_AYL" target="Jaques_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Corin_AYL|Audrey_AYL" source="Corin_AYL" target="Audrey_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Corin_AYL|William_AYL" source="Corin_AYL" target="William_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Silvius_AYL|Phoebe_AYL" source="Silvius_AYL" target="Phoebe_AYL">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Silvius_AYL|Jaques_AYL" source="Silvius_AYL" target="Jaques_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Silvius_AYL|Hymen_AYL" source="Silvius_AYL" target="Hymen_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Silvius_AYL|SecondBrother_AYL" source="Silvius_AYL" target="SecondBrother_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jaques_AYL|LORDS.SENIOR_AYL" source="Jaques_AYL" target="LORDS.SENIOR_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jaques_AYL|Audrey_AYL" source="Jaques_AYL" target="Audrey_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jaques_AYL|OliverMartext_AYL" source="Jaques_AYL" target="OliverMartext_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jaques_AYL|Phoebe_AYL" source="Jaques_AYL" target="Phoebe_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jaques_AYL|Hymen_AYL" source="Jaques_AYL" target="Hymen_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jaques_AYL|SecondBrother_AYL" source="Jaques_AYL" target="SecondBrother_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Audrey_AYL|OliverMartext_AYL" source="Audrey_AYL" target="OliverMartext_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Audrey_AYL|William_AYL" source="Audrey_AYL" target="William_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Audrey_AYL|SERVANTS.1_AYL" source="Audrey_AYL" target="SERVANTS.1_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Audrey_AYL|SERVANTS.2_AYL" source="Audrey_AYL" target="SERVANTS.2_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Phoebe_AYL|Hymen_AYL" source="Phoebe_AYL" target="Hymen_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Phoebe_AYL|SecondBrother_AYL" source="Phoebe_AYL" target="SecondBrother_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.1_AYL|SERVANTS.2_AYL" source="SERVANTS.1_AYL" target="SERVANTS.2_AYL">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hymen_AYL|SecondBrother_AYL" source="Hymen_AYL" target="SecondBrother_AYL">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

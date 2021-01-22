@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Orsino_TN">
+            <data key="label">Orsino</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1617</data>
+        </node>
+        <node id="ATTENDANTS.ORSINO.Curio_TN">
+            <data key="label">Curio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">41</data>
+        </node>
+        <node id="ATTENDANTS.ORSINO.Valentine_TN">
+            <data key="label">Valentine</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">102</data>
+        </node>
+        <node id="Viola_TN">
+            <data key="label">Viola Cesario</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2564</data>
+        </node>
+        <node id="Captain_TN">
+            <data key="label">Captain</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">239</data>
+        </node>
+        <node id="TobyBelch_TN">
+            <data key="label">Sir Toby Belch</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2565</data>
+        </node>
+        <node id="Maria_TN">
+            <data key="label">Maria</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1216</data>
+        </node>
+        <node id="AndrewAguecheek_TN">
+            <data key="label">Sir Andrew Aguecheek</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1171</data>
+        </node>
+        <node id="Feste_TN">
+            <data key="label">Fool</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2443</data>
+        </node>
+        <node id="Olivia_TN">
+            <data key="label">Olivia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2311</data>
+        </node>
+        <node id="Malvolio_TN">
+            <data key="label">Malvolio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2224</data>
+        </node>
+        <node id="Antonio_TN">
+            <data key="label">Antonio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">803</data>
+        </node>
+        <node id="Sebastian_TN">
+            <data key="label">Sebastian</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1005</data>
+        </node>
+        <node id="Fabian_TN">
+            <data key="label">Fabian</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">767</data>
+        </node>
+        <node id="ATTENDANTS.OLIVIA.1_TN">
+            <data key="label">Lords, Sailors, Musicians, and other Attendants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">21</data>
+        </node>
+        <node id="OFFICERS.1_TN">
+            <data key="label">OFFICERS.1_TN</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">100</data>
+        </node>
+        <node id="OFFICERS.2_TN">
+            <data key="label">OFFICERS.2_TN</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">19</data>
+        </node>
+        <node id="Priest_TN">
+            <data key="label">Priest</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">57</data>
+        </node>
+        <edge id="Orsino_TN|ATTENDANTS.ORSINO.Curio_TN" source="Orsino_TN" target="ATTENDANTS.ORSINO.Curio_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Orsino_TN|ATTENDANTS.ORSINO.Valentine_TN" source="Orsino_TN" target="ATTENDANTS.ORSINO.Valentine_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Orsino_TN|Viola_TN" source="Orsino_TN" target="Viola_TN">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Orsino_TN|Feste_TN" source="Orsino_TN" target="Feste_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Orsino_TN|Fabian_TN" source="Orsino_TN" target="Fabian_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orsino_TN|OFFICERS.1_TN" source="Orsino_TN" target="OFFICERS.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orsino_TN|Antonio_TN" source="Orsino_TN" target="Antonio_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orsino_TN|Olivia_TN" source="Orsino_TN" target="Olivia_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orsino_TN|Priest_TN" source="Orsino_TN" target="Priest_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orsino_TN|AndrewAguecheek_TN" source="Orsino_TN" target="AndrewAguecheek_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orsino_TN|TobyBelch_TN" source="Orsino_TN" target="TobyBelch_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orsino_TN|Sebastian_TN" source="Orsino_TN" target="Sebastian_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orsino_TN|Malvolio_TN" source="Orsino_TN" target="Malvolio_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.ORSINO.Curio_TN|ATTENDANTS.ORSINO.Valentine_TN" source="ATTENDANTS.ORSINO.Curio_TN" target="ATTENDANTS.ORSINO.Valentine_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.ORSINO.Curio_TN|Viola_TN" source="ATTENDANTS.ORSINO.Curio_TN" target="Viola_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.ORSINO.Curio_TN|Feste_TN" source="ATTENDANTS.ORSINO.Curio_TN" target="Feste_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.ORSINO.Valentine_TN|Viola_TN" source="ATTENDANTS.ORSINO.Valentine_TN" target="Viola_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Viola_TN|Captain_TN" source="Viola_TN" target="Captain_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Viola_TN|Maria_TN" source="Viola_TN" target="Maria_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Viola_TN|Feste_TN" source="Viola_TN" target="Feste_TN">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Viola_TN|Olivia_TN" source="Viola_TN" target="Olivia_TN">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Viola_TN|Malvolio_TN" source="Viola_TN" target="Malvolio_TN">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Viola_TN|TobyBelch_TN" source="Viola_TN" target="TobyBelch_TN">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Viola_TN|AndrewAguecheek_TN" source="Viola_TN" target="AndrewAguecheek_TN">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Viola_TN|ATTENDANTS.OLIVIA.1_TN" source="Viola_TN" target="ATTENDANTS.OLIVIA.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Viola_TN|Fabian_TN" source="Viola_TN" target="Fabian_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Viola_TN|Antonio_TN" source="Viola_TN" target="Antonio_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Viola_TN|OFFICERS.1_TN" source="Viola_TN" target="OFFICERS.1_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Viola_TN|OFFICERS.2_TN" source="Viola_TN" target="OFFICERS.2_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Viola_TN|Priest_TN" source="Viola_TN" target="Priest_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Viola_TN|Sebastian_TN" source="Viola_TN" target="Sebastian_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TobyBelch_TN|Maria_TN" source="TobyBelch_TN" target="Maria_TN">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="TobyBelch_TN|AndrewAguecheek_TN" source="TobyBelch_TN" target="AndrewAguecheek_TN">
+            <data key="weight">8</data>
+        </edge>
+        <edge id="TobyBelch_TN|Feste_TN" source="TobyBelch_TN" target="Feste_TN">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="TobyBelch_TN|Olivia_TN" source="TobyBelch_TN" target="Olivia_TN">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="TobyBelch_TN|Malvolio_TN" source="TobyBelch_TN" target="Malvolio_TN">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="TobyBelch_TN|Fabian_TN" source="TobyBelch_TN" target="Fabian_TN">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="TobyBelch_TN|ATTENDANTS.OLIVIA.1_TN" source="TobyBelch_TN" target="ATTENDANTS.OLIVIA.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TobyBelch_TN|Antonio_TN" source="TobyBelch_TN" target="Antonio_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="TobyBelch_TN|OFFICERS.1_TN" source="TobyBelch_TN" target="OFFICERS.1_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="TobyBelch_TN|OFFICERS.2_TN" source="TobyBelch_TN" target="OFFICERS.2_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TobyBelch_TN|Sebastian_TN" source="TobyBelch_TN" target="Sebastian_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="TobyBelch_TN|Priest_TN" source="TobyBelch_TN" target="Priest_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maria_TN|AndrewAguecheek_TN" source="Maria_TN" target="AndrewAguecheek_TN">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Maria_TN|Feste_TN" source="Maria_TN" target="Feste_TN">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Maria_TN|Olivia_TN" source="Maria_TN" target="Olivia_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Maria_TN|Malvolio_TN" source="Maria_TN" target="Malvolio_TN">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Maria_TN|Fabian_TN" source="Maria_TN" target="Fabian_TN">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Maria_TN|ATTENDANTS.OLIVIA.1_TN" source="Maria_TN" target="ATTENDANTS.OLIVIA.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maria_TN|Antonio_TN" source="Maria_TN" target="Antonio_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maria_TN|OFFICERS.1_TN" source="Maria_TN" target="OFFICERS.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Maria_TN|OFFICERS.2_TN" source="Maria_TN" target="OFFICERS.2_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AndrewAguecheek_TN|Feste_TN" source="AndrewAguecheek_TN" target="Feste_TN">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="AndrewAguecheek_TN|Malvolio_TN" source="AndrewAguecheek_TN" target="Malvolio_TN">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="AndrewAguecheek_TN|Fabian_TN" source="AndrewAguecheek_TN" target="Fabian_TN">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="AndrewAguecheek_TN|Olivia_TN" source="AndrewAguecheek_TN" target="Olivia_TN">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="AndrewAguecheek_TN|ATTENDANTS.OLIVIA.1_TN" source="AndrewAguecheek_TN" target="ATTENDANTS.OLIVIA.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AndrewAguecheek_TN|Antonio_TN" source="AndrewAguecheek_TN" target="Antonio_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AndrewAguecheek_TN|OFFICERS.1_TN" source="AndrewAguecheek_TN" target="OFFICERS.1_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AndrewAguecheek_TN|OFFICERS.2_TN" source="AndrewAguecheek_TN" target="OFFICERS.2_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="AndrewAguecheek_TN|Sebastian_TN" source="AndrewAguecheek_TN" target="Sebastian_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="AndrewAguecheek_TN|Priest_TN" source="AndrewAguecheek_TN" target="Priest_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Feste_TN|Olivia_TN" source="Feste_TN" target="Olivia_TN">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Feste_TN|Malvolio_TN" source="Feste_TN" target="Malvolio_TN">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Feste_TN|Sebastian_TN" source="Feste_TN" target="Sebastian_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Feste_TN|Fabian_TN" source="Feste_TN" target="Fabian_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Feste_TN|OFFICERS.1_TN" source="Feste_TN" target="OFFICERS.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Feste_TN|Antonio_TN" source="Feste_TN" target="Antonio_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Feste_TN|Priest_TN" source="Feste_TN" target="Priest_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Olivia_TN|Malvolio_TN" source="Olivia_TN" target="Malvolio_TN">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Olivia_TN|ATTENDANTS.OLIVIA.1_TN" source="Olivia_TN" target="ATTENDANTS.OLIVIA.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Olivia_TN|Fabian_TN" source="Olivia_TN" target="Fabian_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Olivia_TN|Antonio_TN" source="Olivia_TN" target="Antonio_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Olivia_TN|OFFICERS.1_TN" source="Olivia_TN" target="OFFICERS.1_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Olivia_TN|OFFICERS.2_TN" source="Olivia_TN" target="OFFICERS.2_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Olivia_TN|Sebastian_TN" source="Olivia_TN" target="Sebastian_TN">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Olivia_TN|Priest_TN" source="Olivia_TN" target="Priest_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malvolio_TN|Fabian_TN" source="Malvolio_TN" target="Fabian_TN">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Malvolio_TN|ATTENDANTS.OLIVIA.1_TN" source="Malvolio_TN" target="ATTENDANTS.OLIVIA.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malvolio_TN|Antonio_TN" source="Malvolio_TN" target="Antonio_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Malvolio_TN|OFFICERS.1_TN" source="Malvolio_TN" target="OFFICERS.1_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Malvolio_TN|OFFICERS.2_TN" source="Malvolio_TN" target="OFFICERS.2_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malvolio_TN|Priest_TN" source="Malvolio_TN" target="Priest_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malvolio_TN|Sebastian_TN" source="Malvolio_TN" target="Sebastian_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_TN|Sebastian_TN" source="Antonio_TN" target="Sebastian_TN">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Antonio_TN|ATTENDANTS.OLIVIA.1_TN" source="Antonio_TN" target="ATTENDANTS.OLIVIA.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_TN|Fabian_TN" source="Antonio_TN" target="Fabian_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antonio_TN|OFFICERS.1_TN" source="Antonio_TN" target="OFFICERS.1_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antonio_TN|OFFICERS.2_TN" source="Antonio_TN" target="OFFICERS.2_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_TN|Priest_TN" source="Antonio_TN" target="Priest_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sebastian_TN|Fabian_TN" source="Sebastian_TN" target="Fabian_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sebastian_TN|OFFICERS.1_TN" source="Sebastian_TN" target="OFFICERS.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sebastian_TN|Priest_TN" source="Sebastian_TN" target="Priest_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fabian_TN|ATTENDANTS.OLIVIA.1_TN" source="Fabian_TN" target="ATTENDANTS.OLIVIA.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fabian_TN|OFFICERS.1_TN" source="Fabian_TN" target="OFFICERS.1_TN">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Fabian_TN|OFFICERS.2_TN" source="Fabian_TN" target="OFFICERS.2_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fabian_TN|Priest_TN" source="Fabian_TN" target="Priest_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.OLIVIA.1_TN|OFFICERS.1_TN" source="ATTENDANTS.OLIVIA.1_TN" target="OFFICERS.1_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.OLIVIA.1_TN|OFFICERS.2_TN" source="ATTENDANTS.OLIVIA.1_TN" target="OFFICERS.2_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.1_TN|OFFICERS.2_TN" source="OFFICERS.1_TN" target="OFFICERS.2_TN">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.1_TN|Priest_TN" source="OFFICERS.1_TN" target="Priest_TN">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Kent_Lr">
+            <data key="label">Earl of Kent</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2586</data>
+        </node>
+        <node id="Gloucester_Lr">
+            <data key="label">Earl of Gloucester</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2531</data>
+        </node>
+        <node id="Edmund_Lr">
+            <data key="label">Edmund</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2369</data>
+        </node>
+        <node id="Lear_Lr">
+            <data key="label">Lear</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5601</data>
+        </node>
+        <node id="Goneril_Lr">
+            <data key="label">Goneril</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1473</data>
+        </node>
+        <node id="Cordelia_Lr">
+            <data key="label">Cordelia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">825</data>
+        </node>
+        <node id="Regan_Lr">
+            <data key="label">Regan</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1363</data>
+        </node>
+        <node id="Albany_Lr">
+            <data key="label">Duke of Albany</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1006</data>
+        </node>
+        <node id="Cornwall_Lr">
+            <data key="label">Duke of Cornwall</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">745</data>
+        </node>
+        <node id="Burgundy_Lr">
+            <data key="label">Duke of Burgundy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">68</data>
+        </node>
+        <node id="France_Lr">
+            <data key="label">King of France</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">240</data>
+        </node>
+        <node id="Edgar_Lr">
+            <data key="label">Edgar</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2828</data>
+        </node>
+        <node id="Oswald_Lr">
+            <data key="label">Oswald</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">499</data>
+        </node>
+        <node id="ATTENDANTS.LEAR.0.3_Lr">
+            <data key="label">Knights in Lear’s train, Servants, Officers, Soldiers, Attendants, Gentlemen</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">105</data>
+        </node>
+        <node id="Fool_Lr">
+            <data key="label">Fool</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1739</data>
+        </node>
+        <node id="ATTENDANTS.X.1_Lr">
+            <data key="label">ATTENDANTS.X.1_Lr</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">3</data>
+        </node>
+        <node id="Curan_Lr">
+            <data key="label">Curan</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">77</data>
+        </node>
+        <node id="ATTENDANTS.X.2_Lr">
+            <data key="label">ATTENDANTS.X.2_Lr</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">25</data>
+        </node>
+        <node id="ATTENDANTS.X.3_Lr">
+            <data key="label">ATTENDANTS.X.3_Lr</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">123</data>
+        </node>
+        <node id="SERVANTS.0.1_Lr">
+            <data key="label">SERVANTS.0.1_Lr</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">76</data>
+        </node>
+        <node id="SERVANTS.0.2_Lr">
+            <data key="label">SERVANTS.0.2_Lr</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">35</data>
+        </node>
+        <node id="SERVANTS.0.3_Lr">
+            <data key="label">SERVANTS.0.3_Lr</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">39</data>
+        </node>
+        <node id="OldMan_Lr">
+            <data key="label">Old Man</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">58</data>
+        </node>
+        <node id="MESSENGERS.X.1_Lr">
+            <data key="label">MESSENGERS.X.1_Lr</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">117</data>
+        </node>
+        <node id="ATTENDANTS.X.4_Lr">
+            <data key="label">ATTENDANTS.X.4_Lr</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">229</data>
+        </node>
+        <node id="Doctor_Lr">
+            <data key="label">Doctor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">124</data>
+        </node>
+        <node id="MESSENGERS.X.2_Lr">
+            <data key="label">MESSENGERS.X.2_Lr</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="label">Knights in Lear’s train, Servants, Officers, Soldiers, Attendants, Gentlemen</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">163</data>
+        </node>
+        <node id="SOLDIERS.CAPTAINS.1_Lr">
+            <data key="label">SOLDIERS.CAPTAINS.1_Lr</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">22</data>
+        </node>
+        <node id="SOLDIERS.CAPTAINS.2_Lr">
+            <data key="label">SOLDIERS.CAPTAINS.2_Lr</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">2</data>
+        </node>
+        <node id="Herald_Lr">
+            <data key="label">Herald</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="ATTENDANTS.ALBANY_Lr">
+            <data key="label">Knights in Lear’s train, Servants, Officers, Soldiers, Attendants, Gentlemen</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">33</data>
+        </node>
+        <node id="MESSENGERS.X.3_Lr">
+            <data key="label">MESSENGERS.X.3_Lr</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <edge id="Kent_Lr|Gloucester_Lr" source="Kent_Lr" target="Gloucester_Lr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Kent_Lr|Edmund_Lr" source="Kent_Lr" target="Edmund_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Kent_Lr|Lear_Lr" source="Kent_Lr" target="Lear_Lr">
+            <data key="weight">9</data>
+        </edge>
+        <edge id="Kent_Lr|Goneril_Lr" source="Kent_Lr" target="Goneril_Lr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Kent_Lr|Cordelia_Lr" source="Kent_Lr" target="Cordelia_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Kent_Lr|Regan_Lr" source="Kent_Lr" target="Regan_Lr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Kent_Lr|Albany_Lr" source="Kent_Lr" target="Albany_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Kent_Lr|Cornwall_Lr" source="Kent_Lr" target="Cornwall_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Kent_Lr|Burgundy_Lr" source="Kent_Lr" target="Burgundy_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|France_Lr" source="Kent_Lr" target="France_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|Oswald_Lr" source="Kent_Lr" target="Oswald_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Kent_Lr|ATTENDANTS.LEAR.0.3_Lr" source="Kent_Lr" target="ATTENDANTS.LEAR.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|Fool_Lr" source="Kent_Lr" target="Fool_Lr">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Kent_Lr|ATTENDANTS.X.1_Lr" source="Kent_Lr" target="ATTENDANTS.X.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|ATTENDANTS.X.2_Lr" source="Kent_Lr" target="ATTENDANTS.X.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|ATTENDANTS.X.3_Lr" source="Kent_Lr" target="ATTENDANTS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|Edgar_Lr" source="Kent_Lr" target="Edgar_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Kent_Lr|ATTENDANTS.X.4_Lr" source="Kent_Lr" target="ATTENDANTS.X.4_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|Doctor_Lr" source="Kent_Lr" target="Doctor_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|ATTENDANTS.CORDELIA.1_Lr" source="Kent_Lr" target="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Kent_Lr|SOLDIERS.CAPTAINS.1_Lr" source="Kent_Lr" target="SOLDIERS.CAPTAINS.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|SOLDIERS.CAPTAINS.2_Lr" source="Kent_Lr" target="SOLDIERS.CAPTAINS.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|Herald_Lr" source="Kent_Lr" target="Herald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|ATTENDANTS.ALBANY_Lr" source="Kent_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Kent_Lr|MESSENGERS.X.3_Lr" source="Kent_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_Lr|Edmund_Lr" source="Gloucester_Lr" target="Edmund_Lr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Gloucester_Lr|Lear_Lr" source="Gloucester_Lr" target="Lear_Lr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Gloucester_Lr|Goneril_Lr" source="Gloucester_Lr" target="Goneril_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Gloucester_Lr|Cordelia_Lr" source="Gloucester_Lr" target="Cordelia_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_Lr|Regan_Lr" source="Gloucester_Lr" target="Regan_Lr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Gloucester_Lr|Albany_Lr" source="Gloucester_Lr" target="Albany_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_Lr|Cornwall_Lr" source="Gloucester_Lr" target="Cornwall_Lr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Gloucester_Lr|Burgundy_Lr" source="Gloucester_Lr" target="Burgundy_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_Lr|France_Lr" source="Gloucester_Lr" target="France_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_Lr|Edgar_Lr" source="Gloucester_Lr" target="Edgar_Lr">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Gloucester_Lr|Curan_Lr" source="Gloucester_Lr" target="Curan_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_Lr|Oswald_Lr" source="Gloucester_Lr" target="Oswald_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Gloucester_Lr|ATTENDANTS.X.2_Lr" source="Gloucester_Lr" target="ATTENDANTS.X.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_Lr|Fool_Lr" source="Gloucester_Lr" target="Fool_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Gloucester_Lr|SERVANTS.0.1_Lr" source="Gloucester_Lr" target="SERVANTS.0.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_Lr|SERVANTS.0.2_Lr" source="Gloucester_Lr" target="SERVANTS.0.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_Lr|SERVANTS.0.3_Lr" source="Gloucester_Lr" target="SERVANTS.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_Lr|OldMan_Lr" source="Gloucester_Lr" target="OldMan_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_Lr|ATTENDANTS.CORDELIA.1_Lr" source="Gloucester_Lr" target="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edmund_Lr|Lear_Lr" source="Edmund_Lr" target="Lear_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Edmund_Lr|Goneril_Lr" source="Edmund_Lr" target="Goneril_Lr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Edmund_Lr|Cordelia_Lr" source="Edmund_Lr" target="Cordelia_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Edmund_Lr|Regan_Lr" source="Edmund_Lr" target="Regan_Lr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Edmund_Lr|Albany_Lr" source="Edmund_Lr" target="Albany_Lr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Edmund_Lr|Cornwall_Lr" source="Edmund_Lr" target="Cornwall_Lr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Edmund_Lr|Burgundy_Lr" source="Edmund_Lr" target="Burgundy_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edmund_Lr|France_Lr" source="Edmund_Lr" target="France_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edmund_Lr|Edgar_Lr" source="Edmund_Lr" target="Edgar_Lr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Edmund_Lr|Curan_Lr" source="Edmund_Lr" target="Curan_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edmund_Lr|Oswald_Lr" source="Edmund_Lr" target="Oswald_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Edmund_Lr|MESSENGERS.X.1_Lr" source="Edmund_Lr" target="MESSENGERS.X.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edmund_Lr|SOLDIERS.CAPTAINS.1_Lr" source="Edmund_Lr" target="SOLDIERS.CAPTAINS.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edmund_Lr|SOLDIERS.CAPTAINS.2_Lr" source="Edmund_Lr" target="SOLDIERS.CAPTAINS.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edmund_Lr|Herald_Lr" source="Edmund_Lr" target="Herald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edmund_Lr|ATTENDANTS.ALBANY_Lr" source="Edmund_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edmund_Lr|ATTENDANTS.CORDELIA.1_Lr" source="Edmund_Lr" target="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edmund_Lr|MESSENGERS.X.3_Lr" source="Edmund_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lear_Lr|Goneril_Lr" source="Lear_Lr" target="Goneril_Lr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Lear_Lr|Cordelia_Lr" source="Lear_Lr" target="Cordelia_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lear_Lr|Regan_Lr" source="Lear_Lr" target="Regan_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lear_Lr|Albany_Lr" source="Lear_Lr" target="Albany_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lear_Lr|Cornwall_Lr" source="Lear_Lr" target="Cornwall_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lear_Lr|Burgundy_Lr" source="Lear_Lr" target="Burgundy_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lear_Lr|France_Lr" source="Lear_Lr" target="France_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lear_Lr|Oswald_Lr" source="Lear_Lr" target="Oswald_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lear_Lr|ATTENDANTS.LEAR.0.3_Lr" source="Lear_Lr" target="ATTENDANTS.LEAR.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lear_Lr|Fool_Lr" source="Lear_Lr" target="Fool_Lr">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Lear_Lr|ATTENDANTS.X.1_Lr" source="Lear_Lr" target="ATTENDANTS.X.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lear_Lr|ATTENDANTS.X.2_Lr" source="Lear_Lr" target="ATTENDANTS.X.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lear_Lr|Edgar_Lr" source="Lear_Lr" target="Edgar_Lr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Lear_Lr|ATTENDANTS.CORDELIA.1_Lr" source="Lear_Lr" target="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lear_Lr|Doctor_Lr" source="Lear_Lr" target="Doctor_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lear_Lr|SOLDIERS.CAPTAINS.1_Lr" source="Lear_Lr" target="SOLDIERS.CAPTAINS.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lear_Lr|SOLDIERS.CAPTAINS.2_Lr" source="Lear_Lr" target="SOLDIERS.CAPTAINS.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lear_Lr|Herald_Lr" source="Lear_Lr" target="Herald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lear_Lr|ATTENDANTS.ALBANY_Lr" source="Lear_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lear_Lr|MESSENGERS.X.3_Lr" source="Lear_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|Cordelia_Lr" source="Goneril_Lr" target="Cordelia_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Goneril_Lr|Regan_Lr" source="Goneril_Lr" target="Regan_Lr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Goneril_Lr|Albany_Lr" source="Goneril_Lr" target="Albany_Lr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Goneril_Lr|Cornwall_Lr" source="Goneril_Lr" target="Cornwall_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Goneril_Lr|Burgundy_Lr" source="Goneril_Lr" target="Burgundy_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|France_Lr" source="Goneril_Lr" target="France_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|Oswald_Lr" source="Goneril_Lr" target="Oswald_Lr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Goneril_Lr|ATTENDANTS.LEAR.0.3_Lr" source="Goneril_Lr" target="ATTENDANTS.LEAR.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|Fool_Lr" source="Goneril_Lr" target="Fool_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Goneril_Lr|ATTENDANTS.X.2_Lr" source="Goneril_Lr" target="ATTENDANTS.X.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|SERVANTS.0.1_Lr" source="Goneril_Lr" target="SERVANTS.0.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|SERVANTS.0.2_Lr" source="Goneril_Lr" target="SERVANTS.0.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|SERVANTS.0.3_Lr" source="Goneril_Lr" target="SERVANTS.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|MESSENGERS.X.1_Lr" source="Goneril_Lr" target="MESSENGERS.X.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|Edgar_Lr" source="Goneril_Lr" target="Edgar_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Goneril_Lr|SOLDIERS.CAPTAINS.1_Lr" source="Goneril_Lr" target="SOLDIERS.CAPTAINS.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|SOLDIERS.CAPTAINS.2_Lr" source="Goneril_Lr" target="SOLDIERS.CAPTAINS.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|Herald_Lr" source="Goneril_Lr" target="Herald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|ATTENDANTS.ALBANY_Lr" source="Goneril_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|ATTENDANTS.CORDELIA.1_Lr" source="Goneril_Lr" target="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Goneril_Lr|MESSENGERS.X.3_Lr" source="Goneril_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cordelia_Lr|Regan_Lr" source="Cordelia_Lr" target="Regan_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cordelia_Lr|Albany_Lr" source="Cordelia_Lr" target="Albany_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cordelia_Lr|Cornwall_Lr" source="Cordelia_Lr" target="Cornwall_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cordelia_Lr|Burgundy_Lr" source="Cordelia_Lr" target="Burgundy_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cordelia_Lr|France_Lr" source="Cordelia_Lr" target="France_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cordelia_Lr|Doctor_Lr" source="Cordelia_Lr" target="Doctor_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cordelia_Lr|MESSENGERS.X.2_Lr" source="Cordelia_Lr" target="MESSENGERS.X.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cordelia_Lr|ATTENDANTS.CORDELIA.1_Lr" source="Cordelia_Lr" target="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cordelia_Lr|SOLDIERS.CAPTAINS.1_Lr" source="Cordelia_Lr" target="SOLDIERS.CAPTAINS.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cordelia_Lr|SOLDIERS.CAPTAINS.2_Lr" source="Cordelia_Lr" target="SOLDIERS.CAPTAINS.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cordelia_Lr|Herald_Lr" source="Cordelia_Lr" target="Herald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cordelia_Lr|Edgar_Lr" source="Cordelia_Lr" target="Edgar_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cordelia_Lr|ATTENDANTS.ALBANY_Lr" source="Cordelia_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cordelia_Lr|MESSENGERS.X.3_Lr" source="Cordelia_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|Albany_Lr" source="Regan_Lr" target="Albany_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Regan_Lr|Cornwall_Lr" source="Regan_Lr" target="Cornwall_Lr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Regan_Lr|Burgundy_Lr" source="Regan_Lr" target="Burgundy_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|France_Lr" source="Regan_Lr" target="France_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|Curan_Lr" source="Regan_Lr" target="Curan_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|Edgar_Lr" source="Regan_Lr" target="Edgar_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Regan_Lr|Oswald_Lr" source="Regan_Lr" target="Oswald_Lr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Regan_Lr|ATTENDANTS.X.2_Lr" source="Regan_Lr" target="ATTENDANTS.X.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|Fool_Lr" source="Regan_Lr" target="Fool_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|SERVANTS.0.1_Lr" source="Regan_Lr" target="SERVANTS.0.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|SERVANTS.0.2_Lr" source="Regan_Lr" target="SERVANTS.0.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|SERVANTS.0.3_Lr" source="Regan_Lr" target="SERVANTS.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|SOLDIERS.CAPTAINS.1_Lr" source="Regan_Lr" target="SOLDIERS.CAPTAINS.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|SOLDIERS.CAPTAINS.2_Lr" source="Regan_Lr" target="SOLDIERS.CAPTAINS.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|Herald_Lr" source="Regan_Lr" target="Herald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|ATTENDANTS.ALBANY_Lr" source="Regan_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|ATTENDANTS.CORDELIA.1_Lr" source="Regan_Lr" target="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Regan_Lr|MESSENGERS.X.3_Lr" source="Regan_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|Cornwall_Lr" source="Albany_Lr" target="Cornwall_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|Burgundy_Lr" source="Albany_Lr" target="Burgundy_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|France_Lr" source="Albany_Lr" target="France_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|Oswald_Lr" source="Albany_Lr" target="Oswald_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Albany_Lr|ATTENDANTS.LEAR.0.3_Lr" source="Albany_Lr" target="ATTENDANTS.LEAR.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|Fool_Lr" source="Albany_Lr" target="Fool_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|MESSENGERS.X.1_Lr" source="Albany_Lr" target="MESSENGERS.X.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|Edgar_Lr" source="Albany_Lr" target="Edgar_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Albany_Lr|SOLDIERS.CAPTAINS.1_Lr" source="Albany_Lr" target="SOLDIERS.CAPTAINS.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|SOLDIERS.CAPTAINS.2_Lr" source="Albany_Lr" target="SOLDIERS.CAPTAINS.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|Herald_Lr" source="Albany_Lr" target="Herald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|ATTENDANTS.ALBANY_Lr" source="Albany_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|ATTENDANTS.CORDELIA.1_Lr" source="Albany_Lr" target="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Albany_Lr|MESSENGERS.X.3_Lr" source="Albany_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornwall_Lr|Burgundy_Lr" source="Cornwall_Lr" target="Burgundy_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornwall_Lr|France_Lr" source="Cornwall_Lr" target="France_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornwall_Lr|Curan_Lr" source="Cornwall_Lr" target="Curan_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornwall_Lr|Edgar_Lr" source="Cornwall_Lr" target="Edgar_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornwall_Lr|Oswald_Lr" source="Cornwall_Lr" target="Oswald_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cornwall_Lr|ATTENDANTS.X.2_Lr" source="Cornwall_Lr" target="ATTENDANTS.X.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornwall_Lr|Fool_Lr" source="Cornwall_Lr" target="Fool_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornwall_Lr|SERVANTS.0.1_Lr" source="Cornwall_Lr" target="SERVANTS.0.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornwall_Lr|SERVANTS.0.2_Lr" source="Cornwall_Lr" target="SERVANTS.0.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornwall_Lr|SERVANTS.0.3_Lr" source="Cornwall_Lr" target="SERVANTS.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_Lr|France_Lr" source="Burgundy_Lr" target="France_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edgar_Lr|Curan_Lr" source="Edgar_Lr" target="Curan_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edgar_Lr|Fool_Lr" source="Edgar_Lr" target="Fool_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Edgar_Lr|OldMan_Lr" source="Edgar_Lr" target="OldMan_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edgar_Lr|ATTENDANTS.CORDELIA.1_Lr" source="Edgar_Lr" target="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Edgar_Lr|Oswald_Lr" source="Edgar_Lr" target="Oswald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edgar_Lr|SOLDIERS.CAPTAINS.1_Lr" source="Edgar_Lr" target="SOLDIERS.CAPTAINS.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edgar_Lr|SOLDIERS.CAPTAINS.2_Lr" source="Edgar_Lr" target="SOLDIERS.CAPTAINS.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edgar_Lr|Herald_Lr" source="Edgar_Lr" target="Herald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edgar_Lr|ATTENDANTS.ALBANY_Lr" source="Edgar_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Edgar_Lr|MESSENGERS.X.3_Lr" source="Edgar_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oswald_Lr|ATTENDANTS.LEAR.0.3_Lr" source="Oswald_Lr" target="ATTENDANTS.LEAR.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oswald_Lr|Fool_Lr" source="Oswald_Lr" target="Fool_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oswald_Lr|SERVANTS.0.1_Lr" source="Oswald_Lr" target="SERVANTS.0.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oswald_Lr|SERVANTS.0.2_Lr" source="Oswald_Lr" target="SERVANTS.0.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oswald_Lr|SERVANTS.0.3_Lr" source="Oswald_Lr" target="SERVANTS.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oswald_Lr|MESSENGERS.X.1_Lr" source="Oswald_Lr" target="MESSENGERS.X.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oswald_Lr|ATTENDANTS.CORDELIA.1_Lr" source="Oswald_Lr" target="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.LEAR.0.3_Lr|Fool_Lr" source="ATTENDANTS.LEAR.0.3_Lr" target="Fool_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fool_Lr|ATTENDANTS.X.1_Lr" source="Fool_Lr" target="ATTENDANTS.X.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fool_Lr|ATTENDANTS.X.2_Lr" source="Fool_Lr" target="ATTENDANTS.X.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.0.1_Lr|SERVANTS.0.2_Lr" source="SERVANTS.0.1_Lr" target="SERVANTS.0.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.0.1_Lr|SERVANTS.0.3_Lr" source="SERVANTS.0.1_Lr" target="SERVANTS.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.0.2_Lr|SERVANTS.0.3_Lr" source="SERVANTS.0.2_Lr" target="SERVANTS.0.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Doctor_Lr|MESSENGERS.X.2_Lr" source="Doctor_Lr" target="MESSENGERS.X.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Doctor_Lr|ATTENDANTS.CORDELIA.1_Lr" source="Doctor_Lr" target="ATTENDANTS.CORDELIA.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CORDELIA.1_Lr|SOLDIERS.CAPTAINS.1_Lr" source="ATTENDANTS.CORDELIA.1_Lr" target="SOLDIERS.CAPTAINS.1_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CORDELIA.1_Lr|SOLDIERS.CAPTAINS.2_Lr" source="ATTENDANTS.CORDELIA.1_Lr" target="SOLDIERS.CAPTAINS.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CORDELIA.1_Lr|Herald_Lr" source="ATTENDANTS.CORDELIA.1_Lr" target="Herald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CORDELIA.1_Lr|ATTENDANTS.ALBANY_Lr" source="ATTENDANTS.CORDELIA.1_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CORDELIA.1_Lr|MESSENGERS.X.3_Lr" source="ATTENDANTS.CORDELIA.1_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.CAPTAINS.1_Lr|SOLDIERS.CAPTAINS.2_Lr" source="SOLDIERS.CAPTAINS.1_Lr" target="SOLDIERS.CAPTAINS.2_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.CAPTAINS.1_Lr|Herald_Lr" source="SOLDIERS.CAPTAINS.1_Lr" target="Herald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.CAPTAINS.1_Lr|ATTENDANTS.ALBANY_Lr" source="SOLDIERS.CAPTAINS.1_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.CAPTAINS.1_Lr|MESSENGERS.X.3_Lr" source="SOLDIERS.CAPTAINS.1_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.CAPTAINS.2_Lr|Herald_Lr" source="SOLDIERS.CAPTAINS.2_Lr" target="Herald_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.CAPTAINS.2_Lr|ATTENDANTS.ALBANY_Lr" source="SOLDIERS.CAPTAINS.2_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.CAPTAINS.2_Lr|MESSENGERS.X.3_Lr" source="SOLDIERS.CAPTAINS.2_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Herald_Lr|ATTENDANTS.ALBANY_Lr" source="Herald_Lr" target="ATTENDANTS.ALBANY_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Herald_Lr|MESSENGERS.X.3_Lr" source="Herald_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.ALBANY_Lr|MESSENGERS.X.3_Lr" source="ATTENDANTS.ALBANY_Lr" target="MESSENGERS.X.3_Lr">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

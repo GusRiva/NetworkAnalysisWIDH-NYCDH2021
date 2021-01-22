@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Roderigo_Oth">
+            <data key="label">Roderigo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">861</data>
+        </node>
+        <node id="Iago_Oth">
+            <data key="label">Iago</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8439</data>
+        </node>
+        <node id="Brabantio_Oth">
+            <data key="label">Brabantio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1045</data>
+        </node>
+        <node id="Othello_Oth">
+            <data key="label">Othello</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6263</data>
+        </node>
+        <node id="Cassio_Oth">
+            <data key="label">Cassio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1961</data>
+        </node>
+        <node id="OFFICERS_Oth">
+            <data key="label">Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">19</data>
+        </node>
+        <node id="Duke_Oth">
+            <data key="label">Duke_Oth</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">476</data>
+        </node>
+        <node id="SENATORS.0.1_Oth">
+            <data key="label">SENATORS.0.1_Oth</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">181</data>
+        </node>
+        <node id="SENATORS.0.2_Oth">
+            <data key="label">SENATORS.0.2_Oth</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">38</data>
+        </node>
+        <node id="Sailor_Oth">
+            <data key="label">Sailors</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="OFFICERS.0.1_Oth">
+            <data key="label">Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="MESSENGERS.X.1_Oth">
+            <data key="label">Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">62</data>
+        </node>
+        <node id="SENATORS_Oth">
+            <data key="label">Venetian senators</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <node id="Desdemona_Oth">
+            <data key="label">Desdemona</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2755</data>
+        </node>
+        <node id="Montano_Oth">
+            <data key="label">Montano</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">420</data>
+        </node>
+        <node id="GENTLEMEN.1_Oth">
+            <data key="label">GENTLEMEN.1_Oth</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">19</data>
+        </node>
+        <node id="GENTLEMEN.2_Oth">
+            <data key="label">GENTLEMEN.2_Oth</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">88</data>
+        </node>
+        <node id="GENTLEMEN.3_Oth">
+            <data key="label">GENTLEMEN.3_Oth</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">113</data>
+        </node>
+        <node id="MESSENGERS.X.2_Oth">
+            <data key="label">Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">19</data>
+        </node>
+        <node id="Emilia_Oth">
+            <data key="label">Emilia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1823</data>
+        </node>
+        <node id="Herald_Oth">
+            <data key="label">Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">101</data>
+        </node>
+        <node id="GENTLEMEN_Oth">
+            <data key="label">Gentlemen of Cyprus</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">2</data>
+        </node>
+        <node id="Clown_Oth">
+            <data key="label">Clown_Oth</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">227</data>
+        </node>
+        <node id="MUSICIANS.0.1_Oth">
+            <data key="label">Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">23</data>
+        </node>
+        <node id="GENTLEMEN.0.1_Oth">
+            <data key="label">GENTLEMEN.0.1_Oth</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="Bianca_Oth">
+            <data key="label">Bianca</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">270</data>
+        </node>
+        <node id="Lodovico_Oth">
+            <data key="label">Lodovico</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">529</data>
+        </node>
+        <node id="Gratiano_Oth">
+            <data key="label">Gratiano</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">165</data>
+        </node>
+        <edge id="Roderigo_Oth|Iago_Oth" source="Roderigo_Oth" target="Iago_Oth">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Roderigo_Oth|Brabantio_Oth" source="Roderigo_Oth" target="Brabantio_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Roderigo_Oth|Othello_Oth" source="Roderigo_Oth" target="Othello_Oth">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Roderigo_Oth|Cassio_Oth" source="Roderigo_Oth" target="Cassio_Oth">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Roderigo_Oth|OFFICERS_Oth" source="Roderigo_Oth" target="OFFICERS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|Duke_Oth" source="Roderigo_Oth" target="Duke_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|SENATORS.0.1_Oth" source="Roderigo_Oth" target="SENATORS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|SENATORS.0.2_Oth" source="Roderigo_Oth" target="SENATORS.0.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|Sailor_Oth" source="Roderigo_Oth" target="Sailor_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|OFFICERS.0.1_Oth" source="Roderigo_Oth" target="OFFICERS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|MESSENGERS.X.1_Oth" source="Roderigo_Oth" target="MESSENGERS.X.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|SENATORS_Oth" source="Roderigo_Oth" target="SENATORS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|Desdemona_Oth" source="Roderigo_Oth" target="Desdemona_Oth">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Roderigo_Oth|Montano_Oth" source="Roderigo_Oth" target="Montano_Oth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Roderigo_Oth|GENTLEMEN.1_Oth" source="Roderigo_Oth" target="GENTLEMEN.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|GENTLEMEN.2_Oth" source="Roderigo_Oth" target="GENTLEMEN.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|GENTLEMEN.3_Oth" source="Roderigo_Oth" target="GENTLEMEN.3_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|MESSENGERS.X.2_Oth" source="Roderigo_Oth" target="MESSENGERS.X.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|Emilia_Oth" source="Roderigo_Oth" target="Emilia_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Roderigo_Oth|GENTLEMEN_Oth" source="Roderigo_Oth" target="GENTLEMEN_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|Gratiano_Oth" source="Roderigo_Oth" target="Gratiano_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|Lodovico_Oth" source="Roderigo_Oth" target="Lodovico_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Roderigo_Oth|Bianca_Oth" source="Roderigo_Oth" target="Bianca_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|Brabantio_Oth" source="Iago_Oth" target="Brabantio_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Iago_Oth|Othello_Oth" source="Iago_Oth" target="Othello_Oth">
+            <data key="weight">11</data>
+        </edge>
+        <edge id="Iago_Oth|Cassio_Oth" source="Iago_Oth" target="Cassio_Oth">
+            <data key="weight">9</data>
+        </edge>
+        <edge id="Iago_Oth|OFFICERS_Oth" source="Iago_Oth" target="OFFICERS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|Duke_Oth" source="Iago_Oth" target="Duke_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|SENATORS.0.1_Oth" source="Iago_Oth" target="SENATORS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|SENATORS.0.2_Oth" source="Iago_Oth" target="SENATORS.0.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|Sailor_Oth" source="Iago_Oth" target="Sailor_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|OFFICERS.0.1_Oth" source="Iago_Oth" target="OFFICERS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|MESSENGERS.X.1_Oth" source="Iago_Oth" target="MESSENGERS.X.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|SENATORS_Oth" source="Iago_Oth" target="SENATORS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|Desdemona_Oth" source="Iago_Oth" target="Desdemona_Oth">
+            <data key="weight">8</data>
+        </edge>
+        <edge id="Iago_Oth|Montano_Oth" source="Iago_Oth" target="Montano_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Iago_Oth|GENTLEMEN.1_Oth" source="Iago_Oth" target="GENTLEMEN.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|GENTLEMEN.2_Oth" source="Iago_Oth" target="GENTLEMEN.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|GENTLEMEN.3_Oth" source="Iago_Oth" target="GENTLEMEN.3_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|MESSENGERS.X.2_Oth" source="Iago_Oth" target="MESSENGERS.X.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|Emilia_Oth" source="Iago_Oth" target="Emilia_Oth">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Iago_Oth|GENTLEMEN_Oth" source="Iago_Oth" target="GENTLEMEN_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|Clown_Oth" source="Iago_Oth" target="Clown_Oth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Iago_Oth|MUSICIANS.0.1_Oth" source="Iago_Oth" target="MUSICIANS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|GENTLEMEN.0.1_Oth" source="Iago_Oth" target="GENTLEMEN.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iago_Oth|Bianca_Oth" source="Iago_Oth" target="Bianca_Oth">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Iago_Oth|Lodovico_Oth" source="Iago_Oth" target="Lodovico_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Iago_Oth|Gratiano_Oth" source="Iago_Oth" target="Gratiano_Oth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Brabantio_Oth|Othello_Oth" source="Brabantio_Oth" target="Othello_Oth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Brabantio_Oth|Cassio_Oth" source="Brabantio_Oth" target="Cassio_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brabantio_Oth|OFFICERS_Oth" source="Brabantio_Oth" target="OFFICERS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brabantio_Oth|Duke_Oth" source="Brabantio_Oth" target="Duke_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brabantio_Oth|SENATORS.0.1_Oth" source="Brabantio_Oth" target="SENATORS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brabantio_Oth|SENATORS.0.2_Oth" source="Brabantio_Oth" target="SENATORS.0.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brabantio_Oth|Sailor_Oth" source="Brabantio_Oth" target="Sailor_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brabantio_Oth|OFFICERS.0.1_Oth" source="Brabantio_Oth" target="OFFICERS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brabantio_Oth|MESSENGERS.X.1_Oth" source="Brabantio_Oth" target="MESSENGERS.X.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brabantio_Oth|SENATORS_Oth" source="Brabantio_Oth" target="SENATORS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brabantio_Oth|Desdemona_Oth" source="Brabantio_Oth" target="Desdemona_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|Cassio_Oth" source="Othello_Oth" target="Cassio_Oth">
+            <data key="weight">8</data>
+        </edge>
+        <edge id="Othello_Oth|OFFICERS_Oth" source="Othello_Oth" target="OFFICERS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|Duke_Oth" source="Othello_Oth" target="Duke_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|SENATORS.0.1_Oth" source="Othello_Oth" target="SENATORS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|SENATORS.0.2_Oth" source="Othello_Oth" target="SENATORS.0.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|Sailor_Oth" source="Othello_Oth" target="Sailor_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|OFFICERS.0.1_Oth" source="Othello_Oth" target="OFFICERS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|MESSENGERS.X.1_Oth" source="Othello_Oth" target="MESSENGERS.X.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|SENATORS_Oth" source="Othello_Oth" target="SENATORS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|Desdemona_Oth" source="Othello_Oth" target="Desdemona_Oth">
+            <data key="weight">9</data>
+        </edge>
+        <edge id="Othello_Oth|Montano_Oth" source="Othello_Oth" target="Montano_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Othello_Oth|GENTLEMEN.1_Oth" source="Othello_Oth" target="GENTLEMEN.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|GENTLEMEN.2_Oth" source="Othello_Oth" target="GENTLEMEN.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|GENTLEMEN.3_Oth" source="Othello_Oth" target="GENTLEMEN.3_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|MESSENGERS.X.2_Oth" source="Othello_Oth" target="MESSENGERS.X.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|Emilia_Oth" source="Othello_Oth" target="Emilia_Oth">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Othello_Oth|GENTLEMEN_Oth" source="Othello_Oth" target="GENTLEMEN_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|GENTLEMEN.0.1_Oth" source="Othello_Oth" target="GENTLEMEN.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|Clown_Oth" source="Othello_Oth" target="Clown_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Othello_Oth|Bianca_Oth" source="Othello_Oth" target="Bianca_Oth">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Othello_Oth|Lodovico_Oth" source="Othello_Oth" target="Lodovico_Oth">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Othello_Oth|Gratiano_Oth" source="Othello_Oth" target="Gratiano_Oth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cassio_Oth|OFFICERS_Oth" source="Cassio_Oth" target="OFFICERS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassio_Oth|Montano_Oth" source="Cassio_Oth" target="Montano_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cassio_Oth|GENTLEMEN.1_Oth" source="Cassio_Oth" target="GENTLEMEN.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassio_Oth|GENTLEMEN.2_Oth" source="Cassio_Oth" target="GENTLEMEN.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassio_Oth|GENTLEMEN.3_Oth" source="Cassio_Oth" target="GENTLEMEN.3_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassio_Oth|MESSENGERS.X.2_Oth" source="Cassio_Oth" target="MESSENGERS.X.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassio_Oth|Desdemona_Oth" source="Cassio_Oth" target="Desdemona_Oth">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Cassio_Oth|Emilia_Oth" source="Cassio_Oth" target="Emilia_Oth">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Cassio_Oth|GENTLEMEN_Oth" source="Cassio_Oth" target="GENTLEMEN_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassio_Oth|Clown_Oth" source="Cassio_Oth" target="Clown_Oth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cassio_Oth|MUSICIANS.0.1_Oth" source="Cassio_Oth" target="MUSICIANS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassio_Oth|Bianca_Oth" source="Cassio_Oth" target="Bianca_Oth">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Cassio_Oth|Lodovico_Oth" source="Cassio_Oth" target="Lodovico_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cassio_Oth|Gratiano_Oth" source="Cassio_Oth" target="Gratiano_Oth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Duke_Oth|SENATORS.0.1_Oth" source="Duke_Oth" target="SENATORS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Oth|SENATORS.0.2_Oth" source="Duke_Oth" target="SENATORS.0.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Oth|Sailor_Oth" source="Duke_Oth" target="Sailor_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Oth|OFFICERS.0.1_Oth" source="Duke_Oth" target="OFFICERS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Oth|MESSENGERS.X.1_Oth" source="Duke_Oth" target="MESSENGERS.X.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Oth|SENATORS_Oth" source="Duke_Oth" target="SENATORS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duke_Oth|Desdemona_Oth" source="Duke_Oth" target="Desdemona_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.1_Oth|SENATORS.0.2_Oth" source="SENATORS.0.1_Oth" target="SENATORS.0.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.1_Oth|Sailor_Oth" source="SENATORS.0.1_Oth" target="Sailor_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.1_Oth|OFFICERS.0.1_Oth" source="SENATORS.0.1_Oth" target="OFFICERS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.1_Oth|MESSENGERS.X.1_Oth" source="SENATORS.0.1_Oth" target="MESSENGERS.X.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.1_Oth|SENATORS_Oth" source="SENATORS.0.1_Oth" target="SENATORS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.1_Oth|Desdemona_Oth" source="SENATORS.0.1_Oth" target="Desdemona_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.2_Oth|Sailor_Oth" source="SENATORS.0.2_Oth" target="Sailor_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.2_Oth|OFFICERS.0.1_Oth" source="SENATORS.0.2_Oth" target="OFFICERS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.2_Oth|MESSENGERS.X.1_Oth" source="SENATORS.0.2_Oth" target="MESSENGERS.X.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.2_Oth|SENATORS_Oth" source="SENATORS.0.2_Oth" target="SENATORS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.2_Oth|Desdemona_Oth" source="SENATORS.0.2_Oth" target="Desdemona_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sailor_Oth|OFFICERS.0.1_Oth" source="Sailor_Oth" target="OFFICERS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sailor_Oth|MESSENGERS.X.1_Oth" source="Sailor_Oth" target="MESSENGERS.X.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sailor_Oth|SENATORS_Oth" source="Sailor_Oth" target="SENATORS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sailor_Oth|Desdemona_Oth" source="Sailor_Oth" target="Desdemona_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.0.1_Oth|MESSENGERS.X.1_Oth" source="OFFICERS.0.1_Oth" target="MESSENGERS.X.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.0.1_Oth|SENATORS_Oth" source="OFFICERS.0.1_Oth" target="SENATORS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OFFICERS.0.1_Oth|Desdemona_Oth" source="OFFICERS.0.1_Oth" target="Desdemona_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Oth|SENATORS_Oth" source="MESSENGERS.X.1_Oth" target="SENATORS_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Oth|Desdemona_Oth" source="MESSENGERS.X.1_Oth" target="Desdemona_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS_Oth|Desdemona_Oth" source="SENATORS_Oth" target="Desdemona_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Desdemona_Oth|Montano_Oth" source="Desdemona_Oth" target="Montano_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Desdemona_Oth|GENTLEMEN.1_Oth" source="Desdemona_Oth" target="GENTLEMEN.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Desdemona_Oth|GENTLEMEN.2_Oth" source="Desdemona_Oth" target="GENTLEMEN.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Desdemona_Oth|GENTLEMEN.3_Oth" source="Desdemona_Oth" target="GENTLEMEN.3_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Desdemona_Oth|MESSENGERS.X.2_Oth" source="Desdemona_Oth" target="MESSENGERS.X.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Desdemona_Oth|Emilia_Oth" source="Desdemona_Oth" target="Emilia_Oth">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Desdemona_Oth|GENTLEMEN_Oth" source="Desdemona_Oth" target="GENTLEMEN_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Desdemona_Oth|Clown_Oth" source="Desdemona_Oth" target="Clown_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Desdemona_Oth|Bianca_Oth" source="Desdemona_Oth" target="Bianca_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Desdemona_Oth|Lodovico_Oth" source="Desdemona_Oth" target="Lodovico_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Desdemona_Oth|Gratiano_Oth" source="Desdemona_Oth" target="Gratiano_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montano_Oth|GENTLEMEN.1_Oth" source="Montano_Oth" target="GENTLEMEN.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montano_Oth|GENTLEMEN.2_Oth" source="Montano_Oth" target="GENTLEMEN.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montano_Oth|GENTLEMEN.3_Oth" source="Montano_Oth" target="GENTLEMEN.3_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montano_Oth|MESSENGERS.X.2_Oth" source="Montano_Oth" target="MESSENGERS.X.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montano_Oth|Emilia_Oth" source="Montano_Oth" target="Emilia_Oth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Montano_Oth|GENTLEMEN_Oth" source="Montano_Oth" target="GENTLEMEN_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montano_Oth|Gratiano_Oth" source="Montano_Oth" target="Gratiano_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montano_Oth|Bianca_Oth" source="Montano_Oth" target="Bianca_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montano_Oth|Lodovico_Oth" source="Montano_Oth" target="Lodovico_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_Oth|GENTLEMEN.2_Oth" source="GENTLEMEN.1_Oth" target="GENTLEMEN.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_Oth|GENTLEMEN.3_Oth" source="GENTLEMEN.1_Oth" target="GENTLEMEN.3_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_Oth|MESSENGERS.X.2_Oth" source="GENTLEMEN.1_Oth" target="MESSENGERS.X.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_Oth|Emilia_Oth" source="GENTLEMEN.1_Oth" target="Emilia_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.2_Oth|GENTLEMEN.3_Oth" source="GENTLEMEN.2_Oth" target="GENTLEMEN.3_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.2_Oth|MESSENGERS.X.2_Oth" source="GENTLEMEN.2_Oth" target="MESSENGERS.X.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.2_Oth|Emilia_Oth" source="GENTLEMEN.2_Oth" target="Emilia_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.3_Oth|MESSENGERS.X.2_Oth" source="GENTLEMEN.3_Oth" target="MESSENGERS.X.2_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.3_Oth|Emilia_Oth" source="GENTLEMEN.3_Oth" target="Emilia_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.2_Oth|Emilia_Oth" source="MESSENGERS.X.2_Oth" target="Emilia_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Emilia_Oth|Clown_Oth" source="Emilia_Oth" target="Clown_Oth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Emilia_Oth|MUSICIANS.0.1_Oth" source="Emilia_Oth" target="MUSICIANS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Emilia_Oth|Bianca_Oth" source="Emilia_Oth" target="Bianca_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Emilia_Oth|Lodovico_Oth" source="Emilia_Oth" target="Lodovico_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Emilia_Oth|Gratiano_Oth" source="Emilia_Oth" target="Gratiano_Oth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Clown_Oth|MUSICIANS.0.1_Oth" source="Clown_Oth" target="MUSICIANS.0.1_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clown_Oth|Bianca_Oth" source="Clown_Oth" target="Bianca_Oth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bianca_Oth|Lodovico_Oth" source="Bianca_Oth" target="Lodovico_Oth">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bianca_Oth|Gratiano_Oth" source="Bianca_Oth" target="Gratiano_Oth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lodovico_Oth|Gratiano_Oth" source="Lodovico_Oth" target="Gratiano_Oth">
+            <data key="weight">2</data>
+        </edge>
+    </graph>
+</graphml>

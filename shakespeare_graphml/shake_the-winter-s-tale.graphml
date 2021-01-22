@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Archidamus_WT">
+            <data key="label">Archidamus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">176</data>
+        </node>
+        <node id="Camillo_WT">
+            <data key="label">Camillo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2094</data>
+        </node>
+        <node id="Polixenes_WT">
+            <data key="label">Polixenes</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1960</data>
+        </node>
+        <node id="Leontes_WT">
+            <data key="label">Leontes</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4903</data>
+        </node>
+        <node id="Hermione_WT">
+            <data key="label">Hermione</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1584</data>
+        </node>
+        <node id="Mamillius_WT">
+            <data key="label">Mamillius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">151</data>
+        </node>
+        <node id="LADIES.0.1_WT">
+            <data key="label">LADIES.0.1_WT</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">49</data>
+        </node>
+        <node id="LADIES.0.2_WT">
+            <data key="label">LADIES.0.2_WT</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">21</data>
+        </node>
+        <node id="ATTENDANTS.0.1_WT">
+            <data key="label">ATTENDANTS.0.1_WT</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">242</data>
+        </node>
+        <node id="Antigonus_WT">
+            <data key="label">Antigonus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">785</data>
+        </node>
+        <node id="Paulina_WT">
+            <data key="label">Paulina</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2390</data>
+        </node>
+        <node id="Jailer_WT">
+            <data key="label">Jailer</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">72</data>
+        </node>
+        <node id="LADIES.Emilia_WT">
+            <data key="label">Emilia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">142</data>
+        </node>
+        <node id="SERVANTS.X.1_WT">
+            <data key="label">Indeterminate member of the SERVANTS group</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">45</data>
+        </node>
+        <node id="SERVANTS.0_WT">
+            <data key="label">Indistinct members of the SERVANTS group</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">12</data>
+        </node>
+        <node id="ATTENDANTS_WT">
+            <data key="label">ATTENDANTS_WT</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">19</data>
+        </node>
+        <node id="SERVANTS.X.2_WT">
+            <data key="label">Indeterminate member of the SERVANTS group</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">31</data>
+        </node>
+        <node id="Cleomenes_WT">
+            <data key="label">Cleomenes</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">140</data>
+        </node>
+        <node id="Dion_WT">
+            <data key="label">Dion</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">190</data>
+        </node>
+        <node id="OFFICERS.0.1_WT">
+            <data key="label">Officer</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">80</data>
+        </node>
+        <node id="Sailor_WT">
+            <data key="label">Mariner</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">80</data>
+        </node>
+        <node id="Shepherd_WT">
+            <data key="label">Shepherd</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1072</data>
+        </node>
+        <node id="ShepherdsSon_WT">
+            <data key="label">Shepherd’s Son</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1597</data>
+        </node>
+        <node id="Chorus_WT">
+            <data key="label">Time</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">266</data>
+        </node>
+        <node id="Autolycus_WT">
+            <data key="label">Autolycus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2395</data>
+        </node>
+        <node id="Florizell_WT">
+            <data key="label">Florizell</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1391</data>
+        </node>
+        <node id="Perdita_WT">
+            <data key="label">Perdita</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">898</data>
+        </node>
+        <node id="Dorcas_WT">
+            <data key="label">Dorcas</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">67</data>
+        </node>
+        <node id="Mopsa_WT">
+            <data key="label">Mopsa</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">142</data>
+        </node>
+        <node id="SERVANTS.SHEPHERD.1_WT">
+            <data key="label">Servant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">315</data>
+        </node>
+        <node id="SERVANTS.X.3_WT">
+            <data key="label">Indeterminate member of the SERVANTS group</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">119</data>
+        </node>
+        <node id="ATTENDANTS.X_WT">
+            <data key="label">ATTENDANTS.X_WT</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">172</data>
+        </node>
+        <node id="ATTENDANTS.1_WT">
+            <data key="label">ATTENDANTS.1_WT</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">221</data>
+        </node>
+        <node id="ATTENDANTS.2_WT">
+            <data key="label">ATTENDANTS.2_WT</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">126</data>
+        </node>
+        <node id="ATTENDANTS.3_WT">
+            <data key="label">ATTENDANTS.3_WT</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">594</data>
+        </node>
+        <edge id="Archidamus_WT|Camillo_WT" source="Archidamus_WT" target="Camillo_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Camillo_WT|Polixenes_WT" source="Camillo_WT" target="Polixenes_WT">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Camillo_WT|Leontes_WT" source="Camillo_WT" target="Leontes_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Camillo_WT|Hermione_WT" source="Camillo_WT" target="Hermione_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Camillo_WT|Mamillius_WT" source="Camillo_WT" target="Mamillius_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Camillo_WT|Florizell_WT" source="Camillo_WT" target="Florizell_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Camillo_WT|Perdita_WT" source="Camillo_WT" target="Perdita_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Camillo_WT|Shepherd_WT" source="Camillo_WT" target="Shepherd_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Camillo_WT|ShepherdsSon_WT" source="Camillo_WT" target="ShepherdsSon_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Camillo_WT|Dorcas_WT" source="Camillo_WT" target="Dorcas_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Camillo_WT|Mopsa_WT" source="Camillo_WT" target="Mopsa_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Camillo_WT|SERVANTS.SHEPHERD.1_WT" source="Camillo_WT" target="SERVANTS.SHEPHERD.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Camillo_WT|Autolycus_WT" source="Camillo_WT" target="Autolycus_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Camillo_WT|Paulina_WT" source="Camillo_WT" target="Paulina_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Polixenes_WT|Leontes_WT" source="Polixenes_WT" target="Leontes_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Polixenes_WT|Hermione_WT" source="Polixenes_WT" target="Hermione_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Polixenes_WT|Mamillius_WT" source="Polixenes_WT" target="Mamillius_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Polixenes_WT|Florizell_WT" source="Polixenes_WT" target="Florizell_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Polixenes_WT|Perdita_WT" source="Polixenes_WT" target="Perdita_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Polixenes_WT|Shepherd_WT" source="Polixenes_WT" target="Shepherd_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Polixenes_WT|ShepherdsSon_WT" source="Polixenes_WT" target="ShepherdsSon_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Polixenes_WT|Dorcas_WT" source="Polixenes_WT" target="Dorcas_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Polixenes_WT|Mopsa_WT" source="Polixenes_WT" target="Mopsa_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Polixenes_WT|SERVANTS.SHEPHERD.1_WT" source="Polixenes_WT" target="SERVANTS.SHEPHERD.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Polixenes_WT|Autolycus_WT" source="Polixenes_WT" target="Autolycus_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Polixenes_WT|Paulina_WT" source="Polixenes_WT" target="Paulina_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leontes_WT|Hermione_WT" source="Leontes_WT" target="Hermione_WT">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Leontes_WT|Mamillius_WT" source="Leontes_WT" target="Mamillius_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leontes_WT|LADIES.0.1_WT" source="Leontes_WT" target="LADIES.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leontes_WT|LADIES.0.2_WT" source="Leontes_WT" target="LADIES.0.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leontes_WT|ATTENDANTS.0.1_WT" source="Leontes_WT" target="ATTENDANTS.0.1_WT">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Leontes_WT|Antigonus_WT" source="Leontes_WT" target="Antigonus_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leontes_WT|SERVANTS.X.1_WT" source="Leontes_WT" target="SERVANTS.X.1_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leontes_WT|Paulina_WT" source="Leontes_WT" target="Paulina_WT">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Leontes_WT|SERVANTS.0_WT" source="Leontes_WT" target="SERVANTS.0_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leontes_WT|ATTENDANTS_WT" source="Leontes_WT" target="ATTENDANTS_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leontes_WT|SERVANTS.X.2_WT" source="Leontes_WT" target="SERVANTS.X.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leontes_WT|OFFICERS.0.1_WT" source="Leontes_WT" target="OFFICERS.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leontes_WT|Cleomenes_WT" source="Leontes_WT" target="Cleomenes_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leontes_WT|Dion_WT" source="Leontes_WT" target="Dion_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Leontes_WT|SERVANTS.X.3_WT" source="Leontes_WT" target="SERVANTS.X.3_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leontes_WT|Florizell_WT" source="Leontes_WT" target="Florizell_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leontes_WT|ATTENDANTS.X_WT" source="Leontes_WT" target="ATTENDANTS.X_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Leontes_WT|Perdita_WT" source="Leontes_WT" target="Perdita_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hermione_WT|Mamillius_WT" source="Hermione_WT" target="Mamillius_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hermione_WT|LADIES.0.1_WT" source="Hermione_WT" target="LADIES.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermione_WT|LADIES.0.2_WT" source="Hermione_WT" target="LADIES.0.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermione_WT|ATTENDANTS.0.1_WT" source="Hermione_WT" target="ATTENDANTS.0.1_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hermione_WT|Antigonus_WT" source="Hermione_WT" target="Antigonus_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermione_WT|OFFICERS.0.1_WT" source="Hermione_WT" target="OFFICERS.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermione_WT|Cleomenes_WT" source="Hermione_WT" target="Cleomenes_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermione_WT|Dion_WT" source="Hermione_WT" target="Dion_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermione_WT|ATTENDANTS_WT" source="Hermione_WT" target="ATTENDANTS_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermione_WT|SERVANTS.X.1_WT" source="Hermione_WT" target="SERVANTS.X.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hermione_WT|Paulina_WT" source="Hermione_WT" target="Paulina_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hermione_WT|Perdita_WT" source="Hermione_WT" target="Perdita_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mamillius_WT|LADIES.0.1_WT" source="Mamillius_WT" target="LADIES.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mamillius_WT|LADIES.0.2_WT" source="Mamillius_WT" target="LADIES.0.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mamillius_WT|ATTENDANTS.0.1_WT" source="Mamillius_WT" target="ATTENDANTS.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mamillius_WT|Antigonus_WT" source="Mamillius_WT" target="Antigonus_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_WT|LADIES.0.2_WT" source="LADIES.0.1_WT" target="LADIES.0.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_WT|ATTENDANTS.0.1_WT" source="LADIES.0.1_WT" target="ATTENDANTS.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_WT|Antigonus_WT" source="LADIES.0.1_WT" target="Antigonus_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.2_WT|ATTENDANTS.0.1_WT" source="LADIES.0.2_WT" target="ATTENDANTS.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.2_WT|Antigonus_WT" source="LADIES.0.2_WT" target="Antigonus_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.0.1_WT|Antigonus_WT" source="ATTENDANTS.0.1_WT" target="Antigonus_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="ATTENDANTS.0.1_WT|SERVANTS.X.1_WT" source="ATTENDANTS.0.1_WT" target="SERVANTS.X.1_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="ATTENDANTS.0.1_WT|Paulina_WT" source="ATTENDANTS.0.1_WT" target="Paulina_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="ATTENDANTS.0.1_WT|SERVANTS.0_WT" source="ATTENDANTS.0.1_WT" target="SERVANTS.0_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.0.1_WT|ATTENDANTS_WT" source="ATTENDANTS.0.1_WT" target="ATTENDANTS_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="ATTENDANTS.0.1_WT|SERVANTS.X.2_WT" source="ATTENDANTS.0.1_WT" target="SERVANTS.X.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.0.1_WT|OFFICERS.0.1_WT" source="ATTENDANTS.0.1_WT" target="OFFICERS.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.0.1_WT|Cleomenes_WT" source="ATTENDANTS.0.1_WT" target="Cleomenes_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.0.1_WT|Dion_WT" source="ATTENDANTS.0.1_WT" target="Dion_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antigonus_WT|SERVANTS.X.1_WT" source="Antigonus_WT" target="SERVANTS.X.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antigonus_WT|Paulina_WT" source="Antigonus_WT" target="Paulina_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antigonus_WT|SERVANTS.0_WT" source="Antigonus_WT" target="SERVANTS.0_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antigonus_WT|ATTENDANTS_WT" source="Antigonus_WT" target="ATTENDANTS_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antigonus_WT|SERVANTS.X.2_WT" source="Antigonus_WT" target="SERVANTS.X.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antigonus_WT|Sailor_WT" source="Antigonus_WT" target="Sailor_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antigonus_WT|Shepherd_WT" source="Antigonus_WT" target="Shepherd_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antigonus_WT|ShepherdsSon_WT" source="Antigonus_WT" target="ShepherdsSon_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paulina_WT|Jailer_WT" source="Paulina_WT" target="Jailer_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paulina_WT|LADIES.Emilia_WT" source="Paulina_WT" target="LADIES.Emilia_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paulina_WT|SERVANTS.X.1_WT" source="Paulina_WT" target="SERVANTS.X.1_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Paulina_WT|SERVANTS.0_WT" source="Paulina_WT" target="SERVANTS.0_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paulina_WT|ATTENDANTS_WT" source="Paulina_WT" target="ATTENDANTS_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Paulina_WT|SERVANTS.X.2_WT" source="Paulina_WT" target="SERVANTS.X.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paulina_WT|OFFICERS.0.1_WT" source="Paulina_WT" target="OFFICERS.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paulina_WT|Cleomenes_WT" source="Paulina_WT" target="Cleomenes_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Paulina_WT|Dion_WT" source="Paulina_WT" target="Dion_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Paulina_WT|SERVANTS.X.3_WT" source="Paulina_WT" target="SERVANTS.X.3_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paulina_WT|Florizell_WT" source="Paulina_WT" target="Florizell_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paulina_WT|ATTENDANTS.X_WT" source="Paulina_WT" target="ATTENDANTS.X_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paulina_WT|Perdita_WT" source="Paulina_WT" target="Perdita_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Jailer_WT|LADIES.Emilia_WT" source="Jailer_WT" target="LADIES.Emilia_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.X.1_WT|SERVANTS.0_WT" source="SERVANTS.X.1_WT" target="SERVANTS.0_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.X.1_WT|ATTENDANTS_WT" source="SERVANTS.X.1_WT" target="ATTENDANTS_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.X.1_WT|SERVANTS.X.2_WT" source="SERVANTS.X.1_WT" target="SERVANTS.X.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.X.1_WT|OFFICERS.0.1_WT" source="SERVANTS.X.1_WT" target="OFFICERS.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.X.1_WT|Cleomenes_WT" source="SERVANTS.X.1_WT" target="Cleomenes_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.X.1_WT|Dion_WT" source="SERVANTS.X.1_WT" target="Dion_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.0_WT|ATTENDANTS_WT" source="SERVANTS.0_WT" target="ATTENDANTS_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.0_WT|SERVANTS.X.2_WT" source="SERVANTS.0_WT" target="SERVANTS.X.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS_WT|SERVANTS.X.2_WT" source="ATTENDANTS_WT" target="SERVANTS.X.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS_WT|OFFICERS.0.1_WT" source="ATTENDANTS_WT" target="OFFICERS.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS_WT|Cleomenes_WT" source="ATTENDANTS_WT" target="Cleomenes_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS_WT|Dion_WT" source="ATTENDANTS_WT" target="Dion_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleomenes_WT|Dion_WT" source="Cleomenes_WT" target="Dion_WT">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cleomenes_WT|OFFICERS.0.1_WT" source="Cleomenes_WT" target="OFFICERS.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleomenes_WT|SERVANTS.X.3_WT" source="Cleomenes_WT" target="SERVANTS.X.3_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleomenes_WT|Florizell_WT" source="Cleomenes_WT" target="Florizell_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleomenes_WT|ATTENDANTS.X_WT" source="Cleomenes_WT" target="ATTENDANTS.X_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cleomenes_WT|Perdita_WT" source="Cleomenes_WT" target="Perdita_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dion_WT|OFFICERS.0.1_WT" source="Dion_WT" target="OFFICERS.0.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dion_WT|SERVANTS.X.3_WT" source="Dion_WT" target="SERVANTS.X.3_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dion_WT|Florizell_WT" source="Dion_WT" target="Florizell_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dion_WT|ATTENDANTS.X_WT" source="Dion_WT" target="ATTENDANTS.X_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dion_WT|Perdita_WT" source="Dion_WT" target="Perdita_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sailor_WT|Shepherd_WT" source="Sailor_WT" target="Shepherd_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sailor_WT|ShepherdsSon_WT" source="Sailor_WT" target="ShepherdsSon_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shepherd_WT|ShepherdsSon_WT" source="Shepherd_WT" target="ShepherdsSon_WT">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Shepherd_WT|Florizell_WT" source="Shepherd_WT" target="Florizell_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shepherd_WT|Perdita_WT" source="Shepherd_WT" target="Perdita_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shepherd_WT|Dorcas_WT" source="Shepherd_WT" target="Dorcas_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shepherd_WT|Mopsa_WT" source="Shepherd_WT" target="Mopsa_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shepherd_WT|SERVANTS.SHEPHERD.1_WT" source="Shepherd_WT" target="SERVANTS.SHEPHERD.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shepherd_WT|Autolycus_WT" source="Shepherd_WT" target="Autolycus_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Shepherd_WT|ATTENDANTS.1_WT" source="Shepherd_WT" target="ATTENDANTS.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shepherd_WT|ATTENDANTS.2_WT" source="Shepherd_WT" target="ATTENDANTS.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shepherd_WT|ATTENDANTS.3_WT" source="Shepherd_WT" target="ATTENDANTS.3_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ShepherdsSon_WT|Autolycus_WT" source="ShepherdsSon_WT" target="Autolycus_WT">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="ShepherdsSon_WT|Florizell_WT" source="ShepherdsSon_WT" target="Florizell_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ShepherdsSon_WT|Perdita_WT" source="ShepherdsSon_WT" target="Perdita_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ShepherdsSon_WT|Dorcas_WT" source="ShepherdsSon_WT" target="Dorcas_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ShepherdsSon_WT|Mopsa_WT" source="ShepherdsSon_WT" target="Mopsa_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ShepherdsSon_WT|SERVANTS.SHEPHERD.1_WT" source="ShepherdsSon_WT" target="SERVANTS.SHEPHERD.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ShepherdsSon_WT|ATTENDANTS.1_WT" source="ShepherdsSon_WT" target="ATTENDANTS.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ShepherdsSon_WT|ATTENDANTS.2_WT" source="ShepherdsSon_WT" target="ATTENDANTS.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ShepherdsSon_WT|ATTENDANTS.3_WT" source="ShepherdsSon_WT" target="ATTENDANTS.3_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Autolycus_WT|Florizell_WT" source="Autolycus_WT" target="Florizell_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Autolycus_WT|Perdita_WT" source="Autolycus_WT" target="Perdita_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Autolycus_WT|Dorcas_WT" source="Autolycus_WT" target="Dorcas_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Autolycus_WT|Mopsa_WT" source="Autolycus_WT" target="Mopsa_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Autolycus_WT|SERVANTS.SHEPHERD.1_WT" source="Autolycus_WT" target="SERVANTS.SHEPHERD.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Autolycus_WT|ATTENDANTS.1_WT" source="Autolycus_WT" target="ATTENDANTS.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Autolycus_WT|ATTENDANTS.2_WT" source="Autolycus_WT" target="ATTENDANTS.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Autolycus_WT|ATTENDANTS.3_WT" source="Autolycus_WT" target="ATTENDANTS.3_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Florizell_WT|Perdita_WT" source="Florizell_WT" target="Perdita_WT">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Florizell_WT|Dorcas_WT" source="Florizell_WT" target="Dorcas_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Florizell_WT|Mopsa_WT" source="Florizell_WT" target="Mopsa_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Florizell_WT|SERVANTS.SHEPHERD.1_WT" source="Florizell_WT" target="SERVANTS.SHEPHERD.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Florizell_WT|SERVANTS.X.3_WT" source="Florizell_WT" target="SERVANTS.X.3_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Florizell_WT|ATTENDANTS.X_WT" source="Florizell_WT" target="ATTENDANTS.X_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Perdita_WT|Dorcas_WT" source="Perdita_WT" target="Dorcas_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Perdita_WT|Mopsa_WT" source="Perdita_WT" target="Mopsa_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Perdita_WT|SERVANTS.SHEPHERD.1_WT" source="Perdita_WT" target="SERVANTS.SHEPHERD.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Perdita_WT|SERVANTS.X.3_WT" source="Perdita_WT" target="SERVANTS.X.3_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Perdita_WT|ATTENDANTS.X_WT" source="Perdita_WT" target="ATTENDANTS.X_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dorcas_WT|Mopsa_WT" source="Dorcas_WT" target="Mopsa_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dorcas_WT|SERVANTS.SHEPHERD.1_WT" source="Dorcas_WT" target="SERVANTS.SHEPHERD.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Mopsa_WT|SERVANTS.SHEPHERD.1_WT" source="Mopsa_WT" target="SERVANTS.SHEPHERD.1_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.X.3_WT|ATTENDANTS.X_WT" source="SERVANTS.X.3_WT" target="ATTENDANTS.X_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.1_WT|ATTENDANTS.2_WT" source="ATTENDANTS.1_WT" target="ATTENDANTS.2_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.1_WT|ATTENDANTS.3_WT" source="ATTENDANTS.1_WT" target="ATTENDANTS.3_WT">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.2_WT|ATTENDANTS.3_WT" source="ATTENDANTS.2_WT" target="ATTENDANTS.3_WT">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

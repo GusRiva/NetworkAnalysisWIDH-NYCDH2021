@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="WITCHES.1_Mac">
+            <data key="label">WITCHES.1_Mac</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">467</data>
+        </node>
+        <node id="WITCHES.2_Mac">
+            <data key="label">WITCHES.2_Mac</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">242</data>
+        </node>
+        <node id="WITCHES.3_Mac">
+            <data key="label">WITCHES.3_Mac</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">246</data>
+        </node>
+        <node id="Duncan_Mac">
+            <data key="label">Duncan</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">472</data>
+        </node>
+        <node id="Malcolm_Mac">
+            <data key="label">Malcolm</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1508</data>
+        </node>
+        <node id="SOLDIERS.Captain_Mac">
+            <data key="label">SOLDIERS.Captain_Mac</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">236</data>
+        </node>
+        <node id="Lennox_Mac">
+            <data key="label">Lennox</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">513</data>
+        </node>
+        <node id="Ross_Mac">
+            <data key="label">Ross</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">917</data>
+        </node>
+        <node id="Macbeth_Mac">
+            <data key="label">Macbeth</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5310</data>
+        </node>
+        <node id="Banquo_Mac">
+            <data key="label">Banquo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">777</data>
+        </node>
+        <node id="Angus_Mac">
+            <data key="label">Angus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">137</data>
+        </node>
+        <node id="LadyMacbeth_Mac">
+            <data key="label">Lady Macbeth</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1785</data>
+        </node>
+        <node id="MESSENGERS.1_Mac">
+            <data key="label">Three Messengers, Three Servants, a Lord, a Soldier</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">38</data>
+        </node>
+        <node id="Fleance_Mac">
+            <data key="label">Fleance</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="Porter_Mac">
+            <data key="label">Porter_Mac</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">307</data>
+        </node>
+        <node id="Macduff_Mac">
+            <data key="label">Macduff</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1162</data>
+        </node>
+        <node id="Donalbain_Mac">
+            <data key="label">Donalbain</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">60</data>
+        </node>
+        <node id="OldMan_Mac">
+            <data key="label">OldMan_Mac</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">81</data>
+        </node>
+        <node id="SERVANTS.X.2_Mac">
+            <data key="label">Three Messengers, Three Servants, a Lord, a Soldier</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="MURDERERS.1_Mac">
+            <data key="label">MURDERERS.1_Mac</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">163</data>
+        </node>
+        <node id="MURDERERS.2_Mac">
+            <data key="label">MURDERERS.2_Mac</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">100</data>
+        </node>
+        <node id="SERVANTS.X.3_Mac">
+            <data key="label">Three Messengers, Three Servants, a Lord, a Soldier</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="MURDERERS.3_Mac">
+            <data key="label">MURDERERS.3_Mac</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">42</data>
+        </node>
+        <node id="ATTENDANTS_Mac">
+            <data key="label">Attendants, a Sewer, Servants, Lords, Thanes, Soldiers (all nonspeaking)</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">17</data>
+        </node>
+        <node id="Hecate_Mac">
+            <data key="label">Hecate</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">263</data>
+        </node>
+        <node id="Lord_Mac">
+            <data key="label">Three Messengers, Three Servants, a Lord, a Soldier</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">158</data>
+        </node>
+        <node id="SPIRITS.1_Mac">
+            <data key="label">SPIRITS.1_Mac</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">13</data>
+        </node>
+        <node id="SPIRITS.2_Mac">
+            <data key="label">SPIRITS.2_Mac</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">23</data>
+        </node>
+        <node id="SPIRITS.3_Mac">
+            <data key="label">SPIRITS.3_Mac</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">32</data>
+        </node>
+        <node id="LadyMacduff_Mac">
+            <data key="label">Lady Macduff</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">292</data>
+        </node>
+        <node id="MacduffsSon_Mac">
+            <data key="label">MacduffsSon_Mac</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">143</data>
+        </node>
+        <node id="MESSENGERS.2_Mac">
+            <data key="label">Three Messengers, Three Servants, a Lord, a Soldier</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">75</data>
+        </node>
+        <node id="MURDERERS.0.1_Mac">
+            <data key="label">MURDERERS.0.1_Mac</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">14</data>
+        </node>
+        <node id="Doctor1_Mac">
+            <data key="label">Doctor1_Mac</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">35</data>
+        </node>
+        <node id="Doctor2_Mac">
+            <data key="label">both attending upon Lady Macbeth</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">290</data>
+        </node>
+        <node id="Gentlewoman_Mac">
+            <data key="label">both attending upon Lady Macbeth</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">181</data>
+        </node>
+        <node id="Menteith_Mac">
+            <data key="label">Menteith</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">71</data>
+        </node>
+        <node id="Caithness_Mac">
+            <data key="label">Caithness</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">73</data>
+        </node>
+        <node id="SERVANTS.X.4_Mac">
+            <data key="label">Three Messengers, Three Servants, a Lord, a Soldier</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">12</data>
+        </node>
+        <node id="Seyton_Mac">
+            <data key="label">Seyton</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">31</data>
+        </node>
+        <node id="Siward_Mac">
+            <data key="label">Siward</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">207</data>
+        </node>
+        <node id="SOLDIERS.MALCOLM.0.1_Mac">
+            <data key="label">Three Messengers, Three Servants, a Lord, a Soldier</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="MESSENGERS.3_Mac">
+            <data key="label">Three Messengers, Three Servants, a Lord, a Soldier</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">64</data>
+        </node>
+        <node id="YoungSiward_Mac">
+            <data key="label">Young Siward</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">43</data>
+        </node>
+        <node id="SOLDIERS.MALCOLM_Mac">
+            <data key="label">Attendants, a Sewer, Servants, Lords, Thanes, Soldiers (all nonspeaking)</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <edge id="WITCHES.1_Mac|WITCHES.2_Mac" source="WITCHES.1_Mac" target="WITCHES.2_Mac">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="WITCHES.1_Mac|WITCHES.3_Mac" source="WITCHES.1_Mac" target="WITCHES.3_Mac">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="WITCHES.1_Mac|Macbeth_Mac" source="WITCHES.1_Mac" target="Macbeth_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="WITCHES.1_Mac|Banquo_Mac" source="WITCHES.1_Mac" target="Banquo_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.1_Mac|Ross_Mac" source="WITCHES.1_Mac" target="Ross_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.1_Mac|Angus_Mac" source="WITCHES.1_Mac" target="Angus_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.1_Mac|Hecate_Mac" source="WITCHES.1_Mac" target="Hecate_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="WITCHES.1_Mac|SPIRITS.1_Mac" source="WITCHES.1_Mac" target="SPIRITS.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.1_Mac|SPIRITS.2_Mac" source="WITCHES.1_Mac" target="SPIRITS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.1_Mac|SPIRITS.3_Mac" source="WITCHES.1_Mac" target="SPIRITS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.1_Mac|Lennox_Mac" source="WITCHES.1_Mac" target="Lennox_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.2_Mac|WITCHES.3_Mac" source="WITCHES.2_Mac" target="WITCHES.3_Mac">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="WITCHES.2_Mac|Macbeth_Mac" source="WITCHES.2_Mac" target="Macbeth_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="WITCHES.2_Mac|Banquo_Mac" source="WITCHES.2_Mac" target="Banquo_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.2_Mac|Ross_Mac" source="WITCHES.2_Mac" target="Ross_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.2_Mac|Angus_Mac" source="WITCHES.2_Mac" target="Angus_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.2_Mac|Hecate_Mac" source="WITCHES.2_Mac" target="Hecate_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.2_Mac|SPIRITS.1_Mac" source="WITCHES.2_Mac" target="SPIRITS.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.2_Mac|SPIRITS.2_Mac" source="WITCHES.2_Mac" target="SPIRITS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.2_Mac|SPIRITS.3_Mac" source="WITCHES.2_Mac" target="SPIRITS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.2_Mac|Lennox_Mac" source="WITCHES.2_Mac" target="Lennox_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.3_Mac|Macbeth_Mac" source="WITCHES.3_Mac" target="Macbeth_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="WITCHES.3_Mac|Banquo_Mac" source="WITCHES.3_Mac" target="Banquo_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.3_Mac|Ross_Mac" source="WITCHES.3_Mac" target="Ross_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.3_Mac|Angus_Mac" source="WITCHES.3_Mac" target="Angus_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.3_Mac|Hecate_Mac" source="WITCHES.3_Mac" target="Hecate_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.3_Mac|SPIRITS.1_Mac" source="WITCHES.3_Mac" target="SPIRITS.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.3_Mac|SPIRITS.2_Mac" source="WITCHES.3_Mac" target="SPIRITS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.3_Mac|SPIRITS.3_Mac" source="WITCHES.3_Mac" target="SPIRITS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WITCHES.3_Mac|Lennox_Mac" source="WITCHES.3_Mac" target="Lennox_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duncan_Mac|Malcolm_Mac" source="Duncan_Mac" target="Malcolm_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Duncan_Mac|SOLDIERS.Captain_Mac" source="Duncan_Mac" target="SOLDIERS.Captain_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duncan_Mac|Lennox_Mac" source="Duncan_Mac" target="Lennox_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duncan_Mac|Ross_Mac" source="Duncan_Mac" target="Ross_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duncan_Mac|Macbeth_Mac" source="Duncan_Mac" target="Macbeth_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Duncan_Mac|Banquo_Mac" source="Duncan_Mac" target="Banquo_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Duncan_Mac|LadyMacbeth_Mac" source="Duncan_Mac" target="LadyMacbeth_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malcolm_Mac|SOLDIERS.Captain_Mac" source="Malcolm_Mac" target="SOLDIERS.Captain_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malcolm_Mac|Lennox_Mac" source="Malcolm_Mac" target="Lennox_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Malcolm_Mac|Ross_Mac" source="Malcolm_Mac" target="Ross_Mac">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Malcolm_Mac|Macbeth_Mac" source="Malcolm_Mac" target="Macbeth_Mac">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Malcolm_Mac|Banquo_Mac" source="Malcolm_Mac" target="Banquo_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Malcolm_Mac|Porter_Mac" source="Malcolm_Mac" target="Porter_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malcolm_Mac|Macduff_Mac" source="Malcolm_Mac" target="Macduff_Mac">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Malcolm_Mac|LadyMacbeth_Mac" source="Malcolm_Mac" target="LadyMacbeth_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malcolm_Mac|Donalbain_Mac" source="Malcolm_Mac" target="Donalbain_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malcolm_Mac|Doctor1_Mac" source="Malcolm_Mac" target="Doctor1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malcolm_Mac|Menteith_Mac" source="Malcolm_Mac" target="Menteith_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malcolm_Mac|Siward_Mac" source="Malcolm_Mac" target="Siward_Mac">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Malcolm_Mac|SOLDIERS.MALCOLM.0.1_Mac" source="Malcolm_Mac" target="SOLDIERS.MALCOLM.0.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malcolm_Mac|YoungSiward_Mac" source="Malcolm_Mac" target="YoungSiward_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malcolm_Mac|ATTENDANTS_Mac" source="Malcolm_Mac" target="ATTENDANTS_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Malcolm_Mac|SOLDIERS.MALCOLM_Mac" source="Malcolm_Mac" target="SOLDIERS.MALCOLM_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.Captain_Mac|Lennox_Mac" source="SOLDIERS.Captain_Mac" target="Lennox_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.Captain_Mac|Ross_Mac" source="SOLDIERS.Captain_Mac" target="Ross_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|Ross_Mac" source="Lennox_Mac" target="Ross_Mac">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lennox_Mac|Porter_Mac" source="Lennox_Mac" target="Porter_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|Macduff_Mac" source="Lennox_Mac" target="Macduff_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|Macbeth_Mac" source="Lennox_Mac" target="Macbeth_Mac">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lennox_Mac|LadyMacbeth_Mac" source="Lennox_Mac" target="LadyMacbeth_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lennox_Mac|Banquo_Mac" source="Lennox_Mac" target="Banquo_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|Donalbain_Mac" source="Lennox_Mac" target="Donalbain_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|ATTENDANTS_Mac" source="Lennox_Mac" target="ATTENDANTS_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|MURDERERS.1_Mac" source="Lennox_Mac" target="MURDERERS.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|Lord_Mac" source="Lennox_Mac" target="Lord_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|Hecate_Mac" source="Lennox_Mac" target="Hecate_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|SPIRITS.1_Mac" source="Lennox_Mac" target="SPIRITS.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|SPIRITS.2_Mac" source="Lennox_Mac" target="SPIRITS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|SPIRITS.3_Mac" source="Lennox_Mac" target="SPIRITS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|Menteith_Mac" source="Lennox_Mac" target="Menteith_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|Angus_Mac" source="Lennox_Mac" target="Angus_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lennox_Mac|Caithness_Mac" source="Lennox_Mac" target="Caithness_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|Macbeth_Mac" source="Ross_Mac" target="Macbeth_Mac">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Ross_Mac|Banquo_Mac" source="Ross_Mac" target="Banquo_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ross_Mac|Angus_Mac" source="Ross_Mac" target="Angus_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|Porter_Mac" source="Ross_Mac" target="Porter_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|Macduff_Mac" source="Ross_Mac" target="Macduff_Mac">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Ross_Mac|LadyMacbeth_Mac" source="Ross_Mac" target="LadyMacbeth_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ross_Mac|Donalbain_Mac" source="Ross_Mac" target="Donalbain_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|OldMan_Mac" source="Ross_Mac" target="OldMan_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|ATTENDANTS_Mac" source="Ross_Mac" target="ATTENDANTS_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ross_Mac|MURDERERS.1_Mac" source="Ross_Mac" target="MURDERERS.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|LadyMacduff_Mac" source="Ross_Mac" target="LadyMacduff_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|MacduffsSon_Mac" source="Ross_Mac" target="MacduffsSon_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|MESSENGERS.2_Mac" source="Ross_Mac" target="MESSENGERS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|MURDERERS.0.1_Mac" source="Ross_Mac" target="MURDERERS.0.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|Doctor1_Mac" source="Ross_Mac" target="Doctor1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|Siward_Mac" source="Ross_Mac" target="Siward_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ross_Mac|SOLDIERS.MALCOLM_Mac" source="Ross_Mac" target="SOLDIERS.MALCOLM_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|Banquo_Mac" source="Macbeth_Mac" target="Banquo_Mac">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Macbeth_Mac|Angus_Mac" source="Macbeth_Mac" target="Angus_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|LadyMacbeth_Mac" source="Macbeth_Mac" target="LadyMacbeth_Mac">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Macbeth_Mac|MESSENGERS.1_Mac" source="Macbeth_Mac" target="MESSENGERS.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|Fleance_Mac" source="Macbeth_Mac" target="Fleance_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|Porter_Mac" source="Macbeth_Mac" target="Porter_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|Macduff_Mac" source="Macbeth_Mac" target="Macduff_Mac">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Macbeth_Mac|Donalbain_Mac" source="Macbeth_Mac" target="Donalbain_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|SERVANTS.X.2_Mac" source="Macbeth_Mac" target="SERVANTS.X.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|MURDERERS.1_Mac" source="Macbeth_Mac" target="MURDERERS.1_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Macbeth_Mac|MURDERERS.2_Mac" source="Macbeth_Mac" target="MURDERERS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|SERVANTS.X.3_Mac" source="Macbeth_Mac" target="SERVANTS.X.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|ATTENDANTS_Mac" source="Macbeth_Mac" target="ATTENDANTS_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Macbeth_Mac|Hecate_Mac" source="Macbeth_Mac" target="Hecate_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|SPIRITS.1_Mac" source="Macbeth_Mac" target="SPIRITS.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|SPIRITS.2_Mac" source="Macbeth_Mac" target="SPIRITS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|SPIRITS.3_Mac" source="Macbeth_Mac" target="SPIRITS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|SERVANTS.X.4_Mac" source="Macbeth_Mac" target="SERVANTS.X.4_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|Seyton_Mac" source="Macbeth_Mac" target="Seyton_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Macbeth_Mac|Doctor2_Mac" source="Macbeth_Mac" target="Doctor2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|MESSENGERS.3_Mac" source="Macbeth_Mac" target="MESSENGERS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|YoungSiward_Mac" source="Macbeth_Mac" target="YoungSiward_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macbeth_Mac|Siward_Mac" source="Macbeth_Mac" target="Siward_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Macbeth_Mac|SOLDIERS.MALCOLM_Mac" source="Macbeth_Mac" target="SOLDIERS.MALCOLM_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Banquo_Mac|Angus_Mac" source="Banquo_Mac" target="Angus_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Banquo_Mac|LadyMacbeth_Mac" source="Banquo_Mac" target="LadyMacbeth_Mac">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Banquo_Mac|Fleance_Mac" source="Banquo_Mac" target="Fleance_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Banquo_Mac|Porter_Mac" source="Banquo_Mac" target="Porter_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Banquo_Mac|Macduff_Mac" source="Banquo_Mac" target="Macduff_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Banquo_Mac|Donalbain_Mac" source="Banquo_Mac" target="Donalbain_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Banquo_Mac|SERVANTS.X.2_Mac" source="Banquo_Mac" target="SERVANTS.X.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Banquo_Mac|MURDERERS.1_Mac" source="Banquo_Mac" target="MURDERERS.1_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Banquo_Mac|MURDERERS.2_Mac" source="Banquo_Mac" target="MURDERERS.2_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Banquo_Mac|MURDERERS.3_Mac" source="Banquo_Mac" target="MURDERERS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angus_Mac|Menteith_Mac" source="Angus_Mac" target="Menteith_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Angus_Mac|Caithness_Mac" source="Angus_Mac" target="Caithness_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacbeth_Mac|MESSENGERS.1_Mac" source="LadyMacbeth_Mac" target="MESSENGERS.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacbeth_Mac|Porter_Mac" source="LadyMacbeth_Mac" target="Porter_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacbeth_Mac|Macduff_Mac" source="LadyMacbeth_Mac" target="Macduff_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacbeth_Mac|Donalbain_Mac" source="LadyMacbeth_Mac" target="Donalbain_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacbeth_Mac|SERVANTS.X.2_Mac" source="LadyMacbeth_Mac" target="SERVANTS.X.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacbeth_Mac|MURDERERS.1_Mac" source="LadyMacbeth_Mac" target="MURDERERS.1_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LadyMacbeth_Mac|MURDERERS.2_Mac" source="LadyMacbeth_Mac" target="MURDERERS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacbeth_Mac|SERVANTS.X.3_Mac" source="LadyMacbeth_Mac" target="SERVANTS.X.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacbeth_Mac|ATTENDANTS_Mac" source="LadyMacbeth_Mac" target="ATTENDANTS_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacbeth_Mac|Doctor2_Mac" source="LadyMacbeth_Mac" target="Doctor2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacbeth_Mac|Gentlewoman_Mac" source="LadyMacbeth_Mac" target="Gentlewoman_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Porter_Mac|Macduff_Mac" source="Porter_Mac" target="Macduff_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Porter_Mac|Donalbain_Mac" source="Porter_Mac" target="Donalbain_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macduff_Mac|Donalbain_Mac" source="Macduff_Mac" target="Donalbain_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macduff_Mac|OldMan_Mac" source="Macduff_Mac" target="OldMan_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macduff_Mac|Doctor1_Mac" source="Macduff_Mac" target="Doctor1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macduff_Mac|Menteith_Mac" source="Macduff_Mac" target="Menteith_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macduff_Mac|Siward_Mac" source="Macduff_Mac" target="Siward_Mac">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Macduff_Mac|SOLDIERS.MALCOLM.0.1_Mac" source="Macduff_Mac" target="SOLDIERS.MALCOLM.0.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macduff_Mac|YoungSiward_Mac" source="Macduff_Mac" target="YoungSiward_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macduff_Mac|ATTENDANTS_Mac" source="Macduff_Mac" target="ATTENDANTS_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Macduff_Mac|SOLDIERS.MALCOLM_Mac" source="Macduff_Mac" target="SOLDIERS.MALCOLM_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.X.2_Mac|MURDERERS.1_Mac" source="SERVANTS.X.2_Mac" target="MURDERERS.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.X.2_Mac|MURDERERS.2_Mac" source="SERVANTS.X.2_Mac" target="MURDERERS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MURDERERS.1_Mac|MURDERERS.2_Mac" source="MURDERERS.1_Mac" target="MURDERERS.2_Mac">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MURDERERS.1_Mac|MURDERERS.3_Mac" source="MURDERERS.1_Mac" target="MURDERERS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MURDERERS.1_Mac|ATTENDANTS_Mac" source="MURDERERS.1_Mac" target="ATTENDANTS_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MURDERERS.2_Mac|MURDERERS.3_Mac" source="MURDERERS.2_Mac" target="MURDERERS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS_Mac|Siward_Mac" source="ATTENDANTS_Mac" target="Siward_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS_Mac|SOLDIERS.MALCOLM_Mac" source="ATTENDANTS_Mac" target="SOLDIERS.MALCOLM_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hecate_Mac|SPIRITS.1_Mac" source="Hecate_Mac" target="SPIRITS.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hecate_Mac|SPIRITS.2_Mac" source="Hecate_Mac" target="SPIRITS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hecate_Mac|SPIRITS.3_Mac" source="Hecate_Mac" target="SPIRITS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SPIRITS.1_Mac|SPIRITS.2_Mac" source="SPIRITS.1_Mac" target="SPIRITS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SPIRITS.1_Mac|SPIRITS.3_Mac" source="SPIRITS.1_Mac" target="SPIRITS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SPIRITS.2_Mac|SPIRITS.3_Mac" source="SPIRITS.2_Mac" target="SPIRITS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacduff_Mac|MacduffsSon_Mac" source="LadyMacduff_Mac" target="MacduffsSon_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacduff_Mac|MESSENGERS.2_Mac" source="LadyMacduff_Mac" target="MESSENGERS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyMacduff_Mac|MURDERERS.0.1_Mac" source="LadyMacduff_Mac" target="MURDERERS.0.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MacduffsSon_Mac|MESSENGERS.2_Mac" source="MacduffsSon_Mac" target="MESSENGERS.2_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MacduffsSon_Mac|MURDERERS.0.1_Mac" source="MacduffsSon_Mac" target="MURDERERS.0.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.2_Mac|MURDERERS.0.1_Mac" source="MESSENGERS.2_Mac" target="MURDERERS.0.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Doctor2_Mac|Gentlewoman_Mac" source="Doctor2_Mac" target="Gentlewoman_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Doctor2_Mac|SERVANTS.X.4_Mac" source="Doctor2_Mac" target="SERVANTS.X.4_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Doctor2_Mac|Seyton_Mac" source="Doctor2_Mac" target="Seyton_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menteith_Mac|Caithness_Mac" source="Menteith_Mac" target="Caithness_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menteith_Mac|Siward_Mac" source="Menteith_Mac" target="Siward_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menteith_Mac|SOLDIERS.MALCOLM.0.1_Mac" source="Menteith_Mac" target="SOLDIERS.MALCOLM.0.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.X.4_Mac|Seyton_Mac" source="SERVANTS.X.4_Mac" target="Seyton_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Seyton_Mac|MESSENGERS.3_Mac" source="Seyton_Mac" target="MESSENGERS.3_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Siward_Mac|SOLDIERS.MALCOLM.0.1_Mac" source="Siward_Mac" target="SOLDIERS.MALCOLM.0.1_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Siward_Mac|YoungSiward_Mac" source="Siward_Mac" target="YoungSiward_Mac">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Siward_Mac|SOLDIERS.MALCOLM_Mac" source="Siward_Mac" target="SOLDIERS.MALCOLM_Mac">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Antonio_MV">
+            <data key="label">Antonio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1434</data>
+        </node>
+        <node id="Salarino_MV">
+            <data key="label">Salarino</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">701</data>
+        </node>
+        <node id="Solanio_MV">
+            <data key="label">Solanio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">544</data>
+        </node>
+        <node id="Bassanio_MV">
+            <data key="label">Bassanio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2525</data>
+        </node>
+        <node id="Lorenzo_MV">
+            <data key="label">Lorenzo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1329</data>
+        </node>
+        <node id="Gratiano_MV">
+            <data key="label">Gratiano</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1373</data>
+        </node>
+        <node id="Portia_MV">
+            <data key="label">Portia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4599</data>
+        </node>
+        <node id="Nerissa_MV">
+            <data key="label">Nerissa</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">695</data>
+        </node>
+        <node id="SERVANTS.1_MV">
+            <data key="label">SERVANTS.1_MV</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">35</data>
+        </node>
+        <node id="Shylock_MV">
+            <data key="label">Shylock</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2881</data>
+        </node>
+        <node id="Morocco_MV">
+            <data key="label">Morocco</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">800</data>
+        </node>
+        <node id="LanceletGobbo_MV">
+            <data key="label">Lancelet Gobbo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1452</data>
+        </node>
+        <node id="OldGobbo_MV">
+            <data key="label">Old Gobbo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">292</data>
+        </node>
+        <node id="ATTENDANTS.BASSANIO.Leonardo_MV">
+            <data key="label">Leonardo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">11</data>
+        </node>
+        <node id="Jessica_MV">
+            <data key="label">Jessica</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">660</data>
+        </node>
+        <node id="Arragon_MV">
+            <data key="label">Arragon</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">496</data>
+        </node>
+        <node id="Messenger_MV">
+            <data key="label">Messenger</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">76</data>
+        </node>
+        <node id="SERVANTS.2_MV">
+            <data key="label">SERVANTS.2_MV</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">15</data>
+        </node>
+        <node id="Tubal_MV">
+            <data key="label">Tubal</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">96</data>
+        </node>
+        <node id="MUSICIANS_MV">
+            <data key="label">Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">53</data>
+        </node>
+        <node id="Salerio_MV">
+            <data key="label">Salerio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">174</data>
+        </node>
+        <node id="ATTENDANTS.PORTIA.Balthazar_MV">
+            <data key="label">Balthazar</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="Duke_MV">
+            <data key="label">Duke_MV</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">419</data>
+        </node>
+        <node id="ATTENDANTS.PORTIA.Stephano_MV">
+            <data key="label">Stephano</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">54</data>
+        </node>
+        <edge id="Antonio_MV|Salarino_MV" source="Antonio_MV" target="Salarino_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antonio_MV|Solanio_MV" source="Antonio_MV" target="Solanio_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antonio_MV|Bassanio_MV" source="Antonio_MV" target="Bassanio_MV">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Antonio_MV|Lorenzo_MV" source="Antonio_MV" target="Lorenzo_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Antonio_MV|Gratiano_MV" source="Antonio_MV" target="Gratiano_MV">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Antonio_MV|Shylock_MV" source="Antonio_MV" target="Shylock_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Antonio_MV|Jessica_MV" source="Antonio_MV" target="Jessica_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antonio_MV|Duke_MV" source="Antonio_MV" target="Duke_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_MV|Salerio_MV" source="Antonio_MV" target="Salerio_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_MV|Nerissa_MV" source="Antonio_MV" target="Nerissa_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antonio_MV|Portia_MV" source="Antonio_MV" target="Portia_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antonio_MV|ATTENDANTS.PORTIA.Stephano_MV" source="Antonio_MV" target="ATTENDANTS.PORTIA.Stephano_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antonio_MV|LanceletGobbo_MV" source="Antonio_MV" target="LanceletGobbo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salarino_MV|Solanio_MV" source="Salarino_MV" target="Solanio_MV">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Salarino_MV|Bassanio_MV" source="Salarino_MV" target="Bassanio_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salarino_MV|Lorenzo_MV" source="Salarino_MV" target="Lorenzo_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Salarino_MV|Gratiano_MV" source="Salarino_MV" target="Gratiano_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Salarino_MV|LanceletGobbo_MV" source="Salarino_MV" target="LanceletGobbo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salarino_MV|Jessica_MV" source="Salarino_MV" target="Jessica_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salarino_MV|Shylock_MV" source="Salarino_MV" target="Shylock_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salarino_MV|SERVANTS.2_MV" source="Salarino_MV" target="SERVANTS.2_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salarino_MV|Tubal_MV" source="Salarino_MV" target="Tubal_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Solanio_MV|Bassanio_MV" source="Solanio_MV" target="Bassanio_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Solanio_MV|Lorenzo_MV" source="Solanio_MV" target="Lorenzo_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Solanio_MV|Gratiano_MV" source="Solanio_MV" target="Gratiano_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Solanio_MV|LanceletGobbo_MV" source="Solanio_MV" target="LanceletGobbo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Solanio_MV|Shylock_MV" source="Solanio_MV" target="Shylock_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Solanio_MV|SERVANTS.2_MV" source="Solanio_MV" target="SERVANTS.2_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Solanio_MV|Tubal_MV" source="Solanio_MV" target="Tubal_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bassanio_MV|Lorenzo_MV" source="Bassanio_MV" target="Lorenzo_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bassanio_MV|Gratiano_MV" source="Bassanio_MV" target="Gratiano_MV">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Bassanio_MV|Shylock_MV" source="Bassanio_MV" target="Shylock_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bassanio_MV|LanceletGobbo_MV" source="Bassanio_MV" target="LanceletGobbo_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bassanio_MV|OldGobbo_MV" source="Bassanio_MV" target="OldGobbo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bassanio_MV|ATTENDANTS.BASSANIO.Leonardo_MV" source="Bassanio_MV" target="ATTENDANTS.BASSANIO.Leonardo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bassanio_MV|Portia_MV" source="Bassanio_MV" target="Portia_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bassanio_MV|MUSICIANS_MV" source="Bassanio_MV" target="MUSICIANS_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bassanio_MV|Nerissa_MV" source="Bassanio_MV" target="Nerissa_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bassanio_MV|Salerio_MV" source="Bassanio_MV" target="Salerio_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bassanio_MV|Jessica_MV" source="Bassanio_MV" target="Jessica_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bassanio_MV|Duke_MV" source="Bassanio_MV" target="Duke_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bassanio_MV|ATTENDANTS.PORTIA.Stephano_MV" source="Bassanio_MV" target="ATTENDANTS.PORTIA.Stephano_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lorenzo_MV|Gratiano_MV" source="Lorenzo_MV" target="Gratiano_MV">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Lorenzo_MV|LanceletGobbo_MV" source="Lorenzo_MV" target="LanceletGobbo_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lorenzo_MV|Jessica_MV" source="Lorenzo_MV" target="Jessica_MV">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Lorenzo_MV|Portia_MV" source="Lorenzo_MV" target="Portia_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lorenzo_MV|MUSICIANS_MV" source="Lorenzo_MV" target="MUSICIANS_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lorenzo_MV|Nerissa_MV" source="Lorenzo_MV" target="Nerissa_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lorenzo_MV|Salerio_MV" source="Lorenzo_MV" target="Salerio_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lorenzo_MV|ATTENDANTS.PORTIA.Balthazar_MV" source="Lorenzo_MV" target="ATTENDANTS.PORTIA.Balthazar_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lorenzo_MV|ATTENDANTS.PORTIA.Stephano_MV" source="Lorenzo_MV" target="ATTENDANTS.PORTIA.Stephano_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gratiano_MV|LanceletGobbo_MV" source="Gratiano_MV" target="LanceletGobbo_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Gratiano_MV|OldGobbo_MV" source="Gratiano_MV" target="OldGobbo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gratiano_MV|ATTENDANTS.BASSANIO.Leonardo_MV" source="Gratiano_MV" target="ATTENDANTS.BASSANIO.Leonardo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gratiano_MV|Jessica_MV" source="Gratiano_MV" target="Jessica_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Gratiano_MV|Portia_MV" source="Gratiano_MV" target="Portia_MV">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Gratiano_MV|MUSICIANS_MV" source="Gratiano_MV" target="MUSICIANS_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gratiano_MV|Nerissa_MV" source="Gratiano_MV" target="Nerissa_MV">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Gratiano_MV|Salerio_MV" source="Gratiano_MV" target="Salerio_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gratiano_MV|Duke_MV" source="Gratiano_MV" target="Duke_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gratiano_MV|Shylock_MV" source="Gratiano_MV" target="Shylock_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gratiano_MV|ATTENDANTS.PORTIA.Stephano_MV" source="Gratiano_MV" target="ATTENDANTS.PORTIA.Stephano_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Portia_MV|Nerissa_MV" source="Portia_MV" target="Nerissa_MV">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Portia_MV|SERVANTS.1_MV" source="Portia_MV" target="SERVANTS.1_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Portia_MV|Morocco_MV" source="Portia_MV" target="Morocco_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Portia_MV|Arragon_MV" source="Portia_MV" target="Arragon_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Portia_MV|Messenger_MV" source="Portia_MV" target="Messenger_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Portia_MV|MUSICIANS_MV" source="Portia_MV" target="MUSICIANS_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Portia_MV|Salerio_MV" source="Portia_MV" target="Salerio_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Portia_MV|Jessica_MV" source="Portia_MV" target="Jessica_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Portia_MV|ATTENDANTS.PORTIA.Balthazar_MV" source="Portia_MV" target="ATTENDANTS.PORTIA.Balthazar_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Portia_MV|Duke_MV" source="Portia_MV" target="Duke_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Portia_MV|Shylock_MV" source="Portia_MV" target="Shylock_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Portia_MV|ATTENDANTS.PORTIA.Stephano_MV" source="Portia_MV" target="ATTENDANTS.PORTIA.Stephano_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Portia_MV|LanceletGobbo_MV" source="Portia_MV" target="LanceletGobbo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nerissa_MV|SERVANTS.1_MV" source="Nerissa_MV" target="SERVANTS.1_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nerissa_MV|Arragon_MV" source="Nerissa_MV" target="Arragon_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nerissa_MV|Messenger_MV" source="Nerissa_MV" target="Messenger_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nerissa_MV|MUSICIANS_MV" source="Nerissa_MV" target="MUSICIANS_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nerissa_MV|Salerio_MV" source="Nerissa_MV" target="Salerio_MV">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Nerissa_MV|Jessica_MV" source="Nerissa_MV" target="Jessica_MV">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Nerissa_MV|ATTENDANTS.PORTIA.Balthazar_MV" source="Nerissa_MV" target="ATTENDANTS.PORTIA.Balthazar_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nerissa_MV|Duke_MV" source="Nerissa_MV" target="Duke_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nerissa_MV|Shylock_MV" source="Nerissa_MV" target="Shylock_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nerissa_MV|ATTENDANTS.PORTIA.Stephano_MV" source="Nerissa_MV" target="ATTENDANTS.PORTIA.Stephano_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nerissa_MV|LanceletGobbo_MV" source="Nerissa_MV" target="LanceletGobbo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shylock_MV|LanceletGobbo_MV" source="Shylock_MV" target="LanceletGobbo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shylock_MV|Jessica_MV" source="Shylock_MV" target="Jessica_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shylock_MV|SERVANTS.2_MV" source="Shylock_MV" target="SERVANTS.2_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shylock_MV|Tubal_MV" source="Shylock_MV" target="Tubal_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shylock_MV|Duke_MV" source="Shylock_MV" target="Duke_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Shylock_MV|Salerio_MV" source="Shylock_MV" target="Salerio_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LanceletGobbo_MV|OldGobbo_MV" source="LanceletGobbo_MV" target="OldGobbo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LanceletGobbo_MV|ATTENDANTS.BASSANIO.Leonardo_MV" source="LanceletGobbo_MV" target="ATTENDANTS.BASSANIO.Leonardo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LanceletGobbo_MV|Jessica_MV" source="LanceletGobbo_MV" target="Jessica_MV">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="LanceletGobbo_MV|ATTENDANTS.PORTIA.Stephano_MV" source="LanceletGobbo_MV" target="ATTENDANTS.PORTIA.Stephano_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OldGobbo_MV|ATTENDANTS.BASSANIO.Leonardo_MV" source="OldGobbo_MV" target="ATTENDANTS.BASSANIO.Leonardo_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jessica_MV|MUSICIANS_MV" source="Jessica_MV" target="MUSICIANS_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jessica_MV|Salerio_MV" source="Jessica_MV" target="Salerio_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jessica_MV|ATTENDANTS.PORTIA.Balthazar_MV" source="Jessica_MV" target="ATTENDANTS.PORTIA.Balthazar_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jessica_MV|ATTENDANTS.PORTIA.Stephano_MV" source="Jessica_MV" target="ATTENDANTS.PORTIA.Stephano_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Arragon_MV|Messenger_MV" source="Arragon_MV" target="Messenger_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.2_MV|Tubal_MV" source="SERVANTS.2_MV" target="Tubal_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MUSICIANS_MV|Salerio_MV" source="MUSICIANS_MV" target="Salerio_MV">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salerio_MV|Duke_MV" source="Salerio_MV" target="Duke_MV">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Flavius_JC">
+            <data key="label">Flavius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">207</data>
+        </node>
+        <node id="COMMONERS.Carpenter_JC">
+            <data key="label">COMMONERS.Carpenter_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="Marullus_JC">
+            <data key="label">Marullus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">231</data>
+        </node>
+        <node id="COMMONERS.Cobbler_JC">
+            <data key="label">COMMONERS.Cobbler_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">145</data>
+        </node>
+        <node id="Caesar_JC">
+            <data key="label">Julius Caesar</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1142</data>
+        </node>
+        <node id="Casca_JC">
+            <data key="label">Casca</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1073</data>
+        </node>
+        <node id="Calphurnia_JC">
+            <data key="label">Calphurnia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">203</data>
+        </node>
+        <node id="Antony_JC">
+            <data key="label">Mark Antony</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2537</data>
+        </node>
+        <node id="Soothsayer_JC">
+            <data key="label">Soothsayer_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">131</data>
+        </node>
+        <node id="Brutus_JC">
+            <data key="label">Marcus Brutus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">5388</data>
+        </node>
+        <node id="Cassius_JC">
+            <data key="label">Caius Cassius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3708</data>
+        </node>
+        <node id="Cicero_JC">
+            <data key="label">Cicero</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">62</data>
+        </node>
+        <node id="Cinna_JC">
+            <data key="label">Cinna</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">130</data>
+        </node>
+        <node id="Lucius_JC">
+            <data key="label">Lucius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">206</data>
+        </node>
+        <node id="Decius_JC">
+            <data key="label">Decius Brutus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">323</data>
+        </node>
+        <node id="Metellus_JC">
+            <data key="label">Metellus Cimber</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">121</data>
+        </node>
+        <node id="Trebonius_JC">
+            <data key="label">Trebonius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">60</data>
+        </node>
+        <node id="Portia_JC">
+            <data key="label">Portia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">724</data>
+        </node>
+        <node id="Ligarius_JC">
+            <data key="label">Caius Ligarius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">111</data>
+        </node>
+        <node id="SERVANTS.CAESAR.1_JC">
+            <data key="label">SERVANTS.CAESAR.1_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">31</data>
+        </node>
+        <node id="Publius_JC">
+            <data key="label">Publius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <node id="Artemidorus_JC">
+            <data key="label">Artemidorus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">75</data>
+        </node>
+        <node id="Popilius_JC">
+            <data key="label">Popilius Lena</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">10</data>
+        </node>
+        <node id="SERVANTS.ANTONY.1_JC">
+            <data key="label">SERVANTS.ANTONY.1_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">119</data>
+        </node>
+        <node id="SERVANTS.OCTAVIUS.1_JC">
+            <data key="label">SERVANTS.OCTAVIUS.1_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">62</data>
+        </node>
+        <node id="PLEBEIANS_JC">
+            <data key="label">First, Second, Third, and Fourth Plebeians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">89</data>
+        </node>
+        <node id="PLEBEIANS.0.1_JC">
+            <data key="label">PLEBEIANS.0.1_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">128</data>
+        </node>
+        <node id="PLEBEIANS.0.2_JC">
+            <data key="label">PLEBEIANS.0.2_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">133</data>
+        </node>
+        <node id="PLEBEIANS.0.3_JC">
+            <data key="label">PLEBEIANS.0.3_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">124</data>
+        </node>
+        <node id="PLEBEIANS.0.4_JC">
+            <data key="label">PLEBEIANS.0.4_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">126</data>
+        </node>
+        <node id="CinnaPoet_JC">
+            <data key="label">Cinna</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">104</data>
+        </node>
+        <node id="Octavius_JC">
+            <data key="label">Octavius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">328</data>
+        </node>
+        <node id="Lepidus_JC">
+            <data key="label">Lepidus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">22</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.Lucilius_JC">
+            <data key="label">Lucilius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">197</data>
+        </node>
+        <node id="Pindarus_JC">
+            <data key="label">Pindarus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">120</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.0.1_JC">
+            <data key="label">SOLDIERS.BRUTUS.0.1_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.0.2_JC">
+            <data key="label">SOLDIERS.BRUTUS.0.2_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.0.3_JC">
+            <data key="label">SOLDIERS.BRUTUS.0.3_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1</data>
+        </node>
+        <node id="Poet_JC">
+            <data key="label">Poet_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">54</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.Messala_JC">
+            <data key="label">Messala</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">254</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.Titinius_JC">
+            <data key="label">Titinius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">238</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.Varro_JC">
+            <data key="label">Varro</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">31</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.Claudius_JC">
+            <data key="label">Claudius</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="Messenger_JC">
+            <data key="label">Messenger_JC</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.Cato_JC">
+            <data key="label">Young Cato</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">54</data>
+        </node>
+        <node id="SOLDIERS.ANTONY.0.1_JC">
+            <data key="label">SOLDIERS.ANTONY.0.1_JC</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">26</data>
+        </node>
+        <node id="SOLDIERS.ANTONY.0.2_JC">
+            <data key="label">SOLDIERS.ANTONY.0.2_JC</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.Clitus_JC">
+            <data key="label">Clitus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">70</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.Dardanus_JC">
+            <data key="label">Dardanus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">15</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.Volumnius_JC">
+            <data key="label">Volumnius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">17</data>
+        </node>
+        <node id="SOLDIERS.BRUTUS.Strato_JC">
+            <data key="label">Strato</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">59</data>
+        </node>
+        <edge id="Flavius_JC|COMMONERS.Carpenter_JC" source="Flavius_JC" target="COMMONERS.Carpenter_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_JC|Marullus_JC" source="Flavius_JC" target="Marullus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_JC|COMMONERS.Cobbler_JC" source="Flavius_JC" target="COMMONERS.Cobbler_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="COMMONERS.Carpenter_JC|Marullus_JC" source="COMMONERS.Carpenter_JC" target="Marullus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="COMMONERS.Carpenter_JC|COMMONERS.Cobbler_JC" source="COMMONERS.Carpenter_JC" target="COMMONERS.Cobbler_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Marullus_JC|COMMONERS.Cobbler_JC" source="Marullus_JC" target="COMMONERS.Cobbler_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|Casca_JC" source="Caesar_JC" target="Casca_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Caesar_JC|Calphurnia_JC" source="Caesar_JC" target="Calphurnia_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Caesar_JC|Antony_JC" source="Caesar_JC" target="Antony_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Caesar_JC|Soothsayer_JC" source="Caesar_JC" target="Soothsayer_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Caesar_JC|Brutus_JC" source="Caesar_JC" target="Brutus_JC">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Caesar_JC|Cassius_JC" source="Caesar_JC" target="Cassius_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Caesar_JC|SERVANTS.CAESAR.1_JC" source="Caesar_JC" target="SERVANTS.CAESAR.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|Decius_JC" source="Caesar_JC" target="Decius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Caesar_JC|Publius_JC" source="Caesar_JC" target="Publius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Caesar_JC|Trebonius_JC" source="Caesar_JC" target="Trebonius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Caesar_JC|Artemidorus_JC" source="Caesar_JC" target="Artemidorus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|Popilius_JC" source="Caesar_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|Cinna_JC" source="Caesar_JC" target="Cinna_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|Metellus_JC" source="Caesar_JC" target="Metellus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|SERVANTS.ANTONY.1_JC" source="Caesar_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|SERVANTS.OCTAVIUS.1_JC" source="Caesar_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|Poet_JC" source="Caesar_JC" target="Poet_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|SOLDIERS.BRUTUS.Lucilius_JC" source="Caesar_JC" target="SOLDIERS.BRUTUS.Lucilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|SOLDIERS.BRUTUS.Messala_JC" source="Caesar_JC" target="SOLDIERS.BRUTUS.Messala_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|SOLDIERS.BRUTUS.Titinius_JC" source="Caesar_JC" target="SOLDIERS.BRUTUS.Titinius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|Lucius_JC" source="Caesar_JC" target="Lucius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|SOLDIERS.BRUTUS.Varro_JC" source="Caesar_JC" target="SOLDIERS.BRUTUS.Varro_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Caesar_JC|SOLDIERS.BRUTUS.Claudius_JC" source="Caesar_JC" target="SOLDIERS.BRUTUS.Claudius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Casca_JC|Calphurnia_JC" source="Casca_JC" target="Calphurnia_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Casca_JC|Antony_JC" source="Casca_JC" target="Antony_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Casca_JC|Soothsayer_JC" source="Casca_JC" target="Soothsayer_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Casca_JC|Brutus_JC" source="Casca_JC" target="Brutus_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Casca_JC|Cassius_JC" source="Casca_JC" target="Cassius_JC">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Casca_JC|Cicero_JC" source="Casca_JC" target="Cicero_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Casca_JC|Cinna_JC" source="Casca_JC" target="Cinna_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Casca_JC|Lucius_JC" source="Casca_JC" target="Lucius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Casca_JC|Decius_JC" source="Casca_JC" target="Decius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Casca_JC|Metellus_JC" source="Casca_JC" target="Metellus_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Casca_JC|Trebonius_JC" source="Casca_JC" target="Trebonius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Casca_JC|Portia_JC" source="Casca_JC" target="Portia_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Casca_JC|Ligarius_JC" source="Casca_JC" target="Ligarius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Casca_JC|Artemidorus_JC" source="Casca_JC" target="Artemidorus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Casca_JC|Publius_JC" source="Casca_JC" target="Publius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Casca_JC|Popilius_JC" source="Casca_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Casca_JC|SERVANTS.ANTONY.1_JC" source="Casca_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Casca_JC|SERVANTS.OCTAVIUS.1_JC" source="Casca_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Calphurnia_JC|Antony_JC" source="Calphurnia_JC" target="Antony_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Calphurnia_JC|Soothsayer_JC" source="Calphurnia_JC" target="Soothsayer_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Calphurnia_JC|Brutus_JC" source="Calphurnia_JC" target="Brutus_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Calphurnia_JC|Cassius_JC" source="Calphurnia_JC" target="Cassius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Calphurnia_JC|SERVANTS.CAESAR.1_JC" source="Calphurnia_JC" target="SERVANTS.CAESAR.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Calphurnia_JC|Decius_JC" source="Calphurnia_JC" target="Decius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Calphurnia_JC|Publius_JC" source="Calphurnia_JC" target="Publius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Calphurnia_JC|Trebonius_JC" source="Calphurnia_JC" target="Trebonius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Soothsayer_JC" source="Antony_JC" target="Soothsayer_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|Brutus_JC" source="Antony_JC" target="Brutus_JC">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Antony_JC|Cassius_JC" source="Antony_JC" target="Cassius_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Antony_JC|SERVANTS.CAESAR.1_JC" source="Antony_JC" target="SERVANTS.CAESAR.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Decius_JC" source="Antony_JC" target="Decius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|Publius_JC" source="Antony_JC" target="Publius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|Trebonius_JC" source="Antony_JC" target="Trebonius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|Artemidorus_JC" source="Antony_JC" target="Artemidorus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Popilius_JC" source="Antony_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Cinna_JC" source="Antony_JC" target="Cinna_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Metellus_JC" source="Antony_JC" target="Metellus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SERVANTS.ANTONY.1_JC" source="Antony_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SERVANTS.OCTAVIUS.1_JC" source="Antony_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|PLEBEIANS_JC" source="Antony_JC" target="PLEBEIANS_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|PLEBEIANS.0.1_JC" source="Antony_JC" target="PLEBEIANS.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|PLEBEIANS.0.2_JC" source="Antony_JC" target="PLEBEIANS.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|PLEBEIANS.0.3_JC" source="Antony_JC" target="PLEBEIANS.0.3_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|PLEBEIANS.0.4_JC" source="Antony_JC" target="PLEBEIANS.0.4_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Octavius_JC" source="Antony_JC" target="Octavius_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Antony_JC|Lepidus_JC" source="Antony_JC" target="Lepidus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|Messenger_JC" source="Antony_JC" target="Messenger_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.BRUTUS.Lucilius_JC" source="Antony_JC" target="SOLDIERS.BRUTUS.Lucilius_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.BRUTUS.Messala_JC" source="Antony_JC" target="SOLDIERS.BRUTUS.Messala_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.BRUTUS.Cato_JC" source="Antony_JC" target="SOLDIERS.BRUTUS.Cato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.ANTONY.0.1_JC" source="Antony_JC" target="SOLDIERS.ANTONY.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.ANTONY.0.2_JC" source="Antony_JC" target="SOLDIERS.ANTONY.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.BRUTUS.Clitus_JC" source="Antony_JC" target="SOLDIERS.BRUTUS.Clitus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.BRUTUS.Dardanus_JC" source="Antony_JC" target="SOLDIERS.BRUTUS.Dardanus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.BRUTUS.Volumnius_JC" source="Antony_JC" target="SOLDIERS.BRUTUS.Volumnius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antony_JC|SOLDIERS.BRUTUS.Strato_JC" source="Antony_JC" target="SOLDIERS.BRUTUS.Strato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_JC|Brutus_JC" source="Soothsayer_JC" target="Brutus_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Soothsayer_JC|Cassius_JC" source="Soothsayer_JC" target="Cassius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Soothsayer_JC|Portia_JC" source="Soothsayer_JC" target="Portia_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_JC|Lucius_JC" source="Soothsayer_JC" target="Lucius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_JC|Artemidorus_JC" source="Soothsayer_JC" target="Artemidorus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_JC|Decius_JC" source="Soothsayer_JC" target="Decius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_JC|Publius_JC" source="Soothsayer_JC" target="Publius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_JC|Popilius_JC" source="Soothsayer_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_JC|Cinna_JC" source="Soothsayer_JC" target="Cinna_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_JC|Metellus_JC" source="Soothsayer_JC" target="Metellus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_JC|Trebonius_JC" source="Soothsayer_JC" target="Trebonius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_JC|SERVANTS.ANTONY.1_JC" source="Soothsayer_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_JC|SERVANTS.OCTAVIUS.1_JC" source="Soothsayer_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|Cassius_JC" source="Brutus_JC" target="Cassius_JC">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Brutus_JC|Lucius_JC" source="Brutus_JC" target="Lucius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Brutus_JC|Decius_JC" source="Brutus_JC" target="Decius_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Brutus_JC|Cinna_JC" source="Brutus_JC" target="Cinna_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Brutus_JC|Metellus_JC" source="Brutus_JC" target="Metellus_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Brutus_JC|Trebonius_JC" source="Brutus_JC" target="Trebonius_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Brutus_JC|Portia_JC" source="Brutus_JC" target="Portia_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|Ligarius_JC" source="Brutus_JC" target="Ligarius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SERVANTS.CAESAR.1_JC" source="Brutus_JC" target="SERVANTS.CAESAR.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|Publius_JC" source="Brutus_JC" target="Publius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Brutus_JC|Artemidorus_JC" source="Brutus_JC" target="Artemidorus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|Popilius_JC" source="Brutus_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SERVANTS.ANTONY.1_JC" source="Brutus_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SERVANTS.OCTAVIUS.1_JC" source="Brutus_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Brutus_JC|PLEBEIANS_JC" source="Brutus_JC" target="PLEBEIANS_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|PLEBEIANS.0.1_JC" source="Brutus_JC" target="PLEBEIANS.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|PLEBEIANS.0.2_JC" source="Brutus_JC" target="PLEBEIANS.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|PLEBEIANS.0.3_JC" source="Brutus_JC" target="PLEBEIANS.0.3_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|PLEBEIANS.0.4_JC" source="Brutus_JC" target="PLEBEIANS.0.4_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.Lucilius_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.Lucilius_JC">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Brutus_JC|Pindarus_JC" source="Brutus_JC" target="Pindarus_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.0.1_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.0.2_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.0.3_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.0.3_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|Poet_JC" source="Brutus_JC" target="Poet_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.Messala_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.Messala_JC">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.Titinius_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.Titinius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.Varro_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.Varro_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.Claudius_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.Claudius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|Octavius_JC" source="Brutus_JC" target="Octavius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Brutus_JC|Messenger_JC" source="Brutus_JC" target="Messenger_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.Cato_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.Cato_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.ANTONY.0.1_JC" source="Brutus_JC" target="SOLDIERS.ANTONY.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.ANTONY.0.2_JC" source="Brutus_JC" target="SOLDIERS.ANTONY.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.Clitus_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.Clitus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.Dardanus_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.Dardanus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.Volumnius_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.Volumnius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Brutus_JC|SOLDIERS.BRUTUS.Strato_JC" source="Brutus_JC" target="SOLDIERS.BRUTUS.Strato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|Cicero_JC" source="Cassius_JC" target="Cicero_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|Cinna_JC" source="Cassius_JC" target="Cinna_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cassius_JC|Lucius_JC" source="Cassius_JC" target="Lucius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cassius_JC|Decius_JC" source="Cassius_JC" target="Decius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cassius_JC|Metellus_JC" source="Cassius_JC" target="Metellus_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cassius_JC|Trebonius_JC" source="Cassius_JC" target="Trebonius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cassius_JC|Portia_JC" source="Cassius_JC" target="Portia_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|Ligarius_JC" source="Cassius_JC" target="Ligarius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|Artemidorus_JC" source="Cassius_JC" target="Artemidorus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|Publius_JC" source="Cassius_JC" target="Publius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|Popilius_JC" source="Cassius_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|SERVANTS.ANTONY.1_JC" source="Cassius_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|SERVANTS.OCTAVIUS.1_JC" source="Cassius_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|SOLDIERS.BRUTUS.Lucilius_JC" source="Cassius_JC" target="SOLDIERS.BRUTUS.Lucilius_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cassius_JC|Pindarus_JC" source="Cassius_JC" target="Pindarus_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cassius_JC|SOLDIERS.BRUTUS.0.1_JC" source="Cassius_JC" target="SOLDIERS.BRUTUS.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|SOLDIERS.BRUTUS.0.2_JC" source="Cassius_JC" target="SOLDIERS.BRUTUS.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|SOLDIERS.BRUTUS.0.3_JC" source="Cassius_JC" target="SOLDIERS.BRUTUS.0.3_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|Poet_JC" source="Cassius_JC" target="Poet_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|SOLDIERS.BRUTUS.Messala_JC" source="Cassius_JC" target="SOLDIERS.BRUTUS.Messala_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cassius_JC|SOLDIERS.BRUTUS.Titinius_JC" source="Cassius_JC" target="SOLDIERS.BRUTUS.Titinius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cassius_JC|SOLDIERS.BRUTUS.Varro_JC" source="Cassius_JC" target="SOLDIERS.BRUTUS.Varro_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|SOLDIERS.BRUTUS.Claudius_JC" source="Cassius_JC" target="SOLDIERS.BRUTUS.Claudius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|Octavius_JC" source="Cassius_JC" target="Octavius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|Messenger_JC" source="Cassius_JC" target="Messenger_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassius_JC|SOLDIERS.BRUTUS.Cato_JC" source="Cassius_JC" target="SOLDIERS.BRUTUS.Cato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cicero_JC|Cinna_JC" source="Cicero_JC" target="Cinna_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cinna_JC|Lucius_JC" source="Cinna_JC" target="Lucius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cinna_JC|Decius_JC" source="Cinna_JC" target="Decius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cinna_JC|Metellus_JC" source="Cinna_JC" target="Metellus_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cinna_JC|Trebonius_JC" source="Cinna_JC" target="Trebonius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cinna_JC|Portia_JC" source="Cinna_JC" target="Portia_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cinna_JC|Ligarius_JC" source="Cinna_JC" target="Ligarius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cinna_JC|Artemidorus_JC" source="Cinna_JC" target="Artemidorus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cinna_JC|Publius_JC" source="Cinna_JC" target="Publius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cinna_JC|Popilius_JC" source="Cinna_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cinna_JC|SERVANTS.ANTONY.1_JC" source="Cinna_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cinna_JC|SERVANTS.OCTAVIUS.1_JC" source="Cinna_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_JC|Decius_JC" source="Lucius_JC" target="Decius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_JC|Metellus_JC" source="Lucius_JC" target="Metellus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_JC|Trebonius_JC" source="Lucius_JC" target="Trebonius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_JC|Portia_JC" source="Lucius_JC" target="Portia_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lucius_JC|Ligarius_JC" source="Lucius_JC" target="Ligarius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_JC|Poet_JC" source="Lucius_JC" target="Poet_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_JC|SOLDIERS.BRUTUS.Lucilius_JC" source="Lucius_JC" target="SOLDIERS.BRUTUS.Lucilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_JC|SOLDIERS.BRUTUS.Messala_JC" source="Lucius_JC" target="SOLDIERS.BRUTUS.Messala_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_JC|SOLDIERS.BRUTUS.Titinius_JC" source="Lucius_JC" target="SOLDIERS.BRUTUS.Titinius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_JC|SOLDIERS.BRUTUS.Varro_JC" source="Lucius_JC" target="SOLDIERS.BRUTUS.Varro_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_JC|SOLDIERS.BRUTUS.Claudius_JC" source="Lucius_JC" target="SOLDIERS.BRUTUS.Claudius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Decius_JC|Metellus_JC" source="Decius_JC" target="Metellus_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Decius_JC|Trebonius_JC" source="Decius_JC" target="Trebonius_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Decius_JC|Portia_JC" source="Decius_JC" target="Portia_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Decius_JC|Ligarius_JC" source="Decius_JC" target="Ligarius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Decius_JC|SERVANTS.CAESAR.1_JC" source="Decius_JC" target="SERVANTS.CAESAR.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Decius_JC|Publius_JC" source="Decius_JC" target="Publius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Decius_JC|Artemidorus_JC" source="Decius_JC" target="Artemidorus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Decius_JC|Popilius_JC" source="Decius_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Decius_JC|SERVANTS.ANTONY.1_JC" source="Decius_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Decius_JC|SERVANTS.OCTAVIUS.1_JC" source="Decius_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Metellus_JC|Trebonius_JC" source="Metellus_JC" target="Trebonius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Metellus_JC|Portia_JC" source="Metellus_JC" target="Portia_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Metellus_JC|Ligarius_JC" source="Metellus_JC" target="Ligarius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Metellus_JC|Artemidorus_JC" source="Metellus_JC" target="Artemidorus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Metellus_JC|Publius_JC" source="Metellus_JC" target="Publius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Metellus_JC|Popilius_JC" source="Metellus_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Metellus_JC|SERVANTS.ANTONY.1_JC" source="Metellus_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Metellus_JC|SERVANTS.OCTAVIUS.1_JC" source="Metellus_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Trebonius_JC|Portia_JC" source="Trebonius_JC" target="Portia_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Trebonius_JC|Ligarius_JC" source="Trebonius_JC" target="Ligarius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Trebonius_JC|SERVANTS.CAESAR.1_JC" source="Trebonius_JC" target="SERVANTS.CAESAR.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Trebonius_JC|Publius_JC" source="Trebonius_JC" target="Publius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Trebonius_JC|Artemidorus_JC" source="Trebonius_JC" target="Artemidorus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Trebonius_JC|Popilius_JC" source="Trebonius_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Trebonius_JC|SERVANTS.ANTONY.1_JC" source="Trebonius_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Trebonius_JC|SERVANTS.OCTAVIUS.1_JC" source="Trebonius_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Portia_JC|Ligarius_JC" source="Portia_JC" target="Ligarius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.CAESAR.1_JC|Publius_JC" source="SERVANTS.CAESAR.1_JC" target="Publius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Publius_JC|Artemidorus_JC" source="Publius_JC" target="Artemidorus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Publius_JC|Popilius_JC" source="Publius_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Publius_JC|SERVANTS.ANTONY.1_JC" source="Publius_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Publius_JC|SERVANTS.OCTAVIUS.1_JC" source="Publius_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Artemidorus_JC|Popilius_JC" source="Artemidorus_JC" target="Popilius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Artemidorus_JC|SERVANTS.ANTONY.1_JC" source="Artemidorus_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Artemidorus_JC|SERVANTS.OCTAVIUS.1_JC" source="Artemidorus_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Popilius_JC|SERVANTS.ANTONY.1_JC" source="Popilius_JC" target="SERVANTS.ANTONY.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Popilius_JC|SERVANTS.OCTAVIUS.1_JC" source="Popilius_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.ANTONY.1_JC|SERVANTS.OCTAVIUS.1_JC" source="SERVANTS.ANTONY.1_JC" target="SERVANTS.OCTAVIUS.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.OCTAVIUS.1_JC|PLEBEIANS_JC" source="SERVANTS.OCTAVIUS.1_JC" target="PLEBEIANS_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.OCTAVIUS.1_JC|PLEBEIANS.0.1_JC" source="SERVANTS.OCTAVIUS.1_JC" target="PLEBEIANS.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.OCTAVIUS.1_JC|PLEBEIANS.0.2_JC" source="SERVANTS.OCTAVIUS.1_JC" target="PLEBEIANS.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.OCTAVIUS.1_JC|PLEBEIANS.0.3_JC" source="SERVANTS.OCTAVIUS.1_JC" target="PLEBEIANS.0.3_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.OCTAVIUS.1_JC|PLEBEIANS.0.4_JC" source="SERVANTS.OCTAVIUS.1_JC" target="PLEBEIANS.0.4_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PLEBEIANS_JC|PLEBEIANS.0.1_JC" source="PLEBEIANS_JC" target="PLEBEIANS.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PLEBEIANS_JC|PLEBEIANS.0.2_JC" source="PLEBEIANS_JC" target="PLEBEIANS.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PLEBEIANS_JC|PLEBEIANS.0.3_JC" source="PLEBEIANS_JC" target="PLEBEIANS.0.3_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PLEBEIANS_JC|PLEBEIANS.0.4_JC" source="PLEBEIANS_JC" target="PLEBEIANS.0.4_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PLEBEIANS.0.1_JC|PLEBEIANS.0.2_JC" source="PLEBEIANS.0.1_JC" target="PLEBEIANS.0.2_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="PLEBEIANS.0.1_JC|PLEBEIANS.0.3_JC" source="PLEBEIANS.0.1_JC" target="PLEBEIANS.0.3_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="PLEBEIANS.0.1_JC|PLEBEIANS.0.4_JC" source="PLEBEIANS.0.1_JC" target="PLEBEIANS.0.4_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="PLEBEIANS.0.1_JC|CinnaPoet_JC" source="PLEBEIANS.0.1_JC" target="CinnaPoet_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PLEBEIANS.0.2_JC|PLEBEIANS.0.3_JC" source="PLEBEIANS.0.2_JC" target="PLEBEIANS.0.3_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="PLEBEIANS.0.2_JC|PLEBEIANS.0.4_JC" source="PLEBEIANS.0.2_JC" target="PLEBEIANS.0.4_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="PLEBEIANS.0.2_JC|CinnaPoet_JC" source="PLEBEIANS.0.2_JC" target="CinnaPoet_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PLEBEIANS.0.3_JC|PLEBEIANS.0.4_JC" source="PLEBEIANS.0.3_JC" target="PLEBEIANS.0.4_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="PLEBEIANS.0.3_JC|CinnaPoet_JC" source="PLEBEIANS.0.3_JC" target="CinnaPoet_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PLEBEIANS.0.4_JC|CinnaPoet_JC" source="PLEBEIANS.0.4_JC" target="CinnaPoet_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Lepidus_JC" source="Octavius_JC" target="Lepidus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|Messenger_JC" source="Octavius_JC" target="Messenger_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|SOLDIERS.BRUTUS.Lucilius_JC" source="Octavius_JC" target="SOLDIERS.BRUTUS.Lucilius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Octavius_JC|SOLDIERS.BRUTUS.Messala_JC" source="Octavius_JC" target="SOLDIERS.BRUTUS.Messala_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Octavius_JC|SOLDIERS.BRUTUS.Clitus_JC" source="Octavius_JC" target="SOLDIERS.BRUTUS.Clitus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|SOLDIERS.BRUTUS.Dardanus_JC" source="Octavius_JC" target="SOLDIERS.BRUTUS.Dardanus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|SOLDIERS.BRUTUS.Volumnius_JC" source="Octavius_JC" target="SOLDIERS.BRUTUS.Volumnius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Octavius_JC|SOLDIERS.BRUTUS.Strato_JC" source="Octavius_JC" target="SOLDIERS.BRUTUS.Strato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|Pindarus_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="Pindarus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.0.1_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.0.2_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.0.3_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.0.3_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|Poet_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="Poet_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.Messala_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.Messala_JC">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.Titinius_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.Titinius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.Varro_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.Varro_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.Claudius_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.Claudius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|Messenger_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="Messenger_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.Cato_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.Cato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.ANTONY.0.1_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.ANTONY.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.ANTONY.0.2_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.ANTONY.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.Clitus_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.Clitus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.Dardanus_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.Dardanus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.Volumnius_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.Volumnius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Lucilius_JC|SOLDIERS.BRUTUS.Strato_JC" source="SOLDIERS.BRUTUS.Lucilius_JC" target="SOLDIERS.BRUTUS.Strato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pindarus_JC|SOLDIERS.BRUTUS.0.1_JC" source="Pindarus_JC" target="SOLDIERS.BRUTUS.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pindarus_JC|SOLDIERS.BRUTUS.0.2_JC" source="Pindarus_JC" target="SOLDIERS.BRUTUS.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pindarus_JC|SOLDIERS.BRUTUS.0.3_JC" source="Pindarus_JC" target="SOLDIERS.BRUTUS.0.3_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pindarus_JC|SOLDIERS.BRUTUS.Titinius_JC" source="Pindarus_JC" target="SOLDIERS.BRUTUS.Titinius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pindarus_JC|SOLDIERS.BRUTUS.Messala_JC" source="Pindarus_JC" target="SOLDIERS.BRUTUS.Messala_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pindarus_JC|SOLDIERS.BRUTUS.Cato_JC" source="Pindarus_JC" target="SOLDIERS.BRUTUS.Cato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.0.1_JC|SOLDIERS.BRUTUS.0.2_JC" source="SOLDIERS.BRUTUS.0.1_JC" target="SOLDIERS.BRUTUS.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.0.1_JC|SOLDIERS.BRUTUS.0.3_JC" source="SOLDIERS.BRUTUS.0.1_JC" target="SOLDIERS.BRUTUS.0.3_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.0.2_JC|SOLDIERS.BRUTUS.0.3_JC" source="SOLDIERS.BRUTUS.0.2_JC" target="SOLDIERS.BRUTUS.0.3_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_JC|SOLDIERS.BRUTUS.Messala_JC" source="Poet_JC" target="SOLDIERS.BRUTUS.Messala_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_JC|SOLDIERS.BRUTUS.Titinius_JC" source="Poet_JC" target="SOLDIERS.BRUTUS.Titinius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_JC|SOLDIERS.BRUTUS.Varro_JC" source="Poet_JC" target="SOLDIERS.BRUTUS.Varro_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_JC|SOLDIERS.BRUTUS.Claudius_JC" source="Poet_JC" target="SOLDIERS.BRUTUS.Claudius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Messala_JC|SOLDIERS.BRUTUS.Titinius_JC" source="SOLDIERS.BRUTUS.Messala_JC" target="SOLDIERS.BRUTUS.Titinius_JC">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Messala_JC|SOLDIERS.BRUTUS.Varro_JC" source="SOLDIERS.BRUTUS.Messala_JC" target="SOLDIERS.BRUTUS.Varro_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Messala_JC|SOLDIERS.BRUTUS.Claudius_JC" source="SOLDIERS.BRUTUS.Messala_JC" target="SOLDIERS.BRUTUS.Claudius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Messala_JC|Messenger_JC" source="SOLDIERS.BRUTUS.Messala_JC" target="Messenger_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Messala_JC|SOLDIERS.BRUTUS.Cato_JC" source="SOLDIERS.BRUTUS.Messala_JC" target="SOLDIERS.BRUTUS.Cato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Messala_JC|SOLDIERS.BRUTUS.Clitus_JC" source="SOLDIERS.BRUTUS.Messala_JC" target="SOLDIERS.BRUTUS.Clitus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Messala_JC|SOLDIERS.BRUTUS.Dardanus_JC" source="SOLDIERS.BRUTUS.Messala_JC" target="SOLDIERS.BRUTUS.Dardanus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Messala_JC|SOLDIERS.BRUTUS.Volumnius_JC" source="SOLDIERS.BRUTUS.Messala_JC" target="SOLDIERS.BRUTUS.Volumnius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Messala_JC|SOLDIERS.BRUTUS.Strato_JC" source="SOLDIERS.BRUTUS.Messala_JC" target="SOLDIERS.BRUTUS.Strato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Titinius_JC|SOLDIERS.BRUTUS.Varro_JC" source="SOLDIERS.BRUTUS.Titinius_JC" target="SOLDIERS.BRUTUS.Varro_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Titinius_JC|SOLDIERS.BRUTUS.Claudius_JC" source="SOLDIERS.BRUTUS.Titinius_JC" target="SOLDIERS.BRUTUS.Claudius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Titinius_JC|SOLDIERS.BRUTUS.Cato_JC" source="SOLDIERS.BRUTUS.Titinius_JC" target="SOLDIERS.BRUTUS.Cato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Varro_JC|SOLDIERS.BRUTUS.Claudius_JC" source="SOLDIERS.BRUTUS.Varro_JC" target="SOLDIERS.BRUTUS.Claudius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Cato_JC|SOLDIERS.ANTONY.0.1_JC" source="SOLDIERS.BRUTUS.Cato_JC" target="SOLDIERS.ANTONY.0.1_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Cato_JC|SOLDIERS.ANTONY.0.2_JC" source="SOLDIERS.BRUTUS.Cato_JC" target="SOLDIERS.ANTONY.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ANTONY.0.1_JC|SOLDIERS.ANTONY.0.2_JC" source="SOLDIERS.ANTONY.0.1_JC" target="SOLDIERS.ANTONY.0.2_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Clitus_JC|SOLDIERS.BRUTUS.Dardanus_JC" source="SOLDIERS.BRUTUS.Clitus_JC" target="SOLDIERS.BRUTUS.Dardanus_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Clitus_JC|SOLDIERS.BRUTUS.Volumnius_JC" source="SOLDIERS.BRUTUS.Clitus_JC" target="SOLDIERS.BRUTUS.Volumnius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Clitus_JC|SOLDIERS.BRUTUS.Strato_JC" source="SOLDIERS.BRUTUS.Clitus_JC" target="SOLDIERS.BRUTUS.Strato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Dardanus_JC|SOLDIERS.BRUTUS.Volumnius_JC" source="SOLDIERS.BRUTUS.Dardanus_JC" target="SOLDIERS.BRUTUS.Volumnius_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Dardanus_JC|SOLDIERS.BRUTUS.Strato_JC" source="SOLDIERS.BRUTUS.Dardanus_JC" target="SOLDIERS.BRUTUS.Strato_JC">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRUTUS.Volumnius_JC|SOLDIERS.BRUTUS.Strato_JC" source="SOLDIERS.BRUTUS.Volumnius_JC" target="SOLDIERS.BRUTUS.Strato_JC">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

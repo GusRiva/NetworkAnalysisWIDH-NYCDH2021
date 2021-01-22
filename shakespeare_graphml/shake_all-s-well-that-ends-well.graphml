@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Countess_AWW">
+            <data key="label">Countess</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2112</data>
+        </node>
+        <node id="Bertram_AWW">
+            <data key="label">Bertram</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2033</data>
+        </node>
+        <node id="Lafew_AWW">
+            <data key="label">Lafew</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2209</data>
+        </node>
+        <node id="Helen_AWW">
+            <data key="label">Helen</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3545</data>
+        </node>
+        <node id="Parolles_AWW">
+            <data key="label">Parolles</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2995</data>
+        </node>
+        <node id="Page_AWW">
+            <data key="label">Page</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="King_AWW">
+            <data key="label">King</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2754</data>
+        </node>
+        <node id="ATTENDANTS.KING.0.1_AWW">
+            <data key="label">Attendants, Soldiers, Citizens of Florence, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">32</data>
+        </node>
+        <node id="ATTENDANTS.KING.0.2_AWW">
+            <data key="label">Attendants, Soldiers, Citizens of Florence, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">29</data>
+        </node>
+        <node id="Steward_AWW">
+            <data key="label">Steward</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">345</data>
+        </node>
+        <node id="Fool_AWW">
+            <data key="label">Fool</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1671</data>
+        </node>
+        <node id="LORDS.DUMAINE.1_AWW">
+            <data key="label">First Lord</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1100</data>
+        </node>
+        <node id="LORDS.DUMAINE.2_AWW">
+            <data key="label">Second Lord</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">837</data>
+        </node>
+        <node id="LORDS.COURT.1_AWW">
+            <data key="label">LORDS.COURT.1_AWW</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">11</data>
+        </node>
+        <node id="LORDS.COURT.2_AWW">
+            <data key="label">LORDS.COURT.2_AWW</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">13</data>
+        </node>
+        <node id="LORDS.COURT.3_AWW">
+            <data key="label">LORDS.COURT.3_AWW</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="LORDS.COURT.4_AWW">
+            <data key="label">LORDS.COURT.4_AWW</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">14</data>
+        </node>
+        <node id="Duke_AWW">
+            <data key="label">Duke</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">124</data>
+        </node>
+        <node id="GENTLEMEN.1_AWW">
+            <data key="label">First Gentleman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">61</data>
+        </node>
+        <node id="GENTLEMEN.2_AWW">
+            <data key="label">Second Gentleman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">79</data>
+        </node>
+        <node id="Widow_AWW">
+            <data key="label">Widow</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">435</data>
+        </node>
+        <node id="Diana_AWW">
+            <data key="label">Diana</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1024</data>
+        </node>
+        <node id="Mariana_AWW">
+            <data key="label">Mariana</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">172</data>
+        </node>
+        <node id="SOLDIERS.Interpreter_AWW">
+            <data key="label">First Soldier</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">598</data>
+        </node>
+        <node id="SOLDIERS_AWW">
+            <data key="label">Attendants, Soldiers, Citizens of Florence, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="SOLDIERS.0.1_AWW">
+            <data key="label">Attendants, Soldiers, Citizens of Florence, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="Servant_AWW">
+            <data key="label">Attendants, Soldiers, Citizens of Florence, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">34</data>
+        </node>
+        <node id="GENTLEMEN.3_AWW">
+            <data key="label">Gentleman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">125</data>
+        </node>
+        <node id="Epilogue_AWW">
+            <data key="label">Attendants, Soldiers, Citizens of Florence, Servants</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">52</data>
+        </node>
+        <edge id="Countess_AWW|Bertram_AWW" source="Countess_AWW" target="Bertram_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Countess_AWW|Lafew_AWW" source="Countess_AWW" target="Lafew_AWW">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Countess_AWW|Helen_AWW" source="Countess_AWW" target="Helen_AWW">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Countess_AWW|Parolles_AWW" source="Countess_AWW" target="Parolles_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Countess_AWW|Page_AWW" source="Countess_AWW" target="Page_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Countess_AWW|Steward_AWW" source="Countess_AWW" target="Steward_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Countess_AWW|Fool_AWW" source="Countess_AWW" target="Fool_AWW">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Countess_AWW|GENTLEMEN.1_AWW" source="Countess_AWW" target="GENTLEMEN.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Countess_AWW|GENTLEMEN.2_AWW" source="Countess_AWW" target="GENTLEMEN.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Countess_AWW|King_AWW" source="Countess_AWW" target="King_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Countess_AWW|ATTENDANTS.KING.0.1_AWW" source="Countess_AWW" target="ATTENDANTS.KING.0.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Countess_AWW|GENTLEMEN.3_AWW" source="Countess_AWW" target="GENTLEMEN.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Countess_AWW|Diana_AWW" source="Countess_AWW" target="Diana_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Countess_AWW|Widow_AWW" source="Countess_AWW" target="Widow_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bertram_AWW|Lafew_AWW" source="Bertram_AWW" target="Lafew_AWW">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Bertram_AWW|Helen_AWW" source="Bertram_AWW" target="Helen_AWW">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Bertram_AWW|Parolles_AWW" source="Bertram_AWW" target="Parolles_AWW">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Bertram_AWW|Page_AWW" source="Bertram_AWW" target="Page_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bertram_AWW|King_AWW" source="Bertram_AWW" target="King_AWW">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Bertram_AWW|ATTENDANTS.KING.0.1_AWW" source="Bertram_AWW" target="ATTENDANTS.KING.0.1_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bertram_AWW|ATTENDANTS.KING.0.2_AWW" source="Bertram_AWW" target="ATTENDANTS.KING.0.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bertram_AWW|LORDS.DUMAINE.1_AWW" source="Bertram_AWW" target="LORDS.DUMAINE.1_AWW">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bertram_AWW|LORDS.DUMAINE.2_AWW" source="Bertram_AWW" target="LORDS.DUMAINE.2_AWW">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bertram_AWW|LORDS.COURT.1_AWW" source="Bertram_AWW" target="LORDS.COURT.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bertram_AWW|LORDS.COURT.2_AWW" source="Bertram_AWW" target="LORDS.COURT.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bertram_AWW|LORDS.COURT.3_AWW" source="Bertram_AWW" target="LORDS.COURT.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bertram_AWW|LORDS.COURT.4_AWW" source="Bertram_AWW" target="LORDS.COURT.4_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bertram_AWW|Duke_AWW" source="Bertram_AWW" target="Duke_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bertram_AWW|Diana_AWW" source="Bertram_AWW" target="Diana_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bertram_AWW|Servant_AWW" source="Bertram_AWW" target="Servant_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bertram_AWW|SOLDIERS.Interpreter_AWW" source="Bertram_AWW" target="SOLDIERS.Interpreter_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bertram_AWW|GENTLEMEN.3_AWW" source="Bertram_AWW" target="GENTLEMEN.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bertram_AWW|Widow_AWW" source="Bertram_AWW" target="Widow_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lafew_AWW|Helen_AWW" source="Lafew_AWW" target="Helen_AWW">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Lafew_AWW|Parolles_AWW" source="Lafew_AWW" target="Parolles_AWW">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Lafew_AWW|Page_AWW" source="Lafew_AWW" target="Page_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lafew_AWW|King_AWW" source="Lafew_AWW" target="King_AWW">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lafew_AWW|LORDS.DUMAINE.1_AWW" source="Lafew_AWW" target="LORDS.DUMAINE.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lafew_AWW|LORDS.DUMAINE.2_AWW" source="Lafew_AWW" target="LORDS.DUMAINE.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lafew_AWW|LORDS.COURT.1_AWW" source="Lafew_AWW" target="LORDS.COURT.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lafew_AWW|LORDS.COURT.2_AWW" source="Lafew_AWW" target="LORDS.COURT.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lafew_AWW|LORDS.COURT.3_AWW" source="Lafew_AWW" target="LORDS.COURT.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lafew_AWW|LORDS.COURT.4_AWW" source="Lafew_AWW" target="LORDS.COURT.4_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lafew_AWW|Fool_AWW" source="Lafew_AWW" target="Fool_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lafew_AWW|ATTENDANTS.KING.0.1_AWW" source="Lafew_AWW" target="ATTENDANTS.KING.0.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lafew_AWW|GENTLEMEN.3_AWW" source="Lafew_AWW" target="GENTLEMEN.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lafew_AWW|Diana_AWW" source="Lafew_AWW" target="Diana_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lafew_AWW|Widow_AWW" source="Lafew_AWW" target="Widow_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|Parolles_AWW" source="Helen_AWW" target="Parolles_AWW">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Helen_AWW|Page_AWW" source="Helen_AWW" target="Page_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|Steward_AWW" source="Helen_AWW" target="Steward_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|Fool_AWW" source="Helen_AWW" target="Fool_AWW">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Helen_AWW|King_AWW" source="Helen_AWW" target="King_AWW">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Helen_AWW|LORDS.DUMAINE.1_AWW" source="Helen_AWW" target="LORDS.DUMAINE.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|LORDS.DUMAINE.2_AWW" source="Helen_AWW" target="LORDS.DUMAINE.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|LORDS.COURT.1_AWW" source="Helen_AWW" target="LORDS.COURT.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|LORDS.COURT.2_AWW" source="Helen_AWW" target="LORDS.COURT.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|LORDS.COURT.3_AWW" source="Helen_AWW" target="LORDS.COURT.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|LORDS.COURT.4_AWW" source="Helen_AWW" target="LORDS.COURT.4_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|GENTLEMEN.1_AWW" source="Helen_AWW" target="GENTLEMEN.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|GENTLEMEN.2_AWW" source="Helen_AWW" target="GENTLEMEN.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|Widow_AWW" source="Helen_AWW" target="Widow_AWW">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Helen_AWW|Diana_AWW" source="Helen_AWW" target="Diana_AWW">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Helen_AWW|Mariana_AWW" source="Helen_AWW" target="Mariana_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helen_AWW|GENTLEMEN.3_AWW" source="Helen_AWW" target="GENTLEMEN.3_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Helen_AWW|ATTENDANTS.KING.0.1_AWW" source="Helen_AWW" target="ATTENDANTS.KING.0.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Parolles_AWW|Page_AWW" source="Parolles_AWW" target="Page_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Parolles_AWW|King_AWW" source="Parolles_AWW" target="King_AWW">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Parolles_AWW|LORDS.DUMAINE.1_AWW" source="Parolles_AWW" target="LORDS.DUMAINE.1_AWW">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Parolles_AWW|LORDS.DUMAINE.2_AWW" source="Parolles_AWW" target="LORDS.DUMAINE.2_AWW">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Parolles_AWW|LORDS.COURT.1_AWW" source="Parolles_AWW" target="LORDS.COURT.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Parolles_AWW|LORDS.COURT.2_AWW" source="Parolles_AWW" target="LORDS.COURT.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Parolles_AWW|LORDS.COURT.3_AWW" source="Parolles_AWW" target="LORDS.COURT.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Parolles_AWW|LORDS.COURT.4_AWW" source="Parolles_AWW" target="LORDS.COURT.4_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Parolles_AWW|Fool_AWW" source="Parolles_AWW" target="Fool_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Parolles_AWW|Widow_AWW" source="Parolles_AWW" target="Widow_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Parolles_AWW|Diana_AWW" source="Parolles_AWW" target="Diana_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Parolles_AWW|Mariana_AWW" source="Parolles_AWW" target="Mariana_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Parolles_AWW|SOLDIERS.Interpreter_AWW" source="Parolles_AWW" target="SOLDIERS.Interpreter_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Parolles_AWW|SOLDIERS_AWW" source="Parolles_AWW" target="SOLDIERS_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Parolles_AWW|SOLDIERS.0.1_AWW" source="Parolles_AWW" target="SOLDIERS.0.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Parolles_AWW|Servant_AWW" source="Parolles_AWW" target="Servant_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Parolles_AWW|ATTENDANTS.KING.0.1_AWW" source="Parolles_AWW" target="ATTENDANTS.KING.0.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Parolles_AWW|GENTLEMEN.3_AWW" source="Parolles_AWW" target="GENTLEMEN.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="King_AWW|ATTENDANTS.KING.0.1_AWW" source="King_AWW" target="ATTENDANTS.KING.0.1_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="King_AWW|ATTENDANTS.KING.0.2_AWW" source="King_AWW" target="ATTENDANTS.KING.0.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="King_AWW|LORDS.DUMAINE.1_AWW" source="King_AWW" target="LORDS.DUMAINE.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="King_AWW|LORDS.DUMAINE.2_AWW" source="King_AWW" target="LORDS.DUMAINE.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="King_AWW|LORDS.COURT.1_AWW" source="King_AWW" target="LORDS.COURT.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="King_AWW|LORDS.COURT.2_AWW" source="King_AWW" target="LORDS.COURT.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="King_AWW|LORDS.COURT.3_AWW" source="King_AWW" target="LORDS.COURT.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="King_AWW|LORDS.COURT.4_AWW" source="King_AWW" target="LORDS.COURT.4_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="King_AWW|GENTLEMEN.3_AWW" source="King_AWW" target="GENTLEMEN.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="King_AWW|Diana_AWW" source="King_AWW" target="Diana_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="King_AWW|Widow_AWW" source="King_AWW" target="Widow_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.KING.0.1_AWW|ATTENDANTS.KING.0.2_AWW" source="ATTENDANTS.KING.0.1_AWW" target="ATTENDANTS.KING.0.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.KING.0.1_AWW|GENTLEMEN.3_AWW" source="ATTENDANTS.KING.0.1_AWW" target="GENTLEMEN.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.KING.0.1_AWW|Diana_AWW" source="ATTENDANTS.KING.0.1_AWW" target="Diana_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.KING.0.1_AWW|Widow_AWW" source="ATTENDANTS.KING.0.1_AWW" target="Widow_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Steward_AWW|Fool_AWW" source="Steward_AWW" target="Fool_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fool_AWW|GENTLEMEN.1_AWW" source="Fool_AWW" target="GENTLEMEN.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fool_AWW|GENTLEMEN.2_AWW" source="Fool_AWW" target="GENTLEMEN.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.DUMAINE.1_AWW|LORDS.DUMAINE.2_AWW" source="LORDS.DUMAINE.1_AWW" target="LORDS.DUMAINE.2_AWW">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="LORDS.DUMAINE.1_AWW|Duke_AWW" source="LORDS.DUMAINE.1_AWW" target="Duke_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.DUMAINE.1_AWW|SOLDIERS.Interpreter_AWW" source="LORDS.DUMAINE.1_AWW" target="SOLDIERS.Interpreter_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LORDS.DUMAINE.1_AWW|SOLDIERS_AWW" source="LORDS.DUMAINE.1_AWW" target="SOLDIERS_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.DUMAINE.1_AWW|SOLDIERS.0.1_AWW" source="LORDS.DUMAINE.1_AWW" target="SOLDIERS.0.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.DUMAINE.1_AWW|Servant_AWW" source="LORDS.DUMAINE.1_AWW" target="Servant_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.DUMAINE.2_AWW|Duke_AWW" source="LORDS.DUMAINE.2_AWW" target="Duke_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.DUMAINE.2_AWW|Servant_AWW" source="LORDS.DUMAINE.2_AWW" target="Servant_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.DUMAINE.2_AWW|SOLDIERS.Interpreter_AWW" source="LORDS.DUMAINE.2_AWW" target="SOLDIERS.Interpreter_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.COURT.1_AWW|LORDS.COURT.2_AWW" source="LORDS.COURT.1_AWW" target="LORDS.COURT.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.COURT.1_AWW|LORDS.COURT.3_AWW" source="LORDS.COURT.1_AWW" target="LORDS.COURT.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.COURT.1_AWW|LORDS.COURT.4_AWW" source="LORDS.COURT.1_AWW" target="LORDS.COURT.4_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.COURT.2_AWW|LORDS.COURT.3_AWW" source="LORDS.COURT.2_AWW" target="LORDS.COURT.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.COURT.2_AWW|LORDS.COURT.4_AWW" source="LORDS.COURT.2_AWW" target="LORDS.COURT.4_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.COURT.3_AWW|LORDS.COURT.4_AWW" source="LORDS.COURT.3_AWW" target="LORDS.COURT.4_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GENTLEMEN.1_AWW|GENTLEMEN.2_AWW" source="GENTLEMEN.1_AWW" target="GENTLEMEN.2_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Widow_AWW|Diana_AWW" source="Widow_AWW" target="Diana_AWW">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Widow_AWW|Mariana_AWW" source="Widow_AWW" target="Mariana_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Widow_AWW|GENTLEMEN.3_AWW" source="Widow_AWW" target="GENTLEMEN.3_AWW">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Diana_AWW|Mariana_AWW" source="Diana_AWW" target="Mariana_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Diana_AWW|GENTLEMEN.3_AWW" source="Diana_AWW" target="GENTLEMEN.3_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.Interpreter_AWW|SOLDIERS_AWW" source="SOLDIERS.Interpreter_AWW" target="SOLDIERS_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.Interpreter_AWW|SOLDIERS.0.1_AWW" source="SOLDIERS.Interpreter_AWW" target="SOLDIERS.0.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.Interpreter_AWW|Servant_AWW" source="SOLDIERS.Interpreter_AWW" target="Servant_AWW">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS_AWW|SOLDIERS.0.1_AWW" source="SOLDIERS_AWW" target="SOLDIERS.0.1_AWW">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

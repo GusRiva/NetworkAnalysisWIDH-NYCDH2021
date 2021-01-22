@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Chorus_H5">
+            <data key="label">Chorus</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">1668</data>
+        </node>
+        <node id="BishopOfCanterbury_H5">
+            <data key="label">Bishop of Canterbury</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1652</data>
+        </node>
+        <node id="BishopOfEly_H5">
+            <data key="label">Bishop of Ely</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">240</data>
+        </node>
+        <node id="HenryV_H5">
+            <data key="label">Henry V, King of England</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8332</data>
+        </node>
+        <node id="Exeter_H5">
+            <data key="label">Thomas, Duke of Exeter</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">965</data>
+        </node>
+        <node id="Westmoreland_1H4">
+            <data key="label">Earl of Westmoreland</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">144</data>
+        </node>
+        <node id="AMBASSADORS.0.1_H5">
+            <data key="label">AMBASSADORS.0.1_H5</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">132</data>
+        </node>
+        <node id="Bardolph_1H4">
+            <data key="label">Bardolph</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">224</data>
+        </node>
+        <node id="Nym_H5">
+            <data key="label">Nym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">386</data>
+        </node>
+        <node id="Pistol_2H4">
+            <data key="label">Pistol</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1118</data>
+        </node>
+        <node id="MistressQuickly_1H4">
+            <data key="label">Hostess Quickly</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">360</data>
+        </node>
+        <node id="Boy_H5">
+            <data key="label">Boy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">626</data>
+        </node>
+        <node id="Bedford_H5">
+            <data key="label">John, Duke of Bedford</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">77</data>
+        </node>
+        <node id="Scroop_H5">
+            <data key="label">Lord Scroop of Masham</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">93</data>
+        </node>
+        <node id="Cambridge_H5">
+            <data key="label">Earl of Cambridge</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">107</data>
+        </node>
+        <node id="Grey_H5">
+            <data key="label">Sir Thomas Grey</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">86</data>
+        </node>
+        <node id="KingOfFrance_H5">
+            <data key="label">King of France</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">699</data>
+        </node>
+        <node id="Dauphin_H5">
+            <data key="label">Dauphin</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">905</data>
+        </node>
+        <node id="Constable_H5">
+            <data key="label">Constable of France</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">922</data>
+        </node>
+        <node id="MESSENGERS.X.1_H5">
+            <data key="label">Lords, Attendants, Soldiers, French Prisoners, Messengers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">12</data>
+        </node>
+        <node id="Fluellen_H5">
+            <data key="label">Captain Fluellen</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2501</data>
+        </node>
+        <node id="Gower_H5">
+            <data key="label">Captain Gower</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">507</data>
+        </node>
+        <node id="Jamy_H5">
+            <data key="label">Captain Jamy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">98</data>
+        </node>
+        <node id="MacMorris_H5">
+            <data key="label">Captain MacMorris</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">205</data>
+        </node>
+        <node id="Governor_H5">
+            <data key="label">Governor_H5</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">56</data>
+        </node>
+        <node id="Katherine_H5">
+            <data key="label">Katherine</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">441</data>
+        </node>
+        <node id="Alice_H5">
+            <data key="label">Alice</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">164</data>
+        </node>
+        <node id="Brittany_H5">
+            <data key="label">Duke of Brittany</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">65</data>
+        </node>
+        <node id="Montjoy_H5">
+            <data key="label">Montjoy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">399</data>
+        </node>
+        <node id="Gloucester_2H4">
+            <data key="label">Humphrey, Duke of Gloucester</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">28</data>
+        </node>
+        <node id="Orleans_H5">
+            <data key="label">Duke of Orléans</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">312</data>
+        </node>
+        <node id="Rambures_H5">
+            <data key="label">Lord Rambures</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">66</data>
+        </node>
+        <node id="MESSENGERS.X.2_H5">
+            <data key="label">Lords, Attendants, Soldiers, French Prisoners, Messengers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">17</data>
+        </node>
+        <node id="Erpingham_H5">
+            <data key="label">Sir Thomas Erpingham</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">53</data>
+        </node>
+        <node id="SOLDIERS.ENGLISH.Court_H5">
+            <data key="label">Alexander Court</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">11</data>
+        </node>
+        <node id="SOLDIERS.ENGLISH.Bates_H5">
+            <data key="label">John Bates</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">167</data>
+        </node>
+        <node id="SOLDIERS.ENGLISH.Williams_H5">
+            <data key="label">Michael Williams</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">621</data>
+        </node>
+        <node id="MESSENGERS.X.3_H5">
+            <data key="label">Lords, Attendants, Soldiers, French Prisoners, Messengers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="Grandpre_H5">
+            <data key="label">Lord Grandpré</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">137</data>
+        </node>
+        <node id="Salisbury_H5">
+            <data key="label">Earl of Salisbury</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">75</data>
+        </node>
+        <node id="York_H5">
+            <data key="label">Duke of York</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">14</data>
+        </node>
+        <node id="SOLDIERS.FRENCH.LeFer_H5">
+            <data key="label">Monsieur Le Fer</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">98</data>
+        </node>
+        <node id="Bourbon_H5">
+            <data key="label">Duke of Bourbon</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">74</data>
+        </node>
+        <node id="Warwick_2H4">
+            <data key="label">Earl of Warwick</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="HERALDS.1_H5">
+            <data key="label">HERALDS.1_H5</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="QueenOfFrance_H5">
+            <data key="label">Queen Isabel of France</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">188</data>
+        </node>
+        <node id="Burgundy_H5">
+            <data key="label">Duke of Burgundy</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">512</data>
+        </node>
+        <node id="ATTENDANTS.ENGLISH_H5">
+            <data key="label">Lords, Attendants, Soldiers, French Prisoners, Messengers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">1</data>
+        </node>
+        <edge id="BishopOfCanterbury_H5|BishopOfEly_H5" source="BishopOfCanterbury_H5" target="BishopOfEly_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="BishopOfCanterbury_H5|HenryV_H5" source="BishopOfCanterbury_H5" target="HenryV_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfCanterbury_H5|Exeter_H5" source="BishopOfCanterbury_H5" target="Exeter_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfCanterbury_H5|Westmoreland_1H4" source="BishopOfCanterbury_H5" target="Westmoreland_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfCanterbury_H5|AMBASSADORS.0.1_H5" source="BishopOfCanterbury_H5" target="AMBASSADORS.0.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfEly_H5|HenryV_H5" source="BishopOfEly_H5" target="HenryV_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfEly_H5|Exeter_H5" source="BishopOfEly_H5" target="Exeter_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfEly_H5|Westmoreland_1H4" source="BishopOfEly_H5" target="Westmoreland_1H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BishopOfEly_H5|AMBASSADORS.0.1_H5" source="BishopOfEly_H5" target="AMBASSADORS.0.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Exeter_H5" source="HenryV_H5" target="Exeter_H5">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="HenryV_H5|Westmoreland_1H4" source="HenryV_H5" target="Westmoreland_1H4">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="HenryV_H5|AMBASSADORS.0.1_H5" source="HenryV_H5" target="AMBASSADORS.0.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Bedford_H5" source="HenryV_H5" target="Bedford_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryV_H5|Scroop_H5" source="HenryV_H5" target="Scroop_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Cambridge_H5" source="HenryV_H5" target="Cambridge_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Grey_H5" source="HenryV_H5" target="Grey_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Governor_H5" source="HenryV_H5" target="Governor_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Gower_H5" source="HenryV_H5" target="Gower_H5">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="HenryV_H5|Fluellen_H5" source="HenryV_H5" target="Fluellen_H5">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="HenryV_H5|Pistol_2H4" source="HenryV_H5" target="Pistol_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryV_H5|Montjoy_H5" source="HenryV_H5" target="Montjoy_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="HenryV_H5|Gloucester_2H4" source="HenryV_H5" target="Gloucester_2H4">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="HenryV_H5|Erpingham_H5" source="HenryV_H5" target="Erpingham_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|SOLDIERS.ENGLISH.Court_H5" source="HenryV_H5" target="SOLDIERS.ENGLISH.Court_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|SOLDIERS.ENGLISH.Bates_H5" source="HenryV_H5" target="SOLDIERS.ENGLISH.Bates_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|SOLDIERS.ENGLISH.Williams_H5" source="HenryV_H5" target="SOLDIERS.ENGLISH.Williams_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="HenryV_H5|Salisbury_H5" source="HenryV_H5" target="Salisbury_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|York_H5" source="HenryV_H5" target="York_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Warwick_2H4" source="HenryV_H5" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|HERALDS.1_H5" source="HenryV_H5" target="HERALDS.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|KingOfFrance_H5" source="HenryV_H5" target="KingOfFrance_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|QueenOfFrance_H5" source="HenryV_H5" target="QueenOfFrance_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Burgundy_H5" source="HenryV_H5" target="Burgundy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Katherine_H5" source="HenryV_H5" target="Katherine_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|Alice_H5" source="HenryV_H5" target="Alice_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryV_H5|ATTENDANTS.ENGLISH_H5" source="HenryV_H5" target="ATTENDANTS.ENGLISH_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Westmoreland_1H4" source="Exeter_H5" target="Westmoreland_1H4">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Exeter_H5|AMBASSADORS.0.1_H5" source="Exeter_H5" target="AMBASSADORS.0.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Bedford_H5" source="Exeter_H5" target="Bedford_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_H5|Scroop_H5" source="Exeter_H5" target="Scroop_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Cambridge_H5" source="Exeter_H5" target="Cambridge_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Grey_H5" source="Exeter_H5" target="Grey_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|KingOfFrance_H5" source="Exeter_H5" target="KingOfFrance_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_H5|Dauphin_H5" source="Exeter_H5" target="Dauphin_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Constable_H5" source="Exeter_H5" target="Constable_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|MESSENGERS.X.1_H5" source="Exeter_H5" target="MESSENGERS.X.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Gloucester_2H4" source="Exeter_H5" target="Gloucester_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_H5|Salisbury_H5" source="Exeter_H5" target="Salisbury_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Montjoy_H5" source="Exeter_H5" target="Montjoy_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_H5|York_H5" source="Exeter_H5" target="York_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Fluellen_H5" source="Exeter_H5" target="Fluellen_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_H5|Gower_H5" source="Exeter_H5" target="Gower_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_H5|SOLDIERS.ENGLISH.Williams_H5" source="Exeter_H5" target="SOLDIERS.ENGLISH.Williams_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_H5|Warwick_2H4" source="Exeter_H5" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|HERALDS.1_H5" source="Exeter_H5" target="HERALDS.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|QueenOfFrance_H5" source="Exeter_H5" target="QueenOfFrance_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Burgundy_H5" source="Exeter_H5" target="Burgundy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Katherine_H5" source="Exeter_H5" target="Katherine_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|Alice_H5" source="Exeter_H5" target="Alice_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_H5|ATTENDANTS.ENGLISH_H5" source="Exeter_H5" target="ATTENDANTS.ENGLISH_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|AMBASSADORS.0.1_H5" source="Westmoreland_1H4" target="AMBASSADORS.0.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Bedford_H5" source="Westmoreland_1H4" target="Bedford_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Scroop_H5" source="Westmoreland_1H4" target="Scroop_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Cambridge_H5" source="Westmoreland_1H4" target="Cambridge_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Grey_H5" source="Westmoreland_1H4" target="Grey_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Gloucester_2H4" source="Westmoreland_1H4" target="Gloucester_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Salisbury_H5" source="Westmoreland_1H4" target="Salisbury_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Montjoy_H5" source="Westmoreland_1H4" target="Montjoy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|York_H5" source="Westmoreland_1H4" target="York_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|KingOfFrance_H5" source="Westmoreland_1H4" target="KingOfFrance_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|QueenOfFrance_H5" source="Westmoreland_1H4" target="QueenOfFrance_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Burgundy_H5" source="Westmoreland_1H4" target="Burgundy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Katherine_H5" source="Westmoreland_1H4" target="Katherine_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|Alice_H5" source="Westmoreland_1H4" target="Alice_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmoreland_1H4|ATTENDANTS.ENGLISH_H5" source="Westmoreland_1H4" target="ATTENDANTS.ENGLISH_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Nym_H5" source="Bardolph_1H4" target="Nym_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bardolph_1H4|Pistol_2H4" source="Bardolph_1H4" target="Pistol_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bardolph_1H4|MistressQuickly_1H4" source="Bardolph_1H4" target="MistressQuickly_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bardolph_1H4|Boy_H5" source="Bardolph_1H4" target="Boy_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Bardolph_1H4|Fluellen_H5" source="Bardolph_1H4" target="Fluellen_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Gower_H5" source="Bardolph_1H4" target="Gower_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|Jamy_H5" source="Bardolph_1H4" target="Jamy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bardolph_1H4|MacMorris_H5" source="Bardolph_1H4" target="MacMorris_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nym_H5|Pistol_2H4" source="Nym_H5" target="Pistol_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Nym_H5|MistressQuickly_1H4" source="Nym_H5" target="MistressQuickly_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Nym_H5|Boy_H5" source="Nym_H5" target="Boy_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Nym_H5|Fluellen_H5" source="Nym_H5" target="Fluellen_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nym_H5|Gower_H5" source="Nym_H5" target="Gower_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nym_H5|Jamy_H5" source="Nym_H5" target="Jamy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nym_H5|MacMorris_H5" source="Nym_H5" target="MacMorris_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|MistressQuickly_1H4" source="Pistol_2H4" target="MistressQuickly_1H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pistol_2H4|Boy_H5" source="Pistol_2H4" target="Boy_H5">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Pistol_2H4|Fluellen_H5" source="Pistol_2H4" target="Fluellen_H5">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Pistol_2H4|Gower_H5" source="Pistol_2H4" target="Gower_H5">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Pistol_2H4|Jamy_H5" source="Pistol_2H4" target="Jamy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|MacMorris_H5" source="Pistol_2H4" target="MacMorris_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|Montjoy_H5" source="Pistol_2H4" target="Montjoy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|Gloucester_2H4" source="Pistol_2H4" target="Gloucester_2H4">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pistol_2H4|Erpingham_H5" source="Pistol_2H4" target="Erpingham_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|SOLDIERS.ENGLISH.Court_H5" source="Pistol_2H4" target="SOLDIERS.ENGLISH.Court_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|SOLDIERS.ENGLISH.Bates_H5" source="Pistol_2H4" target="SOLDIERS.ENGLISH.Bates_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|SOLDIERS.ENGLISH.Williams_H5" source="Pistol_2H4" target="SOLDIERS.ENGLISH.Williams_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pistol_2H4|SOLDIERS.FRENCH.LeFer_H5" source="Pistol_2H4" target="SOLDIERS.FRENCH.LeFer_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MistressQuickly_1H4|Boy_H5" source="MistressQuickly_1H4" target="Boy_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Boy_H5|Fluellen_H5" source="Boy_H5" target="Fluellen_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boy_H5|Gower_H5" source="Boy_H5" target="Gower_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boy_H5|Jamy_H5" source="Boy_H5" target="Jamy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boy_H5|MacMorris_H5" source="Boy_H5" target="MacMorris_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Boy_H5|SOLDIERS.FRENCH.LeFer_H5" source="Boy_H5" target="SOLDIERS.FRENCH.LeFer_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Scroop_H5" source="Bedford_H5" target="Scroop_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Cambridge_H5" source="Bedford_H5" target="Cambridge_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Grey_H5" source="Bedford_H5" target="Grey_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Gloucester_2H4" source="Bedford_H5" target="Gloucester_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Salisbury_H5" source="Bedford_H5" target="Salisbury_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|Montjoy_H5" source="Bedford_H5" target="Montjoy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bedford_H5|York_H5" source="Bedford_H5" target="York_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Scroop_H5|Cambridge_H5" source="Scroop_H5" target="Cambridge_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Scroop_H5|Grey_H5" source="Scroop_H5" target="Grey_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cambridge_H5|Grey_H5" source="Cambridge_H5" target="Grey_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingOfFrance_H5|Dauphin_H5" source="KingOfFrance_H5" target="Dauphin_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingOfFrance_H5|Constable_H5" source="KingOfFrance_H5" target="Constable_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="KingOfFrance_H5|MESSENGERS.X.1_H5" source="KingOfFrance_H5" target="MESSENGERS.X.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingOfFrance_H5|Brittany_H5" source="KingOfFrance_H5" target="Brittany_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingOfFrance_H5|QueenOfFrance_H5" source="KingOfFrance_H5" target="QueenOfFrance_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingOfFrance_H5|Burgundy_H5" source="KingOfFrance_H5" target="Burgundy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingOfFrance_H5|Katherine_H5" source="KingOfFrance_H5" target="Katherine_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingOfFrance_H5|Alice_H5" source="KingOfFrance_H5" target="Alice_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingOfFrance_H5|ATTENDANTS.ENGLISH_H5" source="KingOfFrance_H5" target="ATTENDANTS.ENGLISH_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dauphin_H5|Constable_H5" source="Dauphin_H5" target="Constable_H5">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Dauphin_H5|MESSENGERS.X.1_H5" source="Dauphin_H5" target="MESSENGERS.X.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dauphin_H5|Brittany_H5" source="Dauphin_H5" target="Brittany_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dauphin_H5|Orleans_H5" source="Dauphin_H5" target="Orleans_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Dauphin_H5|Rambures_H5" source="Dauphin_H5" target="Rambures_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Dauphin_H5|MESSENGERS.X.2_H5" source="Dauphin_H5" target="MESSENGERS.X.2_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dauphin_H5|MESSENGERS.X.3_H5" source="Dauphin_H5" target="MESSENGERS.X.3_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dauphin_H5|Grandpre_H5" source="Dauphin_H5" target="Grandpre_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Dauphin_H5|Bourbon_H5" source="Dauphin_H5" target="Bourbon_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Constable_H5|MESSENGERS.X.1_H5" source="Constable_H5" target="MESSENGERS.X.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Constable_H5|Brittany_H5" source="Constable_H5" target="Brittany_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Constable_H5|Orleans_H5" source="Constable_H5" target="Orleans_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Constable_H5|Rambures_H5" source="Constable_H5" target="Rambures_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Constable_H5|MESSENGERS.X.2_H5" source="Constable_H5" target="MESSENGERS.X.2_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Constable_H5|MESSENGERS.X.3_H5" source="Constable_H5" target="MESSENGERS.X.3_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Constable_H5|Grandpre_H5" source="Constable_H5" target="Grandpre_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Constable_H5|Bourbon_H5" source="Constable_H5" target="Bourbon_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fluellen_H5|Gower_H5" source="Fluellen_H5" target="Gower_H5">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Fluellen_H5|Jamy_H5" source="Fluellen_H5" target="Jamy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fluellen_H5|MacMorris_H5" source="Fluellen_H5" target="MacMorris_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fluellen_H5|Montjoy_H5" source="Fluellen_H5" target="Montjoy_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Fluellen_H5|Gloucester_2H4" source="Fluellen_H5" target="Gloucester_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Fluellen_H5|Erpingham_H5" source="Fluellen_H5" target="Erpingham_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fluellen_H5|SOLDIERS.ENGLISH.Court_H5" source="Fluellen_H5" target="SOLDIERS.ENGLISH.Court_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fluellen_H5|SOLDIERS.ENGLISH.Bates_H5" source="Fluellen_H5" target="SOLDIERS.ENGLISH.Bates_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fluellen_H5|SOLDIERS.ENGLISH.Williams_H5" source="Fluellen_H5" target="SOLDIERS.ENGLISH.Williams_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Fluellen_H5|Warwick_2H4" source="Fluellen_H5" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fluellen_H5|HERALDS.1_H5" source="Fluellen_H5" target="HERALDS.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gower_H5|Jamy_H5" source="Gower_H5" target="Jamy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gower_H5|MacMorris_H5" source="Gower_H5" target="MacMorris_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gower_H5|Montjoy_H5" source="Gower_H5" target="Montjoy_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gower_H5|Gloucester_2H4" source="Gower_H5" target="Gloucester_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Gower_H5|Erpingham_H5" source="Gower_H5" target="Erpingham_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gower_H5|SOLDIERS.ENGLISH.Court_H5" source="Gower_H5" target="SOLDIERS.ENGLISH.Court_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gower_H5|SOLDIERS.ENGLISH.Bates_H5" source="Gower_H5" target="SOLDIERS.ENGLISH.Bates_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gower_H5|SOLDIERS.ENGLISH.Williams_H5" source="Gower_H5" target="SOLDIERS.ENGLISH.Williams_H5">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Gower_H5|Warwick_2H4" source="Gower_H5" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gower_H5|HERALDS.1_H5" source="Gower_H5" target="HERALDS.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jamy_H5|MacMorris_H5" source="Jamy_H5" target="MacMorris_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H5|Alice_H5" source="Katherine_H5" target="Alice_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Katherine_H5|QueenOfFrance_H5" source="Katherine_H5" target="QueenOfFrance_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H5|Burgundy_H5" source="Katherine_H5" target="Burgundy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_H5|ATTENDANTS.ENGLISH_H5" source="Katherine_H5" target="ATTENDANTS.ENGLISH_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alice_H5|QueenOfFrance_H5" source="Alice_H5" target="QueenOfFrance_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alice_H5|Burgundy_H5" source="Alice_H5" target="Burgundy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alice_H5|ATTENDANTS.ENGLISH_H5" source="Alice_H5" target="ATTENDANTS.ENGLISH_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montjoy_H5|Gloucester_2H4" source="Montjoy_H5" target="Gloucester_2H4">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Montjoy_H5|Salisbury_H5" source="Montjoy_H5" target="Salisbury_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montjoy_H5|York_H5" source="Montjoy_H5" target="York_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montjoy_H5|SOLDIERS.ENGLISH.Williams_H5" source="Montjoy_H5" target="SOLDIERS.ENGLISH.Williams_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|Erpingham_H5" source="Gloucester_2H4" target="Erpingham_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|SOLDIERS.ENGLISH.Court_H5" source="Gloucester_2H4" target="SOLDIERS.ENGLISH.Court_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|SOLDIERS.ENGLISH.Bates_H5" source="Gloucester_2H4" target="SOLDIERS.ENGLISH.Bates_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|SOLDIERS.ENGLISH.Williams_H5" source="Gloucester_2H4" target="SOLDIERS.ENGLISH.Williams_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gloucester_2H4|Salisbury_H5" source="Gloucester_2H4" target="Salisbury_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gloucester_2H4|York_H5" source="Gloucester_2H4" target="York_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orleans_H5|Rambures_H5" source="Orleans_H5" target="Rambures_H5">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Orleans_H5|MESSENGERS.X.2_H5" source="Orleans_H5" target="MESSENGERS.X.2_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orleans_H5|MESSENGERS.X.3_H5" source="Orleans_H5" target="MESSENGERS.X.3_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orleans_H5|Grandpre_H5" source="Orleans_H5" target="Grandpre_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Orleans_H5|Bourbon_H5" source="Orleans_H5" target="Bourbon_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Rambures_H5|MESSENGERS.X.2_H5" source="Rambures_H5" target="MESSENGERS.X.2_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Rambures_H5|MESSENGERS.X.3_H5" source="Rambures_H5" target="MESSENGERS.X.3_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Rambures_H5|Grandpre_H5" source="Rambures_H5" target="Grandpre_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Erpingham_H5|SOLDIERS.ENGLISH.Court_H5" source="Erpingham_H5" target="SOLDIERS.ENGLISH.Court_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Erpingham_H5|SOLDIERS.ENGLISH.Bates_H5" source="Erpingham_H5" target="SOLDIERS.ENGLISH.Bates_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Erpingham_H5|SOLDIERS.ENGLISH.Williams_H5" source="Erpingham_H5" target="SOLDIERS.ENGLISH.Williams_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ENGLISH.Court_H5|SOLDIERS.ENGLISH.Bates_H5" source="SOLDIERS.ENGLISH.Court_H5" target="SOLDIERS.ENGLISH.Bates_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ENGLISH.Court_H5|SOLDIERS.ENGLISH.Williams_H5" source="SOLDIERS.ENGLISH.Court_H5" target="SOLDIERS.ENGLISH.Williams_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ENGLISH.Bates_H5|SOLDIERS.ENGLISH.Williams_H5" source="SOLDIERS.ENGLISH.Bates_H5" target="SOLDIERS.ENGLISH.Williams_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ENGLISH.Williams_H5|Warwick_2H4" source="SOLDIERS.ENGLISH.Williams_H5" target="Warwick_2H4">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ENGLISH.Williams_H5|HERALDS.1_H5" source="SOLDIERS.ENGLISH.Williams_H5" target="HERALDS.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.3_H5|Grandpre_H5" source="MESSENGERS.X.3_H5" target="Grandpre_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Salisbury_H5|York_H5" source="Salisbury_H5" target="York_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H4|HERALDS.1_H5" source="Warwick_2H4" target="HERALDS.1_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenOfFrance_H5|Burgundy_H5" source="QueenOfFrance_H5" target="Burgundy_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenOfFrance_H5|ATTENDANTS.ENGLISH_H5" source="QueenOfFrance_H5" target="ATTENDANTS.ENGLISH_H5">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Burgundy_H5|ATTENDANTS.ENGLISH_H5" source="Burgundy_H5" target="ATTENDANTS.ENGLISH_H5">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Sly_Shr">
+            <data key="label">Christopher Sly</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">522</data>
+        </node>
+        <node id="Hostess_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">26</data>
+        </node>
+        <node id="Lord_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">1059</data>
+        </node>
+        <node id="HUNTSMEN.0.1_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">38</data>
+        </node>
+        <node id="HUNTSMEN.0.2_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">29</data>
+        </node>
+        <node id="HUNTSMEN.0.3_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">36</data>
+        </node>
+        <node id="SERVANTS.LORD.0.1_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">142</data>
+        </node>
+        <node id="PLAYERS_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="PLAYERS.0.1_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="PLAYERS.0.2_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="SERVANTS.LORD.0.2_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">103</data>
+        </node>
+        <node id="SERVANTS.LORD.0.3_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">99</data>
+        </node>
+        <node id="SERVANTS.LORD_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">1</data>
+        </node>
+        <node id="Page_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">122</data>
+        </node>
+        <node id="Messenger_Shr">
+            <data key="label">characters in the Induction</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">61</data>
+        </node>
+        <node id="Lucentio_Shr">
+            <data key="label">Lucentio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1371</data>
+        </node>
+        <node id="Tranio_Shr">
+            <data key="label">Tranio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2262</data>
+        </node>
+        <node id="Baptista_Shr">
+            <data key="label">Baptista Minola</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1289</data>
+        </node>
+        <node id="Gremio_Shr">
+            <data key="label">Gremio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1329</data>
+        </node>
+        <node id="Katherine_Shr">
+            <data key="label">Katherine</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1761</data>
+        </node>
+        <node id="Hortensio_Shr">
+            <data key="label">Hortensio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1575</data>
+        </node>
+        <node id="Bianca_Shr">
+            <data key="label">Bianca</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">544</data>
+        </node>
+        <node id="Biondello_Shr">
+            <data key="label">Biondello</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">817</data>
+        </node>
+        <node id="Petruchio_Shr">
+            <data key="label">Petruchio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4609</data>
+        </node>
+        <node id="Grumio_Shr">
+            <data key="label">Grumio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1454</data>
+        </node>
+        <node id="SERVANTS.BAPTISTA.1_Shr">
+            <data key="label">SERVANTS.BAPTISTA.1_Shr</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">23</data>
+        </node>
+        <node id="Curtis_Shr">
+            <data key="label">Curtis</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">170</data>
+        </node>
+        <node id="SERVANTS.PETRUCHIO.Nathaniel_Shr">
+            <data key="label">Nathaniel</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">27</data>
+        </node>
+        <node id="SERVANTS.PETRUCHIO.Phillip_Shr">
+            <data key="label">Phillip</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="SERVANTS.PETRUCHIO.Joseph_Shr">
+            <data key="label">Joseph</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="SERVANTS.PETRUCHIO.Nicholas_Shr">
+            <data key="label">Nicholas</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">7</data>
+        </node>
+        <node id="SERVANTS.PETRUCHIO.Peter_Shr">
+            <data key="label">Peter</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">13</data>
+        </node>
+        <node id="SERVANTS.PETRUCHIO.0.4_Shr">
+            <data key="label">SERVANTS.PETRUCHIO.0.4_Shr</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1</data>
+        </node>
+        <node id="Merchant_Shr">
+            <data key="label">Merchant_Shr</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">377</data>
+        </node>
+        <node id="Haberdasher_Shr">
+            <data key="label">Haberdasher_Shr</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="Tailor_Shr">
+            <data key="label">Tailor_Shr</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">111</data>
+        </node>
+        <node id="Vincentio_Shr">
+            <data key="label">Vincentio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">346</data>
+        </node>
+        <node id="Widow_Shr">
+            <data key="label">Widow_Shr</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">76</data>
+        </node>
+        <edge id="Sly_Shr|Hostess_Shr" source="Sly_Shr" target="Hostess_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|Lord_Shr" source="Sly_Shr" target="Lord_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Sly_Shr|HUNTSMEN.0.1_Shr" source="Sly_Shr" target="HUNTSMEN.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|HUNTSMEN.0.2_Shr" source="Sly_Shr" target="HUNTSMEN.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|HUNTSMEN.0.3_Shr" source="Sly_Shr" target="HUNTSMEN.0.3_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|SERVANTS.LORD.0.1_Shr" source="Sly_Shr" target="SERVANTS.LORD.0.1_Shr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Sly_Shr|PLAYERS_Shr" source="Sly_Shr" target="PLAYERS_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|PLAYERS.0.1_Shr" source="Sly_Shr" target="PLAYERS.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|PLAYERS.0.2_Shr" source="Sly_Shr" target="PLAYERS.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|SERVANTS.LORD.0.2_Shr" source="Sly_Shr" target="SERVANTS.LORD.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|SERVANTS.LORD.0.3_Shr" source="Sly_Shr" target="SERVANTS.LORD.0.3_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|SERVANTS.LORD_Shr" source="Sly_Shr" target="SERVANTS.LORD_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|Page_Shr" source="Sly_Shr" target="Page_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Sly_Shr|Messenger_Shr" source="Sly_Shr" target="Messenger_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|Lucentio_Shr" source="Sly_Shr" target="Lucentio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|Tranio_Shr" source="Sly_Shr" target="Tranio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|Baptista_Shr" source="Sly_Shr" target="Baptista_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|Gremio_Shr" source="Sly_Shr" target="Gremio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|Katherine_Shr" source="Sly_Shr" target="Katherine_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|Hortensio_Shr" source="Sly_Shr" target="Hortensio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|Bianca_Shr" source="Sly_Shr" target="Bianca_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Sly_Shr|Biondello_Shr" source="Sly_Shr" target="Biondello_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hostess_Shr|Lord_Shr" source="Hostess_Shr" target="Lord_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hostess_Shr|HUNTSMEN.0.1_Shr" source="Hostess_Shr" target="HUNTSMEN.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hostess_Shr|HUNTSMEN.0.2_Shr" source="Hostess_Shr" target="HUNTSMEN.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hostess_Shr|HUNTSMEN.0.3_Shr" source="Hostess_Shr" target="HUNTSMEN.0.3_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hostess_Shr|SERVANTS.LORD.0.1_Shr" source="Hostess_Shr" target="SERVANTS.LORD.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hostess_Shr|PLAYERS_Shr" source="Hostess_Shr" target="PLAYERS_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hostess_Shr|PLAYERS.0.1_Shr" source="Hostess_Shr" target="PLAYERS.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hostess_Shr|PLAYERS.0.2_Shr" source="Hostess_Shr" target="PLAYERS.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lord_Shr|HUNTSMEN.0.1_Shr" source="Lord_Shr" target="HUNTSMEN.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lord_Shr|HUNTSMEN.0.2_Shr" source="Lord_Shr" target="HUNTSMEN.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lord_Shr|HUNTSMEN.0.3_Shr" source="Lord_Shr" target="HUNTSMEN.0.3_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lord_Shr|SERVANTS.LORD.0.1_Shr" source="Lord_Shr" target="SERVANTS.LORD.0.1_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lord_Shr|PLAYERS_Shr" source="Lord_Shr" target="PLAYERS_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lord_Shr|PLAYERS.0.1_Shr" source="Lord_Shr" target="PLAYERS.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lord_Shr|PLAYERS.0.2_Shr" source="Lord_Shr" target="PLAYERS.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lord_Shr|SERVANTS.LORD.0.2_Shr" source="Lord_Shr" target="SERVANTS.LORD.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lord_Shr|SERVANTS.LORD.0.3_Shr" source="Lord_Shr" target="SERVANTS.LORD.0.3_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lord_Shr|SERVANTS.LORD_Shr" source="Lord_Shr" target="SERVANTS.LORD_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lord_Shr|Page_Shr" source="Lord_Shr" target="Page_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lord_Shr|Messenger_Shr" source="Lord_Shr" target="Messenger_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.1_Shr|HUNTSMEN.0.2_Shr" source="HUNTSMEN.0.1_Shr" target="HUNTSMEN.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.1_Shr|HUNTSMEN.0.3_Shr" source="HUNTSMEN.0.1_Shr" target="HUNTSMEN.0.3_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.1_Shr|SERVANTS.LORD.0.1_Shr" source="HUNTSMEN.0.1_Shr" target="SERVANTS.LORD.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.1_Shr|PLAYERS_Shr" source="HUNTSMEN.0.1_Shr" target="PLAYERS_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.1_Shr|PLAYERS.0.1_Shr" source="HUNTSMEN.0.1_Shr" target="PLAYERS.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.1_Shr|PLAYERS.0.2_Shr" source="HUNTSMEN.0.1_Shr" target="PLAYERS.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.2_Shr|HUNTSMEN.0.3_Shr" source="HUNTSMEN.0.2_Shr" target="HUNTSMEN.0.3_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.2_Shr|SERVANTS.LORD.0.1_Shr" source="HUNTSMEN.0.2_Shr" target="SERVANTS.LORD.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.2_Shr|PLAYERS_Shr" source="HUNTSMEN.0.2_Shr" target="PLAYERS_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.2_Shr|PLAYERS.0.1_Shr" source="HUNTSMEN.0.2_Shr" target="PLAYERS.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.2_Shr|PLAYERS.0.2_Shr" source="HUNTSMEN.0.2_Shr" target="PLAYERS.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.3_Shr|SERVANTS.LORD.0.1_Shr" source="HUNTSMEN.0.3_Shr" target="SERVANTS.LORD.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.3_Shr|PLAYERS_Shr" source="HUNTSMEN.0.3_Shr" target="PLAYERS_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.3_Shr|PLAYERS.0.1_Shr" source="HUNTSMEN.0.3_Shr" target="PLAYERS.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HUNTSMEN.0.3_Shr|PLAYERS.0.2_Shr" source="HUNTSMEN.0.3_Shr" target="PLAYERS.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|PLAYERS_Shr" source="SERVANTS.LORD.0.1_Shr" target="PLAYERS_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|PLAYERS.0.1_Shr" source="SERVANTS.LORD.0.1_Shr" target="PLAYERS.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|PLAYERS.0.2_Shr" source="SERVANTS.LORD.0.1_Shr" target="PLAYERS.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|SERVANTS.LORD.0.2_Shr" source="SERVANTS.LORD.0.1_Shr" target="SERVANTS.LORD.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|SERVANTS.LORD.0.3_Shr" source="SERVANTS.LORD.0.1_Shr" target="SERVANTS.LORD.0.3_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|SERVANTS.LORD_Shr" source="SERVANTS.LORD.0.1_Shr" target="SERVANTS.LORD_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|Page_Shr" source="SERVANTS.LORD.0.1_Shr" target="Page_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|Messenger_Shr" source="SERVANTS.LORD.0.1_Shr" target="Messenger_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|Lucentio_Shr" source="SERVANTS.LORD.0.1_Shr" target="Lucentio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|Tranio_Shr" source="SERVANTS.LORD.0.1_Shr" target="Tranio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|Baptista_Shr" source="SERVANTS.LORD.0.1_Shr" target="Baptista_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|Gremio_Shr" source="SERVANTS.LORD.0.1_Shr" target="Gremio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|Katherine_Shr" source="SERVANTS.LORD.0.1_Shr" target="Katherine_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|Hortensio_Shr" source="SERVANTS.LORD.0.1_Shr" target="Hortensio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|Bianca_Shr" source="SERVANTS.LORD.0.1_Shr" target="Bianca_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.1_Shr|Biondello_Shr" source="SERVANTS.LORD.0.1_Shr" target="Biondello_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PLAYERS_Shr|PLAYERS.0.1_Shr" source="PLAYERS_Shr" target="PLAYERS.0.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PLAYERS_Shr|PLAYERS.0.2_Shr" source="PLAYERS_Shr" target="PLAYERS.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PLAYERS.0.1_Shr|PLAYERS.0.2_Shr" source="PLAYERS.0.1_Shr" target="PLAYERS.0.2_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.2_Shr|SERVANTS.LORD.0.3_Shr" source="SERVANTS.LORD.0.2_Shr" target="SERVANTS.LORD.0.3_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.2_Shr|SERVANTS.LORD_Shr" source="SERVANTS.LORD.0.2_Shr" target="SERVANTS.LORD_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.2_Shr|Page_Shr" source="SERVANTS.LORD.0.2_Shr" target="Page_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.2_Shr|Messenger_Shr" source="SERVANTS.LORD.0.2_Shr" target="Messenger_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.3_Shr|SERVANTS.LORD_Shr" source="SERVANTS.LORD.0.3_Shr" target="SERVANTS.LORD_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.3_Shr|Page_Shr" source="SERVANTS.LORD.0.3_Shr" target="Page_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD.0.3_Shr|Messenger_Shr" source="SERVANTS.LORD.0.3_Shr" target="Messenger_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD_Shr|Page_Shr" source="SERVANTS.LORD_Shr" target="Page_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LORD_Shr|Messenger_Shr" source="SERVANTS.LORD_Shr" target="Messenger_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Page_Shr|Messenger_Shr" source="Page_Shr" target="Messenger_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Page_Shr|Lucentio_Shr" source="Page_Shr" target="Lucentio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Page_Shr|Tranio_Shr" source="Page_Shr" target="Tranio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Page_Shr|Baptista_Shr" source="Page_Shr" target="Baptista_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Page_Shr|Gremio_Shr" source="Page_Shr" target="Gremio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Page_Shr|Katherine_Shr" source="Page_Shr" target="Katherine_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Page_Shr|Hortensio_Shr" source="Page_Shr" target="Hortensio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Page_Shr|Bianca_Shr" source="Page_Shr" target="Bianca_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Page_Shr|Biondello_Shr" source="Page_Shr" target="Biondello_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucentio_Shr|Tranio_Shr" source="Lucentio_Shr" target="Tranio_Shr">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Lucentio_Shr|Baptista_Shr" source="Lucentio_Shr" target="Baptista_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Lucentio_Shr|Gremio_Shr" source="Lucentio_Shr" target="Gremio_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Lucentio_Shr|Katherine_Shr" source="Lucentio_Shr" target="Katherine_Shr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Lucentio_Shr|Hortensio_Shr" source="Lucentio_Shr" target="Hortensio_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Lucentio_Shr|Bianca_Shr" source="Lucentio_Shr" target="Bianca_Shr">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Lucentio_Shr|Biondello_Shr" source="Lucentio_Shr" target="Biondello_Shr">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Lucentio_Shr|Petruchio_Shr" source="Lucentio_Shr" target="Petruchio_Shr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Lucentio_Shr|Grumio_Shr" source="Lucentio_Shr" target="Grumio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lucentio_Shr|SERVANTS.BAPTISTA.1_Shr" source="Lucentio_Shr" target="SERVANTS.BAPTISTA.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucentio_Shr|Merchant_Shr" source="Lucentio_Shr" target="Merchant_Shr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lucentio_Shr|Vincentio_Shr" source="Lucentio_Shr" target="Vincentio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lucentio_Shr|Widow_Shr" source="Lucentio_Shr" target="Widow_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Tranio_Shr|Baptista_Shr" source="Tranio_Shr" target="Baptista_Shr">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Tranio_Shr|Gremio_Shr" source="Tranio_Shr" target="Gremio_Shr">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Tranio_Shr|Katherine_Shr" source="Tranio_Shr" target="Katherine_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Tranio_Shr|Hortensio_Shr" source="Tranio_Shr" target="Hortensio_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Tranio_Shr|Bianca_Shr" source="Tranio_Shr" target="Bianca_Shr">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Tranio_Shr|Biondello_Shr" source="Tranio_Shr" target="Biondello_Shr">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Tranio_Shr|Petruchio_Shr" source="Tranio_Shr" target="Petruchio_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Tranio_Shr|Grumio_Shr" source="Tranio_Shr" target="Grumio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tranio_Shr|Merchant_Shr" source="Tranio_Shr" target="Merchant_Shr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Tranio_Shr|Vincentio_Shr" source="Tranio_Shr" target="Vincentio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Tranio_Shr|Widow_Shr" source="Tranio_Shr" target="Widow_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Baptista_Shr|Gremio_Shr" source="Baptista_Shr" target="Gremio_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Baptista_Shr|Katherine_Shr" source="Baptista_Shr" target="Katherine_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Baptista_Shr|Hortensio_Shr" source="Baptista_Shr" target="Hortensio_Shr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Baptista_Shr|Bianca_Shr" source="Baptista_Shr" target="Bianca_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Baptista_Shr|Biondello_Shr" source="Baptista_Shr" target="Biondello_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Baptista_Shr|Petruchio_Shr" source="Baptista_Shr" target="Petruchio_Shr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Baptista_Shr|Grumio_Shr" source="Baptista_Shr" target="Grumio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Baptista_Shr|Merchant_Shr" source="Baptista_Shr" target="Merchant_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Baptista_Shr|Vincentio_Shr" source="Baptista_Shr" target="Vincentio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Baptista_Shr|Widow_Shr" source="Baptista_Shr" target="Widow_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gremio_Shr|Katherine_Shr" source="Gremio_Shr" target="Katherine_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Gremio_Shr|Hortensio_Shr" source="Gremio_Shr" target="Hortensio_Shr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Gremio_Shr|Bianca_Shr" source="Gremio_Shr" target="Bianca_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Gremio_Shr|Biondello_Shr" source="Gremio_Shr" target="Biondello_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Gremio_Shr|Petruchio_Shr" source="Gremio_Shr" target="Petruchio_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Gremio_Shr|Grumio_Shr" source="Gremio_Shr" target="Grumio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gremio_Shr|Vincentio_Shr" source="Gremio_Shr" target="Vincentio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Gremio_Shr|Merchant_Shr" source="Gremio_Shr" target="Merchant_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Gremio_Shr|Widow_Shr" source="Gremio_Shr" target="Widow_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_Shr|Hortensio_Shr" source="Katherine_Shr" target="Hortensio_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Katherine_Shr|Bianca_Shr" source="Katherine_Shr" target="Bianca_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Katherine_Shr|Biondello_Shr" source="Katherine_Shr" target="Biondello_Shr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Katherine_Shr|Petruchio_Shr" source="Katherine_Shr" target="Petruchio_Shr">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Katherine_Shr|Grumio_Shr" source="Katherine_Shr" target="Grumio_Shr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Katherine_Shr|Curtis_Shr" source="Katherine_Shr" target="Curtis_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_Shr|SERVANTS.PETRUCHIO.Nathaniel_Shr" source="Katherine_Shr" target="SERVANTS.PETRUCHIO.Nathaniel_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_Shr|SERVANTS.PETRUCHIO.Phillip_Shr" source="Katherine_Shr" target="SERVANTS.PETRUCHIO.Phillip_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_Shr|SERVANTS.PETRUCHIO.Joseph_Shr" source="Katherine_Shr" target="SERVANTS.PETRUCHIO.Joseph_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_Shr|SERVANTS.PETRUCHIO.Nicholas_Shr" source="Katherine_Shr" target="SERVANTS.PETRUCHIO.Nicholas_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_Shr|SERVANTS.PETRUCHIO.Peter_Shr" source="Katherine_Shr" target="SERVANTS.PETRUCHIO.Peter_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_Shr|SERVANTS.PETRUCHIO.0.4_Shr" source="Katherine_Shr" target="SERVANTS.PETRUCHIO.0.4_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_Shr|Haberdasher_Shr" source="Katherine_Shr" target="Haberdasher_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_Shr|Tailor_Shr" source="Katherine_Shr" target="Tailor_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_Shr|Vincentio_Shr" source="Katherine_Shr" target="Vincentio_Shr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Katherine_Shr|Merchant_Shr" source="Katherine_Shr" target="Merchant_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Katherine_Shr|Widow_Shr" source="Katherine_Shr" target="Widow_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hortensio_Shr|Bianca_Shr" source="Hortensio_Shr" target="Bianca_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Hortensio_Shr|Biondello_Shr" source="Hortensio_Shr" target="Biondello_Shr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Hortensio_Shr|Petruchio_Shr" source="Hortensio_Shr" target="Petruchio_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Hortensio_Shr|Grumio_Shr" source="Hortensio_Shr" target="Grumio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hortensio_Shr|SERVANTS.BAPTISTA.1_Shr" source="Hortensio_Shr" target="SERVANTS.BAPTISTA.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hortensio_Shr|Merchant_Shr" source="Hortensio_Shr" target="Merchant_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hortensio_Shr|Haberdasher_Shr" source="Hortensio_Shr" target="Haberdasher_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hortensio_Shr|Tailor_Shr" source="Hortensio_Shr" target="Tailor_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hortensio_Shr|Vincentio_Shr" source="Hortensio_Shr" target="Vincentio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hortensio_Shr|Widow_Shr" source="Hortensio_Shr" target="Widow_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bianca_Shr|Biondello_Shr" source="Bianca_Shr" target="Biondello_Shr">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Bianca_Shr|Petruchio_Shr" source="Bianca_Shr" target="Petruchio_Shr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Bianca_Shr|SERVANTS.BAPTISTA.1_Shr" source="Bianca_Shr" target="SERVANTS.BAPTISTA.1_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bianca_Shr|Grumio_Shr" source="Bianca_Shr" target="Grumio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Bianca_Shr|Merchant_Shr" source="Bianca_Shr" target="Merchant_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bianca_Shr|Vincentio_Shr" source="Bianca_Shr" target="Vincentio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Bianca_Shr|Widow_Shr" source="Bianca_Shr" target="Widow_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Biondello_Shr|Petruchio_Shr" source="Biondello_Shr" target="Petruchio_Shr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Biondello_Shr|Grumio_Shr" source="Biondello_Shr" target="Grumio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Biondello_Shr|Merchant_Shr" source="Biondello_Shr" target="Merchant_Shr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Biondello_Shr|Vincentio_Shr" source="Biondello_Shr" target="Vincentio_Shr">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Biondello_Shr|Widow_Shr" source="Biondello_Shr" target="Widow_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Shr|Grumio_Shr" source="Petruchio_Shr" target="Grumio_Shr">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Petruchio_Shr|Curtis_Shr" source="Petruchio_Shr" target="Curtis_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Shr|SERVANTS.PETRUCHIO.Nathaniel_Shr" source="Petruchio_Shr" target="SERVANTS.PETRUCHIO.Nathaniel_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Shr|SERVANTS.PETRUCHIO.Phillip_Shr" source="Petruchio_Shr" target="SERVANTS.PETRUCHIO.Phillip_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Shr|SERVANTS.PETRUCHIO.Joseph_Shr" source="Petruchio_Shr" target="SERVANTS.PETRUCHIO.Joseph_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Shr|SERVANTS.PETRUCHIO.Nicholas_Shr" source="Petruchio_Shr" target="SERVANTS.PETRUCHIO.Nicholas_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Shr|SERVANTS.PETRUCHIO.Peter_Shr" source="Petruchio_Shr" target="SERVANTS.PETRUCHIO.Peter_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Shr|SERVANTS.PETRUCHIO.0.4_Shr" source="Petruchio_Shr" target="SERVANTS.PETRUCHIO.0.4_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Shr|Haberdasher_Shr" source="Petruchio_Shr" target="Haberdasher_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Shr|Tailor_Shr" source="Petruchio_Shr" target="Tailor_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Shr|Vincentio_Shr" source="Petruchio_Shr" target="Vincentio_Shr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Petruchio_Shr|Merchant_Shr" source="Petruchio_Shr" target="Merchant_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Petruchio_Shr|Widow_Shr" source="Petruchio_Shr" target="Widow_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Grumio_Shr|Curtis_Shr" source="Grumio_Shr" target="Curtis_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Grumio_Shr|SERVANTS.PETRUCHIO.Nathaniel_Shr" source="Grumio_Shr" target="SERVANTS.PETRUCHIO.Nathaniel_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Grumio_Shr|SERVANTS.PETRUCHIO.Phillip_Shr" source="Grumio_Shr" target="SERVANTS.PETRUCHIO.Phillip_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Grumio_Shr|SERVANTS.PETRUCHIO.Joseph_Shr" source="Grumio_Shr" target="SERVANTS.PETRUCHIO.Joseph_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Grumio_Shr|SERVANTS.PETRUCHIO.Nicholas_Shr" source="Grumio_Shr" target="SERVANTS.PETRUCHIO.Nicholas_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Grumio_Shr|SERVANTS.PETRUCHIO.Peter_Shr" source="Grumio_Shr" target="SERVANTS.PETRUCHIO.Peter_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Grumio_Shr|SERVANTS.PETRUCHIO.0.4_Shr" source="Grumio_Shr" target="SERVANTS.PETRUCHIO.0.4_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Grumio_Shr|Haberdasher_Shr" source="Grumio_Shr" target="Haberdasher_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Grumio_Shr|Tailor_Shr" source="Grumio_Shr" target="Tailor_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Curtis_Shr|SERVANTS.PETRUCHIO.Nathaniel_Shr" source="Curtis_Shr" target="SERVANTS.PETRUCHIO.Nathaniel_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Curtis_Shr|SERVANTS.PETRUCHIO.Phillip_Shr" source="Curtis_Shr" target="SERVANTS.PETRUCHIO.Phillip_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Curtis_Shr|SERVANTS.PETRUCHIO.Joseph_Shr" source="Curtis_Shr" target="SERVANTS.PETRUCHIO.Joseph_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Curtis_Shr|SERVANTS.PETRUCHIO.Nicholas_Shr" source="Curtis_Shr" target="SERVANTS.PETRUCHIO.Nicholas_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Curtis_Shr|SERVANTS.PETRUCHIO.Peter_Shr" source="Curtis_Shr" target="SERVANTS.PETRUCHIO.Peter_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Curtis_Shr|SERVANTS.PETRUCHIO.0.4_Shr" source="Curtis_Shr" target="SERVANTS.PETRUCHIO.0.4_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Nathaniel_Shr|SERVANTS.PETRUCHIO.Phillip_Shr" source="SERVANTS.PETRUCHIO.Nathaniel_Shr" target="SERVANTS.PETRUCHIO.Phillip_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Nathaniel_Shr|SERVANTS.PETRUCHIO.Joseph_Shr" source="SERVANTS.PETRUCHIO.Nathaniel_Shr" target="SERVANTS.PETRUCHIO.Joseph_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Nathaniel_Shr|SERVANTS.PETRUCHIO.Nicholas_Shr" source="SERVANTS.PETRUCHIO.Nathaniel_Shr" target="SERVANTS.PETRUCHIO.Nicholas_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Nathaniel_Shr|SERVANTS.PETRUCHIO.Peter_Shr" source="SERVANTS.PETRUCHIO.Nathaniel_Shr" target="SERVANTS.PETRUCHIO.Peter_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Nathaniel_Shr|SERVANTS.PETRUCHIO.0.4_Shr" source="SERVANTS.PETRUCHIO.Nathaniel_Shr" target="SERVANTS.PETRUCHIO.0.4_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Phillip_Shr|SERVANTS.PETRUCHIO.Joseph_Shr" source="SERVANTS.PETRUCHIO.Phillip_Shr" target="SERVANTS.PETRUCHIO.Joseph_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Phillip_Shr|SERVANTS.PETRUCHIO.Nicholas_Shr" source="SERVANTS.PETRUCHIO.Phillip_Shr" target="SERVANTS.PETRUCHIO.Nicholas_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Phillip_Shr|SERVANTS.PETRUCHIO.Peter_Shr" source="SERVANTS.PETRUCHIO.Phillip_Shr" target="SERVANTS.PETRUCHIO.Peter_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Phillip_Shr|SERVANTS.PETRUCHIO.0.4_Shr" source="SERVANTS.PETRUCHIO.Phillip_Shr" target="SERVANTS.PETRUCHIO.0.4_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Joseph_Shr|SERVANTS.PETRUCHIO.Nicholas_Shr" source="SERVANTS.PETRUCHIO.Joseph_Shr" target="SERVANTS.PETRUCHIO.Nicholas_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Joseph_Shr|SERVANTS.PETRUCHIO.Peter_Shr" source="SERVANTS.PETRUCHIO.Joseph_Shr" target="SERVANTS.PETRUCHIO.Peter_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Joseph_Shr|SERVANTS.PETRUCHIO.0.4_Shr" source="SERVANTS.PETRUCHIO.Joseph_Shr" target="SERVANTS.PETRUCHIO.0.4_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Nicholas_Shr|SERVANTS.PETRUCHIO.Peter_Shr" source="SERVANTS.PETRUCHIO.Nicholas_Shr" target="SERVANTS.PETRUCHIO.Peter_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Nicholas_Shr|SERVANTS.PETRUCHIO.0.4_Shr" source="SERVANTS.PETRUCHIO.Nicholas_Shr" target="SERVANTS.PETRUCHIO.0.4_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PETRUCHIO.Peter_Shr|SERVANTS.PETRUCHIO.0.4_Shr" source="SERVANTS.PETRUCHIO.Peter_Shr" target="SERVANTS.PETRUCHIO.0.4_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant_Shr|Vincentio_Shr" source="Merchant_Shr" target="Vincentio_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Haberdasher_Shr|Tailor_Shr" source="Haberdasher_Shr" target="Tailor_Shr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Vincentio_Shr|Widow_Shr" source="Vincentio_Shr" target="Widow_Shr">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

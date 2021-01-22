@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Poet_Tim">
+            <data key="label">Poet</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">758</data>
+        </node>
+        <node id="Painter_Tim">
+            <data key="label">Painter</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">483</data>
+        </node>
+        <node id="Merchant_Tim">
+            <data key="label">Merchant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">63</data>
+        </node>
+        <node id="Jeweler_Tim">
+            <data key="label">Jeweler</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">78</data>
+        </node>
+        <node id="Timon_Tim">
+            <data key="label">Timon</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6336</data>
+        </node>
+        <node id="MESSENGERS.X.1_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">43</data>
+        </node>
+        <node id="OldMan_Tim">
+            <data key="label">Old Athenian</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">207</data>
+        </node>
+        <node id="SERVANTS.TIMON.Lucilius_Tim">
+            <data key="label">Lucilius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">35</data>
+        </node>
+        <node id="Apemantus_Tim">
+            <data key="label">Apemantus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1759</data>
+        </node>
+        <node id="MESSENGERS.X.2_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="Alcibiades_Tim">
+            <data key="label">Alcibiades</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1181</data>
+        </node>
+        <node id="LORDS.0.1_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">118</data>
+        </node>
+        <node id="LORDS.0.2_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">115</data>
+        </node>
+        <node id="FRIENDS.Ventidius_Tim">
+            <data key="label">Ventidius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">63</data>
+        </node>
+        <node id="LORDS.0.3_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">20</data>
+        </node>
+        <node id="SERVANTS.TIMON.X.1_Tim">
+            <data key="label">SERVANTS.TIMON.X.1_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">28</data>
+        </node>
+        <node id="Cupid_Tim">
+            <data key="label">“Cupid” and other Maskers (as Amazons)</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">47</data>
+        </node>
+        <node id="FRIENDS.Lucius_Tim">
+            <data key="label">Lucius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">353</data>
+        </node>
+        <node id="LADIES.0.1_Tim">
+            <data key="label">“Cupid” and other Maskers (as Amazons)</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="LADIES_Tim">
+            <data key="label">“Cupid” and other Maskers (as Amazons)</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="Flavius_Tim">
+            <data key="label">Flavius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1519</data>
+        </node>
+        <node id="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="SERVANTS.TIMON.1_Tim">
+            <data key="label">SERVANTS.TIMON.1_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="SERVANTS.TIMON.2_Tim">
+            <data key="label">SERVANTS.TIMON.2_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">22</data>
+        </node>
+        <node id="SERVANTS.TIMON.3_Tim">
+            <data key="label">SERVANTS.TIMON.3_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">26</data>
+        </node>
+        <node id="LORDS_Tim">
+            <data key="label">Senators Lords</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="SENATORS.X_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">281</data>
+        </node>
+        <node id="SERVANTS.Caphis_Tim">
+            <data key="label">Caphis</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">151</data>
+        </node>
+        <node id="SERVANTS.VARRO.1_Tim">
+            <data key="label">servants of Timon’s creditors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">122</data>
+        </node>
+        <node id="SERVANTS.ISIDORE.1_Tim">
+            <data key="label">Isidore’s Man</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">64</data>
+        </node>
+        <node id="Fool_Tim">
+            <data key="label">Fool</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">181</data>
+        </node>
+        <node id="SERVANTS.Page_Tim">
+            <data key="label">Page</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">48</data>
+        </node>
+        <node id="SERVANTS.TIMON.Flaminius_Tim">
+            <data key="label">Flaminius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">220</data>
+        </node>
+        <node id="SERVANTS.TIMON.Servilius_Tim">
+            <data key="label">Servilius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">129</data>
+        </node>
+        <node id="SERVANTS.TIMON.X.2_Tim">
+            <data key="label">SERVANTS.TIMON.X.2_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">152</data>
+        </node>
+        <node id="SERVANTS.LUCULLUS.1_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">23</data>
+        </node>
+        <node id="FRIENDS.Lucullus_Tim">
+            <data key="label">Lucullus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">282</data>
+        </node>
+        <node id="STRANGERS.1_Tim">
+            <data key="label">STRANGERS.1_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">230</data>
+        </node>
+        <node id="STRANGERS.2_Tim">
+            <data key="label">STRANGERS.2_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">48</data>
+        </node>
+        <node id="STRANGERS.3_Tim">
+            <data key="label">STRANGERS.3_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="FRIENDS.Sempronius_Tim">
+            <data key="label">Sempronius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">212</data>
+        </node>
+        <node id="SERVANTS.Titus_Tim">
+            <data key="label">Titus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">89</data>
+        </node>
+        <node id="SERVANTS.Hortensius_Tim">
+            <data key="label">Hortensius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">70</data>
+        </node>
+        <node id="SERVANTS.LUCIUS.1_Tim">
+            <data key="label">Lucius’ Man</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">193</data>
+        </node>
+        <node id="SERVANTS.Philotus_Tim">
+            <data key="label">Philotus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">34</data>
+        </node>
+        <node id="SERVANTS.VARRO.2_Tim">
+            <data key="label">servants of Timon’s creditors</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">40</data>
+        </node>
+        <node id="SENATORS.0.1_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">219</data>
+        </node>
+        <node id="SENATORS.0.2_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">74</data>
+        </node>
+        <node id="SENATORS.0.3_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">1</data>
+        </node>
+        <node id="FRIENDS.0.1_Tim">
+            <data key="label">FRIENDS.0.1_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">174</data>
+        </node>
+        <node id="FRIENDS.0.2_Tim">
+            <data key="label">FRIENDS.0.2_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">171</data>
+        </node>
+        <node id="FRIENDS.0.3_Tim">
+            <data key="label">FRIENDS.0.3_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">57</data>
+        </node>
+        <node id="FRIENDS.0_Tim">
+            <data key="label">FRIENDS.0_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="FRIENDS.0.4_Tim">
+            <data key="label">FRIENDS.0.4_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">18</data>
+        </node>
+        <node id="SERVANTS.TIMON.0.1_Tim">
+            <data key="label">SERVANTS.TIMON.0.1_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">41</data>
+        </node>
+        <node id="SERVANTS.TIMON.0.2_Tim">
+            <data key="label">SERVANTS.TIMON.0.2_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">57</data>
+        </node>
+        <node id="SERVANTS.TIMON.0.3_Tim">
+            <data key="label">SERVANTS.TIMON.0.3_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">47</data>
+        </node>
+        <node id="Phrynia_Tim">
+            <data key="label">Phrynia</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">33</data>
+        </node>
+        <node id="Timandra_Tim">
+            <data key="label">Timandra</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">44</data>
+        </node>
+        <node id="BANDITS.1_Tim">
+            <data key="label">BANDITS.1_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">105</data>
+        </node>
+        <node id="BANDITS.2_Tim">
+            <data key="label">BANDITS.2_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">50</data>
+        </node>
+        <node id="BANDITS.3_Tim">
+            <data key="label">BANDITS.3_Tim</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">61</data>
+        </node>
+        <node id="SENATORS.1_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">376</data>
+        </node>
+        <node id="SENATORS.2_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">346</data>
+        </node>
+        <node id="SENATORS.3_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="MESSENGERS.X.3_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">70</data>
+        </node>
+        <node id="SENATORS.4_Tim">
+            <data key="label">Soldiers, Servants, Messengers, Attendants, Musicians</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">9</data>
+        </node>
+        <node id="SOLDIERS.1_Tim">
+            <data key="label">Soldier</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">118</data>
+        </node>
+        <edge id="Poet_Tim|Painter_Tim" source="Poet_Tim" target="Painter_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Poet_Tim|Merchant_Tim" source="Poet_Tim" target="Merchant_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|Jeweler_Tim" source="Poet_Tim" target="Jeweler_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|Timon_Tim" source="Poet_Tim" target="Timon_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Poet_Tim|MESSENGERS.X.1_Tim" source="Poet_Tim" target="MESSENGERS.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|OldMan_Tim" source="Poet_Tim" target="OldMan_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|SERVANTS.TIMON.Lucilius_Tim" source="Poet_Tim" target="SERVANTS.TIMON.Lucilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|Apemantus_Tim" source="Poet_Tim" target="Apemantus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|MESSENGERS.X.2_Tim" source="Poet_Tim" target="MESSENGERS.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|Alcibiades_Tim" source="Poet_Tim" target="Alcibiades_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|LORDS.0.1_Tim" source="Poet_Tim" target="LORDS.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|LORDS.0.2_Tim" source="Poet_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|Flavius_Tim" source="Poet_Tim" target="Flavius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|SENATORS.1_Tim" source="Poet_Tim" target="SENATORS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Poet_Tim|SENATORS.2_Tim" source="Poet_Tim" target="SENATORS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|Merchant_Tim" source="Painter_Tim" target="Merchant_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|Jeweler_Tim" source="Painter_Tim" target="Jeweler_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|Timon_Tim" source="Painter_Tim" target="Timon_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Painter_Tim|MESSENGERS.X.1_Tim" source="Painter_Tim" target="MESSENGERS.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|OldMan_Tim" source="Painter_Tim" target="OldMan_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|SERVANTS.TIMON.Lucilius_Tim" source="Painter_Tim" target="SERVANTS.TIMON.Lucilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|Apemantus_Tim" source="Painter_Tim" target="Apemantus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|MESSENGERS.X.2_Tim" source="Painter_Tim" target="MESSENGERS.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|Alcibiades_Tim" source="Painter_Tim" target="Alcibiades_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|LORDS.0.1_Tim" source="Painter_Tim" target="LORDS.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|LORDS.0.2_Tim" source="Painter_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|Flavius_Tim" source="Painter_Tim" target="Flavius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|SENATORS.1_Tim" source="Painter_Tim" target="SENATORS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Painter_Tim|SENATORS.2_Tim" source="Painter_Tim" target="SENATORS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant_Tim|Jeweler_Tim" source="Merchant_Tim" target="Jeweler_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant_Tim|Timon_Tim" source="Merchant_Tim" target="Timon_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant_Tim|MESSENGERS.X.1_Tim" source="Merchant_Tim" target="MESSENGERS.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant_Tim|OldMan_Tim" source="Merchant_Tim" target="OldMan_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant_Tim|SERVANTS.TIMON.Lucilius_Tim" source="Merchant_Tim" target="SERVANTS.TIMON.Lucilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant_Tim|Apemantus_Tim" source="Merchant_Tim" target="Apemantus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant_Tim|MESSENGERS.X.2_Tim" source="Merchant_Tim" target="MESSENGERS.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant_Tim|Alcibiades_Tim" source="Merchant_Tim" target="Alcibiades_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant_Tim|LORDS.0.1_Tim" source="Merchant_Tim" target="LORDS.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Merchant_Tim|LORDS.0.2_Tim" source="Merchant_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jeweler_Tim|Timon_Tim" source="Jeweler_Tim" target="Timon_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jeweler_Tim|MESSENGERS.X.1_Tim" source="Jeweler_Tim" target="MESSENGERS.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jeweler_Tim|OldMan_Tim" source="Jeweler_Tim" target="OldMan_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jeweler_Tim|SERVANTS.TIMON.Lucilius_Tim" source="Jeweler_Tim" target="SERVANTS.TIMON.Lucilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jeweler_Tim|Apemantus_Tim" source="Jeweler_Tim" target="Apemantus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jeweler_Tim|MESSENGERS.X.2_Tim" source="Jeweler_Tim" target="MESSENGERS.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jeweler_Tim|Alcibiades_Tim" source="Jeweler_Tim" target="Alcibiades_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jeweler_Tim|LORDS.0.1_Tim" source="Jeweler_Tim" target="LORDS.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jeweler_Tim|LORDS.0.2_Tim" source="Jeweler_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|MESSENGERS.X.1_Tim" source="Timon_Tim" target="MESSENGERS.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|OldMan_Tim" source="Timon_Tim" target="OldMan_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.TIMON.Lucilius_Tim" source="Timon_Tim" target="SERVANTS.TIMON.Lucilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|Apemantus_Tim" source="Timon_Tim" target="Apemantus_Tim">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Timon_Tim|MESSENGERS.X.2_Tim" source="Timon_Tim" target="MESSENGERS.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|Alcibiades_Tim" source="Timon_Tim" target="Alcibiades_Tim">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Timon_Tim|LORDS.0.1_Tim" source="Timon_Tim" target="LORDS.0.1_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Timon_Tim|LORDS.0.2_Tim" source="Timon_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Timon_Tim|FRIENDS.Ventidius_Tim" source="Timon_Tim" target="FRIENDS.Ventidius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|LORDS.0.3_Tim" source="Timon_Tim" target="LORDS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.TIMON.X.1_Tim" source="Timon_Tim" target="SERVANTS.TIMON.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|Cupid_Tim" source="Timon_Tim" target="Cupid_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|FRIENDS.Lucius_Tim" source="Timon_Tim" target="FRIENDS.Lucius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|LADIES.0.1_Tim" source="Timon_Tim" target="LADIES.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|LADIES_Tim" source="Timon_Tim" target="LADIES_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|Flavius_Tim" source="Timon_Tim" target="Flavius_Tim">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Timon_Tim|ATTENDANTS.TIMON.0.1_Tim" source="Timon_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.TIMON.1_Tim" source="Timon_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.TIMON.2_Tim" source="Timon_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.TIMON.3_Tim" source="Timon_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|LORDS_Tim" source="Timon_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.Caphis_Tim" source="Timon_Tim" target="SERVANTS.Caphis_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.VARRO.1_Tim" source="Timon_Tim" target="SERVANTS.VARRO.1_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.ISIDORE.1_Tim" source="Timon_Tim" target="SERVANTS.ISIDORE.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|Fool_Tim" source="Timon_Tim" target="Fool_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.Page_Tim" source="Timon_Tim" target="SERVANTS.Page_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.TIMON.Flaminius_Tim" source="Timon_Tim" target="SERVANTS.TIMON.Flaminius_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.TIMON.Servilius_Tim" source="Timon_Tim" target="SERVANTS.TIMON.Servilius_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.TIMON.X.2_Tim" source="Timon_Tim" target="SERVANTS.TIMON.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.Titus_Tim" source="Timon_Tim" target="SERVANTS.Titus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.Hortensius_Tim" source="Timon_Tim" target="SERVANTS.Hortensius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.LUCIUS.1_Tim" source="Timon_Tim" target="SERVANTS.LUCIUS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.Philotus_Tim" source="Timon_Tim" target="SERVANTS.Philotus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SERVANTS.VARRO.2_Tim" source="Timon_Tim" target="SERVANTS.VARRO.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|FRIENDS.0.1_Tim" source="Timon_Tim" target="FRIENDS.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|FRIENDS.0.2_Tim" source="Timon_Tim" target="FRIENDS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|FRIENDS.0.3_Tim" source="Timon_Tim" target="FRIENDS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|FRIENDS.0_Tim" source="Timon_Tim" target="FRIENDS.0_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|FRIENDS.0.4_Tim" source="Timon_Tim" target="FRIENDS.0.4_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|Phrynia_Tim" source="Timon_Tim" target="Phrynia_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|Timandra_Tim" source="Timon_Tim" target="Timandra_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|BANDITS.1_Tim" source="Timon_Tim" target="BANDITS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|BANDITS.2_Tim" source="Timon_Tim" target="BANDITS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|BANDITS.3_Tim" source="Timon_Tim" target="BANDITS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SENATORS.1_Tim" source="Timon_Tim" target="SENATORS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timon_Tim|SENATORS.2_Tim" source="Timon_Tim" target="SENATORS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Tim|OldMan_Tim" source="MESSENGERS.X.1_Tim" target="OldMan_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Tim|SERVANTS.TIMON.Lucilius_Tim" source="MESSENGERS.X.1_Tim" target="SERVANTS.TIMON.Lucilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Tim|Apemantus_Tim" source="MESSENGERS.X.1_Tim" target="Apemantus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Tim|MESSENGERS.X.2_Tim" source="MESSENGERS.X.1_Tim" target="MESSENGERS.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Tim|Alcibiades_Tim" source="MESSENGERS.X.1_Tim" target="Alcibiades_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Tim|LORDS.0.1_Tim" source="MESSENGERS.X.1_Tim" target="LORDS.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_Tim|LORDS.0.2_Tim" source="MESSENGERS.X.1_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OldMan_Tim|SERVANTS.TIMON.Lucilius_Tim" source="OldMan_Tim" target="SERVANTS.TIMON.Lucilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OldMan_Tim|Apemantus_Tim" source="OldMan_Tim" target="Apemantus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OldMan_Tim|MESSENGERS.X.2_Tim" source="OldMan_Tim" target="MESSENGERS.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OldMan_Tim|Alcibiades_Tim" source="OldMan_Tim" target="Alcibiades_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OldMan_Tim|LORDS.0.1_Tim" source="OldMan_Tim" target="LORDS.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="OldMan_Tim|LORDS.0.2_Tim" source="OldMan_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Lucilius_Tim|Apemantus_Tim" source="SERVANTS.TIMON.Lucilius_Tim" target="Apemantus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Lucilius_Tim|MESSENGERS.X.2_Tim" source="SERVANTS.TIMON.Lucilius_Tim" target="MESSENGERS.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Lucilius_Tim|Alcibiades_Tim" source="SERVANTS.TIMON.Lucilius_Tim" target="Alcibiades_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Lucilius_Tim|LORDS.0.1_Tim" source="SERVANTS.TIMON.Lucilius_Tim" target="LORDS.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Lucilius_Tim|LORDS.0.2_Tim" source="SERVANTS.TIMON.Lucilius_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|MESSENGERS.X.2_Tim" source="Apemantus_Tim" target="MESSENGERS.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|Alcibiades_Tim" source="Apemantus_Tim" target="Alcibiades_Tim">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Apemantus_Tim|LORDS.0.1_Tim" source="Apemantus_Tim" target="LORDS.0.1_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Apemantus_Tim|LORDS.0.2_Tim" source="Apemantus_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Apemantus_Tim|FRIENDS.Ventidius_Tim" source="Apemantus_Tim" target="FRIENDS.Ventidius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|LORDS.0.3_Tim" source="Apemantus_Tim" target="LORDS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|SERVANTS.TIMON.X.1_Tim" source="Apemantus_Tim" target="SERVANTS.TIMON.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|Cupid_Tim" source="Apemantus_Tim" target="Cupid_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|FRIENDS.Lucius_Tim" source="Apemantus_Tim" target="FRIENDS.Lucius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|LADIES.0.1_Tim" source="Apemantus_Tim" target="LADIES.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|LADIES_Tim" source="Apemantus_Tim" target="LADIES_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|Flavius_Tim" source="Apemantus_Tim" target="Flavius_Tim">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Apemantus_Tim|ATTENDANTS.TIMON.0.1_Tim" source="Apemantus_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|SERVANTS.TIMON.1_Tim" source="Apemantus_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|SERVANTS.TIMON.2_Tim" source="Apemantus_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|SERVANTS.TIMON.3_Tim" source="Apemantus_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|LORDS_Tim" source="Apemantus_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|SERVANTS.Caphis_Tim" source="Apemantus_Tim" target="SERVANTS.Caphis_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|SERVANTS.VARRO.1_Tim" source="Apemantus_Tim" target="SERVANTS.VARRO.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|SERVANTS.ISIDORE.1_Tim" source="Apemantus_Tim" target="SERVANTS.ISIDORE.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|Fool_Tim" source="Apemantus_Tim" target="Fool_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|SERVANTS.Page_Tim" source="Apemantus_Tim" target="SERVANTS.Page_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|SERVANTS.TIMON.Flaminius_Tim" source="Apemantus_Tim" target="SERVANTS.TIMON.Flaminius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|SERVANTS.TIMON.Servilius_Tim" source="Apemantus_Tim" target="SERVANTS.TIMON.Servilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|SERVANTS.TIMON.X.2_Tim" source="Apemantus_Tim" target="SERVANTS.TIMON.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|Phrynia_Tim" source="Apemantus_Tim" target="Phrynia_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|Timandra_Tim" source="Apemantus_Tim" target="Timandra_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|BANDITS.1_Tim" source="Apemantus_Tim" target="BANDITS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|BANDITS.2_Tim" source="Apemantus_Tim" target="BANDITS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Apemantus_Tim|BANDITS.3_Tim" source="Apemantus_Tim" target="BANDITS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.2_Tim|Alcibiades_Tim" source="MESSENGERS.X.2_Tim" target="Alcibiades_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.2_Tim|LORDS.0.1_Tim" source="MESSENGERS.X.2_Tim" target="LORDS.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.2_Tim|LORDS.0.2_Tim" source="MESSENGERS.X.2_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|LORDS.0.1_Tim" source="Alcibiades_Tim" target="LORDS.0.1_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Alcibiades_Tim|LORDS.0.2_Tim" source="Alcibiades_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Alcibiades_Tim|FRIENDS.Ventidius_Tim" source="Alcibiades_Tim" target="FRIENDS.Ventidius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|LORDS.0.3_Tim" source="Alcibiades_Tim" target="LORDS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|SERVANTS.TIMON.X.1_Tim" source="Alcibiades_Tim" target="SERVANTS.TIMON.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|Cupid_Tim" source="Alcibiades_Tim" target="Cupid_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|FRIENDS.Lucius_Tim" source="Alcibiades_Tim" target="FRIENDS.Lucius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|LADIES.0.1_Tim" source="Alcibiades_Tim" target="LADIES.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|LADIES_Tim" source="Alcibiades_Tim" target="LADIES_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|Flavius_Tim" source="Alcibiades_Tim" target="Flavius_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Alcibiades_Tim|ATTENDANTS.TIMON.0.1_Tim" source="Alcibiades_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|SERVANTS.TIMON.1_Tim" source="Alcibiades_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|SERVANTS.TIMON.2_Tim" source="Alcibiades_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|SERVANTS.TIMON.3_Tim" source="Alcibiades_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|LORDS_Tim" source="Alcibiades_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|SENATORS.0.1_Tim" source="Alcibiades_Tim" target="SENATORS.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|SENATORS.0.2_Tim" source="Alcibiades_Tim" target="SENATORS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|SENATORS.0.3_Tim" source="Alcibiades_Tim" target="SENATORS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|Phrynia_Tim" source="Alcibiades_Tim" target="Phrynia_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|Timandra_Tim" source="Alcibiades_Tim" target="Timandra_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|BANDITS.1_Tim" source="Alcibiades_Tim" target="BANDITS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|BANDITS.2_Tim" source="Alcibiades_Tim" target="BANDITS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|BANDITS.3_Tim" source="Alcibiades_Tim" target="BANDITS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|SENATORS.1_Tim" source="Alcibiades_Tim" target="SENATORS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|SENATORS.2_Tim" source="Alcibiades_Tim" target="SENATORS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alcibiades_Tim|SOLDIERS.1_Tim" source="Alcibiades_Tim" target="SOLDIERS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|LORDS.0.2_Tim" source="LORDS.0.1_Tim" target="LORDS.0.2_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|FRIENDS.Ventidius_Tim" source="LORDS.0.1_Tim" target="FRIENDS.Ventidius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|LORDS.0.3_Tim" source="LORDS.0.1_Tim" target="LORDS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|SERVANTS.TIMON.X.1_Tim" source="LORDS.0.1_Tim" target="SERVANTS.TIMON.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|Cupid_Tim" source="LORDS.0.1_Tim" target="Cupid_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|FRIENDS.Lucius_Tim" source="LORDS.0.1_Tim" target="FRIENDS.Lucius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|LADIES.0.1_Tim" source="LORDS.0.1_Tim" target="LADIES.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|LADIES_Tim" source="LORDS.0.1_Tim" target="LADIES_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|Flavius_Tim" source="LORDS.0.1_Tim" target="Flavius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|ATTENDANTS.TIMON.0.1_Tim" source="LORDS.0.1_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|SERVANTS.TIMON.1_Tim" source="LORDS.0.1_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|SERVANTS.TIMON.2_Tim" source="LORDS.0.1_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|SERVANTS.TIMON.3_Tim" source="LORDS.0.1_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.1_Tim|LORDS_Tim" source="LORDS.0.1_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|FRIENDS.Ventidius_Tim" source="LORDS.0.2_Tim" target="FRIENDS.Ventidius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|LORDS.0.3_Tim" source="LORDS.0.2_Tim" target="LORDS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|SERVANTS.TIMON.X.1_Tim" source="LORDS.0.2_Tim" target="SERVANTS.TIMON.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|Cupid_Tim" source="LORDS.0.2_Tim" target="Cupid_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|FRIENDS.Lucius_Tim" source="LORDS.0.2_Tim" target="FRIENDS.Lucius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|LADIES.0.1_Tim" source="LORDS.0.2_Tim" target="LADIES.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|LADIES_Tim" source="LORDS.0.2_Tim" target="LADIES_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|Flavius_Tim" source="LORDS.0.2_Tim" target="Flavius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|ATTENDANTS.TIMON.0.1_Tim" source="LORDS.0.2_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|SERVANTS.TIMON.1_Tim" source="LORDS.0.2_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|SERVANTS.TIMON.2_Tim" source="LORDS.0.2_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|SERVANTS.TIMON.3_Tim" source="LORDS.0.2_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.2_Tim|LORDS_Tim" source="LORDS.0.2_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|LORDS.0.3_Tim" source="FRIENDS.Ventidius_Tim" target="LORDS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|SERVANTS.TIMON.X.1_Tim" source="FRIENDS.Ventidius_Tim" target="SERVANTS.TIMON.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|Cupid_Tim" source="FRIENDS.Ventidius_Tim" target="Cupid_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|FRIENDS.Lucius_Tim" source="FRIENDS.Ventidius_Tim" target="FRIENDS.Lucius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|LADIES.0.1_Tim" source="FRIENDS.Ventidius_Tim" target="LADIES.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|LADIES_Tim" source="FRIENDS.Ventidius_Tim" target="LADIES_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|Flavius_Tim" source="FRIENDS.Ventidius_Tim" target="Flavius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|ATTENDANTS.TIMON.0.1_Tim" source="FRIENDS.Ventidius_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|SERVANTS.TIMON.1_Tim" source="FRIENDS.Ventidius_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|SERVANTS.TIMON.2_Tim" source="FRIENDS.Ventidius_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|SERVANTS.TIMON.3_Tim" source="FRIENDS.Ventidius_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Ventidius_Tim|LORDS_Tim" source="FRIENDS.Ventidius_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.3_Tim|SERVANTS.TIMON.X.1_Tim" source="LORDS.0.3_Tim" target="SERVANTS.TIMON.X.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.3_Tim|Cupid_Tim" source="LORDS.0.3_Tim" target="Cupid_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.3_Tim|FRIENDS.Lucius_Tim" source="LORDS.0.3_Tim" target="FRIENDS.Lucius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.3_Tim|LADIES.0.1_Tim" source="LORDS.0.3_Tim" target="LADIES.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.3_Tim|LADIES_Tim" source="LORDS.0.3_Tim" target="LADIES_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.3_Tim|Flavius_Tim" source="LORDS.0.3_Tim" target="Flavius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.3_Tim|ATTENDANTS.TIMON.0.1_Tim" source="LORDS.0.3_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.3_Tim|SERVANTS.TIMON.1_Tim" source="LORDS.0.3_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.3_Tim|SERVANTS.TIMON.2_Tim" source="LORDS.0.3_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.3_Tim|SERVANTS.TIMON.3_Tim" source="LORDS.0.3_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LORDS.0.3_Tim|LORDS_Tim" source="LORDS.0.3_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.X.1_Tim|Cupid_Tim" source="SERVANTS.TIMON.X.1_Tim" target="Cupid_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.X.1_Tim|FRIENDS.Lucius_Tim" source="SERVANTS.TIMON.X.1_Tim" target="FRIENDS.Lucius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.X.1_Tim|LADIES.0.1_Tim" source="SERVANTS.TIMON.X.1_Tim" target="LADIES.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.X.1_Tim|LADIES_Tim" source="SERVANTS.TIMON.X.1_Tim" target="LADIES_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.X.1_Tim|Flavius_Tim" source="SERVANTS.TIMON.X.1_Tim" target="Flavius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.X.1_Tim|ATTENDANTS.TIMON.0.1_Tim" source="SERVANTS.TIMON.X.1_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.X.1_Tim|SERVANTS.TIMON.1_Tim" source="SERVANTS.TIMON.X.1_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.X.1_Tim|SERVANTS.TIMON.2_Tim" source="SERVANTS.TIMON.X.1_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.X.1_Tim|SERVANTS.TIMON.3_Tim" source="SERVANTS.TIMON.X.1_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.X.1_Tim|LORDS_Tim" source="SERVANTS.TIMON.X.1_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cupid_Tim|FRIENDS.Lucius_Tim" source="Cupid_Tim" target="FRIENDS.Lucius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cupid_Tim|LADIES.0.1_Tim" source="Cupid_Tim" target="LADIES.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cupid_Tim|LADIES_Tim" source="Cupid_Tim" target="LADIES_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cupid_Tim|Flavius_Tim" source="Cupid_Tim" target="Flavius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cupid_Tim|ATTENDANTS.TIMON.0.1_Tim" source="Cupid_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cupid_Tim|SERVANTS.TIMON.1_Tim" source="Cupid_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cupid_Tim|SERVANTS.TIMON.2_Tim" source="Cupid_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cupid_Tim|SERVANTS.TIMON.3_Tim" source="Cupid_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cupid_Tim|LORDS_Tim" source="Cupid_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|LADIES.0.1_Tim" source="FRIENDS.Lucius_Tim" target="LADIES.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|LADIES_Tim" source="FRIENDS.Lucius_Tim" target="LADIES_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|Flavius_Tim" source="FRIENDS.Lucius_Tim" target="Flavius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|ATTENDANTS.TIMON.0.1_Tim" source="FRIENDS.Lucius_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|SERVANTS.TIMON.1_Tim" source="FRIENDS.Lucius_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|SERVANTS.TIMON.2_Tim" source="FRIENDS.Lucius_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|SERVANTS.TIMON.3_Tim" source="FRIENDS.Lucius_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|LORDS_Tim" source="FRIENDS.Lucius_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|STRANGERS.1_Tim" source="FRIENDS.Lucius_Tim" target="STRANGERS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|STRANGERS.2_Tim" source="FRIENDS.Lucius_Tim" target="STRANGERS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|SERVANTS.TIMON.Servilius_Tim" source="FRIENDS.Lucius_Tim" target="SERVANTS.TIMON.Servilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.Lucius_Tim|STRANGERS.3_Tim" source="FRIENDS.Lucius_Tim" target="STRANGERS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_Tim|LADIES_Tim" source="LADIES.0.1_Tim" target="LADIES_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_Tim|Flavius_Tim" source="LADIES.0.1_Tim" target="Flavius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_Tim|ATTENDANTS.TIMON.0.1_Tim" source="LADIES.0.1_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_Tim|SERVANTS.TIMON.1_Tim" source="LADIES.0.1_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_Tim|SERVANTS.TIMON.2_Tim" source="LADIES.0.1_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_Tim|SERVANTS.TIMON.3_Tim" source="LADIES.0.1_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.0.1_Tim|LORDS_Tim" source="LADIES.0.1_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES_Tim|Flavius_Tim" source="LADIES_Tim" target="Flavius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES_Tim|ATTENDANTS.TIMON.0.1_Tim" source="LADIES_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES_Tim|SERVANTS.TIMON.1_Tim" source="LADIES_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES_Tim|SERVANTS.TIMON.2_Tim" source="LADIES_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES_Tim|SERVANTS.TIMON.3_Tim" source="LADIES_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES_Tim|LORDS_Tim" source="LADIES_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|ATTENDANTS.TIMON.0.1_Tim" source="Flavius_Tim" target="ATTENDANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.TIMON.1_Tim" source="Flavius_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.TIMON.2_Tim" source="Flavius_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.TIMON.3_Tim" source="Flavius_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|LORDS_Tim" source="Flavius_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.Caphis_Tim" source="Flavius_Tim" target="SERVANTS.Caphis_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.VARRO.1_Tim" source="Flavius_Tim" target="SERVANTS.VARRO.1_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.ISIDORE.1_Tim" source="Flavius_Tim" target="SERVANTS.ISIDORE.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|Fool_Tim" source="Flavius_Tim" target="Fool_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.Page_Tim" source="Flavius_Tim" target="SERVANTS.Page_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.TIMON.Flaminius_Tim" source="Flavius_Tim" target="SERVANTS.TIMON.Flaminius_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.TIMON.Servilius_Tim" source="Flavius_Tim" target="SERVANTS.TIMON.Servilius_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.TIMON.X.2_Tim" source="Flavius_Tim" target="SERVANTS.TIMON.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.Titus_Tim" source="Flavius_Tim" target="SERVANTS.Titus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.Hortensius_Tim" source="Flavius_Tim" target="SERVANTS.Hortensius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.LUCIUS.1_Tim" source="Flavius_Tim" target="SERVANTS.LUCIUS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.Philotus_Tim" source="Flavius_Tim" target="SERVANTS.Philotus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.VARRO.2_Tim" source="Flavius_Tim" target="SERVANTS.VARRO.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.TIMON.0.1_Tim" source="Flavius_Tim" target="SERVANTS.TIMON.0.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.TIMON.0.2_Tim" source="Flavius_Tim" target="SERVANTS.TIMON.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SERVANTS.TIMON.0.3_Tim" source="Flavius_Tim" target="SERVANTS.TIMON.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|Phrynia_Tim" source="Flavius_Tim" target="Phrynia_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|Timandra_Tim" source="Flavius_Tim" target="Timandra_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|BANDITS.1_Tim" source="Flavius_Tim" target="BANDITS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|BANDITS.2_Tim" source="Flavius_Tim" target="BANDITS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|BANDITS.3_Tim" source="Flavius_Tim" target="BANDITS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SENATORS.1_Tim" source="Flavius_Tim" target="SENATORS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Flavius_Tim|SENATORS.2_Tim" source="Flavius_Tim" target="SENATORS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.TIMON.0.1_Tim|SERVANTS.TIMON.1_Tim" source="ATTENDANTS.TIMON.0.1_Tim" target="SERVANTS.TIMON.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.TIMON.0.1_Tim|SERVANTS.TIMON.2_Tim" source="ATTENDANTS.TIMON.0.1_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.TIMON.0.1_Tim|SERVANTS.TIMON.3_Tim" source="ATTENDANTS.TIMON.0.1_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.TIMON.0.1_Tim|LORDS_Tim" source="ATTENDANTS.TIMON.0.1_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.1_Tim|SERVANTS.TIMON.2_Tim" source="SERVANTS.TIMON.1_Tim" target="SERVANTS.TIMON.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.1_Tim|SERVANTS.TIMON.3_Tim" source="SERVANTS.TIMON.1_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.1_Tim|LORDS_Tim" source="SERVANTS.TIMON.1_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.2_Tim|SERVANTS.TIMON.3_Tim" source="SERVANTS.TIMON.2_Tim" target="SERVANTS.TIMON.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.2_Tim|LORDS_Tim" source="SERVANTS.TIMON.2_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.3_Tim|LORDS_Tim" source="SERVANTS.TIMON.3_Tim" target="LORDS_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.X_Tim|SERVANTS.Caphis_Tim" source="SENATORS.X_Tim" target="SERVANTS.Caphis_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Caphis_Tim|SERVANTS.VARRO.1_Tim" source="SERVANTS.Caphis_Tim" target="SERVANTS.VARRO.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Caphis_Tim|SERVANTS.ISIDORE.1_Tim" source="SERVANTS.Caphis_Tim" target="SERVANTS.ISIDORE.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Caphis_Tim|Fool_Tim" source="SERVANTS.Caphis_Tim" target="Fool_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Caphis_Tim|SERVANTS.Page_Tim" source="SERVANTS.Caphis_Tim" target="SERVANTS.Page_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Caphis_Tim|SERVANTS.TIMON.Flaminius_Tim" source="SERVANTS.Caphis_Tim" target="SERVANTS.TIMON.Flaminius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Caphis_Tim|SERVANTS.TIMON.Servilius_Tim" source="SERVANTS.Caphis_Tim" target="SERVANTS.TIMON.Servilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Caphis_Tim|SERVANTS.TIMON.X.2_Tim" source="SERVANTS.Caphis_Tim" target="SERVANTS.TIMON.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.VARRO.1_Tim|SERVANTS.ISIDORE.1_Tim" source="SERVANTS.VARRO.1_Tim" target="SERVANTS.ISIDORE.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.VARRO.1_Tim|Fool_Tim" source="SERVANTS.VARRO.1_Tim" target="Fool_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.VARRO.1_Tim|SERVANTS.Page_Tim" source="SERVANTS.VARRO.1_Tim" target="SERVANTS.Page_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.VARRO.1_Tim|SERVANTS.TIMON.Flaminius_Tim" source="SERVANTS.VARRO.1_Tim" target="SERVANTS.TIMON.Flaminius_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.VARRO.1_Tim|SERVANTS.TIMON.Servilius_Tim" source="SERVANTS.VARRO.1_Tim" target="SERVANTS.TIMON.Servilius_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.VARRO.1_Tim|SERVANTS.TIMON.X.2_Tim" source="SERVANTS.VARRO.1_Tim" target="SERVANTS.TIMON.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.VARRO.1_Tim|SERVANTS.Titus_Tim" source="SERVANTS.VARRO.1_Tim" target="SERVANTS.Titus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.VARRO.1_Tim|SERVANTS.Hortensius_Tim" source="SERVANTS.VARRO.1_Tim" target="SERVANTS.Hortensius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.VARRO.1_Tim|SERVANTS.LUCIUS.1_Tim" source="SERVANTS.VARRO.1_Tim" target="SERVANTS.LUCIUS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.VARRO.1_Tim|SERVANTS.Philotus_Tim" source="SERVANTS.VARRO.1_Tim" target="SERVANTS.Philotus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.VARRO.1_Tim|SERVANTS.VARRO.2_Tim" source="SERVANTS.VARRO.1_Tim" target="SERVANTS.VARRO.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.ISIDORE.1_Tim|Fool_Tim" source="SERVANTS.ISIDORE.1_Tim" target="Fool_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.ISIDORE.1_Tim|SERVANTS.Page_Tim" source="SERVANTS.ISIDORE.1_Tim" target="SERVANTS.Page_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.ISIDORE.1_Tim|SERVANTS.TIMON.Flaminius_Tim" source="SERVANTS.ISIDORE.1_Tim" target="SERVANTS.TIMON.Flaminius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.ISIDORE.1_Tim|SERVANTS.TIMON.Servilius_Tim" source="SERVANTS.ISIDORE.1_Tim" target="SERVANTS.TIMON.Servilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.ISIDORE.1_Tim|SERVANTS.TIMON.X.2_Tim" source="SERVANTS.ISIDORE.1_Tim" target="SERVANTS.TIMON.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fool_Tim|SERVANTS.Page_Tim" source="Fool_Tim" target="SERVANTS.Page_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fool_Tim|SERVANTS.TIMON.Flaminius_Tim" source="Fool_Tim" target="SERVANTS.TIMON.Flaminius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fool_Tim|SERVANTS.TIMON.Servilius_Tim" source="Fool_Tim" target="SERVANTS.TIMON.Servilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Fool_Tim|SERVANTS.TIMON.X.2_Tim" source="Fool_Tim" target="SERVANTS.TIMON.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Page_Tim|SERVANTS.TIMON.Flaminius_Tim" source="SERVANTS.Page_Tim" target="SERVANTS.TIMON.Flaminius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Page_Tim|SERVANTS.TIMON.Servilius_Tim" source="SERVANTS.Page_Tim" target="SERVANTS.TIMON.Servilius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Page_Tim|SERVANTS.TIMON.X.2_Tim" source="SERVANTS.Page_Tim" target="SERVANTS.TIMON.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Flaminius_Tim|SERVANTS.TIMON.Servilius_Tim" source="SERVANTS.TIMON.Flaminius_Tim" target="SERVANTS.TIMON.Servilius_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Flaminius_Tim|SERVANTS.TIMON.X.2_Tim" source="SERVANTS.TIMON.Flaminius_Tim" target="SERVANTS.TIMON.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Flaminius_Tim|SERVANTS.LUCULLUS.1_Tim" source="SERVANTS.TIMON.Flaminius_Tim" target="SERVANTS.LUCULLUS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Flaminius_Tim|FRIENDS.Lucullus_Tim" source="SERVANTS.TIMON.Flaminius_Tim" target="FRIENDS.Lucullus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Flaminius_Tim|SERVANTS.Titus_Tim" source="SERVANTS.TIMON.Flaminius_Tim" target="SERVANTS.Titus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Flaminius_Tim|SERVANTS.Hortensius_Tim" source="SERVANTS.TIMON.Flaminius_Tim" target="SERVANTS.Hortensius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Flaminius_Tim|SERVANTS.LUCIUS.1_Tim" source="SERVANTS.TIMON.Flaminius_Tim" target="SERVANTS.LUCIUS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Flaminius_Tim|SERVANTS.Philotus_Tim" source="SERVANTS.TIMON.Flaminius_Tim" target="SERVANTS.Philotus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Flaminius_Tim|SERVANTS.VARRO.2_Tim" source="SERVANTS.TIMON.Flaminius_Tim" target="SERVANTS.VARRO.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Servilius_Tim|SERVANTS.TIMON.X.2_Tim" source="SERVANTS.TIMON.Servilius_Tim" target="SERVANTS.TIMON.X.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Servilius_Tim|STRANGERS.1_Tim" source="SERVANTS.TIMON.Servilius_Tim" target="STRANGERS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Servilius_Tim|STRANGERS.2_Tim" source="SERVANTS.TIMON.Servilius_Tim" target="STRANGERS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Servilius_Tim|STRANGERS.3_Tim" source="SERVANTS.TIMON.Servilius_Tim" target="STRANGERS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Servilius_Tim|SERVANTS.Titus_Tim" source="SERVANTS.TIMON.Servilius_Tim" target="SERVANTS.Titus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Servilius_Tim|SERVANTS.Hortensius_Tim" source="SERVANTS.TIMON.Servilius_Tim" target="SERVANTS.Hortensius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Servilius_Tim|SERVANTS.LUCIUS.1_Tim" source="SERVANTS.TIMON.Servilius_Tim" target="SERVANTS.LUCIUS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Servilius_Tim|SERVANTS.Philotus_Tim" source="SERVANTS.TIMON.Servilius_Tim" target="SERVANTS.Philotus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.Servilius_Tim|SERVANTS.VARRO.2_Tim" source="SERVANTS.TIMON.Servilius_Tim" target="SERVANTS.VARRO.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.X.2_Tim|FRIENDS.Sempronius_Tim" source="SERVANTS.TIMON.X.2_Tim" target="FRIENDS.Sempronius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LUCULLUS.1_Tim|FRIENDS.Lucullus_Tim" source="SERVANTS.LUCULLUS.1_Tim" target="FRIENDS.Lucullus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="STRANGERS.1_Tim|STRANGERS.2_Tim" source="STRANGERS.1_Tim" target="STRANGERS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="STRANGERS.1_Tim|STRANGERS.3_Tim" source="STRANGERS.1_Tim" target="STRANGERS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="STRANGERS.2_Tim|STRANGERS.3_Tim" source="STRANGERS.2_Tim" target="STRANGERS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Titus_Tim|SERVANTS.Hortensius_Tim" source="SERVANTS.Titus_Tim" target="SERVANTS.Hortensius_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Titus_Tim|SERVANTS.LUCIUS.1_Tim" source="SERVANTS.Titus_Tim" target="SERVANTS.LUCIUS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Titus_Tim|SERVANTS.Philotus_Tim" source="SERVANTS.Titus_Tim" target="SERVANTS.Philotus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Titus_Tim|SERVANTS.VARRO.2_Tim" source="SERVANTS.Titus_Tim" target="SERVANTS.VARRO.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Hortensius_Tim|SERVANTS.LUCIUS.1_Tim" source="SERVANTS.Hortensius_Tim" target="SERVANTS.LUCIUS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Hortensius_Tim|SERVANTS.Philotus_Tim" source="SERVANTS.Hortensius_Tim" target="SERVANTS.Philotus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Hortensius_Tim|SERVANTS.VARRO.2_Tim" source="SERVANTS.Hortensius_Tim" target="SERVANTS.VARRO.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LUCIUS.1_Tim|SERVANTS.Philotus_Tim" source="SERVANTS.LUCIUS.1_Tim" target="SERVANTS.Philotus_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.LUCIUS.1_Tim|SERVANTS.VARRO.2_Tim" source="SERVANTS.LUCIUS.1_Tim" target="SERVANTS.VARRO.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.Philotus_Tim|SERVANTS.VARRO.2_Tim" source="SERVANTS.Philotus_Tim" target="SERVANTS.VARRO.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.1_Tim|SENATORS.0.2_Tim" source="SENATORS.0.1_Tim" target="SENATORS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.1_Tim|SENATORS.0.3_Tim" source="SENATORS.0.1_Tim" target="SENATORS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.0.2_Tim|SENATORS.0.3_Tim" source="SENATORS.0.2_Tim" target="SENATORS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.0.1_Tim|FRIENDS.0.2_Tim" source="FRIENDS.0.1_Tim" target="FRIENDS.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.0.1_Tim|FRIENDS.0.3_Tim" source="FRIENDS.0.1_Tim" target="FRIENDS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.0.1_Tim|FRIENDS.0_Tim" source="FRIENDS.0.1_Tim" target="FRIENDS.0_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.0.1_Tim|FRIENDS.0.4_Tim" source="FRIENDS.0.1_Tim" target="FRIENDS.0.4_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.0.2_Tim|FRIENDS.0.3_Tim" source="FRIENDS.0.2_Tim" target="FRIENDS.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.0.2_Tim|FRIENDS.0_Tim" source="FRIENDS.0.2_Tim" target="FRIENDS.0_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.0.2_Tim|FRIENDS.0.4_Tim" source="FRIENDS.0.2_Tim" target="FRIENDS.0.4_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.0.3_Tim|FRIENDS.0_Tim" source="FRIENDS.0.3_Tim" target="FRIENDS.0_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.0.3_Tim|FRIENDS.0.4_Tim" source="FRIENDS.0.3_Tim" target="FRIENDS.0.4_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="FRIENDS.0_Tim|FRIENDS.0.4_Tim" source="FRIENDS.0_Tim" target="FRIENDS.0.4_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.0.1_Tim|SERVANTS.TIMON.0.2_Tim" source="SERVANTS.TIMON.0.1_Tim" target="SERVANTS.TIMON.0.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.0.1_Tim|SERVANTS.TIMON.0.3_Tim" source="SERVANTS.TIMON.0.1_Tim" target="SERVANTS.TIMON.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.TIMON.0.2_Tim|SERVANTS.TIMON.0.3_Tim" source="SERVANTS.TIMON.0.2_Tim" target="SERVANTS.TIMON.0.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Phrynia_Tim|Timandra_Tim" source="Phrynia_Tim" target="Timandra_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Phrynia_Tim|BANDITS.1_Tim" source="Phrynia_Tim" target="BANDITS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Phrynia_Tim|BANDITS.2_Tim" source="Phrynia_Tim" target="BANDITS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Phrynia_Tim|BANDITS.3_Tim" source="Phrynia_Tim" target="BANDITS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timandra_Tim|BANDITS.1_Tim" source="Timandra_Tim" target="BANDITS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timandra_Tim|BANDITS.2_Tim" source="Timandra_Tim" target="BANDITS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Timandra_Tim|BANDITS.3_Tim" source="Timandra_Tim" target="BANDITS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BANDITS.1_Tim|BANDITS.2_Tim" source="BANDITS.1_Tim" target="BANDITS.2_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BANDITS.1_Tim|BANDITS.3_Tim" source="BANDITS.1_Tim" target="BANDITS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="BANDITS.2_Tim|BANDITS.3_Tim" source="BANDITS.2_Tim" target="BANDITS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.1_Tim|SENATORS.2_Tim" source="SENATORS.1_Tim" target="SENATORS.2_Tim">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="SENATORS.1_Tim|SENATORS.3_Tim" source="SENATORS.1_Tim" target="SENATORS.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.1_Tim|MESSENGERS.X.3_Tim" source="SENATORS.1_Tim" target="MESSENGERS.X.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.1_Tim|SENATORS.4_Tim" source="SENATORS.1_Tim" target="SENATORS.4_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.1_Tim|SOLDIERS.1_Tim" source="SENATORS.1_Tim" target="SOLDIERS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.2_Tim|SOLDIERS.1_Tim" source="SENATORS.2_Tim" target="SOLDIERS.1_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.3_Tim|MESSENGERS.X.3_Tim" source="SENATORS.3_Tim" target="MESSENGERS.X.3_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.3_Tim|SENATORS.4_Tim" source="SENATORS.3_Tim" target="SENATORS.4_Tim">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.3_Tim|SENATORS.4_Tim" source="MESSENGERS.X.3_Tim" target="SENATORS.4_Tim">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

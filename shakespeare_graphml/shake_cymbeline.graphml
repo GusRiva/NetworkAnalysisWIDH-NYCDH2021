@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="ATTENDANTS.1_Cym">
+            <data key="label">ATTENDANTS.1_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">506</data>
+        </node>
+        <node id="ATTENDANTS.2_Cym">
+            <data key="label">ATTENDANTS.2_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">71</data>
+        </node>
+        <node id="Queen_Cym">
+            <data key="label">Queen</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1209</data>
+        </node>
+        <node id="Posthumus_Cym">
+            <data key="label">Posthumus Leonatus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3329</data>
+        </node>
+        <node id="Imogen_Cym">
+            <data key="label">Imogen</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4211</data>
+        </node>
+        <node id="Cymbeline_Cym">
+            <data key="label">Cymbeline</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1988</data>
+        </node>
+        <node id="Pisanio_Cym">
+            <data key="label">Pisanio</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1499</data>
+        </node>
+        <node id="ATTENDANTS.CLOTEN.1_Cym">
+            <data key="label">ATTENDANTS.CLOTEN.1_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">190</data>
+        </node>
+        <node id="Cloten_Cym">
+            <data key="label">Cloten</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2001</data>
+        </node>
+        <node id="ATTENDANTS.CLOTEN.2_Cym">
+            <data key="label">ATTENDANTS.CLOTEN.2_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">313</data>
+        </node>
+        <node id="LADIES.IMOGEN_Cym">
+            <data key="label">Lady</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">60</data>
+        </node>
+        <node id="Iachimo_Cym">
+            <data key="label">Iachimo</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3193</data>
+        </node>
+        <node id="Philario_Cym">
+            <data key="label">Philario</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">292</data>
+        </node>
+        <node id="Frenchman_Cym">
+            <data key="label">Frenchman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">180</data>
+        </node>
+        <node id="LADIES.QUEEN.0.1_Cym">
+            <data key="label">Lady</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2</data>
+        </node>
+        <node id="Cornelius_Cym">
+            <data key="label">Cornelius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">522</data>
+        </node>
+        <node id="MUSICIANS_Cym">
+            <data key="label">Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">44</data>
+        </node>
+        <node id="MESSENGERS.1_Cym">
+            <data key="label">MESSENGERS.1_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">12</data>
+        </node>
+        <node id="Lucius_Cym">
+            <data key="label">Caius Lucius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">721</data>
+        </node>
+        <node id="Belarius_Cym">
+            <data key="label">Belarius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2503</data>
+        </node>
+        <node id="Guiderius_Cym">
+            <data key="label">Guiderius</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1110</data>
+        </node>
+        <node id="Arviragus_Cym">
+            <data key="label">Arviragus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">947</data>
+        </node>
+        <node id="ATTENDANTS.0.1_Cym">
+            <data key="label">Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">22</data>
+        </node>
+        <node id="SENATORS.1_Cym">
+            <data key="label">SENATORS.1_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">101</data>
+        </node>
+        <node id="TRIBUNES.0.1_Cym">
+            <data key="label">TRIBUNES.0.1_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">15</data>
+        </node>
+        <node id="SENATORS.2_Cym">
+            <data key="label">SENATORS.2_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1</data>
+        </node>
+        <node id="SOLDIERS.ROMAN.0.1_Cym">
+            <data key="label">SOLDIERS.ROMAN.0.1_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">68</data>
+        </node>
+        <node id="Soothsayer_Cym">
+            <data key="label">Soothsayer</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">248</data>
+        </node>
+        <node id="ATTENDANTS.0.2_Cym">
+            <data key="label">Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">102</data>
+        </node>
+        <node id="ATTENDANTS.3_Cym">
+            <data key="label">Lord</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">34</data>
+        </node>
+        <node id="SOLDIERS.BRITON.0.1_Cym">
+            <data key="label">SOLDIERS.BRITON.0.1_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">30</data>
+        </node>
+        <node id="SOLDIERS.BRITON.0.2_Cym">
+            <data key="label">SOLDIERS.BRITON.0.2_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">51</data>
+        </node>
+        <node id="JAILERS.1_Cym">
+            <data key="label">JAILERS.1_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">412</data>
+        </node>
+        <node id="JAILERS.2_Cym">
+            <data key="label">JAILERS.2_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="GHOSTS.Father_Cym">
+            <data key="label">Sicilius Leonatus</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">230</data>
+        </node>
+        <node id="GHOSTS.Mother_Cym">
+            <data key="label">Mother</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">62</data>
+        </node>
+        <node id="GHOSTS.BROTHERS.1_Cym">
+            <data key="label">GHOSTS.BROTHERS.1_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">73</data>
+        </node>
+        <node id="GHOSTS.BROTHERS.2_Cym">
+            <data key="label">GHOSTS.BROTHERS.2_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">44</data>
+        </node>
+        <node id="Jupiter_Cym">
+            <data key="label">Jupiter</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">154</data>
+        </node>
+        <node id="MESSENGERS.2_Cym">
+            <data key="label">MESSENGERS.2_Cym</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">10</data>
+        </node>
+        <node id="LADIES.QUEEN_Cym">
+            <data key="label">LADIES.QUEEN_Cym</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <edge id="ATTENDANTS.1_Cym|ATTENDANTS.2_Cym" source="ATTENDANTS.1_Cym" target="ATTENDANTS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.1_Cym|Queen_Cym" source="ATTENDANTS.1_Cym" target="Queen_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.1_Cym|Posthumus_Cym" source="ATTENDANTS.1_Cym" target="Posthumus_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.1_Cym|Imogen_Cym" source="ATTENDANTS.1_Cym" target="Imogen_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.1_Cym|Cymbeline_Cym" source="ATTENDANTS.1_Cym" target="Cymbeline_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.1_Cym|Pisanio_Cym" source="ATTENDANTS.1_Cym" target="Pisanio_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.2_Cym|Queen_Cym" source="ATTENDANTS.2_Cym" target="Queen_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.2_Cym|Posthumus_Cym" source="ATTENDANTS.2_Cym" target="Posthumus_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.2_Cym|Imogen_Cym" source="ATTENDANTS.2_Cym" target="Imogen_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.2_Cym|Cymbeline_Cym" source="ATTENDANTS.2_Cym" target="Cymbeline_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.2_Cym|Pisanio_Cym" source="ATTENDANTS.2_Cym" target="Pisanio_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_Cym|Posthumus_Cym" source="Queen_Cym" target="Posthumus_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_Cym|Imogen_Cym" source="Queen_Cym" target="Imogen_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Queen_Cym|Cymbeline_Cym" source="Queen_Cym" target="Cymbeline_Cym">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Queen_Cym|Pisanio_Cym" source="Queen_Cym" target="Pisanio_Cym">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Queen_Cym|LADIES.QUEEN.0.1_Cym" source="Queen_Cym" target="LADIES.QUEEN.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_Cym|Cornelius_Cym" source="Queen_Cym" target="Cornelius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_Cym|ATTENDANTS.CLOTEN.1_Cym" source="Queen_Cym" target="ATTENDANTS.CLOTEN.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_Cym|Cloten_Cym" source="Queen_Cym" target="Cloten_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Queen_Cym|MUSICIANS_Cym" source="Queen_Cym" target="MUSICIANS_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_Cym|ATTENDANTS.CLOTEN.2_Cym" source="Queen_Cym" target="ATTENDANTS.CLOTEN.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_Cym|MESSENGERS.1_Cym" source="Queen_Cym" target="MESSENGERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_Cym|LADIES.IMOGEN_Cym" source="Queen_Cym" target="LADIES.IMOGEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Queen_Cym|Lucius_Cym" source="Queen_Cym" target="Lucius_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Queen_Cym|ATTENDANTS.0.1_Cym" source="Queen_Cym" target="ATTENDANTS.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|Imogen_Cym" source="Posthumus_Cym" target="Imogen_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Posthumus_Cym|Cymbeline_Cym" source="Posthumus_Cym" target="Cymbeline_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Posthumus_Cym|Pisanio_Cym" source="Posthumus_Cym" target="Pisanio_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Posthumus_Cym|Iachimo_Cym" source="Posthumus_Cym" target="Iachimo_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Posthumus_Cym|Philario_Cym" source="Posthumus_Cym" target="Philario_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Posthumus_Cym|Frenchman_Cym" source="Posthumus_Cym" target="Frenchman_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|ATTENDANTS.3_Cym" source="Posthumus_Cym" target="ATTENDANTS.3_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|SOLDIERS.BRITON.0.1_Cym" source="Posthumus_Cym" target="SOLDIERS.BRITON.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|SOLDIERS.BRITON.0.2_Cym" source="Posthumus_Cym" target="SOLDIERS.BRITON.0.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|JAILERS.1_Cym" source="Posthumus_Cym" target="JAILERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|JAILERS.2_Cym" source="Posthumus_Cym" target="JAILERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|GHOSTS.Father_Cym" source="Posthumus_Cym" target="GHOSTS.Father_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|GHOSTS.Mother_Cym" source="Posthumus_Cym" target="GHOSTS.Mother_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|GHOSTS.BROTHERS.1_Cym" source="Posthumus_Cym" target="GHOSTS.BROTHERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|GHOSTS.BROTHERS.2_Cym" source="Posthumus_Cym" target="GHOSTS.BROTHERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|Jupiter_Cym" source="Posthumus_Cym" target="Jupiter_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|MESSENGERS.2_Cym" source="Posthumus_Cym" target="MESSENGERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|Belarius_Cym" source="Posthumus_Cym" target="Belarius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|Cornelius_Cym" source="Posthumus_Cym" target="Cornelius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|LADIES.QUEEN_Cym" source="Posthumus_Cym" target="LADIES.QUEEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|Lucius_Cym" source="Posthumus_Cym" target="Lucius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|Arviragus_Cym" source="Posthumus_Cym" target="Arviragus_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|Guiderius_Cym" source="Posthumus_Cym" target="Guiderius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Posthumus_Cym|Soothsayer_Cym" source="Posthumus_Cym" target="Soothsayer_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Imogen_Cym|Cymbeline_Cym" source="Imogen_Cym" target="Cymbeline_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Imogen_Cym|Pisanio_Cym" source="Imogen_Cym" target="Pisanio_Cym">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Imogen_Cym|LADIES.IMOGEN_Cym" source="Imogen_Cym" target="LADIES.IMOGEN_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Imogen_Cym|Iachimo_Cym" source="Imogen_Cym" target="Iachimo_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Imogen_Cym|ATTENDANTS.CLOTEN.1_Cym" source="Imogen_Cym" target="ATTENDANTS.CLOTEN.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Imogen_Cym|Cloten_Cym" source="Imogen_Cym" target="Cloten_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Imogen_Cym|MUSICIANS_Cym" source="Imogen_Cym" target="MUSICIANS_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Imogen_Cym|ATTENDANTS.CLOTEN.2_Cym" source="Imogen_Cym" target="ATTENDANTS.CLOTEN.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Imogen_Cym|MESSENGERS.1_Cym" source="Imogen_Cym" target="MESSENGERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Imogen_Cym|Belarius_Cym" source="Imogen_Cym" target="Belarius_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Imogen_Cym|Guiderius_Cym" source="Imogen_Cym" target="Guiderius_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Imogen_Cym|Arviragus_Cym" source="Imogen_Cym" target="Arviragus_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Imogen_Cym|SOLDIERS.ROMAN.0.1_Cym" source="Imogen_Cym" target="SOLDIERS.ROMAN.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Imogen_Cym|Lucius_Cym" source="Imogen_Cym" target="Lucius_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Imogen_Cym|Soothsayer_Cym" source="Imogen_Cym" target="Soothsayer_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Imogen_Cym|Cornelius_Cym" source="Imogen_Cym" target="Cornelius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Imogen_Cym|LADIES.QUEEN_Cym" source="Imogen_Cym" target="LADIES.QUEEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|Pisanio_Cym" source="Cymbeline_Cym" target="Pisanio_Cym">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Cymbeline_Cym|ATTENDANTS.CLOTEN.1_Cym" source="Cymbeline_Cym" target="ATTENDANTS.CLOTEN.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|Cloten_Cym" source="Cymbeline_Cym" target="Cloten_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cymbeline_Cym|MUSICIANS_Cym" source="Cymbeline_Cym" target="MUSICIANS_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|ATTENDANTS.CLOTEN.2_Cym" source="Cymbeline_Cym" target="ATTENDANTS.CLOTEN.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|MESSENGERS.1_Cym" source="Cymbeline_Cym" target="MESSENGERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|LADIES.IMOGEN_Cym" source="Cymbeline_Cym" target="LADIES.IMOGEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|Lucius_Cym" source="Cymbeline_Cym" target="Lucius_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cymbeline_Cym|ATTENDANTS.0.1_Cym" source="Cymbeline_Cym" target="ATTENDANTS.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|ATTENDANTS.0.2_Cym" source="Cymbeline_Cym" target="ATTENDANTS.0.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|Belarius_Cym" source="Cymbeline_Cym" target="Belarius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|Cornelius_Cym" source="Cymbeline_Cym" target="Cornelius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|LADIES.QUEEN_Cym" source="Cymbeline_Cym" target="LADIES.QUEEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|Arviragus_Cym" source="Cymbeline_Cym" target="Arviragus_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|Guiderius_Cym" source="Cymbeline_Cym" target="Guiderius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|Iachimo_Cym" source="Cymbeline_Cym" target="Iachimo_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cymbeline_Cym|Soothsayer_Cym" source="Cymbeline_Cym" target="Soothsayer_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|LADIES.IMOGEN_Cym" source="Pisanio_Cym" target="LADIES.IMOGEN_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pisanio_Cym|LADIES.QUEEN.0.1_Cym" source="Pisanio_Cym" target="LADIES.QUEEN.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|Cornelius_Cym" source="Pisanio_Cym" target="Cornelius_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pisanio_Cym|Iachimo_Cym" source="Pisanio_Cym" target="Iachimo_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pisanio_Cym|ATTENDANTS.CLOTEN.1_Cym" source="Pisanio_Cym" target="ATTENDANTS.CLOTEN.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|Cloten_Cym" source="Pisanio_Cym" target="Cloten_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pisanio_Cym|MUSICIANS_Cym" source="Pisanio_Cym" target="MUSICIANS_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|ATTENDANTS.CLOTEN.2_Cym" source="Pisanio_Cym" target="ATTENDANTS.CLOTEN.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|MESSENGERS.1_Cym" source="Pisanio_Cym" target="MESSENGERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|Lucius_Cym" source="Pisanio_Cym" target="Lucius_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pisanio_Cym|ATTENDANTS.0.1_Cym" source="Pisanio_Cym" target="ATTENDANTS.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|ATTENDANTS.0.2_Cym" source="Pisanio_Cym" target="ATTENDANTS.0.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|Belarius_Cym" source="Pisanio_Cym" target="Belarius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|LADIES.QUEEN_Cym" source="Pisanio_Cym" target="LADIES.QUEEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|Arviragus_Cym" source="Pisanio_Cym" target="Arviragus_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|Guiderius_Cym" source="Pisanio_Cym" target="Guiderius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pisanio_Cym|Soothsayer_Cym" source="Pisanio_Cym" target="Soothsayer_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CLOTEN.1_Cym|Cloten_Cym" source="ATTENDANTS.CLOTEN.1_Cym" target="Cloten_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="ATTENDANTS.CLOTEN.1_Cym|ATTENDANTS.CLOTEN.2_Cym" source="ATTENDANTS.CLOTEN.1_Cym" target="ATTENDANTS.CLOTEN.2_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="ATTENDANTS.CLOTEN.1_Cym|MUSICIANS_Cym" source="ATTENDANTS.CLOTEN.1_Cym" target="MUSICIANS_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CLOTEN.1_Cym|MESSENGERS.1_Cym" source="ATTENDANTS.CLOTEN.1_Cym" target="MESSENGERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CLOTEN.1_Cym|LADIES.IMOGEN_Cym" source="ATTENDANTS.CLOTEN.1_Cym" target="LADIES.IMOGEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cloten_Cym|ATTENDANTS.CLOTEN.2_Cym" source="Cloten_Cym" target="ATTENDANTS.CLOTEN.2_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cloten_Cym|MUSICIANS_Cym" source="Cloten_Cym" target="MUSICIANS_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cloten_Cym|MESSENGERS.1_Cym" source="Cloten_Cym" target="MESSENGERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cloten_Cym|LADIES.IMOGEN_Cym" source="Cloten_Cym" target="LADIES.IMOGEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cloten_Cym|Lucius_Cym" source="Cloten_Cym" target="Lucius_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cloten_Cym|ATTENDANTS.0.1_Cym" source="Cloten_Cym" target="ATTENDANTS.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cloten_Cym|Belarius_Cym" source="Cloten_Cym" target="Belarius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cloten_Cym|Arviragus_Cym" source="Cloten_Cym" target="Arviragus_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cloten_Cym|Guiderius_Cym" source="Cloten_Cym" target="Guiderius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cloten_Cym|SOLDIERS.ROMAN.0.1_Cym" source="Cloten_Cym" target="SOLDIERS.ROMAN.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cloten_Cym|Soothsayer_Cym" source="Cloten_Cym" target="Soothsayer_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CLOTEN.2_Cym|MUSICIANS_Cym" source="ATTENDANTS.CLOTEN.2_Cym" target="MUSICIANS_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CLOTEN.2_Cym|MESSENGERS.1_Cym" source="ATTENDANTS.CLOTEN.2_Cym" target="MESSENGERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.CLOTEN.2_Cym|LADIES.IMOGEN_Cym" source="ATTENDANTS.CLOTEN.2_Cym" target="LADIES.IMOGEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.IMOGEN_Cym|Iachimo_Cym" source="LADIES.IMOGEN_Cym" target="Iachimo_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.IMOGEN_Cym|MUSICIANS_Cym" source="LADIES.IMOGEN_Cym" target="MUSICIANS_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.IMOGEN_Cym|MESSENGERS.1_Cym" source="LADIES.IMOGEN_Cym" target="MESSENGERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iachimo_Cym|Philario_Cym" source="Iachimo_Cym" target="Philario_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Iachimo_Cym|Frenchman_Cym" source="Iachimo_Cym" target="Frenchman_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iachimo_Cym|Belarius_Cym" source="Iachimo_Cym" target="Belarius_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Iachimo_Cym|Guiderius_Cym" source="Iachimo_Cym" target="Guiderius_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Iachimo_Cym|Lucius_Cym" source="Iachimo_Cym" target="Lucius_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Iachimo_Cym|Cornelius_Cym" source="Iachimo_Cym" target="Cornelius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iachimo_Cym|LADIES.QUEEN_Cym" source="Iachimo_Cym" target="LADIES.QUEEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iachimo_Cym|Arviragus_Cym" source="Iachimo_Cym" target="Arviragus_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Iachimo_Cym|Soothsayer_Cym" source="Iachimo_Cym" target="Soothsayer_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Philario_Cym|Frenchman_Cym" source="Philario_Cym" target="Frenchman_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LADIES.QUEEN.0.1_Cym|Cornelius_Cym" source="LADIES.QUEEN.0.1_Cym" target="Cornelius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornelius_Cym|Belarius_Cym" source="Cornelius_Cym" target="Belarius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornelius_Cym|LADIES.QUEEN_Cym" source="Cornelius_Cym" target="LADIES.QUEEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornelius_Cym|Lucius_Cym" source="Cornelius_Cym" target="Lucius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornelius_Cym|Arviragus_Cym" source="Cornelius_Cym" target="Arviragus_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornelius_Cym|Guiderius_Cym" source="Cornelius_Cym" target="Guiderius_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cornelius_Cym|Soothsayer_Cym" source="Cornelius_Cym" target="Soothsayer_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MUSICIANS_Cym|MESSENGERS.1_Cym" source="MUSICIANS_Cym" target="MESSENGERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Cym|ATTENDANTS.0.1_Cym" source="Lucius_Cym" target="ATTENDANTS.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Cym|Belarius_Cym" source="Lucius_Cym" target="Belarius_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lucius_Cym|Arviragus_Cym" source="Lucius_Cym" target="Arviragus_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lucius_Cym|Guiderius_Cym" source="Lucius_Cym" target="Guiderius_Cym">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Lucius_Cym|SOLDIERS.ROMAN.0.1_Cym" source="Lucius_Cym" target="SOLDIERS.ROMAN.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Lucius_Cym|Soothsayer_Cym" source="Lucius_Cym" target="Soothsayer_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Lucius_Cym|LADIES.QUEEN_Cym" source="Lucius_Cym" target="LADIES.QUEEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Belarius_Cym|Guiderius_Cym" source="Belarius_Cym" target="Guiderius_Cym">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Belarius_Cym|Arviragus_Cym" source="Belarius_Cym" target="Arviragus_Cym">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Belarius_Cym|SOLDIERS.ROMAN.0.1_Cym" source="Belarius_Cym" target="SOLDIERS.ROMAN.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Belarius_Cym|Soothsayer_Cym" source="Belarius_Cym" target="Soothsayer_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Belarius_Cym|LADIES.QUEEN_Cym" source="Belarius_Cym" target="LADIES.QUEEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Guiderius_Cym|Arviragus_Cym" source="Guiderius_Cym" target="Arviragus_Cym">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Guiderius_Cym|SOLDIERS.ROMAN.0.1_Cym" source="Guiderius_Cym" target="SOLDIERS.ROMAN.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Guiderius_Cym|Soothsayer_Cym" source="Guiderius_Cym" target="Soothsayer_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Guiderius_Cym|LADIES.QUEEN_Cym" source="Guiderius_Cym" target="LADIES.QUEEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Arviragus_Cym|SOLDIERS.ROMAN.0.1_Cym" source="Arviragus_Cym" target="SOLDIERS.ROMAN.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Arviragus_Cym|Soothsayer_Cym" source="Arviragus_Cym" target="Soothsayer_Cym">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Arviragus_Cym|LADIES.QUEEN_Cym" source="Arviragus_Cym" target="LADIES.QUEEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.1_Cym|TRIBUNES.0.1_Cym" source="SENATORS.1_Cym" target="TRIBUNES.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SENATORS.1_Cym|SENATORS.2_Cym" source="SENATORS.1_Cym" target="SENATORS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="TRIBUNES.0.1_Cym|SENATORS.2_Cym" source="TRIBUNES.0.1_Cym" target="SENATORS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.ROMAN.0.1_Cym|Soothsayer_Cym" source="SOLDIERS.ROMAN.0.1_Cym" target="Soothsayer_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Soothsayer_Cym|LADIES.QUEEN_Cym" source="Soothsayer_Cym" target="LADIES.QUEEN_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.3_Cym|SOLDIERS.BRITON.0.1_Cym" source="ATTENDANTS.3_Cym" target="SOLDIERS.BRITON.0.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ATTENDANTS.3_Cym|SOLDIERS.BRITON.0.2_Cym" source="ATTENDANTS.3_Cym" target="SOLDIERS.BRITON.0.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.BRITON.0.1_Cym|SOLDIERS.BRITON.0.2_Cym" source="SOLDIERS.BRITON.0.1_Cym" target="SOLDIERS.BRITON.0.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.1_Cym|JAILERS.2_Cym" source="JAILERS.1_Cym" target="JAILERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.1_Cym|GHOSTS.Father_Cym" source="JAILERS.1_Cym" target="GHOSTS.Father_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.1_Cym|GHOSTS.Mother_Cym" source="JAILERS.1_Cym" target="GHOSTS.Mother_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.1_Cym|GHOSTS.BROTHERS.1_Cym" source="JAILERS.1_Cym" target="GHOSTS.BROTHERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.1_Cym|GHOSTS.BROTHERS.2_Cym" source="JAILERS.1_Cym" target="GHOSTS.BROTHERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.1_Cym|Jupiter_Cym" source="JAILERS.1_Cym" target="Jupiter_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.1_Cym|MESSENGERS.2_Cym" source="JAILERS.1_Cym" target="MESSENGERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.2_Cym|GHOSTS.Father_Cym" source="JAILERS.2_Cym" target="GHOSTS.Father_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.2_Cym|GHOSTS.Mother_Cym" source="JAILERS.2_Cym" target="GHOSTS.Mother_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.2_Cym|GHOSTS.BROTHERS.1_Cym" source="JAILERS.2_Cym" target="GHOSTS.BROTHERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.2_Cym|GHOSTS.BROTHERS.2_Cym" source="JAILERS.2_Cym" target="GHOSTS.BROTHERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.2_Cym|Jupiter_Cym" source="JAILERS.2_Cym" target="Jupiter_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="JAILERS.2_Cym|MESSENGERS.2_Cym" source="JAILERS.2_Cym" target="MESSENGERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.Father_Cym|GHOSTS.Mother_Cym" source="GHOSTS.Father_Cym" target="GHOSTS.Mother_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.Father_Cym|GHOSTS.BROTHERS.1_Cym" source="GHOSTS.Father_Cym" target="GHOSTS.BROTHERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.Father_Cym|GHOSTS.BROTHERS.2_Cym" source="GHOSTS.Father_Cym" target="GHOSTS.BROTHERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.Father_Cym|Jupiter_Cym" source="GHOSTS.Father_Cym" target="Jupiter_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.Father_Cym|MESSENGERS.2_Cym" source="GHOSTS.Father_Cym" target="MESSENGERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.Mother_Cym|GHOSTS.BROTHERS.1_Cym" source="GHOSTS.Mother_Cym" target="GHOSTS.BROTHERS.1_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.Mother_Cym|GHOSTS.BROTHERS.2_Cym" source="GHOSTS.Mother_Cym" target="GHOSTS.BROTHERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.Mother_Cym|Jupiter_Cym" source="GHOSTS.Mother_Cym" target="Jupiter_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.Mother_Cym|MESSENGERS.2_Cym" source="GHOSTS.Mother_Cym" target="MESSENGERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.BROTHERS.1_Cym|GHOSTS.BROTHERS.2_Cym" source="GHOSTS.BROTHERS.1_Cym" target="GHOSTS.BROTHERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.BROTHERS.1_Cym|Jupiter_Cym" source="GHOSTS.BROTHERS.1_Cym" target="Jupiter_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.BROTHERS.1_Cym|MESSENGERS.2_Cym" source="GHOSTS.BROTHERS.1_Cym" target="MESSENGERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.BROTHERS.2_Cym|Jupiter_Cym" source="GHOSTS.BROTHERS.2_Cym" target="Jupiter_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GHOSTS.BROTHERS.2_Cym|MESSENGERS.2_Cym" source="GHOSTS.BROTHERS.2_Cym" target="MESSENGERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Jupiter_Cym|MESSENGERS.2_Cym" source="Jupiter_Cym" target="MESSENGERS.2_Cym">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

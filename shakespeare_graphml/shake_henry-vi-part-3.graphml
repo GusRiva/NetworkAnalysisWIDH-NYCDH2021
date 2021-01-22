@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Warwick_2H6">
+            <data key="label">Warwick</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3414</data>
+        </node>
+        <node id="York_1H6">
+            <data key="label">York</data>
+            <data key="gender">MALE </data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1358</data>
+        </node>
+        <node id="EdwardIV_3H6">
+            <data key="label">Edward King Edward IV</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3483</data>
+        </node>
+        <node id="Montague_3H6">
+            <data key="label">Montague</data>
+            <data key="gender">MALE </data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">118</data>
+        </node>
+        <node id="RichardIII_R3">
+            <data key="label">Richard Gloucester</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3174</data>
+        </node>
+        <node id="Norfolk_3H6">
+            <data key="label">Norfolk</data>
+            <data key="gender">MALE </data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">26</data>
+        </node>
+        <node id="HenryVI_1H6">
+            <data key="label">King Henry VI</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2904</data>
+        </node>
+        <node id="Northumberland_3H6">
+            <data key="label">Northumberland</data>
+            <data key="gender">MALE </data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">244</data>
+        </node>
+        <node id="Clifford_3H6">
+            <data key="label">Clifford</data>
+            <data key="gender">MALE </data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1092</data>
+        </node>
+        <node id="Westmorland_3H6">
+            <data key="label">Westmorland</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">85</data>
+        </node>
+        <node id="Exeter_3H6">
+            <data key="label">Exeter</data>
+            <data key="gender">MALE </data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">136</data>
+        </node>
+        <node id="QueenMargaret_1H6">
+            <data key="label">Queen Margaret</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2246</data>
+        </node>
+        <node id="PrinceEdward_3H6">
+            <data key="label">Prince Edward</data>
+            <data key="gender">MALE </data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">358</data>
+        </node>
+        <node id="MESSENGERS.X.1_3H6">
+            <data key="label">MESSENGERS.X.1_3H6</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">32</data>
+        </node>
+        <node id="JohnMortimer_3H6">
+            <data key="label">Sir John</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">10</data>
+        </node>
+        <node id="Rutland_3H6">
+            <data key="label">Rutland</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">196</data>
+        </node>
+        <node id="Tutor_3H6">
+            <data key="label">Tutor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="MESSENGERS.X.2_3H6">
+            <data key="label">MESSENGERS.X.2_3H6</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">162</data>
+        </node>
+        <node id="MESSENGERS.X.3_3H6">
+            <data key="label">MESSENGERS.X.3_3H6</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">24</data>
+        </node>
+        <node id="MESSENGERS.X.4_3H6">
+            <data key="label">MESSENGERS.X.4_3H6</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">46</data>
+        </node>
+        <node id="Clarence_3H6">
+            <data key="label">George Clarence</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">836</data>
+        </node>
+        <node id="Son_3H6">
+            <data key="label">Son</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">190</data>
+        </node>
+        <node id="Father_3H6">
+            <data key="label">Father</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">218</data>
+        </node>
+        <node id="GAMEKEEPERS.1_3H6">
+            <data key="label">First Gamekeeper</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">147</data>
+        </node>
+        <node id="GAMEKEEPERS.2_3H6">
+            <data key="label">Second Gamekeeper</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">123</data>
+        </node>
+        <node id="QueenElizabeth_3H6">
+            <data key="label">Lady Grey Queen Elizabeth</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">594</data>
+        </node>
+        <node id="ATTENDANTS.EDWARD.1_3H6">
+            <data key="label">Nobleman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="KingLewis_3H6">
+            <data key="label">King Lewis</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">516</data>
+        </node>
+        <node id="Oxford_3H6">
+            <data key="label">Oxford</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">277</data>
+        </node>
+        <node id="LadyBona_3H6">
+            <data key="label">Lady Bona</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">71</data>
+        </node>
+        <node id="MESSENGERS.Post_3H6">
+            <data key="label">Post</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">224</data>
+        </node>
+        <node id="Somerset_3H6">
+            <data key="label">Somerset</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">262</data>
+        </node>
+        <node id="Hastings_3H6">
+            <data key="label">Hastings</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">158</data>
+        </node>
+        <node id="WATCHMEN.1_3H6">
+            <data key="label">First Watch</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">62</data>
+        </node>
+        <node id="WATCHMEN.2_3H6">
+            <data key="label">Second Watch</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">48</data>
+        </node>
+        <node id="WATCHMEN.3_3H6">
+            <data key="label">Third Watch</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">74</data>
+        </node>
+        <node id="Rivers_3H6">
+            <data key="label">Rivers</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">54</data>
+        </node>
+        <node id="Huntsman_3H6">
+            <data key="label">Huntsman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">18</data>
+        </node>
+        <node id="Lieutenant_3H6">
+            <data key="label">Lieutenant</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">21</data>
+        </node>
+        <node id="MayorOfYork_3H6">
+            <data key="label">Mayor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">48</data>
+        </node>
+        <node id="Montgomery_3H6">
+            <data key="label">Montgomery</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">119</data>
+        </node>
+        <node id="SOLDIERS.YORK.0.1_3H6">
+            <data key="label">Soldier</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">0</data>
+        </node>
+        <node id="SOLDIERS.YORK_3H6">
+            <data key="label">Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="ALDERMEN_3H6">
+            <data key="label">Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="SOLDIERS.MONTGOMERY_3H6">
+            <data key="label">Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="MESSENGERS.1_3H6">
+            <data key="label">First Messenger</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">6</data>
+        </node>
+        <node id="MESSENGERS.2_3H6">
+            <data key="label">Second Messenger</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="Somerville_3H6">
+            <data key="label">Somerville</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">44</data>
+        </node>
+        <node id="MESSENGERS.X.5_3H6">
+            <data key="label">MESSENGERS.X.5_3H6</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">14</data>
+        </node>
+        <edge id="Warwick_2H6|York_1H6" source="Warwick_2H6" target="York_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|EdwardIV_3H6" source="Warwick_2H6" target="EdwardIV_3H6">
+            <data key="weight">9</data>
+        </edge>
+        <edge id="Warwick_2H6|Montague_3H6" source="Warwick_2H6" target="Montague_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Warwick_2H6|RichardIII_R3" source="Warwick_2H6" target="RichardIII_R3">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Warwick_2H6|Norfolk_3H6" source="Warwick_2H6" target="Norfolk_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|HenryVI_1H6" source="Warwick_2H6" target="HenryVI_1H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Warwick_2H6|Northumberland_3H6" source="Warwick_2H6" target="Northumberland_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Warwick_2H6|Clifford_3H6" source="Warwick_2H6" target="Clifford_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Warwick_2H6|Westmorland_3H6" source="Warwick_2H6" target="Westmorland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|Exeter_3H6" source="Warwick_2H6" target="Exeter_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Warwick_2H6|QueenMargaret_1H6" source="Warwick_2H6" target="QueenMargaret_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Warwick_2H6|PrinceEdward_3H6" source="Warwick_2H6" target="PrinceEdward_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Warwick_2H6|MESSENGERS.X.2_3H6" source="Warwick_2H6" target="MESSENGERS.X.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|MESSENGERS.X.3_3H6" source="Warwick_2H6" target="MESSENGERS.X.3_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|MESSENGERS.X.4_3H6" source="Warwick_2H6" target="MESSENGERS.X.4_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|Clarence_3H6" source="Warwick_2H6" target="Clarence_3H6">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Warwick_2H6|KingLewis_3H6" source="Warwick_2H6" target="KingLewis_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|Oxford_3H6" source="Warwick_2H6" target="Oxford_3H6">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Warwick_2H6|LadyBona_3H6" source="Warwick_2H6" target="LadyBona_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|MESSENGERS.Post_3H6" source="Warwick_2H6" target="MESSENGERS.Post_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Warwick_2H6|WATCHMEN.1_3H6" source="Warwick_2H6" target="WATCHMEN.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|WATCHMEN.2_3H6" source="Warwick_2H6" target="WATCHMEN.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|WATCHMEN.3_3H6" source="Warwick_2H6" target="WATCHMEN.3_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|Somerset_3H6" source="Warwick_2H6" target="Somerset_3H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Warwick_2H6|Lieutenant_3H6" source="Warwick_2H6" target="Lieutenant_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|MESSENGERS.1_3H6" source="Warwick_2H6" target="MESSENGERS.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|MESSENGERS.2_3H6" source="Warwick_2H6" target="MESSENGERS.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Warwick_2H6|Somerville_3H6" source="Warwick_2H6" target="Somerville_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|EdwardIV_3H6" source="York_1H6" target="EdwardIV_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="York_1H6|Montague_3H6" source="York_1H6" target="Montague_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="York_1H6|RichardIII_R3" source="York_1H6" target="RichardIII_R3">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="York_1H6|Norfolk_3H6" source="York_1H6" target="Norfolk_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|HenryVI_1H6" source="York_1H6" target="HenryVI_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|Northumberland_3H6" source="York_1H6" target="Northumberland_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="York_1H6|Clifford_3H6" source="York_1H6" target="Clifford_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="York_1H6|Westmorland_3H6" source="York_1H6" target="Westmorland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|Exeter_3H6" source="York_1H6" target="Exeter_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|QueenMargaret_1H6" source="York_1H6" target="QueenMargaret_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="York_1H6|PrinceEdward_3H6" source="York_1H6" target="PrinceEdward_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|MESSENGERS.X.1_3H6" source="York_1H6" target="MESSENGERS.X.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="York_1H6|JohnMortimer_3H6" source="York_1H6" target="JohnMortimer_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Montague_3H6" source="EdwardIV_3H6" target="Montague_3H6">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="EdwardIV_3H6|RichardIII_R3" source="EdwardIV_3H6" target="RichardIII_R3">
+            <data key="weight">15</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Norfolk_3H6" source="EdwardIV_3H6" target="Norfolk_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|HenryVI_1H6" source="EdwardIV_3H6" target="HenryVI_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Northumberland_3H6" source="EdwardIV_3H6" target="Northumberland_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Clifford_3H6" source="EdwardIV_3H6" target="Clifford_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Westmorland_3H6" source="EdwardIV_3H6" target="Westmorland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Exeter_3H6" source="EdwardIV_3H6" target="Exeter_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="EdwardIV_3H6|QueenMargaret_1H6" source="EdwardIV_3H6" target="QueenMargaret_1H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="EdwardIV_3H6|PrinceEdward_3H6" source="EdwardIV_3H6" target="PrinceEdward_3H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="EdwardIV_3H6|MESSENGERS.X.1_3H6" source="EdwardIV_3H6" target="MESSENGERS.X.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|JohnMortimer_3H6" source="EdwardIV_3H6" target="JohnMortimer_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|MESSENGERS.X.2_3H6" source="EdwardIV_3H6" target="MESSENGERS.X.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|MESSENGERS.X.3_3H6" source="EdwardIV_3H6" target="MESSENGERS.X.3_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|MESSENGERS.X.4_3H6" source="EdwardIV_3H6" target="MESSENGERS.X.4_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Clarence_3H6" source="EdwardIV_3H6" target="Clarence_3H6">
+            <data key="weight">10</data>
+        </edge>
+        <edge id="EdwardIV_3H6|QueenElizabeth_3H6" source="EdwardIV_3H6" target="QueenElizabeth_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="EdwardIV_3H6|ATTENDANTS.EDWARD.1_3H6" source="EdwardIV_3H6" target="ATTENDANTS.EDWARD.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Somerset_3H6" source="EdwardIV_3H6" target="Somerset_3H6">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Hastings_3H6" source="EdwardIV_3H6" target="Hastings_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="EdwardIV_3H6|MESSENGERS.Post_3H6" source="EdwardIV_3H6" target="MESSENGERS.Post_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|WATCHMEN.1_3H6" source="EdwardIV_3H6" target="WATCHMEN.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|WATCHMEN.2_3H6" source="EdwardIV_3H6" target="WATCHMEN.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|WATCHMEN.3_3H6" source="EdwardIV_3H6" target="WATCHMEN.3_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Oxford_3H6" source="EdwardIV_3H6" target="Oxford_3H6">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Huntsman_3H6" source="EdwardIV_3H6" target="Huntsman_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|MayorOfYork_3H6" source="EdwardIV_3H6" target="MayorOfYork_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Montgomery_3H6" source="EdwardIV_3H6" target="Montgomery_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|SOLDIERS.YORK.0.1_3H6" source="EdwardIV_3H6" target="SOLDIERS.YORK.0.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|SOLDIERS.YORK_3H6" source="EdwardIV_3H6" target="SOLDIERS.YORK_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|ALDERMEN_3H6" source="EdwardIV_3H6" target="ALDERMEN_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|SOLDIERS.MONTGOMERY_3H6" source="EdwardIV_3H6" target="SOLDIERS.MONTGOMERY_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|MESSENGERS.1_3H6" source="EdwardIV_3H6" target="MESSENGERS.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|MESSENGERS.2_3H6" source="EdwardIV_3H6" target="MESSENGERS.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|Somerville_3H6" source="EdwardIV_3H6" target="Somerville_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="EdwardIV_3H6|MESSENGERS.X.5_3H6" source="EdwardIV_3H6" target="MESSENGERS.X.5_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|RichardIII_R3" source="Montague_3H6" target="RichardIII_R3">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Montague_3H6|Norfolk_3H6" source="Montague_3H6" target="Norfolk_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|HenryVI_1H6" source="Montague_3H6" target="HenryVI_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Montague_3H6|Northumberland_3H6" source="Montague_3H6" target="Northumberland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|Clifford_3H6" source="Montague_3H6" target="Clifford_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|Westmorland_3H6" source="Montague_3H6" target="Westmorland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|Exeter_3H6" source="Montague_3H6" target="Exeter_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Montague_3H6|QueenMargaret_1H6" source="Montague_3H6" target="QueenMargaret_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|PrinceEdward_3H6" source="Montague_3H6" target="PrinceEdward_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|MESSENGERS.X.1_3H6" source="Montague_3H6" target="MESSENGERS.X.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|JohnMortimer_3H6" source="Montague_3H6" target="JohnMortimer_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|Clarence_3H6" source="Montague_3H6" target="Clarence_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Montague_3H6|Somerset_3H6" source="Montague_3H6" target="Somerset_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Montague_3H6|Hastings_3H6" source="Montague_3H6" target="Hastings_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|QueenElizabeth_3H6" source="Montague_3H6" target="QueenElizabeth_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|MESSENGERS.Post_3H6" source="Montague_3H6" target="MESSENGERS.Post_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|Oxford_3H6" source="Montague_3H6" target="Oxford_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Montague_3H6|MESSENGERS.1_3H6" source="Montague_3H6" target="MESSENGERS.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|MESSENGERS.2_3H6" source="Montague_3H6" target="MESSENGERS.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montague_3H6|Somerville_3H6" source="Montague_3H6" target="Somerville_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|Norfolk_3H6" source="RichardIII_R3" target="Norfolk_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|HenryVI_1H6" source="RichardIII_R3" target="HenryVI_1H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="RichardIII_R3|Northumberland_3H6" source="RichardIII_R3" target="Northumberland_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="RichardIII_R3|Clifford_3H6" source="RichardIII_R3" target="Clifford_3H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="RichardIII_R3|Westmorland_3H6" source="RichardIII_R3" target="Westmorland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|Exeter_3H6" source="RichardIII_R3" target="Exeter_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="RichardIII_R3|QueenMargaret_1H6" source="RichardIII_R3" target="QueenMargaret_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="RichardIII_R3|PrinceEdward_3H6" source="RichardIII_R3" target="PrinceEdward_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="RichardIII_R3|MESSENGERS.X.1_3H6" source="RichardIII_R3" target="MESSENGERS.X.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|JohnMortimer_3H6" source="RichardIII_R3" target="JohnMortimer_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|MESSENGERS.X.2_3H6" source="RichardIII_R3" target="MESSENGERS.X.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|MESSENGERS.X.3_3H6" source="RichardIII_R3" target="MESSENGERS.X.3_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|MESSENGERS.X.4_3H6" source="RichardIII_R3" target="MESSENGERS.X.4_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|Clarence_3H6" source="RichardIII_R3" target="Clarence_3H6">
+            <data key="weight">10</data>
+        </edge>
+        <edge id="RichardIII_R3|QueenElizabeth_3H6" source="RichardIII_R3" target="QueenElizabeth_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="RichardIII_R3|ATTENDANTS.EDWARD.1_3H6" source="RichardIII_R3" target="ATTENDANTS.EDWARD.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|Somerset_3H6" source="RichardIII_R3" target="Somerset_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="RichardIII_R3|Hastings_3H6" source="RichardIII_R3" target="Hastings_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="RichardIII_R3|MESSENGERS.Post_3H6" source="RichardIII_R3" target="MESSENGERS.Post_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|Huntsman_3H6" source="RichardIII_R3" target="Huntsman_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|MayorOfYork_3H6" source="RichardIII_R3" target="MayorOfYork_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|Montgomery_3H6" source="RichardIII_R3" target="Montgomery_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|SOLDIERS.YORK.0.1_3H6" source="RichardIII_R3" target="SOLDIERS.YORK.0.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|SOLDIERS.YORK_3H6" source="RichardIII_R3" target="SOLDIERS.YORK_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|ALDERMEN_3H6" source="RichardIII_R3" target="ALDERMEN_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|SOLDIERS.MONTGOMERY_3H6" source="RichardIII_R3" target="SOLDIERS.MONTGOMERY_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|Oxford_3H6" source="RichardIII_R3" target="Oxford_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="RichardIII_R3|MESSENGERS.1_3H6" source="RichardIII_R3" target="MESSENGERS.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|MESSENGERS.2_3H6" source="RichardIII_R3" target="MESSENGERS.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="RichardIII_R3|Somerville_3H6" source="RichardIII_R3" target="Somerville_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_3H6|HenryVI_1H6" source="Norfolk_3H6" target="HenryVI_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_3H6|Northumberland_3H6" source="Norfolk_3H6" target="Northumberland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_3H6|Clifford_3H6" source="Norfolk_3H6" target="Clifford_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_3H6|Westmorland_3H6" source="Norfolk_3H6" target="Westmorland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_3H6|Exeter_3H6" source="Norfolk_3H6" target="Exeter_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_3H6|QueenMargaret_1H6" source="Norfolk_3H6" target="QueenMargaret_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Norfolk_3H6|PrinceEdward_3H6" source="Norfolk_3H6" target="PrinceEdward_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|Northumberland_3H6" source="HenryVI_1H6" target="Northumberland_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryVI_1H6|Clifford_3H6" source="HenryVI_1H6" target="Clifford_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="HenryVI_1H6|Westmorland_3H6" source="HenryVI_1H6" target="Westmorland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|Exeter_3H6" source="HenryVI_1H6" target="Exeter_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="HenryVI_1H6|QueenMargaret_1H6" source="HenryVI_1H6" target="QueenMargaret_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="HenryVI_1H6|PrinceEdward_3H6" source="HenryVI_1H6" target="PrinceEdward_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="HenryVI_1H6|MESSENGERS.X.4_3H6" source="HenryVI_1H6" target="MESSENGERS.X.4_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|Clarence_3H6" source="HenryVI_1H6" target="Clarence_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="HenryVI_1H6|Son_3H6" source="HenryVI_1H6" target="Son_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|Father_3H6" source="HenryVI_1H6" target="Father_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|GAMEKEEPERS.1_3H6" source="HenryVI_1H6" target="GAMEKEEPERS.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|GAMEKEEPERS.2_3H6" source="HenryVI_1H6" target="GAMEKEEPERS.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|Lieutenant_3H6" source="HenryVI_1H6" target="Lieutenant_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|Somerset_3H6" source="HenryVI_1H6" target="Somerset_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|MESSENGERS.Post_3H6" source="HenryVI_1H6" target="MESSENGERS.Post_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="HenryVI_1H6|Oxford_3H6" source="HenryVI_1H6" target="Oxford_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Northumberland_3H6|Clifford_3H6" source="Northumberland_3H6" target="Clifford_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Northumberland_3H6|Westmorland_3H6" source="Northumberland_3H6" target="Westmorland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_3H6|Exeter_3H6" source="Northumberland_3H6" target="Exeter_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_3H6|QueenMargaret_1H6" source="Northumberland_3H6" target="QueenMargaret_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Northumberland_3H6|PrinceEdward_3H6" source="Northumberland_3H6" target="PrinceEdward_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Northumberland_3H6|MESSENGERS.X.4_3H6" source="Northumberland_3H6" target="MESSENGERS.X.4_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Northumberland_3H6|Clarence_3H6" source="Northumberland_3H6" target="Clarence_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clifford_3H6|Westmorland_3H6" source="Clifford_3H6" target="Westmorland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clifford_3H6|Exeter_3H6" source="Clifford_3H6" target="Exeter_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clifford_3H6|QueenMargaret_1H6" source="Clifford_3H6" target="QueenMargaret_1H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Clifford_3H6|PrinceEdward_3H6" source="Clifford_3H6" target="PrinceEdward_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Clifford_3H6|Rutland_3H6" source="Clifford_3H6" target="Rutland_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clifford_3H6|Tutor_3H6" source="Clifford_3H6" target="Tutor_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clifford_3H6|MESSENGERS.X.4_3H6" source="Clifford_3H6" target="MESSENGERS.X.4_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clifford_3H6|Clarence_3H6" source="Clifford_3H6" target="Clarence_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Westmorland_3H6|Exeter_3H6" source="Westmorland_3H6" target="Exeter_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmorland_3H6|QueenMargaret_1H6" source="Westmorland_3H6" target="QueenMargaret_1H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Westmorland_3H6|PrinceEdward_3H6" source="Westmorland_3H6" target="PrinceEdward_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_3H6|QueenMargaret_1H6" source="Exeter_3H6" target="QueenMargaret_1H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_3H6|PrinceEdward_3H6" source="Exeter_3H6" target="PrinceEdward_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Exeter_3H6|Son_3H6" source="Exeter_3H6" target="Son_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_3H6|Father_3H6" source="Exeter_3H6" target="Father_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_3H6|Clarence_3H6" source="Exeter_3H6" target="Clarence_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Exeter_3H6|Oxford_3H6" source="Exeter_3H6" target="Oxford_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenMargaret_1H6|PrinceEdward_3H6" source="QueenMargaret_1H6" target="PrinceEdward_3H6">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="QueenMargaret_1H6|MESSENGERS.X.4_3H6" source="QueenMargaret_1H6" target="MESSENGERS.X.4_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenMargaret_1H6|Clarence_3H6" source="QueenMargaret_1H6" target="Clarence_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="QueenMargaret_1H6|Son_3H6" source="QueenMargaret_1H6" target="Son_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenMargaret_1H6|Father_3H6" source="QueenMargaret_1H6" target="Father_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenMargaret_1H6|KingLewis_3H6" source="QueenMargaret_1H6" target="KingLewis_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenMargaret_1H6|Oxford_3H6" source="QueenMargaret_1H6" target="Oxford_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="QueenMargaret_1H6|LadyBona_3H6" source="QueenMargaret_1H6" target="LadyBona_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenMargaret_1H6|MESSENGERS.Post_3H6" source="QueenMargaret_1H6" target="MESSENGERS.Post_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenMargaret_1H6|Somerset_3H6" source="QueenMargaret_1H6" target="Somerset_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="QueenMargaret_1H6|MESSENGERS.X.5_3H6" source="QueenMargaret_1H6" target="MESSENGERS.X.5_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEdward_3H6|MESSENGERS.X.4_3H6" source="PrinceEdward_3H6" target="MESSENGERS.X.4_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEdward_3H6|Clarence_3H6" source="PrinceEdward_3H6" target="Clarence_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="PrinceEdward_3H6|Son_3H6" source="PrinceEdward_3H6" target="Son_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEdward_3H6|Father_3H6" source="PrinceEdward_3H6" target="Father_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEdward_3H6|KingLewis_3H6" source="PrinceEdward_3H6" target="KingLewis_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEdward_3H6|Oxford_3H6" source="PrinceEdward_3H6" target="Oxford_3H6">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="PrinceEdward_3H6|LadyBona_3H6" source="PrinceEdward_3H6" target="LadyBona_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEdward_3H6|MESSENGERS.Post_3H6" source="PrinceEdward_3H6" target="MESSENGERS.Post_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="PrinceEdward_3H6|Somerset_3H6" source="PrinceEdward_3H6" target="Somerset_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="PrinceEdward_3H6|MESSENGERS.X.5_3H6" source="PrinceEdward_3H6" target="MESSENGERS.X.5_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.1_3H6|JohnMortimer_3H6" source="MESSENGERS.X.1_3H6" target="JohnMortimer_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Rutland_3H6|Tutor_3H6" source="Rutland_3H6" target="Tutor_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.2_3H6|MESSENGERS.X.3_3H6" source="MESSENGERS.X.2_3H6" target="MESSENGERS.X.3_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.X.4_3H6|Clarence_3H6" source="MESSENGERS.X.4_3H6" target="Clarence_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clarence_3H6|QueenElizabeth_3H6" source="Clarence_3H6" target="QueenElizabeth_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Clarence_3H6|ATTENDANTS.EDWARD.1_3H6" source="Clarence_3H6" target="ATTENDANTS.EDWARD.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clarence_3H6|Somerset_3H6" source="Clarence_3H6" target="Somerset_3H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Clarence_3H6|Hastings_3H6" source="Clarence_3H6" target="Hastings_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clarence_3H6|MESSENGERS.Post_3H6" source="Clarence_3H6" target="MESSENGERS.Post_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Clarence_3H6|Lieutenant_3H6" source="Clarence_3H6" target="Lieutenant_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clarence_3H6|Oxford_3H6" source="Clarence_3H6" target="Oxford_3H6">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Clarence_3H6|MESSENGERS.1_3H6" source="Clarence_3H6" target="MESSENGERS.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clarence_3H6|MESSENGERS.2_3H6" source="Clarence_3H6" target="MESSENGERS.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Clarence_3H6|Somerville_3H6" source="Clarence_3H6" target="Somerville_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Son_3H6|Father_3H6" source="Son_3H6" target="Father_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="GAMEKEEPERS.1_3H6|GAMEKEEPERS.2_3H6" source="GAMEKEEPERS.1_3H6" target="GAMEKEEPERS.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenElizabeth_3H6|ATTENDANTS.EDWARD.1_3H6" source="QueenElizabeth_3H6" target="ATTENDANTS.EDWARD.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenElizabeth_3H6|Somerset_3H6" source="QueenElizabeth_3H6" target="Somerset_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenElizabeth_3H6|Hastings_3H6" source="QueenElizabeth_3H6" target="Hastings_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenElizabeth_3H6|MESSENGERS.Post_3H6" source="QueenElizabeth_3H6" target="MESSENGERS.Post_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="QueenElizabeth_3H6|Rivers_3H6" source="QueenElizabeth_3H6" target="Rivers_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingLewis_3H6|Oxford_3H6" source="KingLewis_3H6" target="Oxford_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingLewis_3H6|LadyBona_3H6" source="KingLewis_3H6" target="LadyBona_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="KingLewis_3H6|MESSENGERS.Post_3H6" source="KingLewis_3H6" target="MESSENGERS.Post_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oxford_3H6|LadyBona_3H6" source="Oxford_3H6" target="LadyBona_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oxford_3H6|MESSENGERS.Post_3H6" source="Oxford_3H6" target="MESSENGERS.Post_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Oxford_3H6|WATCHMEN.1_3H6" source="Oxford_3H6" target="WATCHMEN.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oxford_3H6|WATCHMEN.2_3H6" source="Oxford_3H6" target="WATCHMEN.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oxford_3H6|WATCHMEN.3_3H6" source="Oxford_3H6" target="WATCHMEN.3_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oxford_3H6|Somerset_3H6" source="Oxford_3H6" target="Somerset_3H6">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Oxford_3H6|Lieutenant_3H6" source="Oxford_3H6" target="Lieutenant_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oxford_3H6|MESSENGERS.1_3H6" source="Oxford_3H6" target="MESSENGERS.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oxford_3H6|MESSENGERS.2_3H6" source="Oxford_3H6" target="MESSENGERS.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oxford_3H6|Somerville_3H6" source="Oxford_3H6" target="Somerville_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Oxford_3H6|MESSENGERS.X.5_3H6" source="Oxford_3H6" target="MESSENGERS.X.5_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="LadyBona_3H6|MESSENGERS.Post_3H6" source="LadyBona_3H6" target="MESSENGERS.Post_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.Post_3H6|Somerset_3H6" source="MESSENGERS.Post_3H6" target="Somerset_3H6">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="MESSENGERS.Post_3H6|Hastings_3H6" source="MESSENGERS.Post_3H6" target="Hastings_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.Post_3H6|Lieutenant_3H6" source="MESSENGERS.Post_3H6" target="Lieutenant_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_3H6|Hastings_3H6" source="Somerset_3H6" target="Hastings_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_3H6|WATCHMEN.1_3H6" source="Somerset_3H6" target="WATCHMEN.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_3H6|WATCHMEN.2_3H6" source="Somerset_3H6" target="WATCHMEN.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_3H6|WATCHMEN.3_3H6" source="Somerset_3H6" target="WATCHMEN.3_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_3H6|Lieutenant_3H6" source="Somerset_3H6" target="Lieutenant_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_3H6|MESSENGERS.1_3H6" source="Somerset_3H6" target="MESSENGERS.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_3H6|MESSENGERS.2_3H6" source="Somerset_3H6" target="MESSENGERS.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_3H6|Somerville_3H6" source="Somerset_3H6" target="Somerville_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Somerset_3H6|MESSENGERS.X.5_3H6" source="Somerset_3H6" target="MESSENGERS.X.5_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hastings_3H6|Huntsman_3H6" source="Hastings_3H6" target="Huntsman_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hastings_3H6|MayorOfYork_3H6" source="Hastings_3H6" target="MayorOfYork_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hastings_3H6|Montgomery_3H6" source="Hastings_3H6" target="Montgomery_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hastings_3H6|SOLDIERS.YORK.0.1_3H6" source="Hastings_3H6" target="SOLDIERS.YORK.0.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hastings_3H6|SOLDIERS.YORK_3H6" source="Hastings_3H6" target="SOLDIERS.YORK_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hastings_3H6|ALDERMEN_3H6" source="Hastings_3H6" target="ALDERMEN_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hastings_3H6|SOLDIERS.MONTGOMERY_3H6" source="Hastings_3H6" target="SOLDIERS.MONTGOMERY_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.1_3H6|WATCHMEN.2_3H6" source="WATCHMEN.1_3H6" target="WATCHMEN.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.1_3H6|WATCHMEN.3_3H6" source="WATCHMEN.1_3H6" target="WATCHMEN.3_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="WATCHMEN.2_3H6|WATCHMEN.3_3H6" source="WATCHMEN.2_3H6" target="WATCHMEN.3_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MayorOfYork_3H6|Montgomery_3H6" source="MayorOfYork_3H6" target="Montgomery_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MayorOfYork_3H6|SOLDIERS.YORK.0.1_3H6" source="MayorOfYork_3H6" target="SOLDIERS.YORK.0.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MayorOfYork_3H6|SOLDIERS.YORK_3H6" source="MayorOfYork_3H6" target="SOLDIERS.YORK_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MayorOfYork_3H6|ALDERMEN_3H6" source="MayorOfYork_3H6" target="ALDERMEN_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MayorOfYork_3H6|SOLDIERS.MONTGOMERY_3H6" source="MayorOfYork_3H6" target="SOLDIERS.MONTGOMERY_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montgomery_3H6|SOLDIERS.YORK.0.1_3H6" source="Montgomery_3H6" target="SOLDIERS.YORK.0.1_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montgomery_3H6|SOLDIERS.YORK_3H6" source="Montgomery_3H6" target="SOLDIERS.YORK_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montgomery_3H6|ALDERMEN_3H6" source="Montgomery_3H6" target="ALDERMEN_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Montgomery_3H6|SOLDIERS.MONTGOMERY_3H6" source="Montgomery_3H6" target="SOLDIERS.MONTGOMERY_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.YORK.0.1_3H6|SOLDIERS.YORK_3H6" source="SOLDIERS.YORK.0.1_3H6" target="SOLDIERS.YORK_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.YORK.0.1_3H6|ALDERMEN_3H6" source="SOLDIERS.YORK.0.1_3H6" target="ALDERMEN_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.YORK.0.1_3H6|SOLDIERS.MONTGOMERY_3H6" source="SOLDIERS.YORK.0.1_3H6" target="SOLDIERS.MONTGOMERY_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.YORK_3H6|ALDERMEN_3H6" source="SOLDIERS.YORK_3H6" target="ALDERMEN_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SOLDIERS.YORK_3H6|SOLDIERS.MONTGOMERY_3H6" source="SOLDIERS.YORK_3H6" target="SOLDIERS.MONTGOMERY_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ALDERMEN_3H6|SOLDIERS.MONTGOMERY_3H6" source="ALDERMEN_3H6" target="SOLDIERS.MONTGOMERY_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.1_3H6|MESSENGERS.2_3H6" source="MESSENGERS.1_3H6" target="MESSENGERS.2_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.1_3H6|Somerville_3H6" source="MESSENGERS.1_3H6" target="Somerville_3H6">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="MESSENGERS.2_3H6|Somerville_3H6" source="MESSENGERS.2_3H6" target="Somerville_3H6">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

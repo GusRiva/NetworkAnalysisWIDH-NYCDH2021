@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="Prologue_Tro">
+            <data key="label">Prologue</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">224</data>
+        </node>
+        <node id="Troilus_Tro">
+            <data key="label">Troilus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3962</data>
+        </node>
+        <node id="Pandarus_Tro">
+            <data key="label">Pandarus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3154</data>
+        </node>
+        <node id="Aeneas_Tro">
+            <data key="label">Aeneas</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1052</data>
+        </node>
+        <node id="Cressida_Tro">
+            <data key="label">Cressida</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2119</data>
+        </node>
+        <node id="Alexander_Tro">
+            <data key="label">Alexander</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">259</data>
+        </node>
+        <node id="Boy_Tro">
+            <data key="label">Troilus’s Boy</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">16</data>
+        </node>
+        <node id="Agamemnon_Tro">
+            <data key="label">Agamemnon</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1407</data>
+        </node>
+        <node id="Nestor_Tro">
+            <data key="label">Nestor</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1135</data>
+        </node>
+        <node id="Ulysses_Tro">
+            <data key="label">Ulysses</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">3520</data>
+        </node>
+        <node id="Menelaus_Tro">
+            <data key="label">Menelaus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">86</data>
+        </node>
+        <node id="Ajax_Tro">
+            <data key="label">Ajax</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">539</data>
+        </node>
+        <node id="Thersites_Tro">
+            <data key="label">Thersites</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2287</data>
+        </node>
+        <node id="Achilles_Tro">
+            <data key="label">Achilles</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1304</data>
+        </node>
+        <node id="Patroclus_Tro">
+            <data key="label">Patroclus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">404</data>
+        </node>
+        <node id="Priam_Tro">
+            <data key="label">Priam</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">139</data>
+        </node>
+        <node id="Hector_Tro">
+            <data key="label">Hector</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1528</data>
+        </node>
+        <node id="Helenus_Tro">
+            <data key="label">Helenus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">37</data>
+        </node>
+        <node id="Cassandra_Tro">
+            <data key="label">Cassandra</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">259</data>
+        </node>
+        <node id="Paris_Tro">
+            <data key="label">Paris</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">721</data>
+        </node>
+        <node id="Diomedes_Tro">
+            <data key="label">Diomedes</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">703</data>
+        </node>
+        <node id="SERVANTS.PARIS.1_Tro">
+            <data key="label">Paris’s Servingman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">117</data>
+        </node>
+        <node id="Helen_Tro">
+            <data key="label">Helen</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">187</data>
+        </node>
+        <node id="SERVANTS.TROILUS.1_Tro">
+            <data key="label">Troilus’s Man</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">10</data>
+        </node>
+        <node id="Calchas_Tro">
+            <data key="label">Calchas</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">229</data>
+        </node>
+        <node id="Deiphobus_Tro">
+            <data key="label">Deiphobus</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">14</data>
+        </node>
+        <node id="ATTENDANTS.GREEK_Tro">
+            <data key="label">Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">3</data>
+        </node>
+        <node id="Andromache_Tro">
+            <data key="label">Andromache</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">113</data>
+        </node>
+        <node id="SERVANTS.DIOMEDES.1_Tro">
+            <data key="label">Diomedes’ Servingman</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="Bastard_Tro">
+            <data key="label">Bastard</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">14</data>
+        </node>
+        <node id="MYRMIDONS.0.1_Tro">
+            <data key="label">MYRMIDONS.0.1_Tro</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <node id="SOLDIERS_Tro">
+            <data key="label">Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">5</data>
+        </node>
+        <node id="Antenor_Tro">
+            <data key="label">Antenor</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="SOLDIERS.TROJAN_Tro">
+            <data key="label">Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <edge id="Troilus_Tro|Pandarus_Tro" source="Troilus_Tro" target="Pandarus_Tro">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Troilus_Tro|Aeneas_Tro" source="Troilus_Tro" target="Aeneas_Tro">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Troilus_Tro|Priam_Tro" source="Troilus_Tro" target="Priam_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Troilus_Tro|Hector_Tro" source="Troilus_Tro" target="Hector_Tro">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Troilus_Tro|Helenus_Tro" source="Troilus_Tro" target="Helenus_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Troilus_Tro|Cassandra_Tro" source="Troilus_Tro" target="Cassandra_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Troilus_Tro|Paris_Tro" source="Troilus_Tro" target="Paris_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Troilus_Tro|SERVANTS.TROILUS.1_Tro" source="Troilus_Tro" target="SERVANTS.TROILUS.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Troilus_Tro|Cressida_Tro" source="Troilus_Tro" target="Cressida_Tro">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Troilus_Tro|Diomedes_Tro" source="Troilus_Tro" target="Diomedes_Tro">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Troilus_Tro|Deiphobus_Tro" source="Troilus_Tro" target="Deiphobus_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Troilus_Tro|Agamemnon_Tro" source="Troilus_Tro" target="Agamemnon_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Troilus_Tro|Ajax_Tro" source="Troilus_Tro" target="Ajax_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Troilus_Tro|Ulysses_Tro" source="Troilus_Tro" target="Ulysses_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Troilus_Tro|Achilles_Tro" source="Troilus_Tro" target="Achilles_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Troilus_Tro|Nestor_Tro" source="Troilus_Tro" target="Nestor_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Troilus_Tro|Menelaus_Tro" source="Troilus_Tro" target="Menelaus_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Troilus_Tro|Patroclus_Tro" source="Troilus_Tro" target="Patroclus_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Troilus_Tro|ATTENDANTS.GREEK_Tro" source="Troilus_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Troilus_Tro|Thersites_Tro" source="Troilus_Tro" target="Thersites_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Troilus_Tro|Calchas_Tro" source="Troilus_Tro" target="Calchas_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Troilus_Tro|Andromache_Tro" source="Troilus_Tro" target="Andromache_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Troilus_Tro|Antenor_Tro" source="Troilus_Tro" target="Antenor_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Troilus_Tro|SOLDIERS.TROJAN_Tro" source="Troilus_Tro" target="SOLDIERS.TROJAN_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|Aeneas_Tro" source="Pandarus_Tro" target="Aeneas_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Pandarus_Tro|Cressida_Tro" source="Pandarus_Tro" target="Cressida_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Pandarus_Tro|Alexander_Tro" source="Pandarus_Tro" target="Alexander_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|Boy_Tro" source="Pandarus_Tro" target="Boy_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|SERVANTS.PARIS.1_Tro" source="Pandarus_Tro" target="SERVANTS.PARIS.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|Helen_Tro" source="Pandarus_Tro" target="Helen_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|Paris_Tro" source="Pandarus_Tro" target="Paris_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Pandarus_Tro|SERVANTS.TROILUS.1_Tro" source="Pandarus_Tro" target="SERVANTS.TROILUS.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|Diomedes_Tro" source="Pandarus_Tro" target="Diomedes_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|Deiphobus_Tro" source="Pandarus_Tro" target="Deiphobus_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Pandarus_Tro|Andromache_Tro" source="Pandarus_Tro" target="Andromache_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|Hector_Tro" source="Pandarus_Tro" target="Hector_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|Cassandra_Tro" source="Pandarus_Tro" target="Cassandra_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|Priam_Tro" source="Pandarus_Tro" target="Priam_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|Antenor_Tro" source="Pandarus_Tro" target="Antenor_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Pandarus_Tro|SOLDIERS.TROJAN_Tro" source="Pandarus_Tro" target="SOLDIERS.TROJAN_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aeneas_Tro|Agamemnon_Tro" source="Aeneas_Tro" target="Agamemnon_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Aeneas_Tro|Nestor_Tro" source="Aeneas_Tro" target="Nestor_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Aeneas_Tro|Ulysses_Tro" source="Aeneas_Tro" target="Ulysses_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Aeneas_Tro|Menelaus_Tro" source="Aeneas_Tro" target="Menelaus_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Aeneas_Tro|Paris_Tro" source="Aeneas_Tro" target="Paris_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Aeneas_Tro|Deiphobus_Tro" source="Aeneas_Tro" target="Deiphobus_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Aeneas_Tro|Diomedes_Tro" source="Aeneas_Tro" target="Diomedes_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Aeneas_Tro|Cressida_Tro" source="Aeneas_Tro" target="Cressida_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Aeneas_Tro|Ajax_Tro" source="Aeneas_Tro" target="Ajax_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aeneas_Tro|Achilles_Tro" source="Aeneas_Tro" target="Achilles_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aeneas_Tro|Patroclus_Tro" source="Aeneas_Tro" target="Patroclus_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aeneas_Tro|ATTENDANTS.GREEK_Tro" source="Aeneas_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aeneas_Tro|Hector_Tro" source="Aeneas_Tro" target="Hector_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aeneas_Tro|Calchas_Tro" source="Aeneas_Tro" target="Calchas_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aeneas_Tro|Thersites_Tro" source="Aeneas_Tro" target="Thersites_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aeneas_Tro|Antenor_Tro" source="Aeneas_Tro" target="Antenor_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Aeneas_Tro|SOLDIERS.TROJAN_Tro" source="Aeneas_Tro" target="SOLDIERS.TROJAN_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Alexander_Tro" source="Cressida_Tro" target="Alexander_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Boy_Tro" source="Cressida_Tro" target="Boy_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|SERVANTS.TROILUS.1_Tro" source="Cressida_Tro" target="SERVANTS.TROILUS.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Paris_Tro" source="Cressida_Tro" target="Paris_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Diomedes_Tro" source="Cressida_Tro" target="Diomedes_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Cressida_Tro|Deiphobus_Tro" source="Cressida_Tro" target="Deiphobus_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Agamemnon_Tro" source="Cressida_Tro" target="Agamemnon_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Ajax_Tro" source="Cressida_Tro" target="Ajax_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Ulysses_Tro" source="Cressida_Tro" target="Ulysses_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Cressida_Tro|Achilles_Tro" source="Cressida_Tro" target="Achilles_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Nestor_Tro" source="Cressida_Tro" target="Nestor_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Menelaus_Tro" source="Cressida_Tro" target="Menelaus_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Patroclus_Tro" source="Cressida_Tro" target="Patroclus_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|ATTENDANTS.GREEK_Tro" source="Cressida_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Hector_Tro" source="Cressida_Tro" target="Hector_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Calchas_Tro" source="Cressida_Tro" target="Calchas_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cressida_Tro|Thersites_Tro" source="Cressida_Tro" target="Thersites_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Alexander_Tro|Boy_Tro" source="Alexander_Tro" target="Boy_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agamemnon_Tro|Nestor_Tro" source="Agamemnon_Tro" target="Nestor_Tro">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Agamemnon_Tro|Ulysses_Tro" source="Agamemnon_Tro" target="Ulysses_Tro">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Agamemnon_Tro|Menelaus_Tro" source="Agamemnon_Tro" target="Menelaus_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Agamemnon_Tro|Thersites_Tro" source="Agamemnon_Tro" target="Thersites_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Agamemnon_Tro|Patroclus_Tro" source="Agamemnon_Tro" target="Patroclus_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Agamemnon_Tro|Achilles_Tro" source="Agamemnon_Tro" target="Achilles_Tro">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Agamemnon_Tro|Ajax_Tro" source="Agamemnon_Tro" target="Ajax_Tro">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Agamemnon_Tro|Diomedes_Tro" source="Agamemnon_Tro" target="Diomedes_Tro">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Agamemnon_Tro|Calchas_Tro" source="Agamemnon_Tro" target="Calchas_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agamemnon_Tro|ATTENDANTS.GREEK_Tro" source="Agamemnon_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agamemnon_Tro|Hector_Tro" source="Agamemnon_Tro" target="Hector_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Agamemnon_Tro|SERVANTS.DIOMEDES.1_Tro" source="Agamemnon_Tro" target="SERVANTS.DIOMEDES.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Agamemnon_Tro|SOLDIERS_Tro" source="Agamemnon_Tro" target="SOLDIERS_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nestor_Tro|Ulysses_Tro" source="Nestor_Tro" target="Ulysses_Tro">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Nestor_Tro|Menelaus_Tro" source="Nestor_Tro" target="Menelaus_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Nestor_Tro|Thersites_Tro" source="Nestor_Tro" target="Thersites_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Nestor_Tro|Patroclus_Tro" source="Nestor_Tro" target="Patroclus_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Nestor_Tro|Achilles_Tro" source="Nestor_Tro" target="Achilles_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Nestor_Tro|Ajax_Tro" source="Nestor_Tro" target="Ajax_Tro">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Nestor_Tro|Diomedes_Tro" source="Nestor_Tro" target="Diomedes_Tro">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Nestor_Tro|Calchas_Tro" source="Nestor_Tro" target="Calchas_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nestor_Tro|ATTENDANTS.GREEK_Tro" source="Nestor_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nestor_Tro|Hector_Tro" source="Nestor_Tro" target="Hector_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nestor_Tro|SERVANTS.DIOMEDES.1_Tro" source="Nestor_Tro" target="SERVANTS.DIOMEDES.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Nestor_Tro|SOLDIERS_Tro" source="Nestor_Tro" target="SOLDIERS_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ulysses_Tro|Menelaus_Tro" source="Ulysses_Tro" target="Menelaus_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Ulysses_Tro|Thersites_Tro" source="Ulysses_Tro" target="Thersites_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Ulysses_Tro|Patroclus_Tro" source="Ulysses_Tro" target="Patroclus_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Ulysses_Tro|Achilles_Tro" source="Ulysses_Tro" target="Achilles_Tro">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Ulysses_Tro|Ajax_Tro" source="Ulysses_Tro" target="Ajax_Tro">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Ulysses_Tro|Diomedes_Tro" source="Ulysses_Tro" target="Diomedes_Tro">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Ulysses_Tro|Calchas_Tro" source="Ulysses_Tro" target="Calchas_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ulysses_Tro|ATTENDANTS.GREEK_Tro" source="Ulysses_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ulysses_Tro|Hector_Tro" source="Ulysses_Tro" target="Hector_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ulysses_Tro|SERVANTS.DIOMEDES.1_Tro" source="Ulysses_Tro" target="SERVANTS.DIOMEDES.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menelaus_Tro|Calchas_Tro" source="Menelaus_Tro" target="Calchas_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menelaus_Tro|Diomedes_Tro" source="Menelaus_Tro" target="Diomedes_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Menelaus_Tro|Achilles_Tro" source="Menelaus_Tro" target="Achilles_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Menelaus_Tro|Ajax_Tro" source="Menelaus_Tro" target="Ajax_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Menelaus_Tro|Patroclus_Tro" source="Menelaus_Tro" target="Patroclus_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Menelaus_Tro|Thersites_Tro" source="Menelaus_Tro" target="Thersites_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Menelaus_Tro|ATTENDANTS.GREEK_Tro" source="Menelaus_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Menelaus_Tro|Hector_Tro" source="Menelaus_Tro" target="Hector_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Ajax_Tro|Thersites_Tro" source="Ajax_Tro" target="Thersites_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Ajax_Tro|Achilles_Tro" source="Ajax_Tro" target="Achilles_Tro">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Ajax_Tro|Patroclus_Tro" source="Ajax_Tro" target="Patroclus_Tro">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Ajax_Tro|Diomedes_Tro" source="Ajax_Tro" target="Diomedes_Tro">
+            <data key="weight">7</data>
+        </edge>
+        <edge id="Ajax_Tro|Calchas_Tro" source="Ajax_Tro" target="Calchas_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ajax_Tro|ATTENDANTS.GREEK_Tro" source="Ajax_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ajax_Tro|Hector_Tro" source="Ajax_Tro" target="Hector_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Ajax_Tro|SERVANTS.DIOMEDES.1_Tro" source="Ajax_Tro" target="SERVANTS.DIOMEDES.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Ajax_Tro|SOLDIERS_Tro" source="Ajax_Tro" target="SOLDIERS_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Thersites_Tro|Achilles_Tro" source="Thersites_Tro" target="Achilles_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Thersites_Tro|Patroclus_Tro" source="Thersites_Tro" target="Patroclus_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Thersites_Tro|Diomedes_Tro" source="Thersites_Tro" target="Diomedes_Tro">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Thersites_Tro|Calchas_Tro" source="Thersites_Tro" target="Calchas_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Thersites_Tro|Hector_Tro" source="Thersites_Tro" target="Hector_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Thersites_Tro|Bastard_Tro" source="Thersites_Tro" target="Bastard_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Achilles_Tro|Patroclus_Tro" source="Achilles_Tro" target="Patroclus_Tro">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="Achilles_Tro|Diomedes_Tro" source="Achilles_Tro" target="Diomedes_Tro">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="Achilles_Tro|Calchas_Tro" source="Achilles_Tro" target="Calchas_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Achilles_Tro|ATTENDANTS.GREEK_Tro" source="Achilles_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Achilles_Tro|Hector_Tro" source="Achilles_Tro" target="Hector_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Achilles_Tro|SERVANTS.DIOMEDES.1_Tro" source="Achilles_Tro" target="SERVANTS.DIOMEDES.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Achilles_Tro|MYRMIDONS.0.1_Tro" source="Achilles_Tro" target="MYRMIDONS.0.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Patroclus_Tro|Diomedes_Tro" source="Patroclus_Tro" target="Diomedes_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Patroclus_Tro|Calchas_Tro" source="Patroclus_Tro" target="Calchas_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Patroclus_Tro|ATTENDANTS.GREEK_Tro" source="Patroclus_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Patroclus_Tro|Hector_Tro" source="Patroclus_Tro" target="Hector_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Priam_Tro|Hector_Tro" source="Priam_Tro" target="Hector_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Priam_Tro|Helenus_Tro" source="Priam_Tro" target="Helenus_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Priam_Tro|Cassandra_Tro" source="Priam_Tro" target="Cassandra_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Priam_Tro|Paris_Tro" source="Priam_Tro" target="Paris_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Priam_Tro|Andromache_Tro" source="Priam_Tro" target="Andromache_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hector_Tro|Helenus_Tro" source="Hector_Tro" target="Helenus_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hector_Tro|Cassandra_Tro" source="Hector_Tro" target="Cassandra_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Hector_Tro|Paris_Tro" source="Hector_Tro" target="Paris_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hector_Tro|Diomedes_Tro" source="Hector_Tro" target="Diomedes_Tro">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="Hector_Tro|ATTENDANTS.GREEK_Tro" source="Hector_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hector_Tro|Andromache_Tro" source="Hector_Tro" target="Andromache_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Hector_Tro|MYRMIDONS.0.1_Tro" source="Hector_Tro" target="MYRMIDONS.0.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helenus_Tro|Cassandra_Tro" source="Helenus_Tro" target="Cassandra_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Helenus_Tro|Paris_Tro" source="Helenus_Tro" target="Paris_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassandra_Tro|Paris_Tro" source="Cassandra_Tro" target="Paris_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Cassandra_Tro|Andromache_Tro" source="Cassandra_Tro" target="Andromache_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Tro|SERVANTS.PARIS.1_Tro" source="Paris_Tro" target="SERVANTS.PARIS.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Tro|Helen_Tro" source="Paris_Tro" target="Helen_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Tro|Deiphobus_Tro" source="Paris_Tro" target="Deiphobus_Tro">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="Paris_Tro|Diomedes_Tro" source="Paris_Tro" target="Diomedes_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Paris_Tro|Antenor_Tro" source="Paris_Tro" target="Antenor_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Paris_Tro|SOLDIERS.TROJAN_Tro" source="Paris_Tro" target="SOLDIERS.TROJAN_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Diomedes_Tro|Calchas_Tro" source="Diomedes_Tro" target="Calchas_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Diomedes_Tro|Deiphobus_Tro" source="Diomedes_Tro" target="Deiphobus_Tro">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="Diomedes_Tro|ATTENDANTS.GREEK_Tro" source="Diomedes_Tro" target="ATTENDANTS.GREEK_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Diomedes_Tro|SERVANTS.DIOMEDES.1_Tro" source="Diomedes_Tro" target="SERVANTS.DIOMEDES.1_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Diomedes_Tro|SOLDIERS_Tro" source="Diomedes_Tro" target="SOLDIERS_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="SERVANTS.PARIS.1_Tro|Helen_Tro" source="SERVANTS.PARIS.1_Tro" target="Helen_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Deiphobus_Tro|Antenor_Tro" source="Deiphobus_Tro" target="Antenor_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Deiphobus_Tro|SOLDIERS.TROJAN_Tro" source="Deiphobus_Tro" target="SOLDIERS.TROJAN_Tro">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="Antenor_Tro|SOLDIERS.TROJAN_Tro" source="Antenor_Tro" target="SOLDIERS.TROJAN_Tro">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>
