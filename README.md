@@ -28,8 +28,8 @@ The world is full of networks and different topics of study in the humanities ca
 
 ## Notes
 
-<b id="dracor_note">[1](a1)</b> Fischer, Frank, et al. (2019). Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama. In Proceedings of DH2019: "Complexities", Utrecht University, doi:10.5281/zenodo.4284002.
+<b id="dracor_note">[1](#a1)</b> Fischer, Frank, et al. (2019). Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama. In Proceedings of DH2019: "Complexities", Utrecht University, doi:10.5281/zenodo.4284002.
 
-<b id="gephi_note">[2](a2)</b> File -> Open (so easy!)
+<b id="gephi_note">[2](#a2)</b> File -> Open (so easy!)
 
-<b id="cyto_note">[3](a3)</b> File -> Import -> Network from File
+<b id="cyto_note">[3](#a3)</b> File -> Import -> Network from File
