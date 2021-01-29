@@ -21,7 +21,7 @@ The world is full of networks and different topics of study in the humanities ca
 
 - *shakespeare_graphml*: Character networks from Shakespeare's plays created by [Dracor](https://dracor.org/) .<sup id="a1">[1](#dracor_note)</sup> This format can be uploaded to Gephi<sup id="a2">[how?](#gephi_note)</sup> or Cytoscape<sup id="a3">[how?](#cyto_note)</sup>.
 
-- *GraphCommons_Hamlet.csv*: Character network
+- *GraphCommons_Hamlet.csv*: Character network according to the Graph Commons format
 
 - *GraphCommons_Hamlet.png*: Image of a possible complete network for Hamlet on Graph Commons.
 
@@ -30,6 +30,6 @@ The world is full of networks and different topics of study in the humanities ca
 
 <b id="dracor_note">[1](a1)</b> Fischer, Frank, et al. (2019). Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama. In Proceedings of DH2019: "Complexities", Utrecht University, doi:10.5281/zenodo.4284002.
 
-<b id="gephi_note">[2](a2)</b>
+<b id="gephi_note">[2](a2)</b> File -> Open (so easy!)
 
-<b id="cyto_note">[3](a3)</b>
+<b id="cyto_note">[3](a3)</b> File -> Import -> Network from File
