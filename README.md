@@ -25,6 +25,16 @@ The world is full of networks and different topics of study in the humanities ca
 
 - *GraphCommons_Hamlet.png*: Image of a possible complete network for Hamlet on Graph Commons.
 
+## Resources
+
+- Movies Galaxy Website: https://moviegalaxies.com 
+
+- Gephi: https://gephi.org/ 
+
+- Cytoscape: https://cytoscape.org/ 
+
+- Graph Commons: https://graphcommons.com/ 
+
 ## Using Software for Network Analysis
 
 ### Gephi
