@@ -15,7 +15,7 @@ The world is full of networks and different topics of study in the humanities ca
 
 - Skill level: Beginner
 
-- Prerequisites/requirements: Recommended but not compulsory: installation of Gephi or Cytoscape.
+- Prerequisites/requirements: Recommended but not compulsory: installation of [Gephi](https://gephi.org/) or [Cytoscape](https://cytoscape.org/).
 
 ## Contents of this repository
 
