@@ -57,6 +57,17 @@ The world is full of networks and different topics of study in the humanities ca
 
 "clusterMaker2": Calculates clusters. Recommended: *apps -> clusterMaker -> Community cluster (GLay)*. After performing the analyisis, the result will be added to the data table. You can color the clusters going to *Style -> Fill Color"* and choosing the column *\__glayCluster*
 
+### GraphCommons 
+
+You need to register for a free account. Then you can create new graph. 
+
+The data needs to be prepared in a very special format. The file *GraphCommons_Hamlet.csv* has the data from the character network of *Hamlet* in that format. To upload it: 
+
+*Import -> Excel CSV -> Import Edges*
+
+The complete graph can look like the image in [GraphCommons_Hamlet.png](./GraphCommons_Hamlet.png)
+
+
 ## Notes
 
 <b id="dracor_note">[1](#a1)</b> Fischer, Frank, et al. (2019). Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama. In Proceedings of DH2019: "Complexities", Utrecht University, doi:10.5281/zenodo.4284002.
