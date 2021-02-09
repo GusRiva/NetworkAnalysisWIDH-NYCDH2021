@@ -49,7 +49,7 @@ The world is full of networks and different topics of study in the humanities ca
 
 <b id="gephi_note">Upload:</b> *File -> Import -> Network from File* for Graphml or *File -> Import -> Table from File* for csv
 
-**Style**: Tab "Style". For options appear as you perform analysis.
+**Style**: Tab "Style". More options appear as you perform analysis.
 
 **Analysis**: Cytoscape uses a modular system in which you can install new "apps" not included with the basic software that perform specific tasks. You can install new apps using *Apps -> App Manager*. Reccommendation: 
 
