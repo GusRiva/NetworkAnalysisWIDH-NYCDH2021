@@ -25,6 +25,8 @@ The world is full of networks and different topics of study in the humanities ca
 
 - *GraphCommons_Hamlet.png*: Image of a possible complete network for Hamlet on Graph Commons.
 
+- *Slides-Network-Analysis-WIDH-2021*: The slides used during the presentation.
+
 ## Resources
 
 - Movies Galaxy Website: https://moviegalaxies.com 
